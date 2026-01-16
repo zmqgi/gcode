@@ -1,0 +1,32 @@
+.class public interface abstract Lcom/android/app/displaylib/DisplayRepository;
+.super Ljava/lang/Object;
+.source "go/retraceme af8e0b46c0cb0ee2c99e9b6d0c434e5c0b686fd9230eaab7fb9a40e3a9d0cf6f"
+
+
+# virtual methods
+.method public abstract containsDisplay(I)Z
+.end method
+
+.method public abstract getDefaultDisplayOff()Lkotlinx/coroutines/flow/StateFlow;
+.end method
+
+.method public abstract getDisplay(I)Landroid/view/Display;
+.end method
+
+.method public abstract getDisplayAdditionEvent()Lkotlinx/coroutines/flow/Flow;
+.end method
+
+.method public abstract getDisplayChangeEvent()Lkotlinx/coroutines/flow/Flow;
+.end method
+
+.method public abstract getDisplayIds()Lkotlinx/coroutines/flow/StateFlow;
+.end method
+
+.method public abstract getDisplayRemovalEvent()Lkotlinx/coroutines/flow/Flow;
+.end method
+
+.method public abstract getDisplays()Lkotlinx/coroutines/flow/StateFlow;
+.end method
+
+.method public abstract getPendingDisplay()Lkotlinx/coroutines/flow/Flow;
+.end method

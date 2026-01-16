@@ -1,0 +1,298 @@
+.class public final Lcom/android/systemui/controls/ui/TouchBehavior;
+.super Ljava/lang/Object;
+.source "go/retraceme af8e0b46c0cb0ee2c99e9b6d0c434e5c0b686fd9230eaab7fb9a40e3a9d0cf6f"
+
+# interfaces
+.implements Lcom/android/systemui/controls/ui/Behavior;
+
+
+# instance fields
+.field public control:Landroid/service/controls/Control;
+
+.field public cvh:Lcom/android/systemui/controls/ui/ControlViewHolder;
+
+.field public lastColorOffset:I
+
+.field public statelessTouch:Z
+
+.field public template:Landroid/service/controls/templates/ControlTemplate;
+
+
+# virtual methods
+.method public final bind(Lcom/android/systemui/controls/ui/ControlWithState;I)V
+    .locals 3
+
+    .line 1
+    iget-object p1, p1, Lcom/android/systemui/controls/ui/ControlWithState;->control:Landroid/service/controls/Control;
+
+    .line 2
+    .line 3
+    invoke-virtual {p1}, Ljava/lang/Object;->getClass()Ljava/lang/Class;
+
+    .line 4
+    .line 5
+    .line 6
+    iput-object p1, p0, Lcom/android/systemui/controls/ui/TouchBehavior;->control:Landroid/service/controls/Control;
+
+    .line 7
+    .line 8
+    iput p2, p0, Lcom/android/systemui/controls/ui/TouchBehavior;->lastColorOffset:I
+
+    .line 9
+    .line 10
+    iget-object v0, p0, Lcom/android/systemui/controls/ui/TouchBehavior;->cvh:Lcom/android/systemui/controls/ui/ControlViewHolder;
+
+    .line 11
+    .line 12
+    const/4 v1, 0x0
+
+    .line 13
+    if-eqz v0, :cond_0
+
+    .line 14
+    .line 15
+    goto :goto_0
+
+    .line 16
+    :cond_0
+    move-object v0, v1
+
+    .line 17
+    :goto_0
+    invoke-virtual {p1}, Landroid/service/controls/Control;->getStatusText()Ljava/lang/CharSequence;
+
+    .line 18
+    .line 19
+    .line 20
+    move-result-object p1
+
+    .line 21
+    sget-object v2, Lcom/android/systemui/controls/ui/ControlViewHolder;->FORCE_PANEL_DEVICES:Ljava/util/Set;
+
+    .line 22
+    .line 23
+    const/4 v2, 0x0
+
+    .line 24
+    invoke-virtual {v0, p1, v2}, Lcom/android/systemui/controls/ui/ControlViewHolder;->setStatusText(Ljava/lang/CharSequence;Z)V
+
+    .line 25
+    .line 26
+    .line 27
+    iget-object p1, p0, Lcom/android/systemui/controls/ui/TouchBehavior;->control:Landroid/service/controls/Control;
+
+    .line 28
+    .line 29
+    if-eqz p1, :cond_1
+
+    .line 30
+    .line 31
+    goto :goto_1
+
+    .line 32
+    :cond_1
+    move-object p1, v1
+
+    .line 33
+    :goto_1
+    invoke-virtual {p1}, Landroid/service/controls/Control;->getControlTemplate()Landroid/service/controls/templates/ControlTemplate;
+
+    .line 34
+    .line 35
+    .line 36
+    move-result-object p1
+
+    .line 37
+    iput-object p1, p0, Lcom/android/systemui/controls/ui/TouchBehavior;->template:Landroid/service/controls/templates/ControlTemplate;
+
+    .line 38
+    .line 39
+    iget-object p1, p0, Lcom/android/systemui/controls/ui/TouchBehavior;->cvh:Lcom/android/systemui/controls/ui/ControlViewHolder;
+
+    .line 40
+    .line 41
+    if-eqz p1, :cond_2
+
+    .line 42
+    .line 43
+    goto :goto_2
+
+    .line 44
+    :cond_2
+    move-object p1, v1
+
+    .line 45
+    :goto_2
+    iget-object p1, p1, Lcom/android/systemui/controls/ui/ControlViewHolder;->layout:Landroid/view/ViewGroup;
+
+    .line 46
+    .line 47
+    invoke-virtual {p1}, Landroid/view/ViewGroup;->getBackground()Landroid/graphics/drawable/Drawable;
+
+    .line 48
+    .line 49
+    .line 50
+    move-result-object p1
+
+    .line 51
+    check-cast p1, Landroid/graphics/drawable/LayerDrawable;
+
+    .line 52
+    .line 53
+    const v0, 0x7f0a0219
+
+    .line 54
+    .line 55
+    .line 56
+    invoke-virtual {p1, v0}, Landroid/graphics/drawable/LayerDrawable;->findDrawableByLayerId(I)Landroid/graphics/drawable/Drawable;
+
+    .line 57
+    .line 58
+    .line 59
+    move-result-object p1
+
+    .line 60
+    if-eqz p1, :cond_3
+
+    .line 61
+    .line 62
+    goto :goto_3
+
+    .line 63
+    :cond_3
+    move-object p1, v1
+
+    .line 64
+    :goto_3
+    invoke-virtual {p0}, Lcom/android/systemui/controls/ui/TouchBehavior;->getEnabled$1()Z
+
+    .line 65
+    .line 66
+    .line 67
+    move-result v0
+
+    .line 68
+    if-eqz v0, :cond_4
+
+    .line 69
+    .line 70
+    const/16 v2, 0x2710
+
+    .line 71
+    .line 72
+    :cond_4
+    invoke-virtual {p1, v2}, Landroid/graphics/drawable/Drawable;->setLevel(I)Z
+
+    .line 73
+    .line 74
+    .line 75
+    iget-object p1, p0, Lcom/android/systemui/controls/ui/TouchBehavior;->cvh:Lcom/android/systemui/controls/ui/ControlViewHolder;
+
+    .line 76
+    .line 77
+    if-eqz p1, :cond_5
+
+    .line 78
+    .line 79
+    move-object v1, p1
+
+    .line 80
+    :cond_5
+    invoke-virtual {p0}, Lcom/android/systemui/controls/ui/TouchBehavior;->getEnabled$1()Z
+
+    .line 81
+    .line 82
+    .line 83
+    move-result p0
+
+    .line 84
+    const/4 p1, 0x1
+
+    .line 85
+    invoke-virtual {v1, p2, p0, p1}, Lcom/android/systemui/controls/ui/ControlViewHolder;->applyRenderInfo$frameworks__base__packages__SystemUI__android_common__SystemUI_core(IZZ)V
+
+    .line 86
+    .line 87
+    .line 88
+    return-void
+.end method
+
+.method public final getEnabled$1()Z
+    .locals 1
+
+    .line 1
+    iget v0, p0, Lcom/android/systemui/controls/ui/TouchBehavior;->lastColorOffset:I
+
+    .line 2
+    .line 3
+    if-gtz v0, :cond_1
+
+    .line 4
+    .line 5
+    iget-boolean p0, p0, Lcom/android/systemui/controls/ui/TouchBehavior;->statelessTouch:Z
+
+    .line 6
+    .line 7
+    if-eqz p0, :cond_0
+
+    .line 8
+    .line 9
+    goto :goto_0
+
+    .line 10
+    :cond_0
+    const/4 p0, 0x0
+
+    .line 11
+    return p0
+
+    .line 12
+    :cond_1
+    :goto_0
+    const/4 p0, 0x1
+
+    .line 13
+    return p0
+.end method
+
+.method public final initialize(Lcom/android/systemui/controls/ui/ControlViewHolder;)V
+    .locals 2
+
+    .line 1
+    iput-object p1, p0, Lcom/android/systemui/controls/ui/TouchBehavior;->cvh:Lcom/android/systemui/controls/ui/ControlViewHolder;
+
+    .line 2
+    .line 3
+    iget-object v0, p1, Lcom/android/systemui/controls/ui/ControlViewHolder;->layout:Landroid/view/ViewGroup;
+
+    .line 4
+    .line 5
+    new-instance v1, Lcom/android/systemui/controls/ui/TouchBehavior$initialize$1;
+
+    .line 6
+    .line 7
+    invoke-direct {v1}, Ljava/lang/Object;-><init>()V
+
+    .line 8
+    .line 9
+    .line 10
+    iput-object p1, v1, Lcom/android/systemui/controls/ui/TouchBehavior$initialize$1;->$cvh:Lcom/android/systemui/controls/ui/ControlViewHolder;
+
+    .line 11
+    .line 12
+    iput-object p0, v1, Lcom/android/systemui/controls/ui/TouchBehavior$initialize$1;->this$0:Lcom/android/systemui/controls/ui/TouchBehavior;
+
+    .line 13
+    .line 14
+    invoke-static {}, Ljava/lang/invoke/VarHandle;->storeStoreFence()V
+
+    .line 15
+    .line 16
+    .line 17
+    invoke-virtual {v0, v1}, Landroid/view/ViewGroup;->setOnClickListener(Landroid/view/View$OnClickListener;)V
+
+    .line 18
+    .line 19
+    .line 20
+    return-void
+.end method

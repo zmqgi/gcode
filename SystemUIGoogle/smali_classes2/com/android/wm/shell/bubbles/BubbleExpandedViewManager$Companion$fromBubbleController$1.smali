@@ -1,0 +1,10 @@
+.class public final Lcom/android/wm/shell/bubbles/BubbleExpandedViewManager$Companion$fromBubbleController$1;
+.super Ljava/lang/Object;
+.source "go/retraceme af8e0b46c0cb0ee2c99e9b6d0c434e5c0b686fd9230eaab7fb9a40e3a9d0cf6f"
+
+# interfaces
+.implements Lcom/android/wm/shell/bubbles/BubbleExpandedViewManager;
+
+
+# instance fields
+.field public synthetic $controller:Lcom/android/wm/shell/bubbles/BubbleController;

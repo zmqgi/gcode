@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:androidprv="http://schemas.android.com/apk/prv/res/android">
+    <com.android.systemui.volume.CaptionsToggleImageButton android:id="@id/odi_captions_icon" android:background="@drawable/volume_dialog_captions_button_transition_bg" android:visibility="gone" android:layout_width="@dimen/volume_dialog_button_size" android:layout_height="@dimen/volume_dialog_button_size" android:src="@drawable/ic_volume_odi_captions_disabled" android:scaleType="centerInside" android:tint="@android:color/primary_text_default_material_dark" android:soundEffectsEnabled="false" />
+    <ImageButton android:layout_gravity="center" android:id="@id/volume_dialog_settings" android:background="@drawable/ripple_drawable_20dp" android:padding="4.0dip" android:layout_width="@dimen/volume_dialog_button_size" android:layout_height="@dimen/volume_dialog_button_size" android:scaleType="centerInside" android:tint="@android:color/primary_text_default_material_dark" android:soundEffectsEnabled="false" android:contentDescription="@string/accessibility_volume_settings" />
+</merge>

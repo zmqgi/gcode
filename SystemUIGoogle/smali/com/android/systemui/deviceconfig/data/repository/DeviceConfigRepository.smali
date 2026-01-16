@@ -1,0 +1,11 @@
+.class public final Lcom/android/systemui/deviceconfig/data/repository/DeviceConfigRepository;
+.super Ljava/lang/Object;
+.source "go/retraceme af8e0b46c0cb0ee2c99e9b6d0c434e5c0b686fd9230eaab7fb9a40e3a9d0cf6f"
+
+
+# instance fields
+.field public backgroundDispatcher:Lkotlinx/coroutines/CoroutineDispatcher;
+
+.field public backgroundExecutor:Ljava/util/concurrent/Executor;
+
+.field public dataSource:Lcom/android/systemui/util/DeviceConfigProxy;

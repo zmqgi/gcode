@@ -1,0 +1,58 @@
+.class final synthetic Lcom/android/wm/shell/compatui/letterbox/LetterboxCommandHandler$onSingleParamCommand$1;
+.super Lkotlin/jvm/internal/FunctionReferenceImpl;
+.source "go/retraceme af8e0b46c0cb0ee2c99e9b6d0c434e5c0b686fd9230eaab7fb9a40e3a9d0cf6f"
+
+# interfaces
+.implements Lkotlin/jvm/functions/Function1;
+
+
+# virtual methods
+.method public final invoke(Ljava/lang/Object;)Ljava/lang/Object;
+    .locals 0
+
+    .line 1
+    check-cast p1, Ljava/lang/String;
+
+    .line 2
+    .line 3
+    iget-object p0, p0, Lkotlin/jvm/internal/CallableReference;->receiver:Ljava/lang/Object;
+
+    .line 4
+    .line 5
+    check-cast p0, Lcom/android/wm/shell/compatui/letterbox/LetterboxCommandHandler;
+
+    .line 6
+    .line 7
+    invoke-virtual {p0}, Ljava/lang/Object;->getClass()Ljava/lang/Class;
+
+    .line 8
+    .line 9
+    .line 10
+    :try_start_0
+    invoke-static {p1}, Landroid/graphics/Color;->parseColor(Ljava/lang/String;)I
+
+    .line 11
+    .line 12
+    .line 13
+    move-result p0
+
+    .line 14
+    invoke-static {p0}, Landroid/graphics/Color;->valueOf(I)Landroid/graphics/Color;
+
+    .line 15
+    .line 16
+    .line 17
+    move-result-object p0
+    :try_end_0
+    .catch Ljava/lang/IllegalArgumentException; {:try_start_0 .. :try_end_0} :catch_0
+
+    .line 18
+    return-object p0
+
+    .line 19
+    :catch_0
+    const/4 p0, 0x0
+
+    .line 20
+    return-object p0
+.end method

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="biometric_dialog_last_pattern_attempt_before_wipe_user">Wenn du beim nächsten Versuch ein falsches Muster eingibst, wird diese*r Nutzer*in von dem Gerät entfernt.</string>
+</resources>

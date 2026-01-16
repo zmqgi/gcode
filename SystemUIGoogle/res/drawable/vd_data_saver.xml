@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:name="root_vector" android:height="24.0dip" android:width="24.0dip" android:viewportWidth="24.0" android:viewportHeight="24.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:name="root_group" android:pivotX="12.0" android:pivotY="12.0" android:scaleX="1.5" android:scaleY="1.5">
+        <group android:name="plus_group_exit" android:pivotX="24.0" android:pivotY="24.0" android:scaleX="1.0" android:scaleY="1.0" android:translateX="-12.0" android:translateY="-12.0">
+            <path android:name="plus_path_exit" android:fillColor="#ffffffff" android:pathData="M23.325 24.675H21.525C21.135 24.675 20.845 24.395 20.845 23.995C20.845 23.595 21.175 23.325 21.525 23.325H23.325V21.525C23.325 21.125 23.645 20.845 24.005 20.845C24.365 20.845 24.685 21.155 24.685 21.525V23.325H26.485C26.845 23.325 27.155 23.635 27.155 23.995C27.155 24.355 26.885 24.675 26.485 24.675H24.685V26.475C24.685 26.825 24.415 27.155 24.005 27.155C23.595 27.155 23.325 26.875 23.325 26.475V24.675Z" android:fillAlpha="1.0" />
+        </group>
+        <group android:name="plus_group_entry" android:pivotX="24.0" android:pivotY="24.0" android:scaleX="1.0" android:scaleY="1.0" android:translateX="-12.0" android:translateY="-12.0">
+            <path android:name="plus_path_entry" android:fillColor="#ffffffff" android:pathData="M23.325 24.675H21.525C21.135 24.675 20.845 24.395 20.845 23.995C20.845 23.595 21.175 23.325 21.525 23.325H23.325V21.525C23.325 21.125 23.645 20.845 24.005 20.845C24.365 20.845 24.685 21.155 24.685 21.525V23.325H26.485C26.845 23.325 27.155 23.635 27.155 23.995C27.155 24.355 26.885 24.675 26.485 24.675H24.685V26.475C24.685 26.825 24.415 27.155 24.005 27.155C23.595 27.155 23.325 26.875 23.325 26.475V24.675Z" android:fillAlpha="0.0" />
+        </group>
+        <group android:name="circle_group" android:pivotX="0.0" android:pivotY="0.0" android:scaleX="1.0" android:scaleY="1.0" android:rotation="-180.0" android:translateX="12.0" android:translateY="12.0">
+            <group android:name="large_path_group" android:rotation="130.0">
+                <path android:name="large_circle_path" android:pathData="M-6.3,0 A6.3,6.3 0 1,1 6.3,0 A6.3,6.3 0 1,1 -6.3,0 Z" android:strokeColor="#ffffffff" android:strokeWidth="1.8" android:trimPathStart="0.27" android:trimPathEnd="0.845" android:strokeLineCap="round" />
+            </group>
+            <group android:name="small_path_group" android:rotation="90.0">
+                <path android:name="small_circle_path" android:pathData="M-6.3,0 A6.3,6.3 0 1,1 6.3,0 A6.3,6.3 0 1,1 -6.3,0 Z" android:strokeColor="#ffffffff" android:strokeWidth="1.8" android:trimPathStart="0.045" android:trimPathEnd="0.29" android:strokeLineCap="round" />
+            </group>
+        </group>
+    </group>
+</vector>

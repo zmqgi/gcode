@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:name="root_vector" android:height="24.0dip" android:width="24.0dip" android:viewportWidth="24.0" android:viewportHeight="24.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:name="root_group" android:pivotX="32.0" android:pivotY="32.0" android:scaleX="0.76" android:scaleY="0.76" android:translateX="-20.0" android:translateY="-20.0">
+        <path android:name="ring0" android:pathData="@string/path_hotspot_ring1" android:strokeColor="#ffffffff" android:strokeWidth="2.5" android:strokeLineCap="round" android:strokeAlpha="0.0" />
+        <group android:name="ring1_group" android:pivotX="32.0" android:pivotY="32.0">
+            <path android:name="ring1" android:pathData="@string/path_hotspot_ring2" android:strokeColor="#ffffffff" android:strokeWidth="2.5" android:strokeLineCap="round" />
+        </group>
+        <group android:name="ring2_group" android:pivotX="32.0" android:pivotY="32.0">
+            <path android:name="ring2" android:pathData="@string/path_hotspot_ring3" android:strokeColor="#ffffffff" android:strokeWidth="2.5" android:strokeLineCap="round" />
+        </group>
+        <path android:name="circle" android:fillColor="#ffffffff" android:pathData="M32.0267 36.7785C31.2889 36.7785 30.6518 36.5214 30.1153 36.0072C29.6011 35.4707 29.344 34.8336 29.344 34.0958C29.344 33.3581 29.6011 32.7321 30.1153 32.218C30.6518 31.6814 31.2889 31.4132 32.0267 31.4132C32.7644 31.4132 33.3903 31.6814 33.9045 32.218C34.4411 32.7321 34.7093 33.3581 34.7093 34.0958C34.7093 34.8336 34.4411 35.4707 33.9045 36.0072C33.3903 36.5214 32.7644 36.7785 32.0267 36.7785Z" />
+    </group>
+</vector>

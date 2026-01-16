@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_quick_settings_user">Connectée en tant que %s</string>
+    <string name="kg_failed_attempts_now_erasing_user">Vous avez tenté de déverrouiller ce téléphone à %d reprises. Cette utilisatrice sera supprimée, ce qui entraîne la suppression de toutes ses données.</string>
+    <string name="qs_user_switch_dialog_title">"Choisir l'utilisatrice"</string>
+</resources>

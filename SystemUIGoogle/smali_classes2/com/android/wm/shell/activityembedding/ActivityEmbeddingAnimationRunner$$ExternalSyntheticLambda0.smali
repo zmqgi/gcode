@@ -1,0 +1,152 @@
+.class public final synthetic Lcom/android/wm/shell/activityembedding/ActivityEmbeddingAnimationRunner$$ExternalSyntheticLambda0;
+.super Ljava/lang/Object;
+.source "go/retraceme af8e0b46c0cb0ee2c99e9b6d0c434e5c0b686fd9230eaab7fb9a40e3a9d0cf6f"
+
+# interfaces
+.implements Landroid/animation/ValueAnimator$AnimatorUpdateListener;
+
+
+# instance fields
+.field public synthetic f$0:Ljava/util/List;
+
+.field public synthetic f$1:Landroid/animation/ValueAnimator;
+
+
+# virtual methods
+.method public final onAnimationUpdate(Landroid/animation/ValueAnimator;)V
+    .locals 7
+
+    .line 1
+    iget-object p1, p0, Lcom/android/wm/shell/activityembedding/ActivityEmbeddingAnimationRunner$$ExternalSyntheticLambda0;->f$0:Ljava/util/List;
+
+    .line 2
+    .line 3
+    iget-object p0, p0, Lcom/android/wm/shell/activityembedding/ActivityEmbeddingAnimationRunner$$ExternalSyntheticLambda0;->f$1:Landroid/animation/ValueAnimator;
+
+    .line 4
+    .line 5
+    new-instance v0, Landroid/view/SurfaceControl$Transaction;
+
+    .line 6
+    .line 7
+    invoke-direct {v0}, Landroid/view/SurfaceControl$Transaction;-><init>()V
+
+    .line 8
+    .line 9
+    .line 10
+    invoke-static {}, Landroid/view/Choreographer;->getInstance()Landroid/view/Choreographer;
+
+    .line 11
+    .line 12
+    .line 13
+    move-result-object v1
+
+    .line 14
+    invoke-virtual {v1}, Landroid/view/Choreographer;->getVsyncId()J
+
+    .line 15
+    .line 16
+    .line 17
+    move-result-wide v1
+
+    .line 18
+    invoke-virtual {v0, v1, v2}, Landroid/view/SurfaceControl$Transaction;->setFrameTimelineVsync(J)Landroid/view/SurfaceControl$Transaction;
+
+    .line 19
+    .line 20
+    .line 21
+    invoke-interface {p1}, Ljava/util/List;->iterator()Ljava/util/Iterator;
+
+    .line 22
+    .line 23
+    .line 24
+    move-result-object p1
+
+    .line 25
+    :goto_0
+    invoke-interface {p1}, Ljava/util/Iterator;->hasNext()Z
+
+    .line 26
+    .line 27
+    .line 28
+    move-result v1
+
+    .line 29
+    if-eqz v1, :cond_0
+
+    .line 30
+    .line 31
+    invoke-interface {p1}, Ljava/util/Iterator;->next()Ljava/lang/Object;
+
+    .line 32
+    .line 33
+    .line 34
+    move-result-object v1
+
+    .line 35
+    check-cast v1, Lcom/android/wm/shell/activityembedding/ActivityEmbeddingAnimationAdapter;
+
+    .line 36
+    .line 37
+    invoke-virtual {p0}, Landroid/animation/ValueAnimator;->getCurrentPlayTime()J
+
+    .line 38
+    .line 39
+    .line 40
+    move-result-wide v2
+
+    .line 41
+    iget-object v4, v1, Lcom/android/wm/shell/activityembedding/ActivityEmbeddingAnimationAdapter;->mTransformation:Landroid/view/animation/Transformation;
+
+    .line 42
+    .line 43
+    invoke-virtual {v4}, Landroid/view/animation/Transformation;->clear()V
+
+    .line 44
+    .line 45
+    .line 46
+    iget-object v4, v1, Lcom/android/wm/shell/activityembedding/ActivityEmbeddingAnimationAdapter;->mAnimation:Landroid/view/animation/Animation;
+
+    .line 47
+    .line 48
+    invoke-virtual {v4}, Landroid/view/animation/Animation;->getDuration()J
+
+    .line 49
+    .line 50
+    .line 51
+    move-result-wide v5
+
+    .line 52
+    invoke-static {v2, v3, v5, v6}, Ljava/lang/Math;->min(JJ)J
+
+    .line 53
+    .line 54
+    .line 55
+    move-result-wide v2
+
+    .line 56
+    iget-object v5, v1, Lcom/android/wm/shell/activityembedding/ActivityEmbeddingAnimationAdapter;->mTransformation:Landroid/view/animation/Transformation;
+
+    .line 57
+    .line 58
+    invoke-virtual {v4, v2, v3, v5}, Landroid/view/animation/Animation;->getTransformation(JLandroid/view/animation/Transformation;)Z
+
+    .line 59
+    .line 60
+    .line 61
+    invoke-virtual {v1, v0}, Lcom/android/wm/shell/activityembedding/ActivityEmbeddingAnimationAdapter;->onAnimationUpdateInner(Landroid/view/SurfaceControl$Transaction;)V
+
+    .line 62
+    .line 63
+    .line 64
+    goto :goto_0
+
+    .line 65
+    :cond_0
+    invoke-virtual {v0}, Landroid/view/SurfaceControl$Transaction;->apply()V
+
+    .line 66
+    .line 67
+    .line 68
+    return-void
+.end method

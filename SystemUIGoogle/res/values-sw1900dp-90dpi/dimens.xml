@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="status_bar_airplane_spacer_width">8.0sp</dimen>
+    <dimen name="status_bar_battery_unified_icon_height">24.0sp</dimen>
+    <dimen name="status_bar_battery_unified_icon_width">41.19998sp</dimen>
+    <dimen name="status_bar_bindable_icon_padding">4.0sp</dimen>
+    <dimen name="status_bar_bindable_icon_size">40.0sp</dimen>
+    <dimen name="status_bar_clock_end_padding">8.0dip</dimen>
+    <dimen name="status_bar_clock_size">28.0sp</dimen>
+    <dimen name="status_bar_clock_starting_padding">8.0dip</dimen>
+    <dimen name="status_bar_connected_device_bt_indicator_size">34.0dip</dimen>
+    <dimen name="status_bar_connected_device_signal_margin_end">32.0dip</dimen>
+    <dimen name="status_bar_end_side_roam_icon_margin_start">4.0sp</dimen>
+    <dimen name="status_bar_header_height_keyguard">80.0dip</dimen>
+    <dimen name="status_bar_horizontal_padding">5.0sp</dimen>
+    <dimen name="status_bar_icon_drawing_size">30.0dip</dimen>
+    <dimen name="status_bar_icon_drawing_size_dark">36.0dip</dimen>
+    <item type="dimen" name="status_bar_icon_scale_factor">2.0</item>
+    <dimen name="status_bar_icons_padding_end">8.0dip</dimen>
+    <dimen name="status_bar_icons_padding_start">6.0dip</dimen>
+    <dimen name="status_bar_left_clock_end_padding">4.0sp</dimen>
+    <dimen name="status_bar_mobile_container_corner_radius">18.0sp</dimen>
+    <dimen name="status_bar_mobile_container_corner_radius_updated">14.0sp</dimen>
+    <dimen name="status_bar_mobile_container_height">36.0sp</dimen>
+    <dimen name="status_bar_mobile_container_height_updated">23.0sp</dimen>
+    <dimen name="status_bar_mobile_container_margin_end">6.0sp</dimen>
+    <dimen name="status_bar_mobile_container_margin_start">6.0sp</dimen>
+    <dimen name="status_bar_mobile_inout_container_size">34.0sp</dimen>
+    <dimen name="status_bar_mobile_roam_size">16.0sp</dimen>
+    <dimen name="status_bar_mobile_roam_size_updated">20.0sp</dimen>
+    <dimen name="status_bar_mobile_signal_size">30.0sp</dimen>
+    <dimen name="status_bar_mobile_signal_size_updated">24.0sp</dimen>
+    <dimen name="status_bar_mobile_type_container_margin_end">12.0sp</dimen>
+    <dimen name="status_bar_mobile_type_size">32.0sp</dimen>
+    <dimen name="status_bar_mobile_type_size_updated">24.0sp</dimen>
+    <dimen name="status_bar_padding_end">8.0dip</dimen>
+    <dimen name="status_bar_padding_start">8.0dip</dimen>
+    <dimen name="status_bar_shade_header_text_size_sp">28.0sp</dimen>
+    <dimen name="status_bar_user_chip_avatar_size">32.0dip</dimen>
+    <dimen name="status_bar_user_chip_end_margin">16.0dip</dimen>
+    <dimen name="status_bar_user_chip_text_size">24.0sp</dimen>
+    <dimen name="status_bar_wifi_inout_container_size">34.0sp</dimen>
+    <dimen name="status_bar_wifi_signal_height_updated">24.0sp</dimen>
+    <dimen name="status_bar_wifi_signal_horizontal_margin">6.0sp</dimen>
+    <dimen name="status_bar_wifi_signal_size">30.0sp</dimen>
+    <dimen name="status_bar_wifi_signal_spacer_width">5.0sp</dimen>
+</resources>

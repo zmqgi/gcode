@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.keyguard.KeyguardSecureLockDeviceBiometricAuthView android:layout_gravity="center_horizontal" android:orientation="vertical" android:id="@id/keyguard_secure_lock_device_biometric_auth_view" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:androidprv="http://schemas.android.com/apk/res-auto">
+    <com.android.systemui.bouncer.ui.BouncerMessageView android:orientation="vertical" android:id="@id/bouncer_message_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:accessibilityLiveRegion="polite" android:screenReaderFocusable="true" />
+</com.android.keyguard.KeyguardSecureLockDeviceBiometricAuthView>

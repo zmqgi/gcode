@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:id="@id/cd_bottom_sheet" android:background="@drawable/connected_display_dialog_bg" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:androidprv="http://schemas.android.com/apk/prv/res/android">
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:paddingTop="@dimen/dialog_top_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingHorizontal="@dimen/dialog_side_padding">
+        <ImageView android:id="@id/connected_display_dialog_icon" android:background="@drawable/circular_background" android:padding="6.0dip" android:layout_width="@dimen/connected_display_dialog_logo_size" android:layout_height="@dimen/connected_display_dialog_logo_size" android:src="@drawable/stat_sys_connected_display" android:tint="@android:color/primary_dark_device_default_light" android:importantForAccessibility="no" android:backgroundTint="@android:color/primary_text_focused_holo_dark" />
+        <TextView android:textAppearance="@style/TextAppearance.Dialog.Title" android:gravity="center" android:id="@id/connected_display_dialog_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" android:layout_marginBottom="4.0dip" android:text="@string/connected_display_dialog_title" />
+        <CheckBox android:textAppearance="@style/TextAppearance.Dialog.Body" android:textSize="18.0sp" android:id="@id/save_connection_preference" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/remember_choice" android:paddingStart="8.0dip" android:layout_marginVertical="8.0dip" />
+        <TextView android:textAppearance="@style/TextAppearance.Dialog.Body" android:gravity="center" android:id="@id/dual_display_warning" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/connected_display_dialog_dual_display_stop_warning" android:layout_marginVertical="4.0dip" />
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="8.0dip">
+            <Button android:textSize="18.0sp" android:id="@id/start_desktop_mode" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="48.0dip" android:text="@string/start_desktop_mode" style="@style/Widget.Dialog.Button" />
+            <Button android:textSize="18.0sp" android:id="@id/start_mirroring" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="48.0dip" android:text="@string/start_mirroring" style="@style/Widget.Dialog.Button.BorderButton" />
+            <Button android:textSize="18.0sp" android:id="@id/cancel" android:background="@drawable/btn_borderless_rect" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/dialog_bottom_padding" android:minHeight="48.0dip" android:text="@string/cancel" style="@style/Widget.Dialog.Button.BorderButton" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

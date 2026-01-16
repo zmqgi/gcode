@@ -1,0 +1,13 @@
+.class public final Lcom/android/systemui/scene/data/repository/WindowRootViewVisibilityRepository;
+.super Ljava/lang/Object;
+.source "go/retraceme af8e0b46c0cb0ee2c99e9b6d0c434e5c0b686fd9230eaab7fb9a40e3a9d0cf6f"
+
+
+# instance fields
+.field public _isLockscreenOrShadeVisible:Lkotlinx/coroutines/flow/StateFlowImpl;
+
+.field public isLockscreenOrShadeVisible:Lkotlinx/coroutines/flow/ReadonlyStateFlow;
+
+.field public statusBarService:Lcom/android/internal/statusbar/IStatusBarService;
+
+.field public uiBgExecutor:Ljava/util/concurrent/Executor;

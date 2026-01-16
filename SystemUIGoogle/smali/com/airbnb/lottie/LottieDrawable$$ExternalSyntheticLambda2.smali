@@ -1,0 +1,46 @@
+.class public final synthetic Lcom/airbnb/lottie/LottieDrawable$$ExternalSyntheticLambda2;
+.super Ljava/lang/Object;
+.source "go/retraceme af8e0b46c0cb0ee2c99e9b6d0c434e5c0b686fd9230eaab7fb9a40e3a9d0cf6f"
+
+# interfaces
+.implements Lcom/airbnb/lottie/LottieDrawable$LazyCompositionTask;
+
+
+# instance fields
+.field public synthetic f$0:Lcom/airbnb/lottie/LottieDrawable;
+
+.field public synthetic f$1:Ljava/lang/String;
+
+.field public synthetic f$2:Ljava/lang/String;
+
+.field public synthetic f$3:Z
+
+
+# virtual methods
+.method public final run()V
+    .locals 3
+
+    .line 1
+    iget-object v0, p0, Lcom/airbnb/lottie/LottieDrawable$$ExternalSyntheticLambda2;->f$0:Lcom/airbnb/lottie/LottieDrawable;
+
+    .line 2
+    .line 3
+    iget-object v1, p0, Lcom/airbnb/lottie/LottieDrawable$$ExternalSyntheticLambda2;->f$1:Ljava/lang/String;
+
+    .line 4
+    .line 5
+    iget-object v2, p0, Lcom/airbnb/lottie/LottieDrawable$$ExternalSyntheticLambda2;->f$2:Ljava/lang/String;
+
+    .line 6
+    .line 7
+    iget-boolean p0, p0, Lcom/airbnb/lottie/LottieDrawable$$ExternalSyntheticLambda2;->f$3:Z
+
+    .line 8
+    .line 9
+    invoke-virtual {v0, v1, v2, p0}, Lcom/airbnb/lottie/LottieDrawable;->setMinAndMaxFrame(Ljava/lang/String;Ljava/lang/String;Z)V
+
+    .line 10
+    .line 11
+    .line 12
+    return-void
+.end method

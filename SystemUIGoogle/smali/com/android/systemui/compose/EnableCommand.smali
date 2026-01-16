@@ -1,0 +1,52 @@
+.class public final Lcom/android/systemui/compose/EnableCommand;
+.super Lcom/android/systemui/statusbar/commandline/ParseableCommand;
+.source "go/retraceme af8e0b46c0cb0ee2c99e9b6d0c434e5c0b686fd9230eaab7fb9a40e3a9d0cf6f"
+
+
+# virtual methods
+.method public final execute(Ljava/io/PrintWriter;)V
+    .locals 1
+
+    .line 1
+    const-string p0, "ComposeTracingStartable"
+
+    .line 2
+    .line 3
+    const-string v0, "Enabled Composition tracing"
+
+    .line 4
+    .line 5
+    invoke-static {p0, v0}, Landroid/util/Log;->i(Ljava/lang/String;Ljava/lang/String;)I
+
+    .line 6
+    .line 7
+    .line 8
+    invoke-virtual {p1, v0}, Ljava/io/PrintWriter;->println(Ljava/lang/String;)V
+
+    .line 9
+    .line 10
+    .line 11
+    sget-object p0, Landroidx/compose/runtime/Composer;->Companion:Landroidx/compose/runtime/Composer$Companion;
+
+    .line 12
+    .line 13
+    new-instance p1, Lcom/android/systemui/compose/EnableCommand$enableCompositionTracing$1;
+
+    .line 14
+    .line 15
+    invoke-direct {p1}, Ljava/lang/Object;-><init>()V
+
+    .line 16
+    .line 17
+    .line 18
+    invoke-virtual {p0}, Ljava/lang/Object;->getClass()Ljava/lang/Class;
+
+    .line 19
+    .line 20
+    .line 21
+    sput-object p1, Landroidx/compose/runtime/ComposerKt;->compositionTracer:Lcom/android/systemui/compose/EnableCommand$enableCompositionTracing$1;
+
+    .line 22
+    .line 23
+    return-void
+.end method

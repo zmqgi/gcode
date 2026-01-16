@@ -1,0 +1,205 @@
+.class public final Lcom/google/android/systemui/keyguard/ui/composable/elements/GoogleAmbientIndicationElementProvider$IndicationAreaElement;
+.super Ljava/lang/Object;
+.source "go/retraceme af8e0b46c0cb0ee2c99e9b6d0c434e5c0b686fd9230eaab7fb9a40e3a9d0cf6f"
+
+# interfaces
+.implements Lcom/android/systemui/plugins/keyguard/ui/composable/elements/LockscreenElement;
+
+
+# instance fields
+.field public context:Landroid/content/Context;
+
+.field public key:Lcom/android/compose/animation/scene/ElementKey;
+
+.field public synthetic this$0:Lcom/google/android/systemui/keyguard/ui/composable/elements/GoogleAmbientIndicationElementProvider;
+
+
+# virtual methods
+.method public final LockscreenElement(Lcom/android/systemui/plugins/keyguard/ui/composable/elements/LockscreenScope;Landroidx/compose/runtime/Composer;I)V
+    .locals 3
+
+    .line 1
+    const v0, 0xdc7a7b5
+
+    .line 2
+    .line 3
+    .line 4
+    invoke-interface {p2, v0}, Landroidx/compose/runtime/Composer;->startRestartGroup(I)Landroidx/compose/runtime/Composer;
+
+    .line 5
+    .line 6
+    .line 7
+    move-result-object p2
+
+    .line 8
+    and-int/lit8 v0, p3, 0x1
+
+    .line 9
+    .line 10
+    const/4 v1, 0x0
+
+    .line 11
+    if-eqz v0, :cond_0
+
+    .line 12
+    .line 13
+    const/4 v2, 0x1
+
+    .line 14
+    goto :goto_0
+
+    .line 15
+    :cond_0
+    move v2, v1
+
+    .line 16
+    :goto_0
+    invoke-interface {p2, v2, v0}, Landroidx/compose/runtime/Composer;->shouldExecute(ZI)Z
+
+    .line 17
+    .line 18
+    .line 19
+    move-result v0
+
+    .line 20
+    if-eqz v0, :cond_2
+
+    .line 21
+    .line 22
+    invoke-static {}, Landroidx/compose/runtime/ComposerKt;->isTraceInProgress()Z
+
+    .line 23
+    .line 24
+    .line 25
+    move-result v0
+
+    .line 26
+    if-eqz v0, :cond_1
+
+    .line 27
+    .line 28
+    const-string v0, "com.google.android.systemui.keyguard.ui.composable.elements.GoogleAmbientIndicationElementProvider.IndicationAreaElement.LockscreenElement (GoogleAmbientIndicationElementProvider.kt:76)"
+
+    .line 29
+    .line 30
+    invoke-static {v0}, Landroidx/compose/runtime/ComposerKt;->traceEventStart(Ljava/lang/String;)V
+
+    .line 31
+    .line 32
+    .line 33
+    :cond_1
+    iget-object v0, p0, Lcom/google/android/systemui/keyguard/ui/composable/elements/GoogleAmbientIndicationElementProvider$IndicationAreaElement;->this$0:Lcom/google/android/systemui/keyguard/ui/composable/elements/GoogleAmbientIndicationElementProvider;
+
+    .line 34
+    .line 35
+    const/4 v2, 0x0
+
+    .line 36
+    invoke-virtual {v0, v2, p2, v1}, Lcom/google/android/systemui/keyguard/ui/composable/elements/GoogleAmbientIndicationElementProvider;->AmbientIndication(Landroidx/compose/ui/Modifier;Landroidx/compose/runtime/Composer;I)V
+
+    .line 37
+    .line 38
+    .line 39
+    invoke-static {}, Landroidx/compose/runtime/ComposerKt;->isTraceInProgress()Z
+
+    .line 40
+    .line 41
+    .line 42
+    move-result v0
+
+    .line 43
+    if-eqz v0, :cond_3
+
+    .line 44
+    .line 45
+    invoke-static {}, Landroidx/compose/runtime/ComposerKt;->traceEventEnd()V
+
+    .line 46
+    .line 47
+    .line 48
+    goto :goto_1
+
+    .line 49
+    :cond_2
+    invoke-interface {p2}, Landroidx/compose/runtime/Composer;->skipToGroupEnd()V
+
+    .line 50
+    .line 51
+    .line 52
+    :cond_3
+    :goto_1
+    invoke-interface {p2}, Landroidx/compose/runtime/Composer;->endRestartGroup()Landroidx/compose/runtime/ScopeUpdateScope;
+
+    .line 53
+    .line 54
+    .line 55
+    move-result-object p2
+
+    .line 56
+    if-eqz p2, :cond_4
+
+    .line 57
+    .line 58
+    new-instance v0, Lcom/google/android/systemui/keyguard/ui/composable/elements/GoogleAmbientIndicationElementProvider$IndicationAreaElement$$ExternalSyntheticLambda0;
+
+    .line 59
+    .line 60
+    invoke-direct {v0}, Ljava/lang/Object;-><init>()V
+
+    .line 61
+    .line 62
+    .line 63
+    iput-object p0, v0, Lcom/google/android/systemui/keyguard/ui/composable/elements/GoogleAmbientIndicationElementProvider$IndicationAreaElement$$ExternalSyntheticLambda0;->f$0:Lcom/google/android/systemui/keyguard/ui/composable/elements/GoogleAmbientIndicationElementProvider$IndicationAreaElement;
+
+    .line 64
+    .line 65
+    iput-object p1, v0, Lcom/google/android/systemui/keyguard/ui/composable/elements/GoogleAmbientIndicationElementProvider$IndicationAreaElement$$ExternalSyntheticLambda0;->f$1:Lcom/android/systemui/plugins/keyguard/ui/composable/elements/LockscreenScope;
+
+    .line 66
+    .line 67
+    iput p3, v0, Lcom/google/android/systemui/keyguard/ui/composable/elements/GoogleAmbientIndicationElementProvider$IndicationAreaElement$$ExternalSyntheticLambda0;->f$2:I
+
+    .line 68
+    .line 69
+    invoke-static {}, Ljava/lang/invoke/VarHandle;->storeStoreFence()V
+
+    .line 70
+    .line 71
+    .line 72
+    invoke-interface {p2, v0}, Landroidx/compose/runtime/ScopeUpdateScope;->updateScope(Lkotlin/jvm/functions/Function2;)V
+
+    .line 73
+    .line 74
+    .line 75
+    :cond_4
+    return-void
+.end method
+
+.method public final getContext()Landroid/content/Context;
+    .locals 0
+
+    .line 1
+    iget-object p0, p0, Lcom/google/android/systemui/keyguard/ui/composable/elements/GoogleAmbientIndicationElementProvider$IndicationAreaElement;->context:Landroid/content/Context;
+
+    .line 2
+    .line 3
+    return-object p0
+.end method
+
+.method public final getKey()Lcom/android/compose/animation/scene/ElementKey;
+    .locals 0
+
+    .line 1
+    iget-object p0, p0, Lcom/google/android/systemui/keyguard/ui/composable/elements/GoogleAmbientIndicationElementProvider$IndicationAreaElement;->key:Lcom/android/compose/animation/scene/ElementKey;
+
+    return-object p0
+.end method
+
+.method public final getKey()Lcom/android/compose/animation/scene/Key;
+    .locals 0
+
+    .line 2
+    iget-object p0, p0, Lcom/google/android/systemui/keyguard/ui/composable/elements/GoogleAmbientIndicationElementProvider$IndicationAreaElement;->key:Lcom/android/compose/animation/scene/ElementKey;
+
+    return-object p0
+.end method

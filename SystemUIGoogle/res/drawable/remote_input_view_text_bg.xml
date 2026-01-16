@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:androidprv="http://schemas.android.com/apk/prv/res/android">
+    <solid android:color="@android:color/profile_badge_1" />
+    <stroke android:width="@dimen/remote_input_view_text_stroke" android:color="@android:color/primary_text_default_material_dark" />
+    <padding android:left="12.0dip" android:top="0.0dip" android:right="12.0dip" android:bottom="0.0dip" />
+    <corners android:radius="24.0dip" />
+</shape>

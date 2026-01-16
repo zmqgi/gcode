@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImageButton android:gravity="center" android:background="@drawable/volume_ringer_item_bg" android:layout_width="0.0dip" android:layout_height="0.0dip" android:src="@drawable/volume_ringer_item_bg" android:tint="@android:color/primary_dark_material_light" android:contentDescription="@string/volume_ringer_mode"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:androidprv="http://schemas.android.com/apk/prv/res/android" />

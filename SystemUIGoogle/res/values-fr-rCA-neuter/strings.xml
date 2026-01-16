@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="kg_failed_attempts_now_erasing_user">Vous avez tenté de déverrouiller ce téléphone à %d reprises. Cet·te utilisateur·trice sera supprimé·e, ce qui entraîne la suppression de toutes ses données.</string>
+    <string name="qs_user_switch_dialog_title">"Choisir l'utilisateur·trice"</string>
+</resources>

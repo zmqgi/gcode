@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple android:color="@color/media_outlined_button_background"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@android:id/background">
+        <shape android:shape="rectangle">
+            <stroke android:width="@dimen/qs_media_button_stroke_width" android:color="@android:color/system_outline_dark" />
+            <solid android:color="@color/media_outlined_button_background" />
+            <corners android:radius="24.0dip" />
+            <padding android:left="8.0dip" android:top="4.0dip" android:right="8.0dip" android:bottom="4.0dip" />
+        </shape>
+    </item>
+</ripple>

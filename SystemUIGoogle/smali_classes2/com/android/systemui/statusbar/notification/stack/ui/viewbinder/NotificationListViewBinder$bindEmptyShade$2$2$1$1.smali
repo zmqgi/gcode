@@ -1,0 +1,49 @@
+.class public final Lcom/android/systemui/statusbar/notification/stack/ui/viewbinder/NotificationListViewBinder$bindEmptyShade$2$2$1$1;
+.super Ljava/lang/Object;
+.source "go/retraceme af8e0b46c0cb0ee2c99e9b6d0c434e5c0b686fd9230eaab7fb9a40e3a9d0cf6f"
+
+# interfaces
+.implements Ljava/util/function/Consumer;
+
+
+# instance fields
+.field public synthetic $shouldShow:Lcom/android/systemui/util/ui/AnimatedValue;
+
+
+# virtual methods
+.method public final accept(Ljava/lang/Object;)V
+    .locals 0
+
+    .line 1
+    check-cast p1, Ljava/lang/Boolean;
+
+    .line 2
+    .line 3
+    iget-object p0, p0, Lcom/android/systemui/statusbar/notification/stack/ui/viewbinder/NotificationListViewBinder$bindEmptyShade$2$2$1$1;->$shouldShow:Lcom/android/systemui/util/ui/AnimatedValue;
+
+    .line 4
+    .line 5
+    instance-of p1, p0, Lcom/android/systemui/util/ui/AnimatedValue$Animating;
+
+    .line 6
+    .line 7
+    if-eqz p1, :cond_0
+
+    .line 8
+    .line 9
+    check-cast p0, Lcom/android/systemui/util/ui/AnimatedValue$Animating;
+
+    .line 10
+    .line 11
+    iget-object p0, p0, Lcom/android/systemui/util/ui/AnimatedValue$Animating;->onStopAnimating:Lkotlin/jvm/functions/Function0;
+
+    .line 12
+    .line 13
+    invoke-interface {p0}, Lkotlin/jvm/functions/Function0;->invoke()Ljava/lang/Object;
+
+    .line 14
+    .line 15
+    .line 16
+    :cond_0
+    return-void
+.end method

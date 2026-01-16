@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:androidprv="http://schemas.android.com/apk/prv/res/android">
+    <Space android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="8.0" />
+    <ImageView android:id="@id/shutdown_mode_icon" android:layout_width="48.0dip" android:layout_height="48.0dip" android:layout_marginBottom="48.0dip" android:src="@drawable/ic_device_thermostat_24" android:scaleType="fitXY" android:tint="@color/shutdown_mode_thermometer_icon_color" android:contentDescription="@null" />
+    <TextView android:textAppearance="?android:textAppearanceLarge" android:textSize="@dimen/shutdown_mode_screen_title_text_size" android:gravity="center" android:id="@id/shutdown_mode_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="12.0dip" android:text="@string/shutdown_mode_screen_title" android:fontFamily="google-sans-medium" android:textDirection="locale" />
+    <TextView android:textAppearance="?android:textAppearanceMedium" android:textSize="@dimen/shutdown_mode_screen_description_text_size" android:gravity="center" android:id="@id/shutdown_mode_description" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/shutdown_mode_screen_description" android:fontFamily="google-sans-medium" android:textDirection="locale" android:layout_marginHorizontal="48.0dip" />
+    <Space android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="6.0" />
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/shutdown_button" android:layout_width="@dimen/global_actions_button_size" android:layout_height="wrap_content" android:stateListAnimator="@anim/control_state_list_animator">
+        <ImageView android:background="@drawable/global_actions_lite_button" android:padding="@dimen/global_actions_button_padding" android:layout_width="@dimen/global_actions_button_size" android:layout_height="@dimen/global_actions_button_size" android:layout_marginBottom="@dimen/global_actions_grid_container_bottom_margin" android:src="@android:drawable/ic_lock_power_off" android:scaleType="centerInside" android:tint="@android:color/primary_dark_material_light" android:contentDescription="@null" />
+        <TextView android:textAppearance="?android:textAppearanceSmall" android:textSize="@dimen/shutdown_mode_screen_shutdown_button_text_size" android:textColor="@android:color/primary_dark_material_light" android:ellipsize="marquee" android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/shutdown_mode_screen_shutdown_button_text" android:marqueeRepeatLimit="marquee_forever" />
+    </LinearLayout>
+    <Space android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="4.0" />
+</LinearLayout>

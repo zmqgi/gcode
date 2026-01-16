@@ -1,0 +1,177 @@
+.class public final Lcom/android/systemui/controls/ui/ControlViewHolder$startBackgroundAnimation$1$1;
+.super Ljava/lang/Object;
+.source "go/retraceme af8e0b46c0cb0ee2c99e9b6d0c434e5c0b686fd9230eaab7fb9a40e3a9d0cf6f"
+
+# interfaces
+.implements Landroid/animation/ValueAnimator$AnimatorUpdateListener;
+
+
+# instance fields
+.field public synthetic $clipDrawable:Landroid/graphics/drawable/Drawable;
+
+.field public synthetic $newBaseColor:I
+
+.field public synthetic $newClipColor:I
+
+.field public synthetic $oldAlpha:F
+
+.field public synthetic $oldBaseColor:I
+
+.field public synthetic $oldClipColor:I
+
+.field public synthetic this$0:Lcom/android/systemui/controls/ui/ControlViewHolder;
+
+
+# virtual methods
+.method public final onAnimationUpdate(Landroid/animation/ValueAnimator;)V
+    .locals 5
+
+    .line 1
+    invoke-virtual {p1}, Landroid/animation/ValueAnimator;->getAnimatedValue()Ljava/lang/Object;
+
+    .line 2
+    .line 3
+    .line 4
+    move-result-object v0
+
+    .line 5
+    check-cast v0, Ljava/lang/Integer;
+
+    .line 6
+    .line 7
+    invoke-virtual {v0}, Ljava/lang/Integer;->intValue()I
+
+    .line 8
+    .line 9
+    .line 10
+    move-result v0
+
+    .line 11
+    iget v1, p0, Lcom/android/systemui/controls/ui/ControlViewHolder$startBackgroundAnimation$1$1;->$oldClipColor:I
+
+    .line 12
+    .line 13
+    iget v2, p0, Lcom/android/systemui/controls/ui/ControlViewHolder$startBackgroundAnimation$1$1;->$newClipColor:I
+
+    .line 14
+    .line 15
+    invoke-virtual {p1}, Landroid/animation/ValueAnimator;->getAnimatedFraction()F
+
+    .line 16
+    .line 17
+    .line 18
+    move-result v3
+
+    .line 19
+    invoke-static {v1, v2, v3}, Lcom/android/internal/graphics/ColorUtils;->blendARGB(IIF)I
+
+    .line 20
+    .line 21
+    .line 22
+    move-result v1
+
+    .line 23
+    iget v2, p0, Lcom/android/systemui/controls/ui/ControlViewHolder$startBackgroundAnimation$1$1;->$oldBaseColor:I
+
+    .line 24
+    .line 25
+    iget v3, p0, Lcom/android/systemui/controls/ui/ControlViewHolder$startBackgroundAnimation$1$1;->$newBaseColor:I
+
+    .line 26
+    .line 27
+    invoke-virtual {p1}, Landroid/animation/ValueAnimator;->getAnimatedFraction()F
+
+    .line 28
+    .line 29
+    .line 30
+    move-result v4
+
+    .line 31
+    invoke-static {v2, v3, v4}, Lcom/android/internal/graphics/ColorUtils;->blendARGB(IIF)I
+
+    .line 32
+    .line 33
+    .line 34
+    move-result v2
+
+    .line 35
+    iget v3, p0, Lcom/android/systemui/controls/ui/ControlViewHolder$startBackgroundAnimation$1$1;->$oldAlpha:F
+
+    .line 36
+    .line 37
+    const/high16 v4, 0x3f800000    # 1.0f
+
+    .line 38
+    .line 39
+    invoke-virtual {p1}, Landroid/animation/ValueAnimator;->getAnimatedFraction()F
+
+    .line 40
+    .line 41
+    .line 42
+    move-result p1
+
+    .line 43
+    invoke-static {v3, v4, p1}, Landroid/util/MathUtils;->lerp(FFF)F
+
+    .line 44
+    .line 45
+    .line 46
+    move-result p1
+
+    .line 47
+    iget-object v3, p0, Lcom/android/systemui/controls/ui/ControlViewHolder$startBackgroundAnimation$1$1;->this$0:Lcom/android/systemui/controls/ui/ControlViewHolder;
+
+    .line 48
+    .line 49
+    iget-object p0, p0, Lcom/android/systemui/controls/ui/ControlViewHolder$startBackgroundAnimation$1$1;->$clipDrawable:Landroid/graphics/drawable/Drawable;
+
+    .line 50
+    .line 51
+    invoke-virtual {v3}, Ljava/lang/Object;->getClass()Ljava/lang/Class;
+
+    .line 52
+    .line 53
+    .line 54
+    invoke-virtual {p0, v0}, Landroid/graphics/drawable/Drawable;->setAlpha(I)V
+
+    .line 55
+    .line 56
+    .line 57
+    instance-of v0, p0, Landroid/graphics/drawable/GradientDrawable;
+
+    .line 58
+    .line 59
+    if-eqz v0, :cond_0
+
+    .line 60
+    .line 61
+    check-cast p0, Landroid/graphics/drawable/GradientDrawable;
+
+    .line 62
+    .line 63
+    invoke-virtual {p0, v1}, Landroid/graphics/drawable/GradientDrawable;->setColor(I)V
+
+    .line 64
+    .line 65
+    .line 66
+    :cond_0
+    iget-object p0, v3, Lcom/android/systemui/controls/ui/ControlViewHolder;->baseLayer:Landroid/graphics/drawable/GradientDrawable;
+
+    .line 67
+    .line 68
+    invoke-virtual {p0, v2}, Landroid/graphics/drawable/GradientDrawable;->setColor(I)V
+
+    .line 69
+    .line 70
+    .line 71
+    iget-object p0, v3, Lcom/android/systemui/controls/ui/ControlViewHolder;->layout:Landroid/view/ViewGroup;
+
+    .line 72
+    .line 73
+    invoke-virtual {p0, p1}, Landroid/view/ViewGroup;->setAlpha(F)V
+
+    .line 74
+    .line 75
+    .line 76
+    return-void
+.end method

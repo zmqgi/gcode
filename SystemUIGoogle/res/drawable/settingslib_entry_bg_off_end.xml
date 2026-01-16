@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple android:color="?android:colorControlHighlight"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:androidprv="http://schemas.android.com/apk/prv/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@android:color/primary_text_default_material_light" />
+            <corners android:bottomLeftRadius="@dimen/settingslib_entry_bg_radius" android:bottomRightRadius="@dimen/settingslib_entry_bg_radius" />
+        </shape>
+    </item>
+</ripple>

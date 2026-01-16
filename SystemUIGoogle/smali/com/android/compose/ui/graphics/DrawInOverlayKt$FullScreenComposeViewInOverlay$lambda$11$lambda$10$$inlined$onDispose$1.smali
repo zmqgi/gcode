@@ -1,0 +1,34 @@
+.class public final Lcom/android/compose/ui/graphics/DrawInOverlayKt$FullScreenComposeViewInOverlay$lambda$11$lambda$10$$inlined$onDispose$1;
+.super Ljava/lang/Object;
+.source "go/retraceme af8e0b46c0cb0ee2c99e9b6d0c434e5c0b686fd9230eaab7fb9a40e3a9d0cf6f"
+
+# interfaces
+.implements Landroidx/compose/runtime/DisposableEffectResult;
+
+
+# instance fields
+.field public synthetic $overlay$inlined:Landroid/view/ViewGroupOverlay;
+
+.field public synthetic $view$inlined:Landroidx/compose/ui/platform/ComposeView;
+
+
+# virtual methods
+.method public final dispose()V
+    .locals 1
+
+    .line 1
+    iget-object v0, p0, Lcom/android/compose/ui/graphics/DrawInOverlayKt$FullScreenComposeViewInOverlay$lambda$11$lambda$10$$inlined$onDispose$1;->$overlay$inlined:Landroid/view/ViewGroupOverlay;
+
+    .line 2
+    .line 3
+    iget-object p0, p0, Lcom/android/compose/ui/graphics/DrawInOverlayKt$FullScreenComposeViewInOverlay$lambda$11$lambda$10$$inlined$onDispose$1;->$view$inlined:Landroidx/compose/ui/platform/ComposeView;
+
+    .line 4
+    .line 5
+    invoke-virtual {v0, p0}, Landroid/view/ViewGroupOverlay;->remove(Landroid/view/View;)V
+
+    .line 6
+    .line 7
+    .line 8
+    return-void
+.end method

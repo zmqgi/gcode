@@ -1,0 +1,1665 @@
+.class public final Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;
+.super Lcom/google/protobuf/CodedOutputStream;
+.source "go/retraceme af8e0b46c0cb0ee2c99e9b6d0c434e5c0b686fd9230eaab7fb9a40e3a9d0cf6f"
+
+
+# instance fields
+.field public buffer:[B
+
+.field public limit:I
+
+.field public out:Landroidx/datastore/core/UncloseableOutputStream;
+
+.field public position:I
+
+
+# virtual methods
+.method public final bufferFixed32NoTag(I)V
+    .locals 5
+
+    .line 1
+    iget-object v0, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->buffer:[B
+
+    .line 2
+    .line 3
+    iget v1, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+
+    .line 4
+    .line 5
+    add-int/lit8 v2, v1, 0x1
+
+    .line 6
+    .line 7
+    iput v2, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+
+    .line 8
+    .line 9
+    and-int/lit16 v3, p1, 0xff
+
+    .line 10
+    .line 11
+    int-to-byte v3, v3
+
+    .line 12
+    aput-byte v3, v0, v1
+
+    .line 13
+    .line 14
+    add-int/lit8 v3, v1, 0x2
+
+    .line 15
+    .line 16
+    iput v3, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+
+    .line 17
+    .line 18
+    shr-int/lit8 v4, p1, 0x8
+
+    .line 19
+    .line 20
+    and-int/lit16 v4, v4, 0xff
+
+    .line 21
+    .line 22
+    int-to-byte v4, v4
+
+    .line 23
+    aput-byte v4, v0, v2
+
+    .line 24
+    .line 25
+    add-int/lit8 v2, v1, 0x3
+
+    .line 26
+    .line 27
+    iput v2, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+
+    .line 28
+    .line 29
+    shr-int/lit8 v4, p1, 0x10
+
+    .line 30
+    .line 31
+    and-int/lit16 v4, v4, 0xff
+
+    .line 32
+    .line 33
+    int-to-byte v4, v4
+
+    .line 34
+    aput-byte v4, v0, v3
+
+    .line 35
+    .line 36
+    add-int/lit8 v1, v1, 0x4
+
+    .line 37
+    .line 38
+    iput v1, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+
+    .line 39
+    .line 40
+    shr-int/lit8 p0, p1, 0x18
+
+    .line 41
+    .line 42
+    and-int/lit16 p0, p0, 0xff
+
+    .line 43
+    .line 44
+    int-to-byte p0, p0
+
+    .line 45
+    aput-byte p0, v0, v2
+
+    .line 46
+    .line 47
+    return-void
+.end method
+
+.method public final bufferFixed64NoTag(J)V
+    .locals 9
+
+    .line 1
+    iget-object v0, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->buffer:[B
+
+    .line 2
+    .line 3
+    iget v1, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+
+    .line 4
+    .line 5
+    add-int/lit8 v2, v1, 0x1
+
+    .line 6
+    .line 7
+    iput v2, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+
+    .line 8
+    .line 9
+    const-wide/16 v3, 0xff
+
+    .line 10
+    .line 11
+    and-long v5, p1, v3
+
+    .line 12
+    .line 13
+    long-to-int v5, v5
+
+    .line 14
+    int-to-byte v5, v5
+
+    .line 15
+    aput-byte v5, v0, v1
+
+    .line 16
+    .line 17
+    add-int/lit8 v5, v1, 0x2
+
+    .line 18
+    .line 19
+    iput v5, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+
+    .line 20
+    .line 21
+    const/16 v6, 0x8
+
+    .line 22
+    .line 23
+    shr-long v7, p1, v6
+
+    .line 24
+    .line 25
+    and-long/2addr v7, v3
+
+    .line 26
+    long-to-int v7, v7
+
+    .line 27
+    int-to-byte v7, v7
+
+    .line 28
+    aput-byte v7, v0, v2
+
+    .line 29
+    .line 30
+    add-int/lit8 v2, v1, 0x3
+
+    .line 31
+    .line 32
+    iput v2, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+
+    .line 33
+    .line 34
+    const/16 v7, 0x10
+
+    .line 35
+    .line 36
+    shr-long v7, p1, v7
+
+    .line 37
+    .line 38
+    and-long/2addr v7, v3
+
+    .line 39
+    long-to-int v7, v7
+
+    .line 40
+    int-to-byte v7, v7
+
+    .line 41
+    aput-byte v7, v0, v5
+
+    .line 42
+    .line 43
+    add-int/lit8 v5, v1, 0x4
+
+    .line 44
+    .line 45
+    iput v5, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+
+    .line 46
+    .line 47
+    const/16 v7, 0x18
+
+    .line 48
+    .line 49
+    shr-long v7, p1, v7
+
+    .line 50
+    .line 51
+    and-long/2addr v3, v7
+
+    .line 52
+    long-to-int v3, v3
+
+    .line 53
+    int-to-byte v3, v3
+
+    .line 54
+    aput-byte v3, v0, v2
+
+    .line 55
+    .line 56
+    add-int/lit8 v2, v1, 0x5
+
+    .line 57
+    .line 58
+    iput v2, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+
+    .line 59
+    .line 60
+    const/16 v3, 0x20
+
+    .line 61
+    .line 62
+    shr-long v3, p1, v3
+
+    .line 63
+    .line 64
+    long-to-int v3, v3
+
+    .line 65
+    and-int/lit16 v3, v3, 0xff
+
+    .line 66
+    .line 67
+    int-to-byte v3, v3
+
+    .line 68
+    aput-byte v3, v0, v5
+
+    .line 69
+    .line 70
+    add-int/lit8 v3, v1, 0x6
+
+    .line 71
+    .line 72
+    iput v3, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+
+    .line 73
+    .line 74
+    const/16 v4, 0x28
+
+    .line 75
+    .line 76
+    shr-long v4, p1, v4
+
+    .line 77
+    .line 78
+    long-to-int v4, v4
+
+    .line 79
+    and-int/lit16 v4, v4, 0xff
+
+    .line 80
+    .line 81
+    int-to-byte v4, v4
+
+    .line 82
+    aput-byte v4, v0, v2
+
+    .line 83
+    .line 84
+    add-int/lit8 v2, v1, 0x7
+
+    .line 85
+    .line 86
+    iput v2, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+
+    .line 87
+    .line 88
+    const/16 v4, 0x30
+
+    .line 89
+    .line 90
+    shr-long v4, p1, v4
+
+    .line 91
+    .line 92
+    long-to-int v4, v4
+
+    .line 93
+    and-int/lit16 v4, v4, 0xff
+
+    .line 94
+    .line 95
+    int-to-byte v4, v4
+
+    .line 96
+    aput-byte v4, v0, v3
+
+    .line 97
+    .line 98
+    add-int/2addr v1, v6
+
+    .line 99
+    iput v1, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+
+    .line 100
+    .line 101
+    const/16 p0, 0x38
+
+    .line 102
+    .line 103
+    shr-long p0, p1, p0
+
+    .line 104
+    .line 105
+    long-to-int p0, p0
+
+    .line 106
+    and-int/lit16 p0, p0, 0xff
+
+    .line 107
+    .line 108
+    int-to-byte p0, p0
+
+    .line 109
+    aput-byte p0, v0, v2
+
+    .line 110
+    .line 111
+    return-void
+.end method
+
+.method public final bufferTag(II)V
+    .locals 0
+
+    .line 1
+    shl-int/lit8 p1, p1, 0x3
+
+    .line 2
+    .line 3
+    or-int/2addr p1, p2
+
+    .line 4
+    invoke-virtual {p0, p1}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->bufferUInt32NoTag(I)V
+
+    .line 5
+    .line 6
+    .line 7
+    return-void
+.end method
+
+.method public final bufferUInt32NoTag(I)V
+    .locals 4
+
+    .line 1
+    iget-object v0, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->buffer:[B
+
+    .line 2
+    .line 3
+    sget-boolean v1, Lcom/google/protobuf/CodedOutputStream;->HAS_UNSAFE_ARRAY_OPERATIONS:Z
+
+    .line 4
+    .line 5
+    if-eqz v1, :cond_1
+
+    .line 6
+    .line 7
+    :goto_0
+    and-int/lit8 v1, p1, -0x80
+
+    .line 8
+    .line 9
+    if-nez v1, :cond_0
+
+    .line 10
+    .line 11
+    iget v1, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+
+    .line 12
+    .line 13
+    add-int/lit8 v2, v1, 0x1
+
+    .line 14
+    .line 15
+    iput v2, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+
+    .line 16
+    .line 17
+    int-to-long v1, v1
+
+    .line 18
+    int-to-byte p0, p1
+
+    .line 19
+    invoke-static {v0, v1, v2, p0}, Lcom/google/protobuf/UnsafeUtil;->putByte([BJB)V
+
+    .line 20
+    .line 21
+    .line 22
+    return-void
+
+    .line 23
+    :cond_0
+    iget v1, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+
+    .line 24
+    .line 25
+    add-int/lit8 v2, v1, 0x1
+
+    .line 26
+    .line 27
+    iput v2, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+
+    .line 28
+    .line 29
+    int-to-long v1, v1
+
+    .line 30
+    and-int/lit8 v3, p1, 0x7f
+
+    .line 31
+    .line 32
+    or-int/lit16 v3, v3, 0x80
+
+    .line 33
+    .line 34
+    int-to-byte v3, v3
+
+    .line 35
+    invoke-static {v0, v1, v2, v3}, Lcom/google/protobuf/UnsafeUtil;->putByte([BJB)V
+
+    .line 36
+    .line 37
+    .line 38
+    ushr-int/lit8 p1, p1, 0x7
+
+    .line 39
+    .line 40
+    goto :goto_0
+
+    .line 41
+    :cond_1
+    :goto_1
+    and-int/lit8 v1, p1, -0x80
+
+    .line 42
+    .line 43
+    if-nez v1, :cond_2
+
+    .line 44
+    .line 45
+    iget v1, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+
+    .line 46
+    .line 47
+    add-int/lit8 v2, v1, 0x1
+
+    .line 48
+    .line 49
+    iput v2, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+
+    .line 50
+    .line 51
+    int-to-byte p0, p1
+
+    .line 52
+    aput-byte p0, v0, v1
+
+    .line 53
+    .line 54
+    return-void
+
+    .line 55
+    :cond_2
+    iget v1, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+
+    .line 56
+    .line 57
+    add-int/lit8 v2, v1, 0x1
+
+    .line 58
+    .line 59
+    iput v2, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+
+    .line 60
+    .line 61
+    and-int/lit8 v2, p1, 0x7f
+
+    .line 62
+    .line 63
+    or-int/lit16 v2, v2, 0x80
+
+    .line 64
+    .line 65
+    int-to-byte v2, v2
+
+    .line 66
+    aput-byte v2, v0, v1
+
+    .line 67
+    .line 68
+    ushr-int/lit8 p1, p1, 0x7
+
+    .line 69
+    .line 70
+    goto :goto_1
+.end method
+
+.method public final bufferUInt64NoTag(J)V
+    .locals 9
+
+    .line 1
+    iget-object v0, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->buffer:[B
+
+    .line 2
+    .line 3
+    sget-boolean v1, Lcom/google/protobuf/CodedOutputStream;->HAS_UNSAFE_ARRAY_OPERATIONS:Z
+
+    .line 4
+    .line 5
+    const/4 v2, 0x7
+
+    .line 6
+    const-wide/16 v3, 0x0
+
+    .line 7
+    .line 8
+    const-wide/16 v5, -0x80
+
+    .line 9
+    .line 10
+    if-eqz v1, :cond_1
+
+    .line 11
+    .line 12
+    :goto_0
+    and-long v7, p1, v5
+
+    .line 13
+    .line 14
+    cmp-long v1, v7, v3
+
+    .line 15
+    .line 16
+    if-nez v1, :cond_0
+
+    .line 17
+    .line 18
+    iget v1, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+
+    .line 19
+    .line 20
+    add-int/lit8 v2, v1, 0x1
+
+    .line 21
+    .line 22
+    iput v2, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+
+    .line 23
+    .line 24
+    int-to-long v1, v1
+
+    .line 25
+    long-to-int p0, p1
+
+    .line 26
+    int-to-byte p0, p0
+
+    .line 27
+    invoke-static {v0, v1, v2, p0}, Lcom/google/protobuf/UnsafeUtil;->putByte([BJB)V
+
+    .line 28
+    .line 29
+    .line 30
+    return-void
+
+    .line 31
+    :cond_0
+    iget v1, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+
+    .line 32
+    .line 33
+    add-int/lit8 v7, v1, 0x1
+
+    .line 34
+    .line 35
+    iput v7, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+
+    .line 36
+    .line 37
+    int-to-long v7, v1
+
+    .line 38
+    long-to-int v1, p1
+
+    .line 39
+    and-int/lit8 v1, v1, 0x7f
+
+    .line 40
+    .line 41
+    or-int/lit16 v1, v1, 0x80
+
+    .line 42
+    .line 43
+    int-to-byte v1, v1
+
+    .line 44
+    invoke-static {v0, v7, v8, v1}, Lcom/google/protobuf/UnsafeUtil;->putByte([BJB)V
+
+    .line 45
+    .line 46
+    .line 47
+    ushr-long/2addr p1, v2
+
+    .line 48
+    goto :goto_0
+
+    .line 49
+    :cond_1
+    :goto_1
+    and-long v7, p1, v5
+
+    .line 50
+    .line 51
+    cmp-long v1, v7, v3
+
+    .line 52
+    .line 53
+    if-nez v1, :cond_2
+
+    .line 54
+    .line 55
+    iget v1, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+
+    .line 56
+    .line 57
+    add-int/lit8 v2, v1, 0x1
+
+    .line 58
+    .line 59
+    iput v2, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+
+    .line 60
+    .line 61
+    long-to-int p0, p1
+
+    .line 62
+    int-to-byte p0, p0
+
+    .line 63
+    aput-byte p0, v0, v1
+
+    .line 64
+    .line 65
+    return-void
+
+    .line 66
+    :cond_2
+    iget v1, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+
+    .line 67
+    .line 68
+    add-int/lit8 v7, v1, 0x1
+
+    .line 69
+    .line 70
+    iput v7, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+
+    .line 71
+    .line 72
+    long-to-int v7, p1
+
+    .line 73
+    and-int/lit8 v7, v7, 0x7f
+
+    .line 74
+    .line 75
+    or-int/lit16 v7, v7, 0x80
+
+    .line 76
+    .line 77
+    int-to-byte v7, v7
+
+    .line 78
+    aput-byte v7, v0, v1
+
+    .line 79
+    .line 80
+    ushr-long/2addr p1, v2
+
+    .line 81
+    goto :goto_1
+.end method
+
+.method public final doFlush()V
+    .locals 4
+
+    .line 1
+    iget-object v0, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->out:Landroidx/datastore/core/UncloseableOutputStream;
+
+    .line 2
+    .line 3
+    iget-object v1, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->buffer:[B
+
+    .line 4
+    .line 5
+    iget v2, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+
+    .line 6
+    .line 7
+    const/4 v3, 0x0
+
+    .line 8
+    invoke-virtual {v0, v1, v3, v2}, Landroidx/datastore/core/UncloseableOutputStream;->write([BII)V
+
+    .line 9
+    .line 10
+    .line 11
+    iput v3, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+
+    .line 12
+    .line 13
+    return-void
+.end method
+
+.method public final flushIfNotAvailable(I)V
+    .locals 2
+
+    .line 1
+    iget v0, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->limit:I
+
+    .line 2
+    .line 3
+    iget v1, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+
+    .line 4
+    .line 5
+    sub-int/2addr v0, v1
+
+    .line 6
+    if-ge v0, p1, :cond_0
+
+    .line 7
+    .line 8
+    invoke-virtual {p0}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->doFlush()V
+
+    .line 9
+    .line 10
+    .line 11
+    :cond_0
+    return-void
+.end method
+
+.method public final write(B)V
+    .locals 3
+
+    .line 1
+    iget v0, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+
+    iget v1, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->limit:I
+
+    if-ne v0, v1, :cond_0
+
+    .line 2
+    invoke-virtual {p0}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->doFlush()V
+
+    .line 3
+    :cond_0
+    iget-object v0, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->buffer:[B
+
+    iget v1, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+
+    add-int/lit8 v2, v1, 0x1
+
+    iput v2, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+
+    aput-byte p1, v0, v1
+
+    return-void
+.end method
+
+.method public final write([BII)V
+    .locals 4
+
+    .line 4
+    iget-object v0, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->buffer:[B
+
+    iget v1, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->limit:I
+
+    iget v2, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+
+    sub-int v3, v1, v2
+
+    if-lt v3, p3, :cond_0
+
+    .line 5
+    invoke-static {p1, p2, v0, v2, p3}, Ljava/lang/System;->arraycopy(Ljava/lang/Object;ILjava/lang/Object;II)V
+
+    .line 6
+    iget p1, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+
+    add-int/2addr p1, p3
+
+    iput p1, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+
+    return-void
+
+    .line 7
+    :cond_0
+    invoke-static {p1, p2, v0, v2, v3}, Ljava/lang/System;->arraycopy(Ljava/lang/Object;ILjava/lang/Object;II)V
+
+    add-int/2addr p2, v3
+
+    sub-int/2addr p3, v3
+
+    .line 8
+    iput v1, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+
+    .line 9
+    invoke-virtual {p0}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->doFlush()V
+
+    if-gt p3, v1, :cond_1
+
+    const/4 v1, 0x0
+
+    .line 10
+    invoke-static {p1, p2, v0, v1, p3}, Ljava/lang/System;->arraycopy(Ljava/lang/Object;ILjava/lang/Object;II)V
+
+    .line 11
+    iput p3, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+
+    goto :goto_0
+
+    .line 12
+    :cond_1
+    iget-object p0, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->out:Landroidx/datastore/core/UncloseableOutputStream;
+
+    invoke-virtual {p0, p1, p2, p3}, Landroidx/datastore/core/UncloseableOutputStream;->write([BII)V
+
+    :goto_0
+    return-void
+.end method
+
+.method public final writeBool(IZ)V
+    .locals 2
+
+    .line 1
+    const/16 v0, 0xb
+
+    .line 2
+    .line 3
+    invoke-virtual {p0, v0}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->flushIfNotAvailable(I)V
+
+    .line 4
+    .line 5
+    .line 6
+    const/4 v0, 0x0
+
+    .line 7
+    invoke-virtual {p0, p1, v0}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->bufferTag(II)V
+
+    .line 8
+    .line 9
+    .line 10
+    int-to-byte p1, p2
+
+    .line 11
+    iget-object p2, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->buffer:[B
+
+    .line 12
+    .line 13
+    iget v0, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+
+    .line 14
+    .line 15
+    add-int/lit8 v1, v0, 0x1
+
+    .line 16
+    .line 17
+    iput v1, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+
+    .line 18
+    .line 19
+    aput-byte p1, p2, v0
+
+    .line 20
+    .line 21
+    return-void
+.end method
+
+.method public final writeByteArrayNoTag(I[B)V
+    .locals 1
+
+    .line 1
+    invoke-virtual {p0, p1}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->writeUInt32NoTag(I)V
+
+    .line 2
+    .line 3
+    .line 4
+    const/4 v0, 0x0
+
+    .line 5
+    invoke-virtual {p0, p2, v0, p1}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->write([BII)V
+
+    .line 6
+    .line 7
+    .line 8
+    return-void
+.end method
+
+.method public final writeBytes(ILcom/google/protobuf/ByteString;)V
+    .locals 1
+
+    .line 1
+    const/4 v0, 0x2
+
+    .line 2
+    invoke-virtual {p0, p1, v0}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->writeTag(II)V
+
+    .line 3
+    .line 4
+    .line 5
+    invoke-virtual {p0, p2}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->writeBytesNoTag(Lcom/google/protobuf/ByteString;)V
+
+    .line 6
+    .line 7
+    .line 8
+    return-void
+.end method
+
+.method public final writeBytesNoTag(Lcom/google/protobuf/ByteString;)V
+    .locals 2
+
+    .line 1
+    invoke-virtual {p1}, Lcom/google/protobuf/ByteString;->size()I
+
+    .line 2
+    .line 3
+    .line 4
+    move-result v0
+
+    .line 5
+    invoke-virtual {p0, v0}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->writeUInt32NoTag(I)V
+
+    .line 6
+    .line 7
+    .line 8
+    check-cast p1, Lcom/google/protobuf/ByteString$LiteralByteString;
+
+    .line 9
+    .line 10
+    iget-object v0, p1, Lcom/google/protobuf/ByteString$LiteralByteString;->bytes:[B
+
+    .line 11
+    .line 12
+    invoke-virtual {p1}, Lcom/google/protobuf/ByteString$LiteralByteString;->getOffsetIntoBytes()I
+
+    .line 13
+    .line 14
+    .line 15
+    move-result v1
+
+    .line 16
+    invoke-virtual {p1}, Lcom/google/protobuf/ByteString$LiteralByteString;->size()I
+
+    .line 17
+    .line 18
+    .line 19
+    move-result p1
+
+    .line 20
+    invoke-virtual {p0, v0, v1, p1}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->writeLazy([BII)V
+
+    .line 21
+    .line 22
+    .line 23
+    return-void
+.end method
+
+.method public final writeFixed32(II)V
+    .locals 1
+
+    .line 1
+    const/16 v0, 0xe
+
+    .line 2
+    .line 3
+    invoke-virtual {p0, v0}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->flushIfNotAvailable(I)V
+
+    .line 4
+    .line 5
+    .line 6
+    const/4 v0, 0x5
+
+    .line 7
+    invoke-virtual {p0, p1, v0}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->bufferTag(II)V
+
+    .line 8
+    .line 9
+    .line 10
+    invoke-virtual {p0, p2}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->bufferFixed32NoTag(I)V
+
+    .line 11
+    .line 12
+    .line 13
+    return-void
+.end method
+
+.method public final writeFixed32NoTag(I)V
+    .locals 1
+
+    .line 1
+    const/4 v0, 0x4
+
+    .line 2
+    invoke-virtual {p0, v0}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->flushIfNotAvailable(I)V
+
+    .line 3
+    .line 4
+    .line 5
+    invoke-virtual {p0, p1}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->bufferFixed32NoTag(I)V
+
+    .line 6
+    .line 7
+    .line 8
+    return-void
+.end method
+
+.method public final writeFixed64(IJ)V
+    .locals 1
+
+    .line 1
+    const/16 v0, 0x12
+
+    .line 2
+    .line 3
+    invoke-virtual {p0, v0}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->flushIfNotAvailable(I)V
+
+    .line 4
+    .line 5
+    .line 6
+    const/4 v0, 0x1
+
+    .line 7
+    invoke-virtual {p0, p1, v0}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->bufferTag(II)V
+
+    .line 8
+    .line 9
+    .line 10
+    invoke-virtual {p0, p2, p3}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->bufferFixed64NoTag(J)V
+
+    .line 11
+    .line 12
+    .line 13
+    return-void
+.end method
+
+.method public final writeFixed64NoTag(J)V
+    .locals 1
+
+    .line 1
+    const/16 v0, 0x8
+
+    .line 2
+    .line 3
+    invoke-virtual {p0, v0}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->flushIfNotAvailable(I)V
+
+    .line 4
+    .line 5
+    .line 6
+    invoke-virtual {p0, p1, p2}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->bufferFixed64NoTag(J)V
+
+    .line 7
+    .line 8
+    .line 9
+    return-void
+.end method
+
+.method public final writeInt32(II)V
+    .locals 1
+
+    .line 1
+    const/16 v0, 0x14
+
+    .line 2
+    .line 3
+    invoke-virtual {p0, v0}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->flushIfNotAvailable(I)V
+
+    .line 4
+    .line 5
+    .line 6
+    const/4 v0, 0x0
+
+    .line 7
+    invoke-virtual {p0, p1, v0}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->bufferTag(II)V
+
+    .line 8
+    .line 9
+    .line 10
+    if-ltz p2, :cond_0
+
+    .line 11
+    .line 12
+    invoke-virtual {p0, p2}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->bufferUInt32NoTag(I)V
+
+    .line 13
+    .line 14
+    .line 15
+    return-void
+
+    .line 16
+    :cond_0
+    int-to-long p1, p2
+
+    .line 17
+    invoke-virtual {p0, p1, p2}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->bufferUInt64NoTag(J)V
+
+    .line 18
+    .line 19
+    .line 20
+    return-void
+.end method
+
+.method public final writeInt32NoTag(I)V
+    .locals 2
+
+    .line 1
+    if-ltz p1, :cond_0
+
+    .line 2
+    .line 3
+    invoke-virtual {p0, p1}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->writeUInt32NoTag(I)V
+
+    .line 4
+    .line 5
+    .line 6
+    return-void
+
+    .line 7
+    :cond_0
+    int-to-long v0, p1
+
+    .line 8
+    invoke-virtual {p0, v0, v1}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->writeUInt64NoTag(J)V
+
+    .line 9
+    .line 10
+    .line 11
+    return-void
+.end method
+
+.method public final writeLazy([BII)V
+    .locals 0
+
+    .line 1
+    invoke-virtual {p0, p1, p2, p3}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->write([BII)V
+
+    .line 2
+    .line 3
+    .line 4
+    return-void
+.end method
+
+.method public final writeMessage(ILcom/google/protobuf/MessageLite;Lcom/google/protobuf/Schema;)V
+    .locals 1
+
+    .line 1
+    const/4 v0, 0x2
+
+    .line 2
+    invoke-virtual {p0, p1, v0}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->writeTag(II)V
+
+    .line 3
+    .line 4
+    .line 5
+    move-object p1, p2
+
+    .line 6
+    check-cast p1, Lcom/google/protobuf/AbstractMessageLite;
+
+    .line 7
+    .line 8
+    invoke-virtual {p1, p3}, Lcom/google/protobuf/AbstractMessageLite;->getSerializedSize(Lcom/google/protobuf/Schema;)I
+
+    .line 9
+    .line 10
+    .line 11
+    move-result p1
+
+    .line 12
+    invoke-virtual {p0, p1}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->writeUInt32NoTag(I)V
+
+    .line 13
+    .line 14
+    .line 15
+    iget-object p0, p0, Lcom/google/protobuf/CodedOutputStream;->wrapper:Lcom/google/protobuf/CodedOutputStreamWriter;
+
+    .line 16
+    .line 17
+    invoke-interface {p3, p2, p0}, Lcom/google/protobuf/Schema;->writeTo(Ljava/lang/Object;Lcom/google/protobuf/CodedOutputStreamWriter;)V
+
+    .line 18
+    .line 19
+    .line 20
+    return-void
+.end method
+
+.method public final writeMessageNoTag(Lcom/google/protobuf/MessageLite;)V
+    .locals 2
+
+    .line 1
+    move-object v0, p1
+
+    .line 2
+    check-cast v0, Lcom/google/protobuf/GeneratedMessageLite;
+
+    .line 3
+    .line 4
+    const/4 v1, 0x0
+
+    .line 5
+    invoke-virtual {v0, v1}, Lcom/google/protobuf/GeneratedMessageLite;->getSerializedSize(Lcom/google/protobuf/Schema;)I
+
+    .line 6
+    .line 7
+    .line 8
+    move-result v0
+
+    .line 9
+    invoke-virtual {p0, v0}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->writeUInt32NoTag(I)V
+
+    .line 10
+    .line 11
+    .line 12
+    check-cast p1, Lcom/google/protobuf/GeneratedMessageLite;
+
+    .line 13
+    .line 14
+    invoke-virtual {p1, p0}, Lcom/google/protobuf/GeneratedMessageLite;->writeTo(Lcom/google/protobuf/CodedOutputStream;)V
+
+    .line 15
+    .line 16
+    .line 17
+    return-void
+.end method
+
+.method public final writeString(ILjava/lang/String;)V
+    .locals 1
+
+    .line 1
+    const/4 v0, 0x2
+
+    .line 2
+    invoke-virtual {p0, p1, v0}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->writeTag(II)V
+
+    .line 3
+    .line 4
+    .line 5
+    invoke-virtual {p0, p2}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->writeStringNoTag(Ljava/lang/String;)V
+
+    .line 6
+    .line 7
+    .line 8
+    return-void
+.end method
+
+.method public final writeStringNoTag(Ljava/lang/String;)V
+    .locals 5
+
+    .line 1
+    iget-object v0, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->buffer:[B
+
+    .line 2
+    .line 3
+    iget v1, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->limit:I
+
+    .line 4
+    .line 5
+    :try_start_0
+    invoke-virtual {p1}, Ljava/lang/String;->length()I
+
+    .line 6
+    .line 7
+    .line 8
+    move-result v2
+
+    .line 9
+    mul-int/lit8 v2, v2, 0x3
+
+    .line 10
+    .line 11
+    invoke-static {v2}, Lcom/google/protobuf/CodedOutputStream;->computeUInt32SizeNoTag(I)I
+
+    .line 12
+    .line 13
+    .line 14
+    move-result v3
+
+    .line 15
+    add-int v4, v3, v2
+
+    .line 16
+    .line 17
+    if-le v4, v1, :cond_0
+
+    .line 18
+    .line 19
+    new-array v0, v2, [B
+
+    .line 20
+    .line 21
+    const/4 v1, 0x0
+
+    .line 22
+    invoke-static {p1, v0, v1, v2}, Lcom/google/protobuf/Utf8;->encode(Ljava/lang/CharSequence;[BII)I
+
+    .line 23
+    .line 24
+    .line 25
+    move-result v2
+
+    .line 26
+    invoke-virtual {p0, v2}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->writeUInt32NoTag(I)V
+
+    .line 27
+    .line 28
+    .line 29
+    invoke-virtual {p0, v0, v1, v2}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->write([BII)V
+
+    .line 30
+    .line 31
+    .line 32
+    return-void
+
+    .line 33
+    :catch_0
+    move-exception v0
+
+    .line 34
+    goto :goto_3
+
+    .line 35
+    :cond_0
+    iget v2, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+
+    .line 36
+    .line 37
+    sub-int v2, v1, v2
+
+    .line 38
+    .line 39
+    if-le v4, v2, :cond_1
+
+    .line 40
+    .line 41
+    invoke-virtual {p0}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->doFlush()V
+
+    .line 42
+    .line 43
+    .line 44
+    :cond_1
+    invoke-virtual {p1}, Ljava/lang/String;->length()I
+
+    .line 45
+    .line 46
+    .line 47
+    move-result v2
+
+    .line 48
+    invoke-static {v2}, Lcom/google/protobuf/CodedOutputStream;->computeUInt32SizeNoTag(I)I
+
+    .line 49
+    .line 50
+    .line 51
+    move-result v2
+
+    .line 52
+    iget v4, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+    :try_end_0
+    .catch Lcom/google/protobuf/Utf8$UnpairedSurrogateException; {:try_start_0 .. :try_end_0} :catch_0
+
+    .line 53
+    .line 54
+    if-ne v2, v3, :cond_2
+
+    .line 55
+    .line 56
+    add-int v3, v4, v2
+
+    .line 57
+    .line 58
+    :try_start_1
+    iput v3, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+
+    .line 59
+    .line 60
+    sub-int/2addr v1, v3
+
+    .line 61
+    invoke-static {p1, v0, v3, v1}, Lcom/google/protobuf/Utf8;->encode(Ljava/lang/CharSequence;[BII)I
+
+    .line 62
+    .line 63
+    .line 64
+    move-result v0
+
+    .line 65
+    iput v4, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+
+    .line 66
+    .line 67
+    sub-int v1, v0, v4
+
+    .line 68
+    .line 69
+    sub-int/2addr v1, v2
+
+    .line 70
+    invoke-virtual {p0, v1}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->bufferUInt32NoTag(I)V
+
+    .line 71
+    .line 72
+    .line 73
+    iput v0, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+
+    .line 74
+    .line 75
+    goto :goto_0
+
+    .line 76
+    :catch_1
+    move-exception v0
+
+    .line 77
+    goto :goto_1
+
+    .line 78
+    :catch_2
+    move-exception v0
+
+    .line 79
+    goto :goto_2
+
+    .line 80
+    :cond_2
+    invoke-static {p1}, Lcom/google/protobuf/Utf8;->encodedLength(Ljava/lang/CharSequence;)I
+
+    .line 81
+    .line 82
+    .line 83
+    move-result v1
+
+    .line 84
+    invoke-virtual {p0, v1}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->bufferUInt32NoTag(I)V
+
+    .line 85
+    .line 86
+    .line 87
+    iget v2, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+
+    .line 88
+    .line 89
+    invoke-static {p1, v0, v2, v1}, Lcom/google/protobuf/Utf8;->encode(Ljava/lang/CharSequence;[BII)I
+
+    .line 90
+    .line 91
+    .line 92
+    move-result v0
+
+    .line 93
+    iput v0, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+    :try_end_1
+    .catch Lcom/google/protobuf/Utf8$UnpairedSurrogateException; {:try_start_1 .. :try_end_1} :catch_2
+    .catch Ljava/lang/ArrayIndexOutOfBoundsException; {:try_start_1 .. :try_end_1} :catch_1
+
+    .line 94
+    .line 95
+    :goto_0
+    return-void
+
+    .line 96
+    :goto_1
+    :try_start_2
+    new-instance v1, Lcom/google/protobuf/CodedOutputStream$OutOfSpaceException;
+
+    .line 97
+    .line 98
+    invoke-direct {v1, v0}, Lcom/google/protobuf/CodedOutputStream$OutOfSpaceException;-><init>(Ljava/lang/Throwable;)V
+
+    .line 99
+    .line 100
+    .line 101
+    throw v1
+
+    .line 102
+    :goto_2
+    iput v4, p0, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->position:I
+
+    .line 103
+    .line 104
+    throw v0
+    :try_end_2
+    .catch Lcom/google/protobuf/Utf8$UnpairedSurrogateException; {:try_start_2 .. :try_end_2} :catch_0
+
+    .line 105
+    :goto_3
+    invoke-virtual {p0, p1, v0}, Lcom/google/protobuf/CodedOutputStream;->inefficientWriteStringNoTag(Ljava/lang/String;Lcom/google/protobuf/Utf8$UnpairedSurrogateException;)V
+
+    .line 106
+    .line 107
+    .line 108
+    return-void
+.end method
+
+.method public final writeTag(II)V
+    .locals 0
+
+    .line 1
+    shl-int/lit8 p1, p1, 0x3
+
+    .line 2
+    .line 3
+    or-int/2addr p1, p2
+
+    .line 4
+    invoke-virtual {p0, p1}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->writeUInt32NoTag(I)V
+
+    .line 5
+    .line 6
+    .line 7
+    return-void
+.end method
+
+.method public final writeUInt32(II)V
+    .locals 1
+
+    .line 1
+    const/16 v0, 0x14
+
+    .line 2
+    .line 3
+    invoke-virtual {p0, v0}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->flushIfNotAvailable(I)V
+
+    .line 4
+    .line 5
+    .line 6
+    const/4 v0, 0x0
+
+    .line 7
+    invoke-virtual {p0, p1, v0}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->bufferTag(II)V
+
+    .line 8
+    .line 9
+    .line 10
+    invoke-virtual {p0, p2}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->bufferUInt32NoTag(I)V
+
+    .line 11
+    .line 12
+    .line 13
+    return-void
+.end method
+
+.method public final writeUInt32NoTag(I)V
+    .locals 1
+
+    .line 1
+    const/4 v0, 0x5
+
+    .line 2
+    invoke-virtual {p0, v0}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->flushIfNotAvailable(I)V
+
+    .line 3
+    .line 4
+    .line 5
+    invoke-virtual {p0, p1}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->bufferUInt32NoTag(I)V
+
+    .line 6
+    .line 7
+    .line 8
+    return-void
+.end method
+
+.method public final writeUInt64(IJ)V
+    .locals 1
+
+    .line 1
+    const/16 v0, 0x14
+
+    .line 2
+    .line 3
+    invoke-virtual {p0, v0}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->flushIfNotAvailable(I)V
+
+    .line 4
+    .line 5
+    .line 6
+    const/4 v0, 0x0
+
+    .line 7
+    invoke-virtual {p0, p1, v0}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->bufferTag(II)V
+
+    .line 8
+    .line 9
+    .line 10
+    invoke-virtual {p0, p2, p3}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->bufferUInt64NoTag(J)V
+
+    .line 11
+    .line 12
+    .line 13
+    return-void
+.end method
+
+.method public final writeUInt64NoTag(J)V
+    .locals 1
+
+    .line 1
+    const/16 v0, 0xa
+
+    .line 2
+    .line 3
+    invoke-virtual {p0, v0}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->flushIfNotAvailable(I)V
+
+    .line 4
+    .line 5
+    .line 6
+    invoke-virtual {p0, p1, p2}, Lcom/google/protobuf/CodedOutputStream$OutputStreamEncoder;->bufferUInt64NoTag(J)V
+
+    .line 7
+    .line 8
+    .line 9
+    return-void
+.end method

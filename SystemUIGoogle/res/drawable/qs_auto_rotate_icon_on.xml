@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector android:drawable="@drawable/vd_autorotate"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <target android:name="box_group" android:animation="@drawable/$qs_auto_rotate_icon_on__0" />
+    <target android:name="arrow_group_a" android:animation="@drawable/$qs_auto_rotate_icon_on__1" />
+    <target android:name="arrow_group_b" android:animation="@drawable/$qs_auto_rotate_icon_on__2" />
+    <target android:name="box_path_a" android:animation="@drawable/$qs_auto_rotate_icon_on__3" />
+    <target android:name="box_path_b" android:animation="@drawable/$qs_auto_rotate_icon_on__4" />
+</animated-vector>

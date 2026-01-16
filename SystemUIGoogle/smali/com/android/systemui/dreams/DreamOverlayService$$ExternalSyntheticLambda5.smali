@@ -1,0 +1,38 @@
+.class public final synthetic Lcom/android/systemui/dreams/DreamOverlayService$$ExternalSyntheticLambda5;
+.super Ljava/lang/Object;
+.source "go/retraceme af8e0b46c0cb0ee2c99e9b6d0c434e5c0b686fd9230eaab7fb9a40e3a9d0cf6f"
+
+# interfaces
+.implements Lcom/android/systemui/dreams/DreamOverlayService$ResetHandler$Callback;
+
+
+# instance fields
+.field public synthetic f$0:Lcom/android/systemui/dreams/DreamOverlayService;
+
+.field public synthetic f$1:Landroid/view/WindowManager$LayoutParams;
+
+
+# virtual methods
+.method public final onComplete()V
+    .locals 2
+
+    .line 1
+    iget-object v0, p0, Lcom/android/systemui/dreams/DreamOverlayService$$ExternalSyntheticLambda5;->f$0:Lcom/android/systemui/dreams/DreamOverlayService;
+
+    .line 2
+    .line 3
+    iget-object p0, p0, Lcom/android/systemui/dreams/DreamOverlayService$$ExternalSyntheticLambda5;->f$1:Landroid/view/WindowManager$LayoutParams;
+
+    .line 4
+    .line 5
+    sget-boolean v1, Lcom/android/systemui/dreams/DreamOverlayService;->DEBUG:Z
+
+    .line 6
+    .line 7
+    invoke-virtual {v0, p0}, Lcom/android/systemui/dreams/DreamOverlayService;->onStartDream(Landroid/view/WindowManager$LayoutParams;)V
+
+    .line 8
+    .line 9
+    .line 10
+    return-void
+.end method

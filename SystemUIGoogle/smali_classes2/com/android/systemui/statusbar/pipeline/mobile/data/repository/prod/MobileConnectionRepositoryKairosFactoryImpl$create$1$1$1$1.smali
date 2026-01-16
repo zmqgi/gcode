@@ -1,0 +1,13 @@
+.class public final Lcom/android/systemui/statusbar/pipeline/mobile/data/repository/prod/MobileConnectionRepositoryKairosFactoryImpl$create$1$1$1$1;
+.super Ljava/lang/Object;
+.source "go/retraceme af8e0b46c0cb0ee2c99e9b6d0c434e5c0b686fd9230eaab7fb9a40e3a9d0cf6f"
+
+
+# instance fields
+.field public synthetic $mobileLogger:Lcom/android/systemui/log/table/TableLogBuffer;
+
+.field public synthetic $mobileRepo:Lcom/android/systemui/statusbar/pipeline/mobile/data/repository/prod/MobileConnectionRepositoryKairosImpl;
+
+.field public synthetic $subId:I
+
+.field public synthetic this$0:Lcom/android/systemui/statusbar/pipeline/mobile/data/repository/prod/MobileConnectionRepositoryKairosFactoryImpl;

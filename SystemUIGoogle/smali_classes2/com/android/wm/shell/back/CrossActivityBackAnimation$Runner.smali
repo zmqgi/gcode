@@ -1,0 +1,138 @@
+.class public final Lcom/android/wm/shell/back/CrossActivityBackAnimation$Runner;
+.super Landroid/view/IRemoteAnimationRunner$Default;
+.source "go/retraceme af8e0b46c0cb0ee2c99e9b6d0c434e5c0b686fd9230eaab7fb9a40e3a9d0cf6f"
+
+
+# instance fields
+.field public final synthetic this$0:Lcom/android/wm/shell/back/CrossActivityBackAnimation;
+
+
+# direct methods
+.method public constructor <init>(Lcom/android/wm/shell/back/CrossActivityBackAnimation;)V
+    .locals 0
+
+    .line 1
+    iput-object p1, p0, Lcom/android/wm/shell/back/CrossActivityBackAnimation$Runner;->this$0:Lcom/android/wm/shell/back/CrossActivityBackAnimation;
+
+    .line 2
+    .line 3
+    invoke-direct {p0}, Landroid/view/IRemoteAnimationRunner$Default;-><init>()V
+
+    .line 4
+    .line 5
+    .line 6
+    return-void
+.end method
+
+
+# virtual methods
+.method public final onAnimationCancelled()V
+    .locals 0
+
+    .line 1
+    iget-object p0, p0, Lcom/android/wm/shell/back/CrossActivityBackAnimation$Runner;->this$0:Lcom/android/wm/shell/back/CrossActivityBackAnimation;
+
+    .line 2
+    .line 3
+    invoke-virtual {p0}, Lcom/android/wm/shell/back/CrossActivityBackAnimation;->finishAnimation()V
+
+    .line 4
+    .line 5
+    .line 6
+    return-void
+.end method
+
+.method public final onAnimationStart(I[Landroid/view/RemoteAnimationTarget;[Landroid/view/RemoteAnimationTarget;[Landroid/view/RemoteAnimationTarget;Landroid/view/IRemoteAnimationFinishedCallback;)V
+    .locals 2
+
+    .line 1
+    sget-object p1, Lcom/android/wm/shell/protolog/ShellProtoLogGroup;->WM_SHELL_BACK_PREVIEW:Lcom/android/wm/shell/protolog/ShellProtoLogGroup;
+
+    .line 2
+    .line 3
+    const/4 p3, 0x0
+
+    .line 4
+    new-array p4, p3, [Ljava/lang/Object;
+
+    .line 5
+    .line 6
+    const-string v0, "Start back to activity animation."
+
+    .line 7
+    .line 8
+    invoke-static {p1, v0, p4}, Lcom/android/internal/protolog/ProtoLog;->d(Lcom/android/internal/protolog/common/IProtoLogGroup;Ljava/lang/String;[Ljava/lang/Object;)V
+
+    .line 9
+    .line 10
+    .line 11
+    array-length p1, p2
+
+    .line 12
+    :goto_0
+    if-ge p3, p1, :cond_2
+
+    .line 13
+    .line 14
+    aget-object p4, p2, p3
+
+    .line 15
+    .line 16
+    iget v0, p4, Landroid/view/RemoteAnimationTarget;->mode:I
+
+    .line 17
+    .line 18
+    if-eqz v0, :cond_1
+
+    .line 19
+    .line 20
+    const/4 v1, 0x1
+
+    .line 21
+    if-eq v0, v1, :cond_0
+
+    .line 22
+    .line 23
+    goto :goto_1
+
+    .line 24
+    :cond_0
+    iget-object v0, p0, Lcom/android/wm/shell/back/CrossActivityBackAnimation$Runner;->this$0:Lcom/android/wm/shell/back/CrossActivityBackAnimation;
+
+    .line 25
+    .line 26
+    iput-object p4, v0, Lcom/android/wm/shell/back/CrossActivityBackAnimation;->closingTarget:Landroid/view/RemoteAnimationTarget;
+
+    .line 27
+    .line 28
+    goto :goto_1
+
+    .line 29
+    :cond_1
+    iget-object v0, p0, Lcom/android/wm/shell/back/CrossActivityBackAnimation$Runner;->this$0:Lcom/android/wm/shell/back/CrossActivityBackAnimation;
+
+    .line 30
+    .line 31
+    iput-object p4, v0, Lcom/android/wm/shell/back/CrossActivityBackAnimation;->enteringTarget:Landroid/view/RemoteAnimationTarget;
+
+    .line 32
+    .line 33
+    :goto_1
+    add-int/lit8 p3, p3, 0x1
+
+    .line 34
+    .line 35
+    goto :goto_0
+
+    .line 36
+    :cond_2
+    iget-object p0, p0, Lcom/android/wm/shell/back/CrossActivityBackAnimation$Runner;->this$0:Lcom/android/wm/shell/back/CrossActivityBackAnimation;
+
+    .line 37
+    .line 38
+    iput-object p5, p0, Lcom/android/wm/shell/back/CrossActivityBackAnimation;->finishCallback:Landroid/view/IRemoteAnimationFinishedCallback;
+
+    .line 39
+    .line 40
+    return-void
+.end method

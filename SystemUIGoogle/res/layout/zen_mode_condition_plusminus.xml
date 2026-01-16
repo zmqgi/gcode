@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:clipChildren="false" android:layout_width="wrap_content" android:layout_height="48.0dip" android:layout_weight="1.0" android:layout_marginStart="1.0dip" android:layout_marginEnd="0.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@android:id/button1" android:layout_width="48.0dip" android:layout_height="48.0dip" android:src="@android:drawable/ic_settings_language" android:scaleType="center" android:tint="?android:colorAccent" android:layout_centerVertical="true" android:contentDescription="@string/accessibility_manual_zen_less_time" style="@style/BorderlessButton" />
+    <ImageView android:id="@android:id/button2" android:layout_width="48.0dip" android:layout_height="48.0dip" android:src="@android:drawable/ic_vibrate_small" android:scaleType="center" android:tint="?android:colorAccent" android:layout_centerVertical="true" android:contentDescription="@string/accessibility_manual_zen_more_time" style="@style/BorderlessButton" />
+</LinearLayout>

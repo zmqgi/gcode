@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:name="root_vector" android:height="24.0dip" android:width="24.0dip" android:viewportWidth="24.0" android:viewportHeight="24.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:name="root_group" android:pivotX="32.0" android:pivotY="32.0" android:scaleX="0.7" android:scaleY="0.7" android:translateX="-20.0" android:translateY="-20.0">
+        <path android:name="top" android:fillColor="#ffffffff" android:pathData="M24 21.7182V23.1202H40.0533V21.7182C40.0533 21.0061 39.7969 20.4053 39.2841 19.9157C38.7936 19.4039 38.1916 19.1479 37.4781 19.1479H26.5752C25.8617 19.1479 25.2486 19.4039 24.7358 19.9157C24.2453 20.4053 24 21.0061 24 21.7182Z" />
+        <path android:name="body" android:fillColor="#ffffffff" android:pathData="@string/path_flashlight_on" android:fillType="evenOdd" />
+    </group>
+</vector>

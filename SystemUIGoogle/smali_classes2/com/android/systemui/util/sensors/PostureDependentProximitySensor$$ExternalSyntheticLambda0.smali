@@ -1,0 +1,44 @@
+.class public final synthetic Lcom/android/systemui/util/sensors/PostureDependentProximitySensor$$ExternalSyntheticLambda0;
+.super Ljava/lang/Object;
+.source "go/retraceme af8e0b46c0cb0ee2c99e9b6d0c434e5c0b686fd9230eaab7fb9a40e3a9d0cf6f"
+
+# interfaces
+.implements Lcom/android/systemui/statusbar/policy/DevicePostureController$Callback;
+
+
+# instance fields
+.field public synthetic f$0:Lcom/android/systemui/util/sensors/PostureDependentProximitySensor;
+
+
+# virtual methods
+.method public final onPostureChanged(I)V
+    .locals 1
+
+    .line 1
+    iget-object p0, p0, Lcom/android/systemui/util/sensors/PostureDependentProximitySensor$$ExternalSyntheticLambda0;->f$0:Lcom/android/systemui/util/sensors/PostureDependentProximitySensor;
+
+    .line 2
+    .line 3
+    iget v0, p0, Lcom/android/systemui/util/sensors/ProximitySensorImpl;->mDevicePosture:I
+
+    .line 4
+    .line 5
+    if-ne v0, p1, :cond_0
+
+    .line 6
+    .line 7
+    return-void
+
+    .line 8
+    :cond_0
+    iput p1, p0, Lcom/android/systemui/util/sensors/ProximitySensorImpl;->mDevicePosture:I
+
+    .line 9
+    .line 10
+    invoke-virtual {p0}, Lcom/android/systemui/util/sensors/PostureDependentProximitySensor;->chooseSensors()V
+
+    .line 11
+    .line 12
+    .line 13
+    return-void
+.end method

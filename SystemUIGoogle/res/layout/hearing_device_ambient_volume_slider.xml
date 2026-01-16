@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="4.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:androidprv="http://schemas.android.com/apk/prv/res/android">
+    <TextView android:textAppearance="@style/TextAppearance.HearingDeviceDialog.Title" android:textColor="@android:color/primary_dark_material_light" android:id="@id/ambient_volume_slider_title" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:labelFor="@id/ambient_volume_slider" style="@style/HearingDeviceDialog.Title" />
+    <com.google.android.material.slider.Slider android:theme="@style/Theme.Material3.DayNight" android:layout_gravity="center_vertical" android:id="@id/ambient_volume_slider" android:layout_width="fill_parent" android:layout_height="@dimen/bluetooth_dialog_device_height" app:labelBehavior="gone" style="@style/SystemUI.Material3.Slider" />
+</LinearLayout>

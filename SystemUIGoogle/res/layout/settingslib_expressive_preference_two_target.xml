@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.settingslib.widget.DrawableStateLinearLayout android:theme="?expressiveTwoTargetPreferenceTheme" android:layout_width="fill_parent" android:layout_height="wrap_content" style="?expressiveTwoTargetPreferenceRootStyle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/settingslib_expressive_preference_icon_frame" />
+    <include layout="@layout/settingslib_expressive_preference_text_frame" />
+    <include layout="@layout/settingslib_expressive_two_target_divider" />
+    <LinearLayout android:id="@android:id/widget_frame" style="?expressiveTwoTargetPreferenceWidgetFrameStyle" />
+</com.android.settingslib.widget.DrawableStateLinearLayout>
