@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <androidx.preference.PreferenceCategory android:title="@string/APKTOOL_DUMMYVAL_0x7f140c85">
+        <ListPreference android:entries="@array/APKTOOL_DUMMYVAL_0x7f030033" android:title="@string/APKTOOL_DUMMYVAL_0x7f140c84" android:key="@string/APKTOOL_DUMMYVAL_0x7f140a95" android:summary="%s" android:dialogTitle="@string/APKTOOL_DUMMYVAL_0x7f140c84" android:entryValues="@array/APKTOOL_DUMMYVAL_0x7f030043" />
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140b9d" android:key="@string/APKTOOL_DUMMYVAL_0x7f140917" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140b9b" />
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140b9a" android:key="@string/APKTOOL_DUMMYVAL_0x7f140916" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140b99" />
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140c0e" android:key="@string/APKTOOL_DUMMYVAL_0x7f14094e" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140c0d" />
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140c0c" android:key="@string/APKTOOL_DUMMYVAL_0x7f140949" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140c0b" />
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140b8b" android:key="@string/APKTOOL_DUMMYVAL_0x7f140932" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140b8a" />
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140c08" android:key="@string/APKTOOL_DUMMYVAL_0x7f140987" />
+        <Preference android:title="@string/APKTOOL_DUMMYVAL_0x7f140bfb" android:dependency="@string/APKTOOL_DUMMYVAL_0x7f140987" android:fragment="com.google.android.apps.inputmethod.libs.pinyin.fragment.FuzzyPinyinSettingFragment" />
+    </androidx.preference.PreferenceCategory>
+</PreferenceScreen>

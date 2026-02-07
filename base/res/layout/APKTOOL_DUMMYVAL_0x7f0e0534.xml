@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.widgets.SoftKeyboardView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b038e" style="@style/APKTOOL_DUMMYVAL_0x7f1502f8"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.libraries.inputmethod.widgets.scaledkeyboard.ScaledKeyboardViewInner app:APKTOOL_DUMMYVAL_0x7f0403b4="true" style="@style/APKTOOL_DUMMYVAL_0x7f150539">
+        <androidx.constraintlayout.widget.Guideline android:orientation="vertical" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0383" android:layout_width="wrap_content" android:layout_height="wrap_content" app:APKTOOL_DUMMYVAL_0x7f04072f="0.0dip" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_textediting_back_to_prime" app:APKTOOL_DUMMYVAL_0x7f040727="APKTOOL_DUMMYVAL_0x7f0b06f8" app:APKTOOL_DUMMYVAL_0x7f040740="@id/APKTOOL_DUMMYVAL_0x7f0b0383" app:APKTOOL_DUMMYVAL_0x7f040745="APKTOOL_DUMMYVAL_0x7f0b06f8" style="@style/APKTOOL_DUMMYVAL_0x7f1506ad" />
+        <FrameLayout android:id="@id/APKTOOL_DUMMYVAL_0x7f0b24a4" android:layout_width="0.0dip" android:layout_height="fill_parent" app:APKTOOL_DUMMYVAL_0x7f040727="APKTOOL_DUMMYVAL_0x7f0b06f8" app:APKTOOL_DUMMYVAL_0x7f04072d="APKTOOL_DUMMYVAL_0x7f0b06f8" app:APKTOOL_DUMMYVAL_0x7f040740="@id/key_pos_textediting_back_to_prime" app:APKTOOL_DUMMYVAL_0x7f040745="APKTOOL_DUMMYVAL_0x7f0b06f8">
+            <com.google.android.libraries.inputmethod.widgets.AutoCenterScaleTextView android:layout_gravity="start|center" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b24a3" android:focusable="true" android:text="@string/APKTOOL_DUMMYVAL_0x7f14067d" app:APKTOOL_DUMMYVAL_0x7f0408ff="APKTOOL_DUMMYVAL_0x7f0b0792" style="@style/APKTOOL_DUMMYVAL_0x7f1503b3" />
+        </FrameLayout>
+    </com.google.android.libraries.inputmethod.widgets.scaledkeyboard.ScaledKeyboardViewInner>
+</com.google.android.libraries.inputmethod.widgets.SoftKeyboardView>

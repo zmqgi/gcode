@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.apps.inputmethod.libs.japanese.keyboard.widget.MonolithicCandidatesRecyclerView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b03fa" app:APKTOOL_DUMMYVAL_0x7f04044d="60" app:APKTOOL_DUMMYVAL_0x7f04044e="30" app:APKTOOL_DUMMYVAL_0x7f04044f="@layout/APKTOOL_DUMMYVAL_0x7f0e06f4" app:APKTOOL_DUMMYVAL_0x7f0408ef="0" candidateTextOnlyLayout="@layout/APKTOOL_DUMMYVAL_0x7f0e06f6" candidate_background="@android:color/transparent" last_column_candidate_background="@android:color/transparent" style="@style/APKTOOL_DUMMYVAL_0x7f15033f"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" />

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <if show_secondary_digits="true">
+        <if language="kjg-LA">
+            <merge_key_mapping exclude_state="ALT,CTRL,META,ALTGR">
+                <merge key_id="@id/APKTOOL_DUMMYVAL_0x7f0b11c6" view_id="@id/F01" />
+                <merge key_id="@id/APKTOOL_DUMMYVAL_0x7f0b11e6" view_id="@id/F02" />
+                <merge key_id="@id/APKTOOL_DUMMYVAL_0x7f0b11de" view_id="@id/F03" />
+                <merge key_id="@id/APKTOOL_DUMMYVAL_0x7f0b11b6" view_id="@id/F04" />
+                <merge key_id="@id/APKTOOL_DUMMYVAL_0x7f0b11ae" view_id="@id/F05" />
+                <merge key_id="@id/APKTOOL_DUMMYVAL_0x7f0b11d6" view_id="@id/F06" />
+                <merge key_id="@id/APKTOOL_DUMMYVAL_0x7f0b11ce" view_id="@id/F07" />
+                <merge key_id="@id/APKTOOL_DUMMYVAL_0x7f0b11a6" view_id="@id/F08" />
+                <merge key_id="@id/APKTOOL_DUMMYVAL_0x7f0b11be" view_id="@id/F09" />
+                <merge key_id="@id/APKTOOL_DUMMYVAL_0x7f0b11ee" view_id="@id/F10" />
+            </merge_key_mapping>
+        </if>
+        <else_if language="lep-IN">
+            <merge_key_mapping exclude_state="ALT,CTRL,META,ALTGR">
+                <merge key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1239" view_id="@id/E01" />
+                <merge key_id="@id/APKTOOL_DUMMYVAL_0x7f0b123d" view_id="@id/E02" />
+                <merge key_id="@id/APKTOOL_DUMMYVAL_0x7f0b123c" view_id="@id/E03" />
+                <merge key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1237" view_id="@id/E04" />
+                <merge key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1236" view_id="@id/E05" />
+                <merge key_id="@id/APKTOOL_DUMMYVAL_0x7f0b123b" view_id="@id/E06" />
+                <merge key_id="@id/APKTOOL_DUMMYVAL_0x7f0b123a" view_id="@id/E07" />
+                <merge key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1235" view_id="@id/E08" />
+                <merge key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1238" view_id="@id/E09" />
+                <merge key_id="@id/APKTOOL_DUMMYVAL_0x7f0b123e" view_id="@id/E10" />
+            </merge_key_mapping>
+        </else_if>
+        <else>
+            <merge_key_mapping exclude_state="ALT,CTRL,META,ALTGR">
+                <merge key_id="@id/APKTOOL_DUMMYVAL_0x7f0b11c2" view_id="@id/F01" />
+                <merge key_id="@id/APKTOOL_DUMMYVAL_0x7f0b11e2" view_id="@id/F02" />
+                <merge key_id="@id/APKTOOL_DUMMYVAL_0x7f0b11da" view_id="@id/F03" />
+                <merge key_id="@id/APKTOOL_DUMMYVAL_0x7f0b11b2" view_id="@id/F04" />
+                <merge key_id="@id/APKTOOL_DUMMYVAL_0x7f0b11aa" view_id="@id/F05" />
+                <merge key_id="@id/APKTOOL_DUMMYVAL_0x7f0b11d2" view_id="@id/F06" />
+                <merge key_id="@id/APKTOOL_DUMMYVAL_0x7f0b11ca" view_id="@id/F07" />
+                <merge key_id="@id/APKTOOL_DUMMYVAL_0x7f0b11a2" view_id="@id/F08" />
+                <merge key_id="@id/APKTOOL_DUMMYVAL_0x7f0b11ba" view_id="@id/F09" />
+                <merge key_id="@id/APKTOOL_DUMMYVAL_0x7f0b11ea" view_id="@id/F10" />
+                <merge key_id="@id/APKTOOL_DUMMYVAL_0x7f0b11d2" view_id="@id/F06_dup" />
+            </merge_key_mapping>
+        </else>
+        <merge_key_mapping exclude_state="ALT,CTRL,META,ALTGR">
+            <merge key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1118" view_id="@id/F11" />
+        </merge_key_mapping>
+    </if>
+</framework>

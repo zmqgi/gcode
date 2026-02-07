@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/APKTOOL_DUMMYVAL_0x7f140d85" android:key="spell_checker_settings"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140d8e" android:key="@string/APKTOOL_DUMMYVAL_0x7f1409b2" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140d8d" />
+    <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140d87" android:key="@string/APKTOOL_DUMMYVAL_0x7f14094d" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140d86">
+        <extra android:name="hide_if_flag_is_false" android:value="enable_grammar_checker=false" />
+    </SwitchPreferenceCompat>
+</PreferenceScreen>

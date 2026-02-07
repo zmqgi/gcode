@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey alpha="@attr/APKTOOL_DUMMYVAL_0x7f040174" content_description="@string/APKTOOL_DUMMYVAL_0x7f140d72" id="@id/APKTOOL_DUMMYVAL_0x7f0b1f64" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e06b7" long_press_delay="500" multi_touch="false">
+            <action data=" " keycode="SPACE" type="PRESS" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170d31" />
+            <icon location="@id/APKTOOL_DUMMYVAL_0x7f0b03a3" value="@attr/APKTOOL_DUMMYVAL_0x7f0401b9" />
+        </softkey>
+        <softkey alpha="@attr/APKTOOL_DUMMYVAL_0x7f040174" content_description="@string/APKTOOL_DUMMYVAL_0x7f140d72" id="@id/APKTOOL_DUMMYVAL_0x7f0b1f66" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e06b7" multi_touch="false">
+            <action data=" " keycode="SPACE" type="PRESS" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170d32" />
+            <icon location="@id/APKTOOL_DUMMYVAL_0x7f0b03a3" value="@attr/APKTOOL_DUMMYVAL_0x7f0401b9" />
+        </softkey>
+        <softkey content_description="@string/APKTOOL_DUMMYVAL_0x7f140d72" id="@id/APKTOOL_DUMMYVAL_0x7f0b1f5f" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e073b" long_press_delay="500">
+            <action data=" " keycode="SPACE" type="PRESS" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170d31" />
+            <label location="@id/APKTOOL_DUMMYVAL_0x7f0b05fa" value="@string/APKTOOL_DUMMYVAL_0x7f140669" />
+        </softkey>
+        <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1f5b" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e073a" multi_touch="false">
+            <action data="0" keycode="KEYCODE_0" type="PRESS" />
+            <label location="@id/APKTOOL_DUMMYVAL_0x7f0b05fa" value="0" />
+        </softkey>
+        <softkey content_description="@string/APKTOOL_DUMMYVAL_0x7f140d72" id="@id/APKTOOL_DUMMYVAL_0x7f0b1f5c" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e073b" long_press_delay="500">
+            <action data=" " keycode="SPACE" type="PRESS" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170d31" />
+            <label location="@id/APKTOOL_DUMMYVAL_0x7f0b05fa" value=" " />
+        </softkey>
+        <softkey content_description="@string/APKTOOL_DUMMYVAL_0x7f140d72" id="@id/APKTOOL_DUMMYVAL_0x7f0b1f5d" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e073b">
+            <action data=" " keycode="SPACE" type="PRESS" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170d32" />
+            <label location="@id/APKTOOL_DUMMYVAL_0x7f0b05fa" value=" " />
+        </softkey>
+        <softkey content_description="@string/APKTOOL_DUMMYVAL_0x7f140d72" id="@id/APKTOOL_DUMMYVAL_0x7f0b1ce3" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e073b" long_press_delay="500">
+            <action data=" " keycode="SPACE" type="PRESS" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170d31" />
+            <label location="@id/APKTOOL_DUMMYVAL_0x7f0b05fa" value=" " />
+        </softkey>
+        <softkey content_description="@string/APKTOOL_DUMMYVAL_0x7f140d72" id="@id/APKTOOL_DUMMYVAL_0x7f0b0811" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e0741" multi_touch="false" popup_timing="ON_GESTURE">
+            <action data=" " keycode="SPACE" type="PRESS" />
+            <action data="0" intention="COMMIT" keycode="KEYCODE_0" popup_label="0" popup_layout="@layout/APKTOOL_DUMMYVAL_0x7f0e0620" type="LONG_PRESS" />
+            <label location="@id/APKTOOL_DUMMYVAL_0x7f0b05fa" value="@string/APKTOOL_DUMMYVAL_0x7f140669" />
+            <label location="@id/APKTOOL_DUMMYVAL_0x7f0b0608" value="0" />
+        </softkey>
+        <softkey content_description="@string/APKTOOL_DUMMYVAL_0x7f140d72" id="@id/APKTOOL_DUMMYVAL_0x7f0b1f68" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e0740" long_press_delay="500">
+            <action data=" " keycode="SPACE" type="PRESS" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170d31" />
+            <label location="@id/APKTOOL_DUMMYVAL_0x7f0b0609" value="拼" />
+            <label location="@id/APKTOOL_DUMMYVAL_0x7f0b05fb" value="音" />
+        </softkey>
+        <softkey content_description="@string/APKTOOL_DUMMYVAL_0x7f140d72" id="@id/APKTOOL_DUMMYVAL_0x7f0b1f67" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e073f" long_press_delay="500">
+            <action data=" " keycode="SPACE" type="PRESS" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170d31" />
+            <label location="@id/APKTOOL_DUMMYVAL_0x7f0b05fa" value="拼音" />
+        </softkey>
+        <softkey content_description="@string/APKTOOL_DUMMYVAL_0x7f140d72" id="@id/APKTOOL_DUMMYVAL_0x7f0b1f65" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e073b" long_press_delay="500">
+            <action intention="COMMIT" keycode="SPACE" type="PRESS" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170d31" />
+            <label location="@id/APKTOOL_DUMMYVAL_0x7f0b05fa" value=" " />
+        </softkey>
+    </softkeys>
+</framework>

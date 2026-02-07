@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1b80" view_id="@id/D01" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1e4a" view_id="@id/D02" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1f6b" view_id="@id/D03" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1f54" view_id="@id/D04" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0f2d" view_id="@id/D05" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0f2e" view_id="@id/D06" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0f2f" view_id="@id/D07" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1e2b" view_id="@id/D08" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1a32" view_id="@id/C01" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1e97" view_id="@id/C02" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1a27" view_id="@id/C03" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1e8d" view_id="@id/C04" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0f30" view_id="@id/C05" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0f31" view_id="@id/C06" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0f32" view_id="@id/C07" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1005" view_id="@id/C08" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1f69" view_id="@id/B00" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1f56" view_id="@id/B01" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1bae" view_id="@id/B02" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0fa6" view_id="@id/B03" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0f33" view_id="@id/B04" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0f34" view_id="@id/B05" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0f35" view_id="@id/B06" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0dfc" view_id="@id/key_pos_del" />
+    </key_mapping>
+</framework>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime announce_auto_selected_candidate="true" ascii_capable="true" auto_capital="true" class="com.google.android.apps.inputmethod.libs.latin5.LatinIme" display_app_completions="true" language="cs" string_id="ime_czech">
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170768" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f1705e3" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170761" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f1705e3" main_def="@xml/APKTOOL_DUMMYVAL_0x7f1708af" variant="qwertz" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f17075d" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f1705e3" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f17075f" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f1705e3" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f17075e" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f1705e3" />
+    </ime>
+</framework>

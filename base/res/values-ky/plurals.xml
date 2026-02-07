@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">%s функцияларын көп колдоносузбу? Эми аларды бул жерден оңой иштете аласыз.</item>
+        <item quantity="one">%s функциясын көп колдоносузбу? Эми аны бул жерден оңой иштете аласыз.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">%d баскыч дайындалган</item>
+        <item quantity="one">%d баскыч дайындалган</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">%s орнотулду.</item>
+        <item quantity="one">%s орнотулду.</item>
+    </plurals>
+</resources>

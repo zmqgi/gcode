@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime announce_auto_selected_candidate="true" ascii_capable="true" auto_capital="true" class="com.google.android.apps.inputmethod.libs.latin5.LatinIme" display_app_completions="true" language="vmf-DE" string_id="ime_east_franconian_german">
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170761" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f170732" main_def="@xml/APKTOOL_DUMMYVAL_0x7f1708b0" variant="east_franconian_german" variant_label="@string/APKTOOL_DUMMYVAL_0x7f1414a7" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170768" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f170732" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f17076b" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f170732" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f17075d" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f170732" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f17075f" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f170732" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170761" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f170732" main_def="@xml/APKTOOL_DUMMYVAL_0x7f1707e4" variant="de_neo2" variant_label="@string/APKTOOL_DUMMYVAL_0x7f141497" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f17075e" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f170732" />
+    </ime>
+</framework>

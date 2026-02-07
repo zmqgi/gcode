@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.widgets.RingAnimationView android:layout_width="@dimen/APKTOOL_DUMMYVAL_0x7f07040e" android:layout_height="@dimen/APKTOOL_DUMMYVAL_0x7f07040e" app:APKTOOL_DUMMYVAL_0x7f040806="@dimen/APKTOOL_DUMMYVAL_0x7f07040e" app:APKTOOL_DUMMYVAL_0x7f040819="@dimen/APKTOOL_DUMMYVAL_0x7f07040f"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" />

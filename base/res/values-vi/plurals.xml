@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">Bạn thường xuyên dùng %s? Bạn hiện có thể dễ dàng truy cập các tính năng này tại đây.</item>
+        <item quantity="one">Bạn thường xuyên dùng %s? Bạn hiện có thể dễ dàng truy cập tính năng này tại đây.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">Đã chỉ định %d phím</item>
+        <item quantity="one">Đã chỉ định %d phím</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">%s hiện đã được cài đặt.</item>
+        <item quantity="one">%s hiện đã được cài đặt.</item>
+    </plurals>
+</resources>

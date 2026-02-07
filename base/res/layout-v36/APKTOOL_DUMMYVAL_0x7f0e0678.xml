@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:textAppearance="@style/APKTOOL_DUMMYVAL_0x7f150983" android:textColor="@color/APKTOOL_DUMMYVAL_0x7f060bf2" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b07db" android:paddingBottom="@dimen/APKTOOL_DUMMYVAL_0x7f0708eb" android:visibility="gone" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:filterTouchesWhenObscured="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

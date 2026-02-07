@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.libraries.inputmethod.widgets.NonLinearScaleImageView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b03a3" android:layout_centerInParent="true" style="@style/APKTOOL_DUMMYVAL_0x7f150316" />
+    <TextView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b05fb" android:layout_alignParentBottom="true" android:layout_alignParentEnd="true" style="@style/APKTOOL_DUMMYVAL_0x7f1503e9" />
+</RelativeLayout>

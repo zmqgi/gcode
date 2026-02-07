@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:paddingTop="24.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView app:APKTOOL_DUMMYVAL_0x7f040727="APKTOOL_DUMMYVAL_0x7f0b06f8" app:APKTOOL_DUMMYVAL_0x7f04072e="@id/APKTOOL_DUMMYVAL_0x7f0b24bb" app:APKTOOL_DUMMYVAL_0x7f040745="APKTOOL_DUMMYVAL_0x7f0b06f8" style="@style/APKTOOL_DUMMYVAL_0x7f150abb" />
+    <ImageView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b24bb" android:layout_marginEnd="24.0dip" app:APKTOOL_DUMMYVAL_0x7f040727="APKTOOL_DUMMYVAL_0x7f0b06f8" app:APKTOOL_DUMMYVAL_0x7f04072d="APKTOOL_DUMMYVAL_0x7f0b06f8" app:APKTOOL_DUMMYVAL_0x7f040745="APKTOOL_DUMMYVAL_0x7f0b06f8" style="@style/APKTOOL_DUMMYVAL_0x7f150ab9" />
+</androidx.constraintlayout.widget.ConstraintLayout>

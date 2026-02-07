@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/APKTOOL_DUMMYVAL_0x7f0b05c4" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:splitMotionEvents="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.libraries.inputmethod.keyboardmode.MultiTouchDelegateView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b05c7" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <FrameLayout android:id="@id/APKTOOL_DUMMYVAL_0x7f0b05c9" android:layout_width="wrap_content" android:layout_height="wrap_content" android:splitMotionEvents="false" style="@style/APKTOOL_DUMMYVAL_0x7f15036c">
+        <ImageView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b05d6" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/APKTOOL_DUMMYVAL_0x7f0701cc" android:layout_marginTop="@dimen/APKTOOL_DUMMYVAL_0x7f0701cd" android:layout_marginRight="@dimen/APKTOOL_DUMMYVAL_0x7f0701cc" android:layout_marginBottom="@dimen/APKTOOL_DUMMYVAL_0x7f0701cb" android:scaleType="fitCenter" android:adjustViewBounds="true" android:importantForAccessibility="no" />
+        <ImageView android:layout_gravity="center|left|top" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b05cb" android:contentDescription="@string/APKTOOL_DUMMYVAL_0x7f1403a8" style="@style/APKTOOL_DUMMYVAL_0x7f1502d9" />
+        <ImageView android:layout_gravity="bottom|center|left" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b05ca" android:contentDescription="@string/APKTOOL_DUMMYVAL_0x7f1403a6" android:rotation="270.0" style="@style/APKTOOL_DUMMYVAL_0x7f1502d9" />
+        <ImageView android:layout_gravity="center|right|top" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b05cd" android:contentDescription="@string/APKTOOL_DUMMYVAL_0x7f1403ab" android:rotation="90.0" style="@style/APKTOOL_DUMMYVAL_0x7f1502d9" />
+        <ImageView android:layout_gravity="bottom|center|right" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b05cc" android:contentDescription="@string/APKTOOL_DUMMYVAL_0x7f1403a9" android:rotation="180.0" style="@style/APKTOOL_DUMMYVAL_0x7f1502d9" />
+    </FrameLayout>
+</FrameLayout>

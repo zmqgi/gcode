@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1ef0" view_id="@id/key_pos_shift_right" />
+    </key_mapping>
+    <key_mapping state="SHIFT">
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1ef5" view_id="@id/key_pos_shift_right" />
+    </key_mapping>
+    <key_mapping state="SHIFT_LOCK">
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1ef2" view_id="@id/key_pos_shift_right" />
+    </key_mapping>
+    <key_mapping state="SHIFT_COMBO">
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1ef6" view_id="@id/key_pos_shift_right" />
+    </key_mapping>
+</framework>

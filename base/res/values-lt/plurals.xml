@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">Dažnai naudojate %s? Dabar rasite čia, kad būtų lengva pasiekti.</item>
+        <item quantity="one">Dažnai naudojate %s? Dabar rasite čia, kad būtų lengva pasiekti.</item>
+        <item quantity="few">Dažnai naudojate %s? Dabar rasite čia, kad būtų lengva pasiekti.</item>
+        <item quantity="many">Dažnai naudojate %s? Dabar rasite čia, kad būtų lengva pasiekti.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">Priskirta %d klavišų</item>
+        <item quantity="one">Priskirtas %d klavišas</item>
+        <item quantity="few">Priskirti %d klavišai</item>
+        <item quantity="many">Priskirta %d klavišo</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">Dabar %s k. įdiegtos.</item>
+        <item quantity="one">Dabar %s k. įdiegtos.</item>
+        <item quantity="few">Dabar %s k. įdiegtos.</item>
+        <item quantity="many">Dabar %s k. įdiegtos.</item>
+    </plurals>
+</resources>

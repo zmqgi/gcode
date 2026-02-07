@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout style="@style/APKTOOL_DUMMYVAL_0x7f150398"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView style="@style/APKTOOL_DUMMYVAL_0x7f150393" />
+    <LinearLayout style="@style/APKTOOL_DUMMYVAL_0x7f150452">
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_undo" android:layout_weight="250.0" style="@style/APKTOOL_DUMMYVAL_0x7f150704" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_left_arrow" android:layout_weight="250.0" style="@style/APKTOOL_DUMMYVAL_0x7f150704" />
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="250.0">
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_switch_to_symbol" android:visibility="gone" android:layout_weight="100.0" style="@style/APKTOOL_DUMMYVAL_0x7f150709" />
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_switch_to_smiley" android:visibility="gone" android:layout_weight="100.0" style="@style/APKTOOL_DUMMYVAL_0x7f150709" />
+        </LinearLayout>
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_switch_hiragana_alphabet" android:layout_weight="250.0" style="@style/APKTOOL_DUMMYVAL_0x7f150703" />
+    </LinearLayout>
+</FrameLayout>

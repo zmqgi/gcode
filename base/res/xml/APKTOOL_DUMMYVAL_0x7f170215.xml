@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime announce_auto_selected_candidate="true" ascii_capable="true" auto_capital="true" class="com.google.android.apps.inputmethod.libs.latin5.LatinIme" display_app_completions="true" language="fr" string_id="ime_french" supports_inline_suggestion="true">
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170768" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f17060a" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f17076b" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f17060a" />
+        <keyboard_group supports_split_mode="true" variant="azerty">
+            <if enable_dynamic_diacritic_key="true">
+                <attrs dynamic_layout="french_presto" />
+            </if>
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170003" />
+            <layout_specific_settings resource_id="@xml/APKTOOL_DUMMYVAL_0x7f1700fc" />
+            <keyboard def="@xml/APKTOOL_DUMMYVAL_0x7f17060a" type="prime">
+                <merge def="@xml/APKTOOL_DUMMYVAL_0x7f1707cf" />
+            </keyboard>
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f1709b2" />
+        </keyboard_group>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f17075f" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f17060a" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f17075e" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f17060a" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f1700df" />
+    </ime>
+</framework>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/APKTOOL_DUMMYVAL_0x7f140c8d" android:key="@string/APKTOOL_DUMMYVAL_0x7f140ab9"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <androidx.preference.PreferenceCategory android:title="@string/APKTOOL_DUMMYVAL_0x7f140c5a" android:key="@string/APKTOOL_DUMMYVAL_0x7f140c20">
+        <extra android:name="NON_INDEXABLE" android:value="true" />
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140be7" android:key="@string/APKTOOL_DUMMYVAL_0x7f140970" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140bd7" />
+        <com.google.android.libraries.inputmethod.preferencewidgets.LinkableSwitchPreference android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140c7b" android:key="@string/APKTOOL_DUMMYVAL_0x7f140a92" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140c79" />
+        <com.google.android.libraries.inputmethod.preferencewidgets.LinkableSwitchPreference android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140bf6" android:key="@string/APKTOOL_DUMMYVAL_0x7f140af2" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140bf4" />
+        <Preference android:persistent="false" android:title="@string/APKTOOL_DUMMYVAL_0x7f140ba0" android:key="@string/APKTOOL_DUMMYVAL_0x7f140cdd" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140b9f" />
+    </androidx.preference.PreferenceCategory>
+    <androidx.preference.PreferenceCategory android:title="@string/APKTOOL_DUMMYVAL_0x7f140c92" android:key="@string/APKTOOL_DUMMYVAL_0x7f140c91">
+        <com.google.android.libraries.inputmethod.preferencewidgets.AutoSyncedSwitchPreference android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140be8" android:key="@string/APKTOOL_DUMMYVAL_0x7f140972" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140cf1">
+            <extra android:name="hide_if_flag_is_false" android:value="enable_voice_donation_flow=false" />
+        </com.google.android.libraries.inputmethod.preferencewidgets.AutoSyncedSwitchPreference>
+    </androidx.preference.PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.libraries.inputmethod.widgets.AutoCenterScaleTextView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b05fa" android:tag="@null" app:APKTOOL_DUMMYVAL_0x7f040823="?APKTOOL_DUMMYVAL_0x7f04026a" app:APKTOOL_DUMMYVAL_0x7f0408ff="APKTOOL_DUMMYVAL_0x7f0b0792" style="@style/APKTOOL_DUMMYVAL_0x7f1503b5" />
+    <TextView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b05fe" android:tag="@null" style="@style/APKTOOL_DUMMYVAL_0x7f1503e3" />
+    <TextView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b05fd" android:tag="@null" style="@style/APKTOOL_DUMMYVAL_0x7f1503eb" />
+</merge>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey_template disable_lift_to_tap="true" id="@id/APKTOOL_DUMMYVAL_0x7f0b2193" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e0708" popup_timing="ON_GESTURE" span="$span$">
+            <action data="$param_data$" intention="COMMIT" keycode="SHORT_TEXT" type="PRESS" />
+            <label location="@id/APKTOOL_DUMMYVAL_0x7f0b05fa" value="$param_data$" />
+        </softkey_template>
+    </softkeys>
+</framework>

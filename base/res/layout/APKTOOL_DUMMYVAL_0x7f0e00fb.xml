@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ScrollView android:layout_gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:layout_marginBottom="20.0dip" android:layout_marginHorizontal="@dimen/APKTOOL_DUMMYVAL_0x7f0701a0" app:APKTOOL_DUMMYVAL_0x7f040727="APKTOOL_DUMMYVAL_0x7f0b06f8" app:APKTOOL_DUMMYVAL_0x7f04072e="APKTOOL_DUMMYVAL_0x7f0b06f8" app:APKTOOL_DUMMYVAL_0x7f040741="APKTOOL_DUMMYVAL_0x7f0b06f8" app:APKTOOL_DUMMYVAL_0x7f040745="APKTOOL_DUMMYVAL_0x7f0b06f8">
+        <TextView android:gravity="center_horizontal" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b03df" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/APKTOOL_DUMMYVAL_0x7f1502c0" />
+    </ScrollView>
+    <ImageView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b03dc" android:tag=".fast-access-bar-arrow" android:layout_width="55.0dip" android:layout_height="25.0dip" android:src="@drawable/APKTOOL_DUMMYVAL_0x7f08048d" android:scaleType="fitCenter" android:contentDescription="@null" android:layout_marginEnd="@dimen/APKTOOL_DUMMYVAL_0x7f070199" app:APKTOOL_DUMMYVAL_0x7f040727="APKTOOL_DUMMYVAL_0x7f0b06f8" app:APKTOOL_DUMMYVAL_0x7f04072d="APKTOOL_DUMMYVAL_0x7f0b06f8" />
+</androidx.constraintlayout.widget.ConstraintLayout>

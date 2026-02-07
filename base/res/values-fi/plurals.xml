@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">Käytätkö ominaisuuksia (%s) usein? Ne ovat nyt täällä, jotta pääset niihin helposti.</item>
+        <item quantity="one">Käytätkö ominaisuuksia (%s) usein? Se on nyt täällä, jotta pääset siihen helposti.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">%d näppäintä määritetty</item>
+        <item quantity="one">%d näppäintä määritetty</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">%s on nyt asennettu.</item>
+        <item quantity="one">%s on nyt asennettu.</item>
+    </plurals>
+</resources>

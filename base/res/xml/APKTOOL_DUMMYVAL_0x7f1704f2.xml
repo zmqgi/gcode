@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime always_show_suggestions="true" announce_auto_selected_candidate="true" class="com.google.android.apps.inputmethod.libs.chinese.ime.AsyncChineseProcessorBasedIme" display_app_completions="true" indicator_label="教院" inline_composing="false" language="zh-HK" language_specific_settings="@xml/APKTOOL_DUMMYVAL_0x7f171083" string_id="ime_zh_hk_cantonese" use_ascii_password_keyboard="true">
+        <if physical_keyboard="qwerty">
+            <attrs language_specific_settings="@xml/APKTOOL_DUMMYVAL_0x7f171084" />
+        </if>
+        <if pref_enable_chinese_inline_composing_hk="true">
+            <attrs inline_composing="true" />
+        </if>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f17076c" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f170743" layout_settings="@xml/APKTOOL_DUMMYVAL_0x7f171085" main_def="@xml/APKTOOL_DUMMYVAL_0x7f17056d" pk_language_tag="en" variant="qwerty-cantonese" variant_label="@string/APKTOOL_DUMMYVAL_0x7f141474" variant_name_mandatory="true" />
+        <extra_values>
+            <item id="@id/APKTOOL_DUMMYVAL_0x7f0b02dc" value="true" />
+            <item id="@id/APKTOOL_DUMMYVAL_0x7f0b02d7" value="true" />
+            <item id="@id/APKTOOL_DUMMYVAL_0x7f0b02ec" value="。" />
+            <item id="@id/APKTOOL_DUMMYVAL_0x7f0b02d3" value="@string/APKTOOL_DUMMYVAL_0x7f14093c" />
+            <item id="@id/APKTOOL_DUMMYVAL_0x7f0b02eb" value="hmm" />
+            <item id="@id/APKTOOL_DUMMYVAL_0x7f0b02cf" value="pinyin_standard_cantonese_pinyin" />
+            <item id="@id/APKTOOL_DUMMYVAL_0x7f0b02f3" value="@string/APKTOOL_DUMMYVAL_0x7f140667" />
+            <item id="@id/APKTOOL_DUMMYVAL_0x7f0b02c9" res="@xml/APKTOOL_DUMMYVAL_0x7f17056c" />
+        </extra_values>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170d0d" />
+    </ime>
+</framework>

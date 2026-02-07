@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/APKTOOL_DUMMYVAL_0x7f170537" />
+    <include href="@xml/APKTOOL_DUMMYVAL_0x7f17070c" />
+    <keyboard>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f1708cd" />
+        <view type="body">
+            <softkeys href="@xml/APKTOOL_DUMMYVAL_0x7f170e14" />
+            <softkeys href="@xml/APKTOOL_DUMMYVAL_0x7f171067" />
+            <softkeys href="@xml/APKTOOL_DUMMYVAL_0x7f17105f" />
+            <softkeys href="@xml/APKTOOL_DUMMYVAL_0x7f170f10" />
+            <softkeys href="@xml/APKTOOL_DUMMYVAL_0x7f170e32" />
+            <softkeys href="@xml/APKTOOL_DUMMYVAL_0x7f170d43" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170aaf" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170c5d" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170ac5" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170c3c" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170a03" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b6a" />
+        </view>
+    </keyboard>
+</framework>

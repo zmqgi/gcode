@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">หากคุณใช้ %s อยู่บ่อยๆ ฟีเจอร์เหล่านั้นย้ายมาอยู่ที่นี่แล้วเพื่อให้คุณเข้าถึงได้โดยง่าย</item>
+        <item quantity="one">หากคุณใช้ %s อยู่บ่อยๆ ฟีเจอร์ดังกล่าวย้ายมาอยู่ที่นี่แล้วเพื่อให้คุณเข้าถึงได้โดยง่าย</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">กำหนดคีย์แล้ว %d รายการ</item>
+        <item quantity="one">กำหนดคีย์แล้ว %d รายการ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">ติดตั้ง %s แล้ว</item>
+        <item quantity="one">ติดตั้ง %s แล้ว</item>
+    </plurals>
+</resources>

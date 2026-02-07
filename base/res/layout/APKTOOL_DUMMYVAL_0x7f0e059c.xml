@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:gravity="center" android:layout_gravity="center" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b065f" android:layout_width="?APKTOOL_DUMMYVAL_0x7f040269" android:layout_height="?APKTOOL_DUMMYVAL_0x7f040269"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:tag=".background-icon.for-mic-protection" android:padding="@dimen/APKTOOL_DUMMYVAL_0x7f0706fe" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/APKTOOL_DUMMYVAL_0x7f08021f" android:importantForAccessibility="no" />
+    <ImageView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0662" android:tag=".background-icon.for-sticky-mic" android:padding="@dimen/APKTOOL_DUMMYVAL_0x7f0706fe" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/APKTOOL_DUMMYVAL_0x7f08021f" android:importantForAccessibility="no" />
+    <ImageView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0661" android:tag=".outline.for-dotkit-sticky-mic" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/APKTOOL_DUMMYVAL_0x7f08068e" android:importantForAccessibility="no" />
+    <com.google.android.libraries.search.p6glow.AssistantP6GlowView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0660" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="@dimen/APKTOOL_DUMMYVAL_0x7f0706fe" app:APKTOOL_DUMMYVAL_0x7f0405e7="180.0" app:APKTOOL_DUMMYVAL_0x7f04067c="0.45" app:APKTOOL_DUMMYVAL_0x7f04070b="APKTOOL_DUMMYVAL_0x7f0b0083" app:APKTOOL_DUMMYVAL_0x7f040770="@dimen/APKTOOL_DUMMYVAL_0x7f0706fd" />
+</FrameLayout>

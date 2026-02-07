@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple android:color="?android:colorControlHighlight"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:start="?android:listPreferredItemPaddingStart" android:end="?android:listPreferredItemPaddingEnd">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/APKTOOL_DUMMYVAL_0x7f060bfc" />
+            <corners android:radius="@dimen/APKTOOL_DUMMYVAL_0x7f0708d7" />
+        </shape>
+    </item>
+</ripple>

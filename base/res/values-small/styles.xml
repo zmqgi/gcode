@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="APKTOOL_DUMMYVAL_0x7f150c50" parent="@style/APKTOOL_DUMMYVAL_0x7f150b42">
+        <item name="APKTOOL_DUMMYVAL_0x7f0407ba">@style/APKTOOL_DUMMYVAL_0x7f150c58</item>
+    </style>
+    <style name="APKTOOL_DUMMYVAL_0x7f150c58" parent="@style/APKTOOL_DUMMYVAL_0x7f150470">
+        <item name="android:minHeight">65.0dip</item>
+    </style>
+</resources>

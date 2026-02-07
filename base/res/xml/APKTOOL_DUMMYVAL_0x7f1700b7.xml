@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dynamic_keys>
+    <key>
+        <action state="0" type="PRESS">୍</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ଅ</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ଆ</action>
+        <action state="0" type="LONG_PRESS">ା</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ଇ</action>
+        <action state="0" type="LONG_PRESS">ି</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ଈ</action>
+        <action state="0" type="LONG_PRESS">ୀ</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ଉ</action>
+        <action state="0" type="LONG_PRESS">ୁ</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ଊ</action>
+        <action state="0" type="LONG_PRESS">ୂ</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ଋ</action>
+        <action state="0" type="LONG_PRESS">ୃ</action>
+        <action state="0" type="LONG_PRESS">ୠ</action>
+        <action state="0" type="LONG_PRESS">ୄ</action>
+        <action state="0" type="LONG_PRESS">ଌ</action>
+        <action state="0" type="LONG_PRESS">ୢ</action>
+        <action state="0" type="LONG_PRESS">ୡ</action>
+        <action state="0" type="LONG_PRESS">ୣ</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ଏ</action>
+        <action state="0" type="LONG_PRESS">େ</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ଐ</action>
+        <action state="0" type="LONG_PRESS">ୈ</action>
+        <action state="0" type="LONG_PRESS">ୖ</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ଓ</action>
+        <action state="0" type="LONG_PRESS">ୋ</action>
+        <action state="0" type="LONG_PRESS">ଔ</action>
+        <action state="0" type="LONG_PRESS">ୌ</action>
+        <action state="0" type="LONG_PRESS">ୗ</action>
+    </key>
+</dynamic_keys>

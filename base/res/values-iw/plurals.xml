@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">יצא לך להשתמש הרבה בתכונות %s? עכשיו הן כאן ואפשר לגשת אליהן בקלות.</item>
+        <item quantity="one">יצא לך להשתמש הרבה בתכונות %s? עכשיו הן כאן ואפשר לגשת אליהן בקלות.</item>
+        <item quantity="two">יצא לך להשתמש הרבה בתכונות %s? עכשיו הן כאן ואפשר לגשת אליהן בקלות.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">הוקצו %d תווים</item>
+        <item quantity="one">הוקצו %d תווים</item>
+        <item quantity="two">הוקצו %d תווים</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">%s מותקנות עכשיו.</item>
+        <item quantity="one">%s מותקנות עכשיו.</item>
+        <item quantity="two">%s מותקנות עכשיו.</item>
+    </plurals>
+</resources>

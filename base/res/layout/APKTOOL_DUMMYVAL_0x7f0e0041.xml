@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:card_view="http://schemas.android.com/apk/res-auto">
+    <com.google.android.material.card.MaterialCardView android:layout_gravity="top" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b07a7" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="16.0dip" card_view:APKTOOL_DUMMYVAL_0x7f040453="?APKTOOL_DUMMYVAL_0x7f04050a" card_view:APKTOOL_DUMMYVAL_0x7f040454="28.0dip" card_view:APKTOOL_DUMMYVAL_0x7f040455="0.0dip" card_view:APKTOOL_DUMMYVAL_0x7f040992="0.0dip">
+        <android.support.v7.widget.Toolbar android:id="@id/APKTOOL_DUMMYVAL_0x7f0b07a5" android:layout_width="fill_parent" android:layout_height="52.0dip" android:layout_marginEnd="32.0dip" card_view:APKTOOL_DUMMYVAL_0x7f040868="@string/APKTOOL_DUMMYVAL_0x7f140b53" card_view:APKTOOL_DUMMYVAL_0x7f040869="?APKTOOL_DUMMYVAL_0x7f0401b2">
+            <EditText android:textSize="20.0sp" android:textColor="?APKTOOL_DUMMYVAL_0x7f0404e4" android:ellipsize="end" android:layout_gravity="center" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b07a4" android:background="@null" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/APKTOOL_DUMMYVAL_0x7f140b52" android:singleLine="true" android:inputType="text" android:importantForAutofill="no" />
+        </android.support.v7.widget.Toolbar>
+        <ImageView android:layout_gravity="end|center" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b018d" android:background="@drawable/APKTOOL_DUMMYVAL_0x7f080223" android:padding="6.0dip" android:visibility="gone" android:layout_width="36.0dip" android:layout_height="36.0dip" android:src="@drawable/APKTOOL_DUMMYVAL_0x7f0805ed" android:tint="?APKTOOL_DUMMYVAL_0x7f0404e4" android:contentDescription="@string/APKTOOL_DUMMYVAL_0x7f140175" android:layout_marginEnd="6.0dip" />
+    </com.google.android.material.card.MaterialCardView>
+    <FrameLayout android:id="@android:id/list_container" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+</LinearLayout>

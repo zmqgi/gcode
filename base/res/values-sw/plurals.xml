@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">Unatumia %s mara kwa mara? Sasa tumeziweka hapa ili uzifikie kwa urahisi.</item>
+        <item quantity="one">Unatumia %s mara kwa mara? Sasa tumeiweka hapa ili uifikie kwa urahisi.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">Vitufe %d vimepewa majukumu</item>
+        <item quantity="one">Kitufe %d kimepewa majukumu</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">Sasa %s zimesakinishwa.</item>
+        <item quantity="one">Sasa %s imesakinishwa.</item>
+    </plurals>
+</resources>

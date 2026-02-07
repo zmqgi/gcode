@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">Používáte funkce %s často? Teď jsou tady, aby byly snadno dostupné.</item>
+        <item quantity="one">Používáte funkci %s často? Teď je tady, aby byla snadno dostupná.</item>
+        <item quantity="few">Používáte funkce %s často? Teď jsou tady, aby byly snadno dostupné.</item>
+        <item quantity="many">Používáte funkce %s často? Teď jsou tady, aby byly snadno dostupné.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">Přiřazeno %d kláves</item>
+        <item quantity="one">Přiřazena %d klávesa</item>
+        <item quantity="few">Přiřazeny %d klávesy</item>
+        <item quantity="many">Přiřazeno %d klávesy</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">%s jazyků je nainstalováno.</item>
+        <item quantity="one">Jazyk %s je nainstalován.</item>
+        <item quantity="few">%s jazyky jsou nainstalovány.</item>
+        <item quantity="many">%s jazyka je nainstalováno.</item>
+    </plurals>
+</resources>

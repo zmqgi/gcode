@@ -1,0 +1,3696 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <if>
+        <any_of>
+            <cond language="aa-ET" variant="qwerty" />
+            <cond language="abr-GH" variant="qwerty" />
+            <cond language="abs-ID" variant="qwerty" />
+            <cond language="ace-ID" variant="qwerty" />
+            <cond language="acf-LC" variant="qwerty" />
+            <cond language="ach-UG" variant="qwerty" />
+            <cond language="act-NL" variant="qwerty" />
+            <cond language="ada-GH" variant="qwerty" />
+            <cond language="af-ZA" variant="qwerty" />
+            <cond language="ahr-IN" variant="qwerty" />
+            <cond language="ajg-BJ" variant="qwerty" />
+            <cond language="ak-GH" variant="qwerty" />
+            <cond language="ak-GH-x-akuapem" variant="qwerty" />
+            <cond language="ak-GH-x-asante" variant="qwerty" />
+            <cond language="alz-CD" variant="qwerty" />
+            <cond language="ami-TW" variant="qwerty" />
+            <cond language="an-ES" variant="qwerty" />
+            <cond language="anp-IN" variant="qwerty" />
+            <cond language="anw-NG" variant="qwerty" />
+            <cond language="arn-CL" variant="qwerty" />
+            <cond language="as-IN" variant="qwerty" />
+            <cond language="as-Latn-IN" variant="qwerty" />
+            <cond language="ast-ES" variant="qwerty" />
+            <cond language="awa-IN" variant="qwerty" />
+            <cond language="ay-BO" variant="qwerty" />
+            <cond language="ay-PE" variant="qwerty" />
+            <cond language="az-AZ" variant="qwerty" />
+            <cond language="bah-BS" variant="qwerty" />
+            <cond language="bal-PK" variant="qwerty" />
+            <cond language="ban-ID" variant="qwerty" />
+            <cond language="bar-AT" variant="qwerty" />
+            <cond language="bas-CM" variant="qwerty" />
+            <cond language="bbc-ID" variant="qwerty" />
+            <cond language="bbj-CM" variant="qwerty" />
+            <cond language="bcc-PK" variant="qwerty" />
+            <cond language="bci-CI" variant="qwerty" />
+            <cond language="bcl-PH" variant="qwerty" />
+            <cond language="bcq-ET" variant="qwerty" />
+            <cond language="bem-ZM" variant="qwerty" />
+            <cond language="ber-Latn" variant="qwerty" />
+            <cond language="bew-ID" variant="qwerty" />
+            <cond language="bft-PK" variant="qwerty" />
+            <cond language="bfy-IN" variant="qwerty" />
+            <cond language="bfz-IN" variant="qwerty" />
+            <cond language="bgc-IN" variant="qwerty" />
+            <cond language="bgn-PK" variant="qwerty" />
+            <cond language="bgp-Arab" variant="qwerty" />
+            <cond language="bgq-IN" variant="qwerty" />
+            <cond language="bgq-PK" variant="qwerty" />
+            <cond language="bgx-TR" variant="qwerty" />
+            <cond language="bgz-ID" variant="qwerty" />
+            <cond language="bhb-Deva-IN" variant="qwerty" />
+            <cond language="bhb-Gujr-IN" variant="qwerty" />
+            <cond language="bho-IN" variant="qwerty" />
+            <cond language="bi-VU" variant="qwerty" />
+            <cond language="bin-NG" variant="qwerty" />
+            <cond language="bjj-IN" variant="qwerty" />
+            <cond language="bjn-ID" variant="qwerty" />
+            <cond language="blt-Latn" variant="qwerty" />
+            <cond language="bm-ML" variant="qwerty" />
+            <cond language="bmm-MG" variant="qwerty" />
+            <cond language="bn-BD" variant="qwerty" />
+            <cond language="bn-IN" variant="qwerty" />
+            <cond language="bn-Latn" variant="qwerty" />
+            <cond language="bns-IN" variant="qwerty" />
+            <cond language="bo-CN" variant="qwerty" />
+            <cond language="bom-NG" variant="qwerty" />
+            <cond language="bpr-PH" variant="qwerty" />
+            <cond language="bpy-IN" variant="qwerty" />
+            <cond language="br-FR" variant="qwerty" />
+            <cond language="brh-Arab-PK" variant="qwerty" />
+            <cond language="brh-PK" variant="qwerty" />
+            <cond language="brx-Beng-IN" variant="qwerty" />
+            <cond language="brx-Deva-IN" variant="qwerty" />
+            <cond language="brx-Latn-IN" variant="qwerty" />
+            <cond language="bs-BA" variant="qwerty" />
+            <cond language="bss-CM" variant="qwerty" />
+            <cond language="btm-ID" variant="qwerty" />
+            <cond language="bto-PH" variant="qwerty" />
+            <cond language="bts-ID" variant="qwerty" />
+            <cond language="btx-ID" variant="qwerty" />
+            <cond language="btz-ID" variant="qwerty" />
+            <cond language="bud-TG" variant="qwerty" />
+            <cond language="bug-ID" variant="qwerty" />
+            <cond language="bum-CM" variant="qwerty" />
+            <cond language="bxg-CD" variant="qwerty" />
+            <cond language="bxk-KE" variant="qwerty" />
+            <cond language="bzc-MG" variant="qwerty" />
+            <cond language="ca" variant="qwerty" />
+            <cond language="cat-x-val" variant="qwerty" />
+            <cond language="cbk-PH" variant="qwerty" />
+            <cond language="cce-MZ" variant="qwerty" />
+            <cond language="ccp-BD" variant="qwerty" />
+            <cond language="cdo-CN" variant="qwerty" />
+            <cond language="ceb-PH" variant="qwerty" />
+            <cond language="cgg-UG" variant="qwerty" />
+            <cond language="ch-GU" variant="qwerty" />
+            <cond language="cho-US" variant="qwerty" />
+            <cond language="chw-MZ" variant="qwerty" />
+            <cond language="cja-Latn" variant="qwerty" />
+            <cond language="cjk-AO" variant="qwerty" />
+            <cond language="cjk-CD" variant="qwerty" />
+            <cond language="cjm-Latn" variant="qwerty" />
+            <cond language="cnh-MM" variant="qwerty" />
+            <cond language="cnr-Latn-ME" variant="qwerty" />
+            <cond language="co" variant="qwerty" />
+            <cond language="cps-PH" variant="qwerty" />
+            <cond language="cr-Latn-CA" variant="qwerty" />
+            <cond language="crh-Latn" variant="qwerty" />
+            <cond language="crs-SC" variant="qwerty" />
+            <cond language="cs-CZ" variant="qwerty" />
+            <cond language="csb-PL" variant="qwerty" />
+            <cond language="ctg-BD" variant="qwerty" />
+            <cond language="cy-GB" variant="qwerty" />
+            <cond language="cyo-PH" variant="qwerty" />
+            <cond language="da-DK" variant="qwerty" />
+            <cond language="dag-GH" variant="qwerty" />
+            <cond language="dcc-IN" variant="qwerty" />
+            <cond language="de-AT" variant="qwerty" />
+            <cond language="de-BE" variant="qwerty" />
+            <cond language="de-CH" variant="qwerty" />
+            <cond language="de-DE" variant="qwerty" />
+            <cond language="de-LU" variant="qwerty" />
+            <cond language="dga-GH" variant="qwerty" />
+            <cond language="dhd-IN" variant="qwerty" />
+            <cond language="din" variant="qwerty" />
+            <cond language="diq-TR" variant="qwerty" />
+            <cond language="dje-NE" variant="qwerty" />
+            <cond language="dnj-CI" variant="qwerty" />
+            <cond language="doi-Arab" variant="qwerty" />
+            <cond language="doi-Deva" variant="qwerty" />
+            <cond language="doi-Latn" variant="qwerty" />
+            <cond language="drs-ET" variant="qwerty" />
+            <cond language="drt-NL" variant="qwerty" />
+            <cond language="dsb-DE" variant="qwerty" />
+            <cond language="dtp-MY" variant="qwerty" />
+            <cond language="dty-NP" variant="qwerty" />
+            <cond language="dyu-CI" variant="qwerty" />
+            <cond language="dzg-TD" variant="qwerty" />
+            <cond language="ee" variant="qwerty" />
+            <cond language="efi-NG" variant="qwerty" />
+            <cond language="egl-IT" variant="qwerty" />
+            <cond language="el-GR" variant="qwerty" />
+            <cond language="en-AU" variant="handwriting" />
+            <cond language="en-AU" variant="pcqwerty" />
+            <cond language="en-AU" variant="qwerty" />
+            <cond language="en-CA" variant="handwriting" />
+            <cond language="en-CA" variant="pcqwerty" />
+            <cond language="en-CA" variant="qwerty" />
+            <cond language="en-GB" variant="qwerty" />
+            <cond language="en-IN" variant="qwerty" />
+            <cond language="en-KE" variant="handwriting" />
+            <cond language="en-KE" variant="pcqwerty" />
+            <cond language="en-KE" variant="qwerty" />
+            <cond language="en-NG" variant="handwriting" />
+            <cond language="en-NG" variant="pcqwerty" />
+            <cond language="en-NG" variant="qwerty" />
+            <cond language="en-PH" variant="english_philippines" />
+            <cond language="en-PH" variant="handwriting" />
+            <cond language="en-PH" variant="pcqwerty" />
+            <cond language="en-PH" variant="qwerty" />
+            <cond language="en-US" variant="clariti" />
+            <cond language="en-US" variant="freq" />
+            <cond language="en-US" variant="handwriting" />
+            <cond language="en-US" variant="morse_2" />
+            <cond language="en-US" variant="pcqwerty" />
+            <cond language="en-US" variant="qwerty" />
+            <cond language="en-ZA" variant="handwriting" />
+            <cond language="en-ZA" variant="pcqwerty" />
+            <cond language="en-ZA" variant="qwerty" />
+            <cond language="eo" variant="qwerty" />
+            <cond language="es-419" variant="qwerty" />
+            <cond language="es-AR" variant="qwerty" />
+            <cond language="es-ES" variant="qwerty" />
+            <cond language="es-MX" variant="qwerty" />
+            <cond language="es-US" variant="qwerty" />
+            <cond language="et-EE" variant="qwerty" />
+            <cond language="eu-ES" variant="qwerty" />
+            <cond language="ewo-CM" variant="qwerty" />
+            <cond language="ext-ES" variant="qwerty" />
+            <cond language="fa-IR" variant="qwerty" />
+            <cond language="fan-GQ" variant="qwerty" />
+            <cond language="fat-GH" variant="qwerty" />
+            <cond language="ff-Latn" variant="qwerty" />
+            <cond language="fi-FI" variant="qwerty" />
+            <cond language="fj-FJ" variant="qwerty" />
+            <cond language="fo-FO" variant="qwerty" />
+            <cond language="fon-BJ" variant="qwerty" />
+            <cond language="fr-002" variant="qwerty" />
+            <cond language="fr-BE" variant="qwerty" />
+            <cond language="fr-CA" variant="qwerty" />
+            <cond language="fr-CH" variant="qwerty" />
+            <cond language="fr-FR" variant="qwerty" />
+            <cond language="fub-CM" variant="qwerty" />
+            <cond language="fuc-SN" variant="qwerty" />
+            <cond language="fuh-NE" variant="qwerty" />
+            <cond language="fur-IT" variant="qwerty" />
+            <cond language="fuv-NG" variant="qwerty" />
+            <cond language="fy-NL" variant="qwerty" />
+            <cond language="ga" variant="qwerty" />
+            <cond language="gag-MD" variant="qwerty" />
+            <cond language="gax-ET" variant="qwerty" />
+            <cond language="gay-ID" variant="qwerty" />
+            <cond language="gbm-IN" variant="qwerty" />
+            <cond language="gbo-LR" variant="qwerty" />
+            <cond language="gcf-GP" variant="qwerty" />
+            <cond language="gcr-GF" variant="qwerty" />
+            <cond language="gd-GB" variant="qwerty" />
+            <cond language="gdx-IN" variant="qwerty" />
+            <cond language="gil-KI" variant="qwerty" />
+            <cond language="gju-Deva" variant="qwerty" />
+            <cond language="gju-PK" variant="qwerty" />
+            <cond language="gl-ES" variant="qwerty" />
+            <cond language="gmv-ET" variant="qwerty" />
+            <cond language="gn" variant="qwerty" />
+            <cond language="gno-IN" variant="qwerty" />
+            <cond language="gno-Telu-IN" variant="qwerty" />
+            <cond language="gog-TZ" variant="qwerty" />
+            <cond language="gor-ID" variant="qwerty" />
+            <cond language="gos-NL" variant="qwerty" />
+            <cond language="gpe-GH" variant="qwerty" />
+            <cond language="gqr-TD" variant="qwerty" />
+            <cond language="grt-Beng" variant="qwerty" />
+            <cond language="grt-Latn" variant="qwerty" />
+            <cond language="gsw-CH" variant="qwerty" />
+            <cond language="gu-IN" variant="qwerty" />
+            <cond language="gu-Latn-IN" variant="qwerty" />
+            <cond language="guc-CO" variant="qwerty" />
+            <cond language="gur-GH" variant="qwerty" />
+            <cond language="gux-BF" variant="qwerty" />
+            <cond language="guz-KE" variant="qwerty" />
+            <cond language="gv" variant="qwerty" />
+            <cond language="gvl-TD" variant="qwerty" />
+            <cond language="gvr-NP" />
+            <cond language="gyn-GY" variant="qwerty" />
+            <cond language="ha-GH" variant="qwerty" />
+            <cond language="ha-NG" variant="qwerty" />
+            <cond language="hae-ET" variant="qwerty" />
+            <cond language="hak-CN" variant="qwerty" />
+            <cond language="haq-TZ" variant="qwerty" />
+            <cond language="haw" variant="qwerty" />
+            <cond language="hay-TZ" variant="qwerty" />
+            <cond language="hdy-Latn-ET" variant="qwerty" />
+            <cond language="hea-CN" variant="qwerty" />
+            <cond language="heh-TZ" variant="qwerty" />
+            <cond language="hi-IN" variant="qwerty" />
+            <cond language="hi-Latn-IN" variant="qwerty" />
+            <cond language="hif-Latn-FJ" variant="qwerty" />
+            <cond language="hil-PH" variant="qwerty" />
+            <cond language="hlb-IN" variant="qwerty" />
+            <cond language="hlb-Orya-IN" variant="qwerty" />
+            <cond language="hmn" variant="qwerty" />
+            <cond language="hnd-PK" variant="qwerty" />
+            <cond language="hne-IN" variant="qwerty" />
+            <cond language="hni-CN" variant="qwerty" />
+            <cond language="hno-PK" variant="qwerty" />
+            <cond language="ho-PG" variant="qwerty" />
+            <cond language="hoj-IN" variant="qwerty" />
+            <cond language="hr-HR" variant="qwerty" />
+            <cond language="hrx-BR" variant="qwerty" />
+            <cond language="hsb-DE" variant="qwerty" />
+            <cond language="ht-HT" variant="qwerty" />
+            <cond language="hu-HU" variant="qwerty" />
+            <cond language="hvn-ID" variant="qwerty" />
+            <cond language="hwc-US" variant="qwerty" />
+            <cond language="hy-AM" variant="qwerty" />
+            <cond language="ia" variant="qwerty" />
+            <cond language="iba-MY" variant="qwerty" />
+            <cond language="ibb-NG" variant="qwerty" />
+            <cond language="ig-NG" variant="qwerty" />
+            <cond language="igb-NG" variant="qwerty" />
+            <cond language="igl-NG" variant="qwerty" />
+            <cond language="ii-CN" variant="qwerty" />
+            <cond language="ii-Latn-CN" variant="qwerty" />
+            <cond language="ijc-NG" variant="qwerty" />
+            <cond language="ilo-PH" variant="qwerty" />
+            <cond language="in-ID" variant="qwerty" />
+            <cond language="is-IS" variant="qwerty" />
+            <cond language="iso-NG" variant="qwerty" />
+            <cond language="it-CH" variant="qwerty" />
+            <cond language="it-IT" variant="qwerty" />
+            <cond language="itv-PH" variant="qwerty" />
+            <cond language="iu-Latn-CA" variant="qwerty" />
+            <cond language="ium-CN" variant="qwerty" />
+            <cond language="iw-IL" variant="qwerty" />
+            <cond language="jam-JM" variant="qwerty" />
+            <cond language="jax-ID" variant="qwerty" />
+            <cond language="jbo" variant="qwerty" />
+            <cond language="ji" variant="qwerty" />
+            <cond language="jv-ID-x-bms" variant="qwerty" />
+            <cond language="jv-Latn-ID" variant="qwerty" />
+            <cond language="kaa-UZ" variant="qwerty" />
+            <cond language="kac-MM" variant="qwerty" />
+            <cond language="kam-KE" variant="qwerty" />
+            <cond language="kao-ML" variant="qwerty" />
+            <cond language="kbp-TG" variant="qwerty" />
+            <cond language="kbr-ET" variant="qwerty" />
+            <cond language="kde-TZ" variant="qwerty" />
+            <cond language="kea-CV" variant="qwerty" />
+            <cond language="kek-GT" variant="qwerty" />
+            <cond language="kfq-IN" variant="qwerty" />
+            <cond language="kfy-IN" variant="qwerty" />
+            <cond language="kg-AO" variant="qwerty" />
+            <cond language="kge-ID" variant="qwerty" />
+            <cond language="kgp-BR" variant="qwerty" />
+            <cond language="kha-IN" variant="qwerty" />
+            <cond language="khw-PK" variant="qwerty" />
+            <cond language="ki-KE" variant="qwerty" />
+            <cond language="kiu-TR" variant="qwerty" />
+            <cond language="kj" variant="qwerty" />
+            <cond language="kk-Latn-KZ" variant="qwerty" />
+            <cond language="kl-GL" variant="qwerty" />
+            <cond language="km-KH" variant="qwerty" />
+            <cond language="kmb-AO" variant="qwerty" />
+            <cond language="kmz-Latn-IR" variant="qwerty" />
+            <cond language="kn-IN" variant="qwerty" />
+            <cond language="kn-Latn-IN" variant="qwerty" />
+            <cond language="kne-PH" variant="qwerty" />
+            <cond language="kng-CD" variant="qwerty" />
+            <cond language="knn-IN" variant="qwerty" />
+            <cond language="ko-KR" variant="korean_10key" />
+            <cond language="ko-KR" variant="korean_naratgul" />
+            <cond language="ko-KR" variant="korean_single_vowel" />
+            <cond language="ko-KR" variant="korean_two_bulsik" />
+            <cond language="ko-KR" variant="korean_vega" />
+            <cond language="kok-Deva-IN" variant="qwerty" />
+            <cond language="kok-Knda-IN" variant="qwerty" />
+            <cond language="kok-Latn-IN" variant="qwerty" />
+            <cond language="koo-UG" variant="qwerty" />
+            <cond language="kr-NG" variant="qwerty" />
+            <cond language="kri-SL" variant="qwerty" />
+            <cond language="krj-PH" variant="qwerty" />
+            <cond language="krl-RU" variant="qwerty" />
+            <cond language="kru-IN" variant="qwerty" />
+            <cond language="ks-Arab" variant="qwerty" />
+            <cond language="ks-Deva" variant="qwerty" />
+            <cond language="ks-Latn" variant="qwerty" />
+            <cond language="ksh-DE" variant="qwerty" />
+            <cond language="ktb-Latn-ET" variant="qwerty" />
+            <cond language="ktu-CD" variant="qwerty" />
+            <cond language="ku" variant="qwerty" />
+            <cond language="kw-GB" variant="qwerty" />
+            <cond language="la" variant="qwerty" />
+            <cond language="lad-BA" variant="qwerty" />
+            <cond language="lad-IL" variant="qwerty" />
+            <cond language="laj-UG" variant="qwerty" />
+            <cond language="las-TG" variant="qwerty" />
+            <cond language="lb-LU" variant="qwerty" />
+            <cond language="led-CD" variant="qwerty" />
+            <cond language="lew-ID" variant="qwerty" />
+            <cond language="lg-UG" variant="qwerty" />
+            <cond language="lgg-UG" variant="qwerty" />
+            <cond language="lhu-CN" variant="qwerty" />
+            <cond language="li-NL" variant="qwerty" />
+            <cond language="lif-Deva" variant="qwerty" />
+            <cond language="lij-IT" variant="qwerty" />
+            <cond language="liv-LV" variant="qwerty" />
+            <cond language="ljp-ID" variant="qwerty" />
+            <cond language="lkt-US" variant="qwerty" />
+            <cond language="lld-IT" variant="qwerty" />
+            <cond language="lmn-Deva-IN" variant="qwerty" />
+            <cond language="lmn-Knda-IN" variant="qwerty" />
+            <cond language="lmn-Telu-IN" variant="qwerty" />
+            <cond language="lmo-IT" variant="qwerty" />
+            <cond language="ln-AO" variant="qwerty" />
+            <cond language="ln-CD" variant="qwerty" />
+            <cond language="lo-LA" variant="qwerty" />
+            <cond language="lon-MW" variant="qwerty" />
+            <cond language="lt-LT" variant="qwerty" />
+            <cond language="ltg-LV" variant="qwerty" />
+            <cond language="lu-CD" variant="qwerty" />
+            <cond language="lua-CD" variant="qwerty" />
+            <cond language="luo-KE" variant="qwerty" />
+            <cond language="lus-IN" variant="qwerty" />
+            <cond language="lv-LV" variant="qwerty" />
+            <cond language="mad-ID" variant="qwerty" />
+            <cond language="mag-IN" variant="qwerty" />
+            <cond language="mag-NP" variant="qwerty" />
+            <cond language="mai-IN" variant="qwerty" />
+            <cond language="mai-Latn" variant="qwerty" />
+            <cond language="mak-ID" variant="qwerty" />
+            <cond language="mas-KE" variant="qwerty" />
+            <cond language="max-ID" variant="qwerty" />
+            <cond language="mcn-TD" variant="qwerty" />
+            <cond language="mde-Latn" variant="qwerty" />
+            <cond language="mdh-PH" variant="qwerty" />
+            <cond language="mdr-ID" variant="qwerty" />
+            <cond language="mel-MY" variant="qwerty" />
+            <cond language="men-SL" variant="qwerty" />
+            <cond language="meo-MY" variant="qwerty" />
+            <cond language="mer-KE" variant="qwerty" />
+            <cond language="mfb-ID" variant="qwerty" />
+            <cond language="mfp-ID" variant="qwerty" />
+            <cond language="mfq-TG" variant="qwerty" />
+            <cond language="mg-MG" variant="qwerty" />
+            <cond language="mgh-MZ" variant="qwerty" />
+            <cond language="mhy-ID" variant="qwerty" />
+            <cond language="mi-NZ" variant="qwerty" />
+            <cond language="min-ID" variant="qwerty" />
+            <cond language="mjl-IN" variant="qwerty" />
+            <cond language="mkw-CD" variant="qwerty" />
+            <cond language="ml-IN" variant="qwerty" />
+            <cond language="ml-Latn-IN" variant="qwerty" />
+            <cond language="mmr-CN" variant="qwerty" />
+            <cond language="mn-MN" variant="qwerty" />
+            <cond language="mnb-ID" variant="qwerty" />
+            <cond language="mni-Beng-IN" variant="qwerty" />
+            <cond language="mni-Latn-IN" variant="qwerty" />
+            <cond language="mni-Mtei-IN" variant="qwerty" />
+            <cond language="mnk-Latn" variant="qwerty" />
+            <cond language="mnp-CN" variant="qwerty" />
+            <cond language="mog-ID" variant="qwerty" />
+            <cond language="mos-BF" variant="qwerty" />
+            <cond language="mpg-TD" variant="qwerty" />
+            <cond language="mqj-ID" variant="qwerty" />
+            <cond language="mqy-ID" variant="qwerty" />
+            <cond language="mr-IN" variant="qwerty" />
+            <cond language="mr-Latn-IN" variant="qwerty" />
+            <cond language="mrw-PH" variant="qwerty" />
+            <cond language="ms-BN" variant="qwerty" />
+            <cond language="ms-MY" variant="qwerty" />
+            <cond language="ms-SG" variant="qwerty" />
+            <cond language="msi-MY" variant="qwerty" />
+            <cond language="mt-MT" variant="qwerty" />
+            <cond language="mtq-VN" variant="qwerty" />
+            <cond language="mtr-IN" variant="qwerty" />
+            <cond language="mua-TD" variant="qwerty" />
+            <cond language="mui-ID" variant="qwerty" />
+            <cond language="mul-x-ipa" variant="qwerty" />
+            <cond language="mup-IN" variant="qwerty" />
+            <cond language="mve-PK" variant="qwerty" />
+            <cond language="mvp-ID" variant="qwerty" />
+            <cond language="mwm-TD" variant="qwerty" />
+            <cond language="mww-CN" variant="qwerty" />
+            <cond language="myx-UG" variant="qwerty" />
+            <cond language="na-NR" variant="qwerty" />
+            <cond language="nah-MX" variant="qwerty" />
+            <cond language="nan-Latn" variant="qwerty" />
+            <cond language="nan-x-tl" variant="qwerty" />
+            <cond language="nap-IT" variant="qwerty" />
+            <cond language="nb-NO" variant="qwerty" />
+            <cond language="ndc-ZW" variant="qwerty" />
+            <cond language="nde-ZW" variant="qwerty" />
+            <cond language="nds-DE" variant="qwerty" />
+            <cond language="ne-IN" variant="qwerty" />
+            <cond language="ne-Latn" variant="qwerty" />
+            <cond language="ne-NP" variant="qwerty" />
+            <cond language="ng-NA" variant="qwerty" />
+            <cond language="nga-CD" variant="qwerty" />
+            <cond language="ngl-MZ" variant="qwerty" />
+            <cond language="nia-ID" variant="qwerty" />
+            <cond language="nij-ID" variant="qwerty" />
+            <cond language="niq-KE" variant="qwerty" />
+            <cond language="niu-NU" variant="qwerty" />
+            <cond language="nl-BE" variant="qwerty" />
+            <cond language="nl-NL" variant="qwerty" />
+            <cond language="nn-NO" variant="qwerty" />
+            <cond language="nnb-CD" variant="qwerty" />
+            <cond language="noe-IN" variant="qwerty" />
+            <cond language="nr-ZA" variant="qwerty" />
+            <cond language="nrf-FR" variant="qwerty" />
+            <cond language="nrf-FR-x-gallo" variant="qwerty" />
+            <cond language="nrf-GG" variant="qwerty" />
+            <cond language="nrf-JE" variant="qwerty" />
+            <cond language="nso-ZA" variant="qwerty" />
+            <cond language="nup-NG" variant="qwerty" />
+            <cond language="nut-VN" variant="qwerty" />
+            <cond language="nv-US" variant="qwerty" />
+            <cond language="ny" variant="qwerty" />
+            <cond language="nyf-KE" variant="qwerty" />
+            <cond language="nym-TZ" variant="qwerty" />
+            <cond language="nyn-UG" variant="qwerty" />
+            <cond language="nyo-UG" variant="qwerty" />
+            <cond language="nyy-TZ" variant="qwerty" />
+            <cond language="oc-FR" variant="qwerty" />
+            <cond language="oj-Latn" variant="qwerty" />
+            <cond language="olo-RU" variant="qwerty" />
+            <cond language="om" variant="qwerty" />
+            <cond language="or-IN" variant="qwerty" />
+            <cond language="or-Latn-IN" variant="qwerty" />
+            <cond language="pa-Guru" variant="qwerty" />
+            <cond language="pa-Latn" variant="qwerty" />
+            <cond language="pa-PK" variant="qwerty" />
+            <cond language="pag-PH" variant="qwerty" />
+            <cond language="pam-PH" variant="qwerty" />
+            <cond language="pap" variant="qwerty" />
+            <cond language="pap-AW" variant="qwerty" />
+            <cond language="pcc-CN" variant="qwerty" />
+            <cond language="pcd-BE" variant="qwerty" />
+            <cond language="pcm-NG" variant="qwerty" />
+            <cond language="pdc-US" variant="qwerty" />
+            <cond language="pfl-DE" variant="qwerty" />
+            <cond language="phr-PK" variant="qwerty" />
+            <cond language="pko-KE" variant="qwerty" />
+            <cond language="pl-PL" variant="qwerty" />
+            <cond language="plt-MG" variant="qwerty" />
+            <cond language="pmf-ID" variant="qwerty" />
+            <cond language="pms-IT" variant="qwerty" />
+            <cond language="pmy-ID" variant="qwerty" />
+            <cond language="pov-GW" variant="qwerty" />
+            <cond language="prk-MM" variant="qwerty" />
+            <cond language="ps" variant="qwerty" />
+            <cond language="pse-ID" variant="qwerty" />
+            <cond language="pt-002" variant="qwerty" />
+            <cond language="pt-AO" variant="qwerty" />
+            <cond language="pt-BR" variant="qwerty" />
+            <cond language="pt-MO" variant="qwerty" />
+            <cond language="pt-PT" variant="qwerty" />
+            <cond language="pua-MX" variant="qwerty" />
+            <cond language="qaa-x-alsatian" variant="qwerty" />
+            <cond language="qu-PE" variant="qwerty" />
+            <cond language="quc-GT" variant="qwerty" />
+            <cond language="qug-EC" variant="qwerty" />
+            <cond language="quh-BO" variant="qwerty" />
+            <cond language="quy-PE" variant="qwerty" />
+            <cond language="quz-PE" variant="qwerty" />
+            <cond language="rcf-RE" variant="qwerty" />
+            <cond language="rhg-Latn-MM" variant="qwerty" />
+            <cond language="rim-TZ" variant="qwerty" />
+            <cond language="rkt-IN" variant="qwerty" />
+            <cond language="rm-CH" variant="qwerty" />
+            <cond language="rmy-AL" variant="qwerty" />
+            <cond language="rmy-RO" variant="qwerty" />
+            <cond language="rn-BI" variant="qwerty" />
+            <cond language="ro-MD" variant="qwerty" />
+            <cond language="ro-RO" variant="qwerty" />
+            <cond language="rw-RW" variant="qwerty" />
+            <cond language="rwr-IN" variant="qwerty" />
+            <cond language="sa-IN" variant="qwerty" />
+            <cond language="sa-Latn-IN" variant="qwerty" />
+            <cond language="sas-ID" variant="qwerty" />
+            <cond language="sat-Beng" variant="qwerty" />
+            <cond language="sat-Deva" variant="qwerty" />
+            <cond language="sat-Latn" variant="qwerty" />
+            <cond language="sat-Olck" variant="qwerty" />
+            <cond language="sba-TD" variant="qwerty" />
+            <cond language="sc-IT" variant="qwerty" />
+            <cond language="sck-IN" variant="qwerty" />
+            <cond language="scl-PK" variant="qwerty" />
+            <cond language="scn-IT" variant="qwerty" />
+            <cond language="sco-GB" variant="qwerty" />
+            <cond language="sd-Arab" variant="qwerty" />
+            <cond language="sd-Deva" variant="qwerty" />
+            <cond language="sd-Latn" variant="qwerty" />
+            <cond language="sda-ID" variant="qwerty" />
+            <cond language="sdc-IT" variant="qwerty" />
+            <cond language="se-NO" variant="qwerty" />
+            <cond language="sef-CI" variant="qwerty" />
+            <cond language="seh-MZ" variant="qwerty" />
+            <cond language="sg-CF" variant="qwerty" />
+            <cond language="sgc-KE" variant="qwerty" />
+            <cond language="sgj-IN" variant="qwerty" />
+            <cond language="sgs-LT" variant="qwerty" />
+            <cond language="si-LK" variant="qwerty" />
+            <cond language="sid-ET" variant="qwerty" />
+            <cond language="sjp-IN" variant="qwerty" />
+            <cond language="sk-SK" variant="qwerty" />
+            <cond language="skg-MG" variant="qwerty" />
+            <cond language="skr-PK-x-sindhi" variant="qwerty" />
+            <cond language="skr-PK-x-urdu" variant="qwerty" />
+            <cond language="sl-SI" variant="qwerty" />
+            <cond language="sm" variant="qwerty" />
+            <cond language="sn" variant="qwerty" />
+            <cond language="snk-ML" variant="qwerty" />
+            <cond language="so" variant="qwerty" />
+            <cond language="sop-CD" variant="qwerty" />
+            <cond language="spp-ML" variant="qwerty" />
+            <cond language="sq-x-gheg" variant="qwerty" />
+            <cond language="sq-x-standard" variant="qwerty" />
+            <cond language="sq-x-tosk" variant="qwerty" />
+            <cond language="sr-Latn-RS" variant="qwerty" />
+            <cond language="srn-SR" variant="qwerty" />
+            <cond language="srr-SN" variant="qwerty" />
+            <cond language="ss-SZ" variant="qwerty" />
+            <cond language="ss-ZA" variant="qwerty" />
+            <cond language="st" variant="qwerty" />
+            <cond language="st-LS" variant="qwerty" />
+            <cond language="stv-Latn-ET" variant="qwerty" />
+            <cond language="su-Latn-ID" variant="qwerty" />
+            <cond language="suk-TZ" variant="qwerty" />
+            <cond language="sv-FI" variant="qwerty" />
+            <cond language="sv-SE" variant="qwerty" />
+            <cond language="sw" variant="qwerty" />
+            <cond language="swv-IN" variant="qwerty" />
+            <cond language="sxu-DE" variant="qwerty" />
+            <cond language="syl-Latn" variant="qwerty" />
+            <cond language="syl-Sylo" variant="qwerty" />
+            <cond language="szl-PL" variant="qwerty" />
+            <cond language="ta-IN" variant="qwerty" />
+            <cond language="ta-LK" variant="qwerty" />
+            <cond language="ta-Latn" variant="qwerty" />
+            <cond language="ta-SG" variant="qwerty" />
+            <cond language="taj-NP" variant="qwerty" />
+            <cond language="tcy-IN" variant="qwerty" />
+            <cond language="tdx-MG" variant="qwerty" />
+            <cond language="te-IN" variant="qwerty" />
+            <cond language="te-Latn-IN" variant="qwerty" />
+            <cond language="tem-SL" variant="qwerty" />
+            <cond language="teo-UG" variant="qwerty" />
+            <cond language="tet-TL" variant="qwerty" />
+            <cond language="th-TH" variant="qwerty" />
+            <cond language="tiv-NG" variant="qwerty" />
+            <cond language="tk-TM" variant="qwerty" />
+            <cond language="tkl-TK" variant="qwerty" />
+            <cond language="tl-PH" variant="qwerty" />
+            <cond language="tll-CD" variant="qwerty" />
+            <cond language="tly-AZ" variant="qwerty" />
+            <cond language="tn-BW" variant="qwerty" />
+            <cond language="tn-ZA" variant="qwerty" />
+            <cond language="to-TO" variant="qwerty" />
+            <cond language="tpi-PG" variant="qwerty" />
+            <cond language="tr-CY" variant="qwerty" />
+            <cond language="tr-TR" variant="qwerty" />
+            <cond language="trf-TT" variant="qwerty" />
+            <cond language="trp-IN" variant="qwerty" />
+            <cond language="trp-Latn-IN" variant="qwerty" />
+            <cond language="ts" variant="qwerty" />
+            <cond language="tsc-MZ" variant="qwerty" />
+            <cond language="tsg-PH" variant="qwerty" />
+            <cond language="ttj-UG" variant="qwerty" />
+            <cond language="tum-MW" variant="qwerty" />
+            <cond language="tuv-KE" variant="qwerty" />
+            <cond language="tvl-TV" variant="qwerty" />
+            <cond language="twd-NL" variant="qwerty" />
+            <cond language="ty-PF" variant="qwerty" />
+            <cond language="tyz-VN" variant="qwerty" />
+            <cond language="umb-AO" variant="qwerty" />
+            <cond language="unr-Beng" variant="qwerty" />
+            <cond language="unr-IN" variant="qwerty" />
+            <cond language="unr-Latn" variant="qwerty" />
+            <cond language="ur-IN" variant="qwerty" />
+            <cond language="ur-Latn" variant="qwerty" />
+            <cond language="ur-PK" variant="qwerty" />
+            <cond language="uz-Latn-UZ" variant="qwerty" />
+            <cond language="vah-IN" variant="qwerty" />
+            <cond language="vas-IN" variant="qwerty" />
+            <cond language="ve-ZA" variant="qwerty" />
+            <cond language="vec-IT" variant="qwerty" />
+            <cond language="vel-NL" variant="qwerty" />
+            <cond language="vep-RU" variant="qwerty" />
+            <cond language="vi-VN" variant="qwerty" />
+            <cond language="vkt-ID" variant="qwerty" />
+            <cond language="vls-BE" variant="qwerty" />
+            <cond language="vmf-DE" variant="qwerty" />
+            <cond language="vmw-MZ" variant="qwerty" />
+            <cond language="vro-EE" variant="qwerty" />
+            <cond language="wa-BE" variant="qwerty" />
+            <cond language="wal-ET" variant="qwerty" />
+            <cond language="war-PH" variant="qwerty" />
+            <cond language="wbr-IN" variant="qwerty" />
+            <cond language="wes-CM" variant="qwerty" />
+            <cond language="wo" variant="qwerty" />
+            <cond language="wry-IN" variant="qwerty" />
+            <cond language="xh" variant="qwerty" />
+            <cond language="xmm-ID" variant="qwerty" />
+            <cond language="xnr-IN" variant="qwerty" />
+            <cond language="xog-UG" variant="qwerty" />
+            <cond language="xon-GH" variant="qwerty" />
+            <cond language="yaf-CD" variant="qwerty" />
+            <cond language="yao-MW" variant="qwerty" />
+            <cond language="ymm-SO" variant="qwerty" />
+            <cond language="yo" variant="qwerty" />
+            <cond language="yrl-BR" variant="qwerty" />
+            <cond language="yua-MX" variant="qwerty" />
+            <cond language="za-CN" variant="qwerty" />
+            <cond language="zea-NL" variant="qwerty" />
+            <cond language="zh-CN" variant="9key" />
+            <cond language="zh-CN" variant="clariti" />
+            <cond language="zh-CN" variant="qwerty" />
+            <cond language="zh-CN" variant="stroke" />
+            <cond language="zh-CN" variant="wubi" />
+            <cond language="zh-HK" variant="cangjie" />
+            <cond language="zh-HK" variant="quick" />
+            <cond language="zh-HK" variant="qwerty" />
+            <cond language="zh-HK" variant="qwerty-cantonese" />
+            <cond language="zh-HK" variant="qwerty-yale" />
+            <cond language="zh-HK" variant="stroke" />
+            <cond language="zh-TW" variant="cangjie" />
+            <cond language="zh-TW" variant="quick" />
+            <cond language="zh-TW" variant="qwerty" />
+            <cond language="zh-TW" variant="zhuyin" />
+            <cond language="zne-CD" variant="qwerty" />
+            <cond language="zu-ZA" variant="qwerty" />
+            <cond language="zyb-CN" variant="qwerty" />
+            <cond language="zyj-CN" variant="qwerty" />
+            <cond language="zz" variant="qwerty" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170ae5" />
+    </if>
+    <else_if>
+        <any_of>
+            <cond language="ar-DZ" />
+            <cond language="ar-MA" />
+            <cond language="ar-TN" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170ac6" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="ar-AE" />
+            <cond language="ar-BH" />
+            <cond language="ar-EG" />
+            <cond language="ar-IQ" />
+            <cond language="ar-LY" />
+            <cond language="ar-MR" />
+            <cond language="ar-OM" />
+            <cond language="ar-SA" />
+            <cond language="ar-SD" />
+            <cond language="ar-TD" />
+            <cond language="ar-YE" />
+            <cond language="ar-x-levant" />
+            <cond language="gdq-YE" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170ac7" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="as-IN" variant="assamese" />
+            <cond language="as-IN" variant="handwriting" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170ac8" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="az-AZ" variant="azerbaijani" />
+            <cond language="az-AZ" variant="handwriting" />
+            <cond language="az-AZ" variant="pcqwerty" />
+            <cond language="az-AZ" variant="querty" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170ac9" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="ba-RU" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170aca" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="be-BY" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170acb" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="fr-BE" variant="handwriting" />
+            <cond language="nl-BE" variant="handwriting" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170acc" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="bn-BD" variant="bengali_bangladesh" />
+            <cond language="bn-BD" variant="handwriting" />
+            <cond language="bn-IN" variant="bengali_india" />
+            <cond language="bn-IN" variant="handwriting" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170acd" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="bm-Nkoo-ML" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170ace" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="bo-CN" variant="handwriting" />
+            <cond language="bo-CN" variant="tibetan" />
+            <cond language="bo-CN" variant="tibetan_alphabetical" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170acf" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="pt-002" variant="dvorak_spanish" />
+            <cond language="pt-002" variant="handwriting" />
+            <cond language="pt-002" variant="pcqwerty" />
+            <cond language="pt-002" variant="portuguese" />
+            <cond language="pt-AO" variant="dvorak_spanish" />
+            <cond language="pt-AO" variant="pcqwerty" />
+            <cond language="pt-AO" variant="portuguese" />
+            <cond language="pt-BR" variant="dvorak_spanish" />
+            <cond language="pt-BR" variant="handwriting" />
+            <cond language="pt-BR" variant="pcqwerty" />
+            <cond language="pt-BR" variant="portuguese" />
+            <cond language="pt-MO" variant="dvorak_spanish" />
+            <cond language="pt-MO" variant="pcqwerty" />
+            <cond language="pt-MO" variant="portuguese" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170ad0" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="bs-Cyrl-BA" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170ad1" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="bug-Bugi-ID" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170ad2" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="bg-BG" variant="handwriting" />
+            <cond language="rmn-BG" variant="bulgarian" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170ad5" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="bg-BG" variant="bulgarian_bds" />
+            <cond language="rmn-BG" variant="bulgarian_bds" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170ad3" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="bg-BG" variant="bulgarian" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170ad4" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="chr-US" />
+            <cond language="chr-x-dual" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170ad6" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="hr-HR" variant="croatian" />
+            <cond language="hr-HR" variant="handwriting" />
+            <cond language="hr-HR" variant="pcqwerty" />
+            <cond language="sl-SI" variant="handwriting" />
+            <cond language="sl-SI" variant="pcqwerty" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170ad7" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="cs-CZ" variant="handwriting" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170ad9" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="da-DK" variant="handwriting" />
+            <cond language="da-DK" variant="nordic" />
+            <cond language="da-DK" variant="pcqwerty" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170ada" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="dv-MV" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170adc" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="dyu-Nkoo" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170add" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="dz-BT" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170ade" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="en-IN" variant="handwriting" />
+            <cond language="en-IN" variant="pcqwerty" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170ae0" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="en-GB" variant="handwriting" />
+            <cond language="en-GB" variant="pcqwerty" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170ae1" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="aa-ET" variant="colemak" />
+            <cond language="abr-GH" variant="colemak" />
+            <cond language="abs-ID" variant="colemak" />
+            <cond language="ace-ID" variant="colemak" />
+            <cond language="acf-LC" variant="colemak" />
+            <cond language="ach-UG" variant="colemak" />
+            <cond language="act-NL" variant="colemak" />
+            <cond language="ada-GH" variant="colemak" />
+            <cond language="af-ZA" variant="colemak" />
+            <cond language="ajg-BJ" variant="colemak" />
+            <cond language="ak-GH" variant="colemak" />
+            <cond language="ak-GH-x-akuapem" variant="colemak" />
+            <cond language="ak-GH-x-asante" variant="colemak" />
+            <cond language="alz-CD" variant="colemak" />
+            <cond language="ami-TW" variant="colemak" />
+            <cond language="an-ES" variant="colemak" />
+            <cond language="anw-NG" variant="colemak" />
+            <cond language="arn-CL" variant="colemak" />
+            <cond language="as-Latn-IN" variant="colemak" />
+            <cond language="ast-ES" variant="colemak" />
+            <cond language="ay-BO" variant="colemak" />
+            <cond language="ay-PE" variant="colemak" />
+            <cond language="az-AZ" variant="colemak" />
+            <cond language="bah-BS" variant="colemak" />
+            <cond language="ban-ID" variant="colemak" />
+            <cond language="bar-AT" variant="colemak" />
+            <cond language="bas-CM" variant="colemak" />
+            <cond language="bbc-ID" variant="colemak" />
+            <cond language="bbj-CM" variant="colemak" />
+            <cond language="bci-CI" variant="colemak" />
+            <cond language="bcl-PH" variant="colemak" />
+            <cond language="bcq-ET" variant="colemak" />
+            <cond language="bem-ZM" variant="colemak" />
+            <cond language="ber-Latn" variant="colemak" />
+            <cond language="bew-ID" variant="colemak" />
+            <cond language="bgx-TR" variant="colemak" />
+            <cond language="bgz-ID" variant="colemak" />
+            <cond language="bi-VU" variant="colemak" />
+            <cond language="bin-NG" variant="colemak" />
+            <cond language="bjn-ID" variant="colemak" />
+            <cond language="blt-Latn" variant="colemak" />
+            <cond language="bm-ML" variant="colemak" />
+            <cond language="bmm-MG" variant="colemak" />
+            <cond language="bn-Latn" variant="colemak" />
+            <cond language="bom-NG" variant="colemak" />
+            <cond language="bpr-PH" variant="colemak" />
+            <cond language="br-FR" variant="colemak" />
+            <cond language="brh-PK" variant="colemak" />
+            <cond language="brx-Latn-IN" variant="colemak" />
+            <cond language="bs-BA" variant="colemak" />
+            <cond language="bss-CM" variant="colemak" />
+            <cond language="btm-ID" variant="colemak" />
+            <cond language="bto-PH" variant="colemak" />
+            <cond language="bts-ID" variant="colemak" />
+            <cond language="btx-ID" variant="colemak" />
+            <cond language="btz-ID" variant="colemak" />
+            <cond language="bud-TG" variant="colemak" />
+            <cond language="bug-ID" variant="colemak" />
+            <cond language="bum-CM" variant="colemak" />
+            <cond language="bxg-CD" variant="colemak" />
+            <cond language="bxk-KE" variant="colemak" />
+            <cond language="bzc-MG" variant="colemak" />
+            <cond language="ca" variant="colemak" />
+            <cond language="cat-x-val" variant="colemak" />
+            <cond language="cbk-PH" variant="colemak" />
+            <cond language="cce-MZ" variant="colemak" />
+            <cond language="cdo-CN" variant="colemak" />
+            <cond language="ceb-PH" variant="colemak" />
+            <cond language="cgg-UG" variant="colemak" />
+            <cond language="ch-GU" variant="colemak" />
+            <cond language="cho-US" variant="colemak" />
+            <cond language="chw-MZ" variant="colemak" />
+            <cond language="cja-Latn" variant="colemak" />
+            <cond language="cjk-AO" variant="colemak" />
+            <cond language="cjk-CD" variant="colemak" />
+            <cond language="cjm-Latn" variant="colemak" />
+            <cond language="cnh-MM" variant="colemak" />
+            <cond language="cnr-Latn-ME" variant="colemak" />
+            <cond language="co" variant="colemak" />
+            <cond language="cps-PH" variant="colemak" />
+            <cond language="cr-Latn-CA" variant="colemak" />
+            <cond language="crh-Latn" variant="colemak" />
+            <cond language="crs-SC" variant="colemak" />
+            <cond language="cs-CZ" variant="colemak" />
+            <cond language="csb-PL" variant="colemak" />
+            <cond language="cy-GB" variant="colemak" />
+            <cond language="cyo-PH" variant="colemak" />
+            <cond language="da-DK" variant="colemak" />
+            <cond language="dag-GH" variant="colemak" />
+            <cond language="de-AT" variant="colemak" />
+            <cond language="de-BE" variant="colemak" />
+            <cond language="de-CH" variant="colemak" />
+            <cond language="de-DE" variant="colemak" />
+            <cond language="de-LU" variant="colemak" />
+            <cond language="dga-GH" variant="colemak" />
+            <cond language="din" variant="colemak" />
+            <cond language="diq-TR" variant="colemak" />
+            <cond language="dje-NE" variant="colemak" />
+            <cond language="dnj-CI" variant="colemak" />
+            <cond language="doi-Latn" variant="colemak" />
+            <cond language="drs-ET" variant="colemak" />
+            <cond language="drt-NL" variant="colemak" />
+            <cond language="dsb-DE" variant="colemak" />
+            <cond language="dtp-MY" variant="colemak" />
+            <cond language="dyu-CI" variant="colemak" />
+            <cond language="dzg-TD" variant="colemak" />
+            <cond language="ee" variant="colemak" />
+            <cond language="efi-NG" variant="colemak" />
+            <cond language="egl-IT" variant="colemak" />
+            <cond language="en-AU" variant="colemak" />
+            <cond language="en-CA" variant="colemak" />
+            <cond language="en-GB" variant="colemak" />
+            <cond language="en-IN" variant="colemak" />
+            <cond language="en-KE" variant="colemak" />
+            <cond language="en-NG" variant="colemak" />
+            <cond language="en-PH" variant="colemak" />
+            <cond language="en-US" variant="colemak" />
+            <cond language="en-ZA" variant="colemak" />
+            <cond language="eo" variant="colemak" />
+            <cond language="es-419" variant="colemak" />
+            <cond language="es-AR" variant="colemak" />
+            <cond language="es-ES" variant="colemak" />
+            <cond language="es-MX" variant="colemak" />
+            <cond language="es-US" variant="colemak" />
+            <cond language="et-EE" variant="colemak" />
+            <cond language="eu-ES" variant="colemak" />
+            <cond language="ewo-CM" variant="colemak" />
+            <cond language="ext-ES" variant="colemak" />
+            <cond language="fan-GQ" variant="colemak" />
+            <cond language="fat-GH" variant="colemak" />
+            <cond language="ff-Latn" variant="colemak" />
+            <cond language="fi-FI" variant="colemak" />
+            <cond language="fj-FJ" variant="colemak" />
+            <cond language="fo-FO" variant="colemak" />
+            <cond language="fon-BJ" variant="colemak" />
+            <cond language="fr-002" variant="colemak" />
+            <cond language="fr-BE" variant="colemak" />
+            <cond language="fr-CA" variant="colemak" />
+            <cond language="fr-CH" variant="colemak" />
+            <cond language="fr-FR" variant="colemak" />
+            <cond language="fub-CM" variant="colemak" />
+            <cond language="fuc-SN" variant="colemak" />
+            <cond language="fuh-NE" variant="colemak" />
+            <cond language="fur-IT" variant="colemak" />
+            <cond language="fuv-NG" variant="colemak" />
+            <cond language="fy-NL" variant="colemak" />
+            <cond language="ga" variant="colemak" />
+            <cond language="gag-MD" variant="colemak" />
+            <cond language="gax-ET" variant="colemak" />
+            <cond language="gay-ID" variant="colemak" />
+            <cond language="gbo-LR" variant="colemak" />
+            <cond language="gcf-GP" variant="colemak" />
+            <cond language="gcr-GF" variant="colemak" />
+            <cond language="gd-GB" variant="colemak" />
+            <cond language="gil-KI" variant="colemak" />
+            <cond language="gl-ES" variant="colemak" />
+            <cond language="gmv-ET" variant="colemak" />
+            <cond language="gn" variant="colemak" />
+            <cond language="gog-TZ" variant="colemak" />
+            <cond language="gor-ID" variant="colemak" />
+            <cond language="gos-NL" variant="colemak" />
+            <cond language="gpe-GH" variant="colemak" />
+            <cond language="gqr-TD" variant="colemak" />
+            <cond language="grt-Latn" variant="colemak" />
+            <cond language="gsw-CH" variant="colemak" />
+            <cond language="gu-Latn-IN" variant="colemak" />
+            <cond language="guc-CO" variant="colemak" />
+            <cond language="gur-GH" variant="colemak" />
+            <cond language="gux-BF" variant="colemak" />
+            <cond language="guz-KE" variant="colemak" />
+            <cond language="gv" variant="colemak" />
+            <cond language="gvl-TD" variant="colemak" />
+            <cond language="gyn-GY" variant="colemak" />
+            <cond language="ha-GH" variant="colemak" />
+            <cond language="ha-NG" variant="colemak" />
+            <cond language="hae-ET" variant="colemak" />
+            <cond language="hak-CN" variant="colemak" />
+            <cond language="haq-TZ" variant="colemak" />
+            <cond language="haw" variant="colemak" />
+            <cond language="hay-TZ" variant="colemak" />
+            <cond language="hdy-Latn-ET" variant="colemak" />
+            <cond language="hea-CN" variant="colemak" />
+            <cond language="heh-TZ" variant="colemak" />
+            <cond language="hi-Latn-IN" variant="colemak" />
+            <cond language="hif-Latn-FJ" variant="colemak" />
+            <cond language="hil-PH" variant="colemak" />
+            <cond language="hmn" variant="colemak" />
+            <cond language="hni-CN" variant="colemak" />
+            <cond language="ho-PG" variant="colemak" />
+            <cond language="hr-HR" variant="colemak" />
+            <cond language="hrx-BR" variant="colemak" />
+            <cond language="hsb-DE" variant="colemak" />
+            <cond language="ht-HT" variant="colemak" />
+            <cond language="hu-HU" variant="colemak" />
+            <cond language="hvn-ID" variant="colemak" />
+            <cond language="hwc-US" variant="colemak" />
+            <cond language="ia" variant="colemak" />
+            <cond language="iba-MY" variant="colemak" />
+            <cond language="ibb-NG" variant="colemak" />
+            <cond language="ig-NG" variant="colemak" />
+            <cond language="igb-NG" variant="colemak" />
+            <cond language="igl-NG" variant="colemak" />
+            <cond language="ii-Latn-CN" variant="colemak" />
+            <cond language="ijc-NG" variant="colemak" />
+            <cond language="ilo-PH" variant="colemak" />
+            <cond language="in-ID" variant="colemak" />
+            <cond language="is-IS" variant="colemak" />
+            <cond language="iso-NG" variant="colemak" />
+            <cond language="it-CH" variant="colemak" />
+            <cond language="it-IT" variant="colemak" />
+            <cond language="itv-PH" variant="colemak" />
+            <cond language="iu-Latn-CA" variant="colemak" />
+            <cond language="ium-CN" variant="colemak" />
+            <cond language="jam-JM" variant="colemak" />
+            <cond language="jax-ID" variant="colemak" />
+            <cond language="jbo" variant="colemak" />
+            <cond language="jv-ID-x-bms" variant="colemak" />
+            <cond language="jv-Latn-ID" variant="colemak" />
+            <cond language="kaa-UZ" variant="colemak" />
+            <cond language="kac-MM" variant="colemak" />
+            <cond language="kam-KE" variant="colemak" />
+            <cond language="kao-ML" variant="colemak" />
+            <cond language="kbp-TG" variant="colemak" />
+            <cond language="kbr-ET" variant="colemak" />
+            <cond language="kde-TZ" variant="colemak" />
+            <cond language="kea-CV" variant="colemak" />
+            <cond language="kek-GT" variant="colemak" />
+            <cond language="kg-AO" variant="colemak" />
+            <cond language="kge-ID" variant="colemak" />
+            <cond language="kha-IN" variant="colemak" />
+            <cond language="ki-KE" variant="colemak" />
+            <cond language="kiu-TR" variant="colemak" />
+            <cond language="kj" variant="colemak" />
+            <cond language="kk-Latn-KZ" variant="colemak" />
+            <cond language="kl-GL" variant="colemak" />
+            <cond language="kmb-AO" variant="colemak" />
+            <cond language="kmz-Latn-IR" variant="colemak" />
+            <cond language="kn-Latn-IN" variant="colemak" />
+            <cond language="kne-PH" variant="colemak" />
+            <cond language="kng-CD" variant="colemak" />
+            <cond language="kok-Latn-IN" variant="colemak" />
+            <cond language="koo-UG" variant="colemak" />
+            <cond language="kr-NG" variant="colemak" />
+            <cond language="kri-SL" variant="colemak" />
+            <cond language="krj-PH" variant="colemak" />
+            <cond language="krl-RU" variant="colemak" />
+            <cond language="ks-Latn" variant="colemak" />
+            <cond language="ksh-DE" variant="colemak" />
+            <cond language="ktb-Latn-ET" variant="colemak" />
+            <cond language="ktu-CD" variant="colemak" />
+            <cond language="ku" variant="colemak" />
+            <cond language="kw-GB" variant="colemak" />
+            <cond language="la" variant="colemak" />
+            <cond language="lad-BA" variant="colemak" />
+            <cond language="lad-IL" variant="colemak" />
+            <cond language="laj-UG" variant="colemak" />
+            <cond language="las-TG" variant="colemak" />
+            <cond language="lb-LU" variant="colemak" />
+            <cond language="led-CD" variant="colemak" />
+            <cond language="lew-ID" variant="colemak" />
+            <cond language="lg-UG" variant="colemak" />
+            <cond language="lgg-UG" variant="colemak" />
+            <cond language="lhu-CN" variant="colemak" />
+            <cond language="li-NL" variant="colemak" />
+            <cond language="lij-IT" variant="colemak" />
+            <cond language="liv-LV" variant="colemak" />
+            <cond language="ljp-ID" variant="colemak" />
+            <cond language="lkt-US" variant="colemak" />
+            <cond language="lld-IT" variant="colemak" />
+            <cond language="lmo-IT" variant="colemak" />
+            <cond language="ln-AO" variant="colemak" />
+            <cond language="ln-CD" variant="colemak" />
+            <cond language="lon-MW" variant="colemak" />
+            <cond language="lt-LT" variant="colemak" />
+            <cond language="ltg-LV" variant="colemak" />
+            <cond language="lu-CD" variant="colemak" />
+            <cond language="lua-CD" variant="colemak" />
+            <cond language="luo-KE" variant="colemak" />
+            <cond language="lus-IN" variant="colemak" />
+            <cond language="lv-LV" variant="colemak" />
+            <cond language="mad-ID" variant="colemak" />
+            <cond language="mai-Latn" variant="colemak" />
+            <cond language="mak-ID" variant="colemak" />
+            <cond language="mas-KE" variant="colemak" />
+            <cond language="max-ID" variant="colemak" />
+            <cond language="mcn-TD" variant="colemak" />
+            <cond language="mde-Latn" variant="colemak" />
+            <cond language="mdh-PH" variant="colemak" />
+            <cond language="mdr-ID" variant="colemak" />
+            <cond language="mel-MY" variant="colemak" />
+            <cond language="men-SL" variant="colemak" />
+            <cond language="meo-MY" variant="colemak" />
+            <cond language="mer-KE" variant="colemak" />
+            <cond language="mfb-ID" variant="colemak" />
+            <cond language="mfp-ID" variant="colemak" />
+            <cond language="mfq-TG" variant="colemak" />
+            <cond language="mg-MG" variant="colemak" />
+            <cond language="mgh-MZ" variant="colemak" />
+            <cond language="mhy-ID" variant="colemak" />
+            <cond language="mi-NZ" variant="colemak" />
+            <cond language="min-ID" variant="colemak" />
+            <cond language="mkw-CD" variant="colemak" />
+            <cond language="ml-Latn-IN" variant="colemak" />
+            <cond language="mmr-CN" variant="colemak" />
+            <cond language="mnb-ID" variant="colemak" />
+            <cond language="mni-Latn-IN" variant="colemak" />
+            <cond language="mnk-Latn" variant="colemak" />
+            <cond language="mnp-CN" variant="colemak" />
+            <cond language="mog-ID" variant="colemak" />
+            <cond language="mos-BF" variant="colemak" />
+            <cond language="mpg-TD" variant="colemak" />
+            <cond language="mqj-ID" variant="colemak" />
+            <cond language="mqy-ID" variant="colemak" />
+            <cond language="mr-Latn-IN" variant="colemak" />
+            <cond language="mrw-PH" variant="colemak" />
+            <cond language="ms-BN" variant="colemak" />
+            <cond language="ms-MY" variant="colemak" />
+            <cond language="ms-SG" variant="colemak" />
+            <cond language="msi-MY" variant="colemak" />
+            <cond language="mt-MT" variant="colemak" />
+            <cond language="mtq-VN" variant="colemak" />
+            <cond language="mua-TD" variant="colemak" />
+            <cond language="mui-ID" variant="colemak" />
+            <cond language="mvp-ID" variant="colemak" />
+            <cond language="mwm-TD" variant="colemak" />
+            <cond language="mww-CN" variant="colemak" />
+            <cond language="myx-UG" variant="colemak" />
+            <cond language="na-NR" variant="colemak" />
+            <cond language="nah-MX" variant="colemak" />
+            <cond language="nan-Latn" variant="colemak" />
+            <cond language="nan-x-tl" variant="colemak" />
+            <cond language="nap-IT" variant="colemak" />
+            <cond language="nb-NO" variant="colemak" />
+            <cond language="ndc-ZW" variant="colemak" />
+            <cond language="nde-ZW" variant="colemak" />
+            <cond language="nds-DE" variant="colemak" />
+            <cond language="ne-Latn" variant="colemak" />
+            <cond language="ng-NA" variant="colemak" />
+            <cond language="nga-CD" variant="colemak" />
+            <cond language="ngl-MZ" variant="colemak" />
+            <cond language="nia-ID" variant="colemak" />
+            <cond language="nij-ID" variant="colemak" />
+            <cond language="niq-KE" variant="colemak" />
+            <cond language="niu-NU" variant="colemak" />
+            <cond language="nl-BE" variant="colemak" />
+            <cond language="nl-NL" variant="colemak" />
+            <cond language="nn-NO" variant="colemak" />
+            <cond language="nnb-CD" variant="colemak" />
+            <cond language="nr-ZA" variant="colemak" />
+            <cond language="nrf-FR" variant="colemak" />
+            <cond language="nrf-FR-x-gallo" variant="colemak" />
+            <cond language="nrf-GG" variant="colemak" />
+            <cond language="nrf-JE" variant="colemak" />
+            <cond language="nso-ZA" variant="colemak" />
+            <cond language="nup-NG" variant="colemak" />
+            <cond language="nut-VN" variant="colemak" />
+            <cond language="nv-US" variant="colemak" />
+            <cond language="ny" variant="colemak" />
+            <cond language="nyf-KE" variant="colemak" />
+            <cond language="nym-TZ" variant="colemak" />
+            <cond language="nyn-UG" variant="colemak" />
+            <cond language="nyo-UG" variant="colemak" />
+            <cond language="nyy-TZ" variant="colemak" />
+            <cond language="oc-FR" variant="colemak" />
+            <cond language="oj-Latn" variant="colemak" />
+            <cond language="olo-RU" variant="colemak" />
+            <cond language="om" variant="colemak" />
+            <cond language="or-Latn-IN" variant="colemak" />
+            <cond language="pa-Latn" variant="colemak" />
+            <cond language="pag-PH" variant="colemak" />
+            <cond language="pam-PH" variant="colemak" />
+            <cond language="pap" variant="colemak" />
+            <cond language="pap-AW" variant="colemak" />
+            <cond language="pcc-CN" variant="colemak" />
+            <cond language="pcd-BE" variant="colemak" />
+            <cond language="pcm-NG" variant="colemak" />
+            <cond language="pdc-US" variant="colemak" />
+            <cond language="pfl-DE" variant="colemak" />
+            <cond language="pko-KE" variant="colemak" />
+            <cond language="pl-PL" variant="colemak" />
+            <cond language="plt-MG" variant="colemak" />
+            <cond language="pmf-ID" variant="colemak" />
+            <cond language="pms-IT" variant="colemak" />
+            <cond language="pmy-ID" variant="colemak" />
+            <cond language="pov-GW" variant="colemak" />
+            <cond language="prk-MM" variant="colemak" />
+            <cond language="pse-ID" variant="colemak" />
+            <cond language="pt-002" variant="colemak" />
+            <cond language="pt-AO" variant="colemak" />
+            <cond language="pt-BR" variant="colemak" />
+            <cond language="pt-MO" variant="colemak" />
+            <cond language="pt-PT" variant="colemak" />
+            <cond language="pua-MX" variant="colemak" />
+            <cond language="qaa-x-alsatian" variant="colemak" />
+            <cond language="qu-PE" variant="colemak" />
+            <cond language="quc-GT" variant="colemak" />
+            <cond language="qug-EC" variant="colemak" />
+            <cond language="quh-BO" variant="colemak" />
+            <cond language="quy-PE" variant="colemak" />
+            <cond language="quz-PE" variant="colemak" />
+            <cond language="rcf-RE" variant="colemak" />
+            <cond language="rhg-Latn-MM" variant="colemak" />
+            <cond language="rim-TZ" variant="colemak" />
+            <cond language="rm-CH" variant="colemak" />
+            <cond language="rmy-AL" variant="colemak" />
+            <cond language="rmy-RO" variant="colemak" />
+            <cond language="rn-BI" variant="colemak" />
+            <cond language="ro-MD" variant="colemak" />
+            <cond language="ro-RO" variant="colemak" />
+            <cond language="rw-RW" variant="colemak" />
+            <cond language="sa-Latn-IN" variant="colemak" />
+            <cond language="sas-ID" variant="colemak" />
+            <cond language="sat-Latn" variant="colemak" />
+            <cond language="sba-TD" variant="colemak" />
+            <cond language="sc-IT" variant="colemak" />
+            <cond language="scn-IT" variant="colemak" />
+            <cond language="sco-GB" variant="colemak" />
+            <cond language="sd-Latn" variant="colemak" />
+            <cond language="sda-ID" variant="colemak" />
+            <cond language="sdc-IT" variant="colemak" />
+            <cond language="se-NO" variant="colemak" />
+            <cond language="sef-CI" variant="colemak" />
+            <cond language="seh-MZ" variant="colemak" />
+            <cond language="sg-CF" variant="colemak" />
+            <cond language="sgc-KE" variant="colemak" />
+            <cond language="sgs-LT" variant="colemak" />
+            <cond language="sid-ET" variant="colemak" />
+            <cond language="sk-SK" variant="colemak" />
+            <cond language="skg-MG" variant="colemak" />
+            <cond language="sl-SI" variant="colemak" />
+            <cond language="sm" variant="colemak" />
+            <cond language="sn" variant="colemak" />
+            <cond language="snk-ML" variant="colemak" />
+            <cond language="so" variant="colemak" />
+            <cond language="sop-CD" variant="colemak" />
+            <cond language="spp-ML" variant="colemak" />
+            <cond language="sq-x-gheg" variant="colemak" />
+            <cond language="sq-x-standard" variant="colemak" />
+            <cond language="sq-x-tosk" variant="colemak" />
+            <cond language="sr-Latn-RS" variant="colemak" />
+            <cond language="srn-SR" variant="colemak" />
+            <cond language="srr-SN" variant="colemak" />
+            <cond language="ss-SZ" variant="colemak" />
+            <cond language="ss-ZA" variant="colemak" />
+            <cond language="st" variant="colemak" />
+            <cond language="st-LS" variant="colemak" />
+            <cond language="stv-Latn-ET" variant="colemak" />
+            <cond language="su-Latn-ID" variant="colemak" />
+            <cond language="suk-TZ" variant="colemak" />
+            <cond language="sv-FI" variant="colemak" />
+            <cond language="sv-SE" variant="colemak" />
+            <cond language="sw" variant="colemak" />
+            <cond language="sxu-DE" variant="colemak" />
+            <cond language="syl-Latn" variant="colemak" />
+            <cond language="szl-PL" variant="colemak" />
+            <cond language="ta-Latn" variant="colemak" />
+            <cond language="tdx-MG" variant="colemak" />
+            <cond language="te-Latn-IN" variant="colemak" />
+            <cond language="tem-SL" variant="colemak" />
+            <cond language="teo-UG" variant="colemak" />
+            <cond language="tet-TL" variant="colemak" />
+            <cond language="tiv-NG" variant="colemak" />
+            <cond language="tk-TM" variant="colemak" />
+            <cond language="tkl-TK" variant="colemak" />
+            <cond language="tl-PH" variant="colemak" />
+            <cond language="tll-CD" variant="colemak" />
+            <cond language="tly-AZ" variant="colemak" />
+            <cond language="tn-BW" variant="colemak" />
+            <cond language="tn-ZA" variant="colemak" />
+            <cond language="to-TO" variant="colemak" />
+            <cond language="tpi-PG" variant="colemak" />
+            <cond language="tr-CY" variant="colemak" />
+            <cond language="tr-TR" variant="colemak" />
+            <cond language="trf-TT" variant="colemak" />
+            <cond language="trp-Latn-IN" variant="colemak" />
+            <cond language="ts" variant="colemak" />
+            <cond language="tsc-MZ" variant="colemak" />
+            <cond language="tsg-PH" variant="colemak" />
+            <cond language="ttj-UG" variant="colemak" />
+            <cond language="tum-MW" variant="colemak" />
+            <cond language="tuv-KE" variant="colemak" />
+            <cond language="tvl-TV" variant="colemak" />
+            <cond language="twd-NL" variant="colemak" />
+            <cond language="ty-PF" variant="colemak" />
+            <cond language="tyz-VN" variant="colemak" />
+            <cond language="umb-AO" variant="colemak" />
+            <cond language="unr-Latn" variant="colemak" />
+            <cond language="ur-Latn" variant="colemak" />
+            <cond language="uz-Latn-UZ" variant="colemak" />
+            <cond language="ve-ZA" variant="colemak" />
+            <cond language="vec-IT" variant="colemak" />
+            <cond language="vel-NL" variant="colemak" />
+            <cond language="vep-RU" variant="colemak" />
+            <cond language="vi-VN" variant="colemak" />
+            <cond language="vkt-ID" variant="colemak" />
+            <cond language="vls-BE" variant="colemak" />
+            <cond language="vmf-DE" variant="colemak" />
+            <cond language="vmw-MZ" variant="colemak" />
+            <cond language="vro-EE" variant="colemak" />
+            <cond language="wa-BE" variant="colemak" />
+            <cond language="wal-ET" variant="colemak" />
+            <cond language="war-PH" variant="colemak" />
+            <cond language="wes-CM" variant="colemak" />
+            <cond language="wo" variant="colemak" />
+            <cond language="xh" variant="colemak" />
+            <cond language="xmm-ID" variant="colemak" />
+            <cond language="xog-UG" variant="colemak" />
+            <cond language="xon-GH" variant="colemak" />
+            <cond language="yaf-CD" variant="colemak" />
+            <cond language="yao-MW" variant="colemak" />
+            <cond language="ymm-SO" variant="colemak" />
+            <cond language="yo" variant="colemak" />
+            <cond language="yua-MX" variant="colemak" />
+            <cond language="za-CN" variant="colemak" />
+            <cond language="zea-NL" variant="colemak" />
+            <cond language="zne-CD" variant="colemak" />
+            <cond language="zu-ZA" variant="colemak" />
+            <cond language="zyb-CN" variant="colemak" />
+            <cond language="zyj-CN" variant="colemak" />
+            <cond language="zz" variant="colemak" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170ae2" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="aa-ET" variant="dvorak" />
+            <cond language="abr-GH" variant="dvorak" />
+            <cond language="abs-ID" variant="dvorak" />
+            <cond language="ace-ID" variant="dvorak" />
+            <cond language="acf-LC" variant="dvorak" />
+            <cond language="ach-UG" variant="dvorak" />
+            <cond language="act-NL" variant="dvorak" />
+            <cond language="ada-GH" variant="dvorak" />
+            <cond language="af-ZA" variant="dvorak" />
+            <cond language="ajg-BJ" variant="dvorak" />
+            <cond language="ak-GH" variant="dvorak" />
+            <cond language="ak-GH-x-akuapem" variant="dvorak" />
+            <cond language="ak-GH-x-asante" variant="dvorak" />
+            <cond language="alz-CD" variant="dvorak" />
+            <cond language="ami-TW" variant="dvorak" />
+            <cond language="an-ES" variant="dvorak" />
+            <cond language="anw-NG" variant="dvorak" />
+            <cond language="arn-CL" variant="dvorak" />
+            <cond language="as-Latn-IN" variant="dvorak" />
+            <cond language="ast-ES" variant="dvorak" />
+            <cond language="ay-BO" variant="dvorak" />
+            <cond language="ay-PE" variant="dvorak" />
+            <cond language="az-AZ" variant="dvorak" />
+            <cond language="bah-BS" variant="dvorak" />
+            <cond language="ban-ID" variant="dvorak" />
+            <cond language="bar-AT" variant="dvorak" />
+            <cond language="bas-CM" variant="dvorak" />
+            <cond language="bbc-ID" variant="dvorak" />
+            <cond language="bbj-CM" variant="dvorak" />
+            <cond language="bci-CI" variant="dvorak" />
+            <cond language="bcl-PH" variant="dvorak" />
+            <cond language="bcq-ET" variant="dvorak" />
+            <cond language="bem-ZM" variant="dvorak" />
+            <cond language="ber-Latn" variant="dvorak" />
+            <cond language="bew-ID" variant="dvorak" />
+            <cond language="bgx-TR" variant="dvorak" />
+            <cond language="bgz-ID" variant="dvorak" />
+            <cond language="bi-VU" variant="dvorak" />
+            <cond language="bin-NG" variant="dvorak" />
+            <cond language="bjn-ID" variant="dvorak" />
+            <cond language="blt-Latn" variant="dvorak" />
+            <cond language="bm-ML" variant="dvorak" />
+            <cond language="bmm-MG" variant="dvorak" />
+            <cond language="bn-Latn" variant="dvorak" />
+            <cond language="bom-NG" variant="dvorak" />
+            <cond language="bpr-PH" variant="dvorak" />
+            <cond language="br-FR" variant="dvorak" />
+            <cond language="brh-PK" variant="dvorak" />
+            <cond language="brx-Latn-IN" variant="dvorak" />
+            <cond language="bs-BA" variant="dvorak" />
+            <cond language="bss-CM" variant="dvorak" />
+            <cond language="btm-ID" variant="dvorak" />
+            <cond language="bto-PH" variant="dvorak" />
+            <cond language="bts-ID" variant="dvorak" />
+            <cond language="btx-ID" variant="dvorak" />
+            <cond language="btz-ID" variant="dvorak" />
+            <cond language="bud-TG" variant="dvorak" />
+            <cond language="bug-ID" variant="dvorak" />
+            <cond language="bum-CM" variant="dvorak" />
+            <cond language="bxg-CD" variant="dvorak" />
+            <cond language="bxk-KE" variant="dvorak" />
+            <cond language="bzc-MG" variant="dvorak" />
+            <cond language="ca" variant="dvorak" />
+            <cond language="cat-x-val" variant="dvorak" />
+            <cond language="cbk-PH" variant="dvorak" />
+            <cond language="cce-MZ" variant="dvorak" />
+            <cond language="cdo-CN" variant="dvorak" />
+            <cond language="ceb-PH" variant="dvorak" />
+            <cond language="cgg-UG" variant="dvorak" />
+            <cond language="ch-GU" variant="dvorak" />
+            <cond language="cho-US" variant="dvorak" />
+            <cond language="chw-MZ" variant="dvorak" />
+            <cond language="cja-Latn" variant="dvorak" />
+            <cond language="cjk-AO" variant="dvorak" />
+            <cond language="cjk-CD" variant="dvorak" />
+            <cond language="cjm-Latn" variant="dvorak" />
+            <cond language="cnh-MM" variant="dvorak" />
+            <cond language="cnr-Latn-ME" variant="dvorak" />
+            <cond language="co" variant="dvorak" />
+            <cond language="cps-PH" variant="dvorak" />
+            <cond language="cr-Latn-CA" variant="dvorak" />
+            <cond language="crh-Latn" variant="dvorak" />
+            <cond language="crs-SC" variant="dvorak" />
+            <cond language="cs-CZ" variant="dvorak" />
+            <cond language="csb-PL" variant="dvorak" />
+            <cond language="cy-GB" variant="dvorak" />
+            <cond language="cyo-PH" variant="dvorak" />
+            <cond language="da-DK" variant="dvorak" />
+            <cond language="dag-GH" variant="dvorak" />
+            <cond language="de-AT" variant="dvorak" />
+            <cond language="de-BE" variant="dvorak" />
+            <cond language="de-CH" variant="dvorak" />
+            <cond language="de-DE" variant="dvorak" />
+            <cond language="de-LU" variant="dvorak" />
+            <cond language="dga-GH" variant="dvorak" />
+            <cond language="din" variant="dvorak" />
+            <cond language="diq-TR" variant="dvorak" />
+            <cond language="dje-NE" variant="dvorak" />
+            <cond language="dnj-CI" variant="dvorak" />
+            <cond language="doi-Latn" variant="dvorak" />
+            <cond language="drs-ET" variant="dvorak" />
+            <cond language="drt-NL" variant="dvorak" />
+            <cond language="dsb-DE" variant="dvorak" />
+            <cond language="dtp-MY" variant="dvorak" />
+            <cond language="dyu-CI" variant="dvorak" />
+            <cond language="dzg-TD" variant="dvorak" />
+            <cond language="ee" variant="dvorak" />
+            <cond language="efi-NG" variant="dvorak" />
+            <cond language="egl-IT" variant="dvorak" />
+            <cond language="en-AU" variant="dvorak" />
+            <cond language="en-CA" variant="dvorak" />
+            <cond language="en-GB" variant="dvorak" />
+            <cond language="en-IN" variant="dvorak" />
+            <cond language="en-KE" variant="dvorak" />
+            <cond language="en-NG" variant="dvorak" />
+            <cond language="en-PH" variant="dvorak" />
+            <cond language="en-US" variant="dvorak" />
+            <cond language="en-ZA" variant="dvorak" />
+            <cond language="eo" variant="dvorak" />
+            <cond language="es-419" variant="dvorak" />
+            <cond language="es-AR" variant="dvorak" />
+            <cond language="es-ES" variant="dvorak" />
+            <cond language="es-MX" variant="dvorak" />
+            <cond language="es-US" variant="dvorak" />
+            <cond language="et-EE" variant="dvorak" />
+            <cond language="eu-ES" variant="dvorak" />
+            <cond language="ewo-CM" variant="dvorak" />
+            <cond language="ext-ES" variant="dvorak" />
+            <cond language="fan-GQ" variant="dvorak" />
+            <cond language="fat-GH" variant="dvorak" />
+            <cond language="ff-Latn" variant="dvorak" />
+            <cond language="fi-FI" variant="dvorak" />
+            <cond language="fj-FJ" variant="dvorak" />
+            <cond language="fo-FO" variant="dvorak" />
+            <cond language="fon-BJ" variant="dvorak" />
+            <cond language="fr-002" variant="dvorak" />
+            <cond language="fr-BE" variant="dvorak" />
+            <cond language="fr-CA" variant="dvorak" />
+            <cond language="fr-CH" variant="dvorak" />
+            <cond language="fr-FR" variant="dvorak" />
+            <cond language="fub-CM" variant="dvorak" />
+            <cond language="fuc-SN" variant="dvorak" />
+            <cond language="fuh-NE" variant="dvorak" />
+            <cond language="fur-IT" variant="dvorak" />
+            <cond language="fuv-NG" variant="dvorak" />
+            <cond language="fy-NL" variant="dvorak" />
+            <cond language="ga" variant="dvorak" />
+            <cond language="gag-MD" variant="dvorak" />
+            <cond language="gax-ET" variant="dvorak" />
+            <cond language="gay-ID" variant="dvorak" />
+            <cond language="gbo-LR" variant="dvorak" />
+            <cond language="gcf-GP" variant="dvorak" />
+            <cond language="gcr-GF" variant="dvorak" />
+            <cond language="gd-GB" variant="dvorak" />
+            <cond language="gil-KI" variant="dvorak" />
+            <cond language="gl-ES" variant="dvorak" />
+            <cond language="gmv-ET" variant="dvorak" />
+            <cond language="gn" variant="dvorak" />
+            <cond language="gog-TZ" variant="dvorak" />
+            <cond language="gor-ID" variant="dvorak" />
+            <cond language="gos-NL" variant="dvorak" />
+            <cond language="gpe-GH" variant="dvorak" />
+            <cond language="gqr-TD" variant="dvorak" />
+            <cond language="grt-Latn" variant="dvorak" />
+            <cond language="gsw-CH" variant="dvorak" />
+            <cond language="gu-Latn-IN" variant="dvorak" />
+            <cond language="guc-CO" variant="dvorak" />
+            <cond language="gur-GH" variant="dvorak" />
+            <cond language="gux-BF" variant="dvorak" />
+            <cond language="guz-KE" variant="dvorak" />
+            <cond language="gv" variant="dvorak" />
+            <cond language="gvl-TD" variant="dvorak" />
+            <cond language="gyn-GY" variant="dvorak" />
+            <cond language="ha-GH" variant="dvorak" />
+            <cond language="ha-NG" variant="dvorak" />
+            <cond language="hae-ET" variant="dvorak" />
+            <cond language="hak-CN" variant="dvorak" />
+            <cond language="haq-TZ" variant="dvorak" />
+            <cond language="haw" variant="dvorak" />
+            <cond language="hay-TZ" variant="dvorak" />
+            <cond language="hdy-Latn-ET" variant="dvorak" />
+            <cond language="hea-CN" variant="dvorak" />
+            <cond language="heh-TZ" variant="dvorak" />
+            <cond language="hi-Latn-IN" variant="dvorak" />
+            <cond language="hif-Latn-FJ" variant="dvorak" />
+            <cond language="hil-PH" variant="dvorak" />
+            <cond language="hmn" variant="dvorak" />
+            <cond language="hni-CN" variant="dvorak" />
+            <cond language="ho-PG" variant="dvorak" />
+            <cond language="hr-HR" variant="dvorak" />
+            <cond language="hrx-BR" variant="dvorak" />
+            <cond language="hsb-DE" variant="dvorak" />
+            <cond language="ht-HT" variant="dvorak" />
+            <cond language="hu-HU" variant="dvorak" />
+            <cond language="hvn-ID" variant="dvorak" />
+            <cond language="hwc-US" variant="dvorak" />
+            <cond language="ia" variant="dvorak" />
+            <cond language="iba-MY" variant="dvorak" />
+            <cond language="ibb-NG" variant="dvorak" />
+            <cond language="ig-NG" variant="dvorak" />
+            <cond language="igb-NG" variant="dvorak" />
+            <cond language="igl-NG" variant="dvorak" />
+            <cond language="ii-Latn-CN" variant="dvorak" />
+            <cond language="ijc-NG" variant="dvorak" />
+            <cond language="ilo-PH" variant="dvorak" />
+            <cond language="in-ID" variant="dvorak" />
+            <cond language="is-IS" variant="dvorak" />
+            <cond language="iso-NG" variant="dvorak" />
+            <cond language="it-CH" variant="dvorak" />
+            <cond language="it-IT" variant="dvorak" />
+            <cond language="itv-PH" variant="dvorak" />
+            <cond language="iu-Latn-CA" variant="dvorak" />
+            <cond language="ium-CN" variant="dvorak" />
+            <cond language="jam-JM" variant="dvorak" />
+            <cond language="jax-ID" variant="dvorak" />
+            <cond language="jbo" variant="dvorak" />
+            <cond language="jv-ID-x-bms" variant="dvorak" />
+            <cond language="jv-Latn-ID" variant="dvorak" />
+            <cond language="kaa-UZ" variant="dvorak" />
+            <cond language="kac-MM" variant="dvorak" />
+            <cond language="kam-KE" variant="dvorak" />
+            <cond language="kao-ML" variant="dvorak" />
+            <cond language="kbp-TG" variant="dvorak" />
+            <cond language="kbr-ET" variant="dvorak" />
+            <cond language="kde-TZ" variant="dvorak" />
+            <cond language="kea-CV" variant="dvorak" />
+            <cond language="kek-GT" variant="dvorak" />
+            <cond language="kg-AO" variant="dvorak" />
+            <cond language="kge-ID" variant="dvorak" />
+            <cond language="kha-IN" variant="dvorak" />
+            <cond language="ki-KE" variant="dvorak" />
+            <cond language="kiu-TR" variant="dvorak" />
+            <cond language="kj" variant="dvorak" />
+            <cond language="kk-Latn-KZ" variant="dvorak" />
+            <cond language="kl-GL" variant="dvorak" />
+            <cond language="kmb-AO" variant="dvorak" />
+            <cond language="kmz-Latn-IR" variant="dvorak" />
+            <cond language="kn-Latn-IN" variant="dvorak" />
+            <cond language="kne-PH" variant="dvorak" />
+            <cond language="kng-CD" variant="dvorak" />
+            <cond language="kok-Latn-IN" variant="dvorak" />
+            <cond language="koo-UG" variant="dvorak" />
+            <cond language="kr-NG" variant="dvorak" />
+            <cond language="kri-SL" variant="dvorak" />
+            <cond language="krj-PH" variant="dvorak" />
+            <cond language="krl-RU" variant="dvorak" />
+            <cond language="ks-Latn" variant="dvorak" />
+            <cond language="ksh-DE" variant="dvorak" />
+            <cond language="ktb-Latn-ET" variant="dvorak" />
+            <cond language="ktu-CD" variant="dvorak" />
+            <cond language="ku" variant="dvorak" />
+            <cond language="kw-GB" variant="dvorak" />
+            <cond language="la" variant="dvorak" />
+            <cond language="lad-BA" variant="dvorak" />
+            <cond language="lad-IL" variant="dvorak" />
+            <cond language="laj-UG" variant="dvorak" />
+            <cond language="las-TG" variant="dvorak" />
+            <cond language="lb-LU" variant="dvorak" />
+            <cond language="led-CD" variant="dvorak" />
+            <cond language="lew-ID" variant="dvorak" />
+            <cond language="lg-UG" variant="dvorak" />
+            <cond language="lgg-UG" variant="dvorak" />
+            <cond language="lhu-CN" variant="dvorak" />
+            <cond language="li-NL" variant="dvorak" />
+            <cond language="lij-IT" variant="dvorak" />
+            <cond language="liv-LV" variant="dvorak" />
+            <cond language="ljp-ID" variant="dvorak" />
+            <cond language="lkt-US" variant="dvorak" />
+            <cond language="lld-IT" variant="dvorak" />
+            <cond language="lmo-IT" variant="dvorak" />
+            <cond language="ln-AO" variant="dvorak" />
+            <cond language="ln-CD" variant="dvorak" />
+            <cond language="lon-MW" variant="dvorak" />
+            <cond language="lt-LT" variant="dvorak" />
+            <cond language="ltg-LV" variant="dvorak" />
+            <cond language="lu-CD" variant="dvorak" />
+            <cond language="lua-CD" variant="dvorak" />
+            <cond language="luo-KE" variant="dvorak" />
+            <cond language="lus-IN" variant="dvorak" />
+            <cond language="lv-LV" variant="dvorak" />
+            <cond language="mad-ID" variant="dvorak" />
+            <cond language="mai-Latn" variant="dvorak" />
+            <cond language="mak-ID" variant="dvorak" />
+            <cond language="mas-KE" variant="dvorak" />
+            <cond language="max-ID" variant="dvorak" />
+            <cond language="mcn-TD" variant="dvorak" />
+            <cond language="mde-Latn" variant="dvorak" />
+            <cond language="mdh-PH" variant="dvorak" />
+            <cond language="mdr-ID" variant="dvorak" />
+            <cond language="mel-MY" variant="dvorak" />
+            <cond language="men-SL" variant="dvorak" />
+            <cond language="meo-MY" variant="dvorak" />
+            <cond language="mer-KE" variant="dvorak" />
+            <cond language="mfb-ID" variant="dvorak" />
+            <cond language="mfp-ID" variant="dvorak" />
+            <cond language="mfq-TG" variant="dvorak" />
+            <cond language="mg-MG" variant="dvorak" />
+            <cond language="mgh-MZ" variant="dvorak" />
+            <cond language="mhy-ID" variant="dvorak" />
+            <cond language="mi-NZ" variant="dvorak" />
+            <cond language="min-ID" variant="dvorak" />
+            <cond language="mkw-CD" variant="dvorak" />
+            <cond language="ml-Latn-IN" variant="dvorak" />
+            <cond language="mmr-CN" variant="dvorak" />
+            <cond language="mnb-ID" variant="dvorak" />
+            <cond language="mni-Latn-IN" variant="dvorak" />
+            <cond language="mnk-Latn" variant="dvorak" />
+            <cond language="mnp-CN" variant="dvorak" />
+            <cond language="mog-ID" variant="dvorak" />
+            <cond language="mos-BF" variant="dvorak" />
+            <cond language="mpg-TD" variant="dvorak" />
+            <cond language="mqj-ID" variant="dvorak" />
+            <cond language="mqy-ID" variant="dvorak" />
+            <cond language="mr-Latn-IN" variant="dvorak" />
+            <cond language="mrw-PH" variant="dvorak" />
+            <cond language="ms-BN" variant="dvorak" />
+            <cond language="ms-MY" variant="dvorak" />
+            <cond language="ms-SG" variant="dvorak" />
+            <cond language="msi-MY" variant="dvorak" />
+            <cond language="mt-MT" variant="dvorak" />
+            <cond language="mtq-VN" variant="dvorak" />
+            <cond language="mua-TD" variant="dvorak" />
+            <cond language="mui-ID" variant="dvorak" />
+            <cond language="mvp-ID" variant="dvorak" />
+            <cond language="mwm-TD" variant="dvorak" />
+            <cond language="mww-CN" variant="dvorak" />
+            <cond language="myx-UG" variant="dvorak" />
+            <cond language="na-NR" variant="dvorak" />
+            <cond language="nah-MX" variant="dvorak" />
+            <cond language="nan-Latn" variant="dvorak" />
+            <cond language="nan-x-tl" variant="dvorak" />
+            <cond language="nap-IT" variant="dvorak" />
+            <cond language="nb-NO" variant="dvorak" />
+            <cond language="ndc-ZW" variant="dvorak" />
+            <cond language="nde-ZW" variant="dvorak" />
+            <cond language="nds-DE" variant="dvorak" />
+            <cond language="ne-Latn" variant="dvorak" />
+            <cond language="ng-NA" variant="dvorak" />
+            <cond language="nga-CD" variant="dvorak" />
+            <cond language="ngl-MZ" variant="dvorak" />
+            <cond language="nia-ID" variant="dvorak" />
+            <cond language="nij-ID" variant="dvorak" />
+            <cond language="niq-KE" variant="dvorak" />
+            <cond language="niu-NU" variant="dvorak" />
+            <cond language="nl-BE" variant="dvorak" />
+            <cond language="nl-NL" variant="dvorak" />
+            <cond language="nn-NO" variant="dvorak" />
+            <cond language="nnb-CD" variant="dvorak" />
+            <cond language="nr-ZA" variant="dvorak" />
+            <cond language="nrf-FR" variant="dvorak" />
+            <cond language="nrf-FR-x-gallo" variant="dvorak" />
+            <cond language="nrf-GG" variant="dvorak" />
+            <cond language="nrf-JE" variant="dvorak" />
+            <cond language="nso-ZA" variant="dvorak" />
+            <cond language="nup-NG" variant="dvorak" />
+            <cond language="nut-VN" variant="dvorak" />
+            <cond language="nv-US" variant="dvorak" />
+            <cond language="ny" variant="dvorak" />
+            <cond language="nyf-KE" variant="dvorak" />
+            <cond language="nym-TZ" variant="dvorak" />
+            <cond language="nyn-UG" variant="dvorak" />
+            <cond language="nyo-UG" variant="dvorak" />
+            <cond language="nyy-TZ" variant="dvorak" />
+            <cond language="oc-FR" variant="dvorak" />
+            <cond language="oj-Latn" variant="dvorak" />
+            <cond language="olo-RU" variant="dvorak" />
+            <cond language="om" variant="dvorak" />
+            <cond language="or-Latn-IN" variant="dvorak" />
+            <cond language="pa-Latn" variant="dvorak" />
+            <cond language="pag-PH" variant="dvorak" />
+            <cond language="pam-PH" variant="dvorak" />
+            <cond language="pap" variant="dvorak" />
+            <cond language="pap-AW" variant="dvorak" />
+            <cond language="pcc-CN" variant="dvorak" />
+            <cond language="pcd-BE" variant="dvorak" />
+            <cond language="pcm-NG" variant="dvorak" />
+            <cond language="pdc-US" variant="dvorak" />
+            <cond language="pfl-DE" variant="dvorak" />
+            <cond language="pko-KE" variant="dvorak" />
+            <cond language="pl-PL" variant="dvorak" />
+            <cond language="plt-MG" variant="dvorak" />
+            <cond language="pmf-ID" variant="dvorak" />
+            <cond language="pms-IT" variant="dvorak" />
+            <cond language="pmy-ID" variant="dvorak" />
+            <cond language="pov-GW" variant="dvorak" />
+            <cond language="prk-MM" variant="dvorak" />
+            <cond language="pse-ID" variant="dvorak" />
+            <cond language="pt-002" variant="dvorak" />
+            <cond language="pt-AO" variant="dvorak" />
+            <cond language="pt-BR" variant="dvorak" />
+            <cond language="pt-MO" variant="dvorak" />
+            <cond language="pt-PT" variant="dvorak" />
+            <cond language="pua-MX" variant="dvorak" />
+            <cond language="qaa-x-alsatian" variant="dvorak" />
+            <cond language="qu-PE" variant="dvorak" />
+            <cond language="quc-GT" variant="dvorak" />
+            <cond language="qug-EC" variant="dvorak" />
+            <cond language="quh-BO" variant="dvorak" />
+            <cond language="quy-PE" variant="dvorak" />
+            <cond language="quz-PE" variant="dvorak" />
+            <cond language="rcf-RE" variant="dvorak" />
+            <cond language="rhg-Latn-MM" variant="dvorak" />
+            <cond language="rim-TZ" variant="dvorak" />
+            <cond language="rm-CH" variant="dvorak" />
+            <cond language="rmy-AL" variant="dvorak" />
+            <cond language="rmy-RO" variant="dvorak" />
+            <cond language="rn-BI" variant="dvorak" />
+            <cond language="ro-MD" variant="dvorak" />
+            <cond language="ro-RO" variant="dvorak" />
+            <cond language="rw-RW" variant="dvorak" />
+            <cond language="sa-Latn-IN" variant="dvorak" />
+            <cond language="sas-ID" variant="dvorak" />
+            <cond language="sat-Latn" variant="dvorak" />
+            <cond language="sba-TD" variant="dvorak" />
+            <cond language="sc-IT" variant="dvorak" />
+            <cond language="scn-IT" variant="dvorak" />
+            <cond language="sco-GB" variant="dvorak" />
+            <cond language="sd-Latn" variant="dvorak" />
+            <cond language="sda-ID" variant="dvorak" />
+            <cond language="sdc-IT" variant="dvorak" />
+            <cond language="se-NO" variant="dvorak" />
+            <cond language="sef-CI" variant="dvorak" />
+            <cond language="seh-MZ" variant="dvorak" />
+            <cond language="sg-CF" variant="dvorak" />
+            <cond language="sgc-KE" variant="dvorak" />
+            <cond language="sgs-LT" variant="dvorak" />
+            <cond language="sid-ET" variant="dvorak" />
+            <cond language="sk-SK" variant="dvorak" />
+            <cond language="skg-MG" variant="dvorak" />
+            <cond language="sl-SI" variant="dvorak" />
+            <cond language="sm" variant="dvorak" />
+            <cond language="sn" variant="dvorak" />
+            <cond language="snk-ML" variant="dvorak" />
+            <cond language="so" variant="dvorak" />
+            <cond language="sop-CD" variant="dvorak" />
+            <cond language="spp-ML" variant="dvorak" />
+            <cond language="sq-x-gheg" variant="dvorak" />
+            <cond language="sq-x-standard" variant="dvorak" />
+            <cond language="sq-x-tosk" variant="dvorak" />
+            <cond language="sr-Latn-RS" variant="dvorak" />
+            <cond language="srn-SR" variant="dvorak" />
+            <cond language="srr-SN" variant="dvorak" />
+            <cond language="ss-SZ" variant="dvorak" />
+            <cond language="ss-ZA" variant="dvorak" />
+            <cond language="st" variant="dvorak" />
+            <cond language="st-LS" variant="dvorak" />
+            <cond language="stv-Latn-ET" variant="dvorak" />
+            <cond language="su-Latn-ID" variant="dvorak" />
+            <cond language="suk-TZ" variant="dvorak" />
+            <cond language="sv-FI" variant="dvorak" />
+            <cond language="sv-SE" variant="dvorak" />
+            <cond language="sw" variant="dvorak" />
+            <cond language="sxu-DE" variant="dvorak" />
+            <cond language="syl-Latn" variant="dvorak" />
+            <cond language="szl-PL" variant="dvorak" />
+            <cond language="ta-Latn" variant="dvorak" />
+            <cond language="tdx-MG" variant="dvorak" />
+            <cond language="te-Latn-IN" variant="dvorak" />
+            <cond language="tem-SL" variant="dvorak" />
+            <cond language="teo-UG" variant="dvorak" />
+            <cond language="tet-TL" variant="dvorak" />
+            <cond language="tiv-NG" variant="dvorak" />
+            <cond language="tk-TM" variant="dvorak" />
+            <cond language="tkl-TK" variant="dvorak" />
+            <cond language="tl-PH" variant="dvorak" />
+            <cond language="tll-CD" variant="dvorak" />
+            <cond language="tly-AZ" variant="dvorak" />
+            <cond language="tn-BW" variant="dvorak" />
+            <cond language="tn-ZA" variant="dvorak" />
+            <cond language="to-TO" variant="dvorak" />
+            <cond language="tpi-PG" variant="dvorak" />
+            <cond language="tr-CY" variant="dvorak" />
+            <cond language="tr-TR" variant="dvorak" />
+            <cond language="trf-TT" variant="dvorak" />
+            <cond language="trp-Latn-IN" variant="dvorak" />
+            <cond language="ts" variant="dvorak" />
+            <cond language="tsc-MZ" variant="dvorak" />
+            <cond language="tsg-PH" variant="dvorak" />
+            <cond language="ttj-UG" variant="dvorak" />
+            <cond language="tum-MW" variant="dvorak" />
+            <cond language="tuv-KE" variant="dvorak" />
+            <cond language="tvl-TV" variant="dvorak" />
+            <cond language="twd-NL" variant="dvorak" />
+            <cond language="ty-PF" variant="dvorak" />
+            <cond language="tyz-VN" variant="dvorak" />
+            <cond language="umb-AO" variant="dvorak" />
+            <cond language="unr-Latn" variant="dvorak" />
+            <cond language="ur-Latn" variant="dvorak" />
+            <cond language="uz-Latn-UZ" variant="dvorak" />
+            <cond language="ve-ZA" variant="dvorak" />
+            <cond language="vec-IT" variant="dvorak" />
+            <cond language="vel-NL" variant="dvorak" />
+            <cond language="vep-RU" variant="dvorak" />
+            <cond language="vi-VN" variant="dvorak" />
+            <cond language="vkt-ID" variant="dvorak" />
+            <cond language="vls-BE" variant="dvorak" />
+            <cond language="vmf-DE" variant="dvorak" />
+            <cond language="vmw-MZ" variant="dvorak" />
+            <cond language="vro-EE" variant="dvorak" />
+            <cond language="wa-BE" variant="dvorak" />
+            <cond language="wal-ET" variant="dvorak" />
+            <cond language="war-PH" variant="dvorak" />
+            <cond language="wes-CM" variant="dvorak" />
+            <cond language="wo" variant="dvorak" />
+            <cond language="xh" variant="dvorak" />
+            <cond language="xmm-ID" variant="dvorak" />
+            <cond language="xog-UG" variant="dvorak" />
+            <cond language="xon-GH" variant="dvorak" />
+            <cond language="yaf-CD" variant="dvorak" />
+            <cond language="yao-MW" variant="dvorak" />
+            <cond language="ymm-SO" variant="dvorak" />
+            <cond language="yo" variant="dvorak" />
+            <cond language="yua-MX" variant="dvorak" />
+            <cond language="za-CN" variant="dvorak" />
+            <cond language="zea-NL" variant="dvorak" />
+            <cond language="zne-CD" variant="dvorak" />
+            <cond language="zu-ZA" variant="dvorak" />
+            <cond language="zyb-CN" variant="dvorak" />
+            <cond language="zyj-CN" variant="dvorak" />
+            <cond language="zz" variant="dvorak" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170ae3" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="en-US" variant="us_intl" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170ae4" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="et-EE" variant="estonian" />
+            <cond language="et-EE" variant="handwriting" />
+            <cond language="et-EE" variant="pcqwerty" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170ae7" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="fi-FI" variant="handwriting" />
+            <cond language="fi-FI" variant="nordic" />
+            <cond language="fi-FI" variant="pcqwerty" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170ae8" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="aa-ET" variant="azerty" />
+            <cond language="abr-GH" variant="azerty" />
+            <cond language="abs-ID" variant="azerty" />
+            <cond language="ace-ID" variant="azerty" />
+            <cond language="acf-LC" variant="azerty" />
+            <cond language="ach-UG" variant="azerty" />
+            <cond language="act-NL" variant="azerty" />
+            <cond language="ada-GH" variant="azerty" />
+            <cond language="af-ZA" variant="azerty" />
+            <cond language="ajg-BJ" variant="azerty" />
+            <cond language="ak-GH" variant="azerty" />
+            <cond language="ak-GH-x-akuapem" variant="azerty" />
+            <cond language="ak-GH-x-asante" variant="azerty" />
+            <cond language="alz-CD" variant="azerty" />
+            <cond language="ami-TW" variant="azerty" />
+            <cond language="an-ES" variant="azerty" />
+            <cond language="anw-NG" variant="azerty" />
+            <cond language="arn-CL" variant="azerty" />
+            <cond language="as-Latn-IN" variant="azerty" />
+            <cond language="ast-ES" variant="azerty" />
+            <cond language="ay-BO" variant="azerty" />
+            <cond language="ay-PE" variant="azerty" />
+            <cond language="az-AZ" variant="azerty" />
+            <cond language="bah-BS" variant="azerty" />
+            <cond language="ban-ID" variant="azerty" />
+            <cond language="bar-AT" variant="azerty" />
+            <cond language="bas-CM" variant="azerty" />
+            <cond language="bbc-ID" variant="azerty" />
+            <cond language="bbj-CM" variant="azerty" />
+            <cond language="bci-CI" variant="azerty" />
+            <cond language="bcl-PH" variant="azerty" />
+            <cond language="bcq-ET" variant="azerty" />
+            <cond language="bem-ZM" variant="azerty" />
+            <cond language="ber-Latn" variant="azerty" />
+            <cond language="bew-ID" variant="azerty" />
+            <cond language="bgx-TR" variant="azerty" />
+            <cond language="bgz-ID" variant="azerty" />
+            <cond language="bi-VU" variant="azerty" />
+            <cond language="bin-NG" variant="azerty" />
+            <cond language="bjn-ID" variant="azerty" />
+            <cond language="blt-Latn" variant="azerty" />
+            <cond language="bm-ML" variant="azerty" />
+            <cond language="bmm-MG" variant="azerty" />
+            <cond language="bn-Latn" variant="azerty" />
+            <cond language="bom-NG" variant="azerty" />
+            <cond language="bpr-PH" variant="azerty" />
+            <cond language="br-FR" variant="azerty" />
+            <cond language="brh-PK" variant="azerty" />
+            <cond language="brx-Latn-IN" variant="azerty" />
+            <cond language="bs-BA" variant="azerty" />
+            <cond language="bss-CM" variant="azerty" />
+            <cond language="btm-ID" variant="azerty" />
+            <cond language="bto-PH" variant="azerty" />
+            <cond language="bts-ID" variant="azerty" />
+            <cond language="btx-ID" variant="azerty" />
+            <cond language="btz-ID" variant="azerty" />
+            <cond language="bud-TG" variant="azerty" />
+            <cond language="bug-ID" variant="azerty" />
+            <cond language="bum-CM" variant="azerty" />
+            <cond language="bxg-CD" variant="azerty" />
+            <cond language="bxk-KE" variant="azerty" />
+            <cond language="bzc-MG" variant="azerty" />
+            <cond language="ca" variant="azerty" />
+            <cond language="cat-x-val" variant="azerty" />
+            <cond language="cbk-PH" variant="azerty" />
+            <cond language="cce-MZ" variant="azerty" />
+            <cond language="cdo-CN" variant="azerty" />
+            <cond language="ceb-PH" variant="azerty" />
+            <cond language="cgg-UG" variant="azerty" />
+            <cond language="ch-GU" variant="azerty" />
+            <cond language="cho-US" variant="azerty" />
+            <cond language="chw-MZ" variant="azerty" />
+            <cond language="cja-Latn" variant="azerty" />
+            <cond language="cjk-AO" variant="azerty" />
+            <cond language="cjk-CD" variant="azerty" />
+            <cond language="cjm-Latn" variant="azerty" />
+            <cond language="cnh-MM" variant="azerty" />
+            <cond language="cnr-Latn-ME" variant="azerty" />
+            <cond language="co" variant="azerty" />
+            <cond language="cps-PH" variant="azerty" />
+            <cond language="cr-Latn-CA" variant="azerty" />
+            <cond language="crh-Latn" variant="azerty" />
+            <cond language="crs-SC" variant="azerty" />
+            <cond language="cs-CZ" variant="azerty" />
+            <cond language="csb-PL" variant="azerty" />
+            <cond language="cy-GB" variant="azerty" />
+            <cond language="cyo-PH" variant="azerty" />
+            <cond language="da-DK" variant="azerty" />
+            <cond language="dag-GH" variant="azerty" />
+            <cond language="de-AT" variant="azerty" />
+            <cond language="de-BE" variant="azerty" />
+            <cond language="de-CH" variant="azerty" />
+            <cond language="de-DE" variant="azerty" />
+            <cond language="de-LU" variant="azerty" />
+            <cond language="dga-GH" variant="azerty" />
+            <cond language="din" variant="azerty" />
+            <cond language="diq-TR" variant="azerty" />
+            <cond language="dje-NE" variant="azerty" />
+            <cond language="dnj-CI" variant="azerty" />
+            <cond language="doi-Latn" variant="azerty" />
+            <cond language="drs-ET" variant="azerty" />
+            <cond language="drt-NL" variant="azerty" />
+            <cond language="dsb-DE" variant="azerty" />
+            <cond language="dtp-MY" variant="azerty" />
+            <cond language="dyu-CI" variant="azerty" />
+            <cond language="dzg-TD" variant="azerty" />
+            <cond language="ee" variant="azerty" />
+            <cond language="efi-NG" variant="azerty" />
+            <cond language="egl-IT" variant="azerty" />
+            <cond language="en-AU" variant="azerty" />
+            <cond language="en-CA" variant="azerty" />
+            <cond language="en-GB" variant="azerty" />
+            <cond language="en-IN" variant="azerty" />
+            <cond language="en-KE" variant="azerty" />
+            <cond language="en-NG" variant="azerty" />
+            <cond language="en-PH" variant="azerty" />
+            <cond language="en-US" variant="azerty" />
+            <cond language="en-ZA" variant="azerty" />
+            <cond language="eo" variant="azerty" />
+            <cond language="es-419" variant="azerty" />
+            <cond language="es-AR" variant="azerty" />
+            <cond language="es-ES" variant="azerty" />
+            <cond language="es-MX" variant="azerty" />
+            <cond language="es-US" variant="azerty" />
+            <cond language="et-EE" variant="azerty" />
+            <cond language="eu-ES" variant="azerty" />
+            <cond language="ewo-CM" variant="azerty" />
+            <cond language="ext-ES" variant="azerty" />
+            <cond language="fan-GQ" variant="azerty" />
+            <cond language="fat-GH" variant="azerty" />
+            <cond language="ff-Latn" variant="azerty" />
+            <cond language="fi-FI" variant="azerty" />
+            <cond language="fj-FJ" variant="azerty" />
+            <cond language="fo-FO" variant="azerty" />
+            <cond language="fon-BJ" variant="azerty" />
+            <cond language="fr-002" variant="azerty" />
+            <cond language="fr-BE" variant="azerty" />
+            <cond language="fr-CA" variant="azerty" />
+            <cond language="fr-CH" variant="azerty" />
+            <cond language="fr-FR" variant="azerty" />
+            <cond language="fr-FR" variant="handwriting" />
+            <cond language="fub-CM" variant="azerty" />
+            <cond language="fuc-SN" variant="azerty" />
+            <cond language="fuh-NE" variant="azerty" />
+            <cond language="fur-IT" variant="azerty" />
+            <cond language="fuv-NG" variant="azerty" />
+            <cond language="fy-NL" variant="azerty" />
+            <cond language="ga" variant="azerty" />
+            <cond language="gag-MD" variant="azerty" />
+            <cond language="gax-ET" variant="azerty" />
+            <cond language="gay-ID" variant="azerty" />
+            <cond language="gbo-LR" variant="azerty" />
+            <cond language="gcf-GP" variant="azerty" />
+            <cond language="gcr-GF" variant="azerty" />
+            <cond language="gd-GB" variant="azerty" />
+            <cond language="gil-KI" variant="azerty" />
+            <cond language="gl-ES" variant="azerty" />
+            <cond language="gmv-ET" variant="azerty" />
+            <cond language="gn" variant="azerty" />
+            <cond language="gog-TZ" variant="azerty" />
+            <cond language="gor-ID" variant="azerty" />
+            <cond language="gos-NL" variant="azerty" />
+            <cond language="gpe-GH" variant="azerty" />
+            <cond language="gqr-TD" variant="azerty" />
+            <cond language="grt-Latn" variant="azerty" />
+            <cond language="gsw-CH" variant="azerty" />
+            <cond language="gu-Latn-IN" variant="azerty" />
+            <cond language="guc-CO" variant="azerty" />
+            <cond language="gur-GH" variant="azerty" />
+            <cond language="gux-BF" variant="azerty" />
+            <cond language="guz-KE" variant="azerty" />
+            <cond language="gv" variant="azerty" />
+            <cond language="gvl-TD" variant="azerty" />
+            <cond language="gyn-GY" variant="azerty" />
+            <cond language="ha-GH" variant="azerty" />
+            <cond language="ha-NG" variant="azerty" />
+            <cond language="hae-ET" variant="azerty" />
+            <cond language="hak-CN" variant="azerty" />
+            <cond language="haq-TZ" variant="azerty" />
+            <cond language="haw" variant="azerty" />
+            <cond language="hay-TZ" variant="azerty" />
+            <cond language="hdy-Latn-ET" variant="azerty" />
+            <cond language="hea-CN" variant="azerty" />
+            <cond language="heh-TZ" variant="azerty" />
+            <cond language="hi-Latn-IN" variant="azerty" />
+            <cond language="hif-Latn-FJ" variant="azerty" />
+            <cond language="hil-PH" variant="azerty" />
+            <cond language="hmn" variant="azerty" />
+            <cond language="hni-CN" variant="azerty" />
+            <cond language="ho-PG" variant="azerty" />
+            <cond language="hr-HR" variant="azerty" />
+            <cond language="hrx-BR" variant="azerty" />
+            <cond language="hsb-DE" variant="azerty" />
+            <cond language="ht-HT" variant="azerty" />
+            <cond language="hu-HU" variant="azerty" />
+            <cond language="hvn-ID" variant="azerty" />
+            <cond language="hwc-US" variant="azerty" />
+            <cond language="ia" variant="azerty" />
+            <cond language="iba-MY" variant="azerty" />
+            <cond language="ibb-NG" variant="azerty" />
+            <cond language="ig-NG" variant="azerty" />
+            <cond language="igb-NG" variant="azerty" />
+            <cond language="igl-NG" variant="azerty" />
+            <cond language="ii-Latn-CN" variant="azerty" />
+            <cond language="ijc-NG" variant="azerty" />
+            <cond language="ilo-PH" variant="azerty" />
+            <cond language="in-ID" variant="azerty" />
+            <cond language="is-IS" variant="azerty" />
+            <cond language="iso-NG" variant="azerty" />
+            <cond language="it-CH" variant="azerty" />
+            <cond language="it-IT" variant="azerty" />
+            <cond language="itv-PH" variant="azerty" />
+            <cond language="iu-Latn-CA" variant="azerty" />
+            <cond language="ium-CN" variant="azerty" />
+            <cond language="jam-JM" variant="azerty" />
+            <cond language="jax-ID" variant="azerty" />
+            <cond language="jbo" variant="azerty" />
+            <cond language="jv-ID-x-bms" variant="azerty" />
+            <cond language="jv-Latn-ID" variant="azerty" />
+            <cond language="kaa-UZ" variant="azerty" />
+            <cond language="kac-MM" variant="azerty" />
+            <cond language="kam-KE" variant="azerty" />
+            <cond language="kao-ML" variant="azerty" />
+            <cond language="kbp-TG" variant="azerty" />
+            <cond language="kbr-ET" variant="azerty" />
+            <cond language="kde-TZ" variant="azerty" />
+            <cond language="kea-CV" variant="azerty" />
+            <cond language="kek-GT" variant="azerty" />
+            <cond language="kg-AO" variant="azerty" />
+            <cond language="kge-ID" variant="azerty" />
+            <cond language="kha-IN" variant="azerty" />
+            <cond language="ki-KE" variant="azerty" />
+            <cond language="kiu-TR" variant="azerty" />
+            <cond language="kj" variant="azerty" />
+            <cond language="kk-Latn-KZ" variant="azerty" />
+            <cond language="kl-GL" variant="azerty" />
+            <cond language="kmb-AO" variant="azerty" />
+            <cond language="kmz-Latn-IR" variant="azerty" />
+            <cond language="kn-Latn-IN" variant="azerty" />
+            <cond language="kne-PH" variant="azerty" />
+            <cond language="kng-CD" variant="azerty" />
+            <cond language="kok-Latn-IN" variant="azerty" />
+            <cond language="koo-UG" variant="azerty" />
+            <cond language="kr-NG" variant="azerty" />
+            <cond language="kri-SL" variant="azerty" />
+            <cond language="krj-PH" variant="azerty" />
+            <cond language="krl-RU" variant="azerty" />
+            <cond language="ks-Latn" variant="azerty" />
+            <cond language="ksh-DE" variant="azerty" />
+            <cond language="ktb-Latn-ET" variant="azerty" />
+            <cond language="ktu-CD" variant="azerty" />
+            <cond language="ku" variant="azerty" />
+            <cond language="kw-GB" variant="azerty" />
+            <cond language="la" variant="azerty" />
+            <cond language="lad-BA" variant="azerty" />
+            <cond language="lad-IL" variant="azerty" />
+            <cond language="laj-UG" variant="azerty" />
+            <cond language="las-TG" variant="azerty" />
+            <cond language="lb-LU" variant="azerty" />
+            <cond language="led-CD" variant="azerty" />
+            <cond language="lew-ID" variant="azerty" />
+            <cond language="lg-UG" variant="azerty" />
+            <cond language="lgg-UG" variant="azerty" />
+            <cond language="lhu-CN" variant="azerty" />
+            <cond language="li-NL" variant="azerty" />
+            <cond language="lij-IT" variant="azerty" />
+            <cond language="liv-LV" variant="azerty" />
+            <cond language="ljp-ID" variant="azerty" />
+            <cond language="lkt-US" variant="azerty" />
+            <cond language="lld-IT" variant="azerty" />
+            <cond language="lmo-IT" variant="azerty" />
+            <cond language="ln-AO" variant="azerty" />
+            <cond language="ln-CD" variant="azerty" />
+            <cond language="lon-MW" variant="azerty" />
+            <cond language="lt-LT" variant="azerty" />
+            <cond language="ltg-LV" variant="azerty" />
+            <cond language="lu-CD" variant="azerty" />
+            <cond language="lua-CD" variant="azerty" />
+            <cond language="luo-KE" variant="azerty" />
+            <cond language="lus-IN" variant="azerty" />
+            <cond language="lv-LV" variant="azerty" />
+            <cond language="mad-ID" variant="azerty" />
+            <cond language="mai-Latn" variant="azerty" />
+            <cond language="mak-ID" variant="azerty" />
+            <cond language="mas-KE" variant="azerty" />
+            <cond language="max-ID" variant="azerty" />
+            <cond language="mcn-TD" variant="azerty" />
+            <cond language="mde-Latn" variant="azerty" />
+            <cond language="mdh-PH" variant="azerty" />
+            <cond language="mdr-ID" variant="azerty" />
+            <cond language="mel-MY" variant="azerty" />
+            <cond language="men-SL" variant="azerty" />
+            <cond language="meo-MY" variant="azerty" />
+            <cond language="mer-KE" variant="azerty" />
+            <cond language="mfb-ID" variant="azerty" />
+            <cond language="mfp-ID" variant="azerty" />
+            <cond language="mfq-TG" variant="azerty" />
+            <cond language="mg-MG" variant="azerty" />
+            <cond language="mgh-MZ" variant="azerty" />
+            <cond language="mhy-ID" variant="azerty" />
+            <cond language="mi-NZ" variant="azerty" />
+            <cond language="min-ID" variant="azerty" />
+            <cond language="mkw-CD" variant="azerty" />
+            <cond language="ml-Latn-IN" variant="azerty" />
+            <cond language="mmr-CN" variant="azerty" />
+            <cond language="mnb-ID" variant="azerty" />
+            <cond language="mni-Latn-IN" variant="azerty" />
+            <cond language="mnk-Latn" variant="azerty" />
+            <cond language="mnp-CN" variant="azerty" />
+            <cond language="mog-ID" variant="azerty" />
+            <cond language="mos-BF" variant="azerty" />
+            <cond language="mpg-TD" variant="azerty" />
+            <cond language="mqj-ID" variant="azerty" />
+            <cond language="mqy-ID" variant="azerty" />
+            <cond language="mr-Latn-IN" variant="azerty" />
+            <cond language="mrw-PH" variant="azerty" />
+            <cond language="ms-BN" variant="azerty" />
+            <cond language="ms-MY" variant="azerty" />
+            <cond language="ms-SG" variant="azerty" />
+            <cond language="msi-MY" variant="azerty" />
+            <cond language="mt-MT" variant="azerty" />
+            <cond language="mtq-VN" variant="azerty" />
+            <cond language="mua-TD" variant="azerty" />
+            <cond language="mui-ID" variant="azerty" />
+            <cond language="mvp-ID" variant="azerty" />
+            <cond language="mwm-TD" variant="azerty" />
+            <cond language="mww-CN" variant="azerty" />
+            <cond language="myx-UG" variant="azerty" />
+            <cond language="na-NR" variant="azerty" />
+            <cond language="nah-MX" variant="azerty" />
+            <cond language="nan-Latn" variant="azerty" />
+            <cond language="nan-x-tl" variant="azerty" />
+            <cond language="nap-IT" variant="azerty" />
+            <cond language="nb-NO" variant="azerty" />
+            <cond language="ndc-ZW" variant="azerty" />
+            <cond language="nde-ZW" variant="azerty" />
+            <cond language="nds-DE" variant="azerty" />
+            <cond language="ne-Latn" variant="azerty" />
+            <cond language="ng-NA" variant="azerty" />
+            <cond language="nga-CD" variant="azerty" />
+            <cond language="ngl-MZ" variant="azerty" />
+            <cond language="nia-ID" variant="azerty" />
+            <cond language="nij-ID" variant="azerty" />
+            <cond language="niq-KE" variant="azerty" />
+            <cond language="niu-NU" variant="azerty" />
+            <cond language="nl-BE" variant="azerty" />
+            <cond language="nl-NL" variant="azerty" />
+            <cond language="nn-NO" variant="azerty" />
+            <cond language="nnb-CD" variant="azerty" />
+            <cond language="nr-ZA" variant="azerty" />
+            <cond language="nrf-FR" variant="azerty" />
+            <cond language="nrf-FR-x-gallo" variant="azerty" />
+            <cond language="nrf-GG" variant="azerty" />
+            <cond language="nrf-JE" variant="azerty" />
+            <cond language="nso-ZA" variant="azerty" />
+            <cond language="nup-NG" variant="azerty" />
+            <cond language="nut-VN" variant="azerty" />
+            <cond language="nv-US" variant="azerty" />
+            <cond language="ny" variant="azerty" />
+            <cond language="nyf-KE" variant="azerty" />
+            <cond language="nym-TZ" variant="azerty" />
+            <cond language="nyn-UG" variant="azerty" />
+            <cond language="nyo-UG" variant="azerty" />
+            <cond language="nyy-TZ" variant="azerty" />
+            <cond language="oc-FR" variant="azerty" />
+            <cond language="oj-Latn" variant="azerty" />
+            <cond language="olo-RU" variant="azerty" />
+            <cond language="om" variant="azerty" />
+            <cond language="or-Latn-IN" variant="azerty" />
+            <cond language="pa-Latn" variant="azerty" />
+            <cond language="pag-PH" variant="azerty" />
+            <cond language="pam-PH" variant="azerty" />
+            <cond language="pap" variant="azerty" />
+            <cond language="pap-AW" variant="azerty" />
+            <cond language="pcc-CN" variant="azerty" />
+            <cond language="pcd-BE" variant="azerty" />
+            <cond language="pcm-NG" variant="azerty" />
+            <cond language="pdc-US" variant="azerty" />
+            <cond language="pfl-DE" variant="azerty" />
+            <cond language="pko-KE" variant="azerty" />
+            <cond language="pl-PL" variant="azerty" />
+            <cond language="plt-MG" variant="azerty" />
+            <cond language="pmf-ID" variant="azerty" />
+            <cond language="pms-IT" variant="azerty" />
+            <cond language="pmy-ID" variant="azerty" />
+            <cond language="pov-GW" variant="azerty" />
+            <cond language="prk-MM" variant="azerty" />
+            <cond language="pse-ID" variant="azerty" />
+            <cond language="pt-002" variant="azerty" />
+            <cond language="pt-AO" variant="azerty" />
+            <cond language="pt-BR" variant="azerty" />
+            <cond language="pt-MO" variant="azerty" />
+            <cond language="pt-PT" variant="azerty" />
+            <cond language="pua-MX" variant="azerty" />
+            <cond language="qaa-x-alsatian" variant="azerty" />
+            <cond language="qu-PE" variant="azerty" />
+            <cond language="quc-GT" variant="azerty" />
+            <cond language="qug-EC" variant="azerty" />
+            <cond language="quh-BO" variant="azerty" />
+            <cond language="quy-PE" variant="azerty" />
+            <cond language="quz-PE" variant="azerty" />
+            <cond language="rcf-RE" variant="azerty" />
+            <cond language="rhg-Latn-MM" variant="azerty" />
+            <cond language="rim-TZ" variant="azerty" />
+            <cond language="rm-CH" variant="azerty" />
+            <cond language="rmy-AL" variant="azerty" />
+            <cond language="rmy-RO" variant="azerty" />
+            <cond language="rn-BI" variant="azerty" />
+            <cond language="ro-MD" variant="azerty" />
+            <cond language="ro-RO" variant="azerty" />
+            <cond language="rw-RW" variant="azerty" />
+            <cond language="sa-Latn-IN" variant="azerty" />
+            <cond language="sas-ID" variant="azerty" />
+            <cond language="sat-Latn" variant="azerty" />
+            <cond language="sba-TD" variant="azerty" />
+            <cond language="sc-IT" variant="azerty" />
+            <cond language="scn-IT" variant="azerty" />
+            <cond language="sco-GB" variant="azerty" />
+            <cond language="sd-Latn" variant="azerty" />
+            <cond language="sda-ID" variant="azerty" />
+            <cond language="sdc-IT" variant="azerty" />
+            <cond language="se-NO" variant="azerty" />
+            <cond language="sef-CI" variant="azerty" />
+            <cond language="seh-MZ" variant="azerty" />
+            <cond language="sg-CF" variant="azerty" />
+            <cond language="sgc-KE" variant="azerty" />
+            <cond language="sgs-LT" variant="azerty" />
+            <cond language="sid-ET" variant="azerty" />
+            <cond language="sk-SK" variant="azerty" />
+            <cond language="skg-MG" variant="azerty" />
+            <cond language="sl-SI" variant="azerty" />
+            <cond language="sm" variant="azerty" />
+            <cond language="sn" variant="azerty" />
+            <cond language="snk-ML" variant="azerty" />
+            <cond language="so" variant="azerty" />
+            <cond language="sop-CD" variant="azerty" />
+            <cond language="spp-ML" variant="azerty" />
+            <cond language="sq-x-gheg" variant="azerty" />
+            <cond language="sq-x-standard" variant="azerty" />
+            <cond language="sq-x-tosk" variant="azerty" />
+            <cond language="sr-Latn-RS" variant="azerty" />
+            <cond language="srn-SR" variant="azerty" />
+            <cond language="srr-SN" variant="azerty" />
+            <cond language="ss-SZ" variant="azerty" />
+            <cond language="ss-ZA" variant="azerty" />
+            <cond language="st" variant="azerty" />
+            <cond language="st-LS" variant="azerty" />
+            <cond language="stv-Latn-ET" variant="azerty" />
+            <cond language="su-Latn-ID" variant="azerty" />
+            <cond language="suk-TZ" variant="azerty" />
+            <cond language="sv-FI" variant="azerty" />
+            <cond language="sv-SE" variant="azerty" />
+            <cond language="sw" variant="azerty" />
+            <cond language="sxu-DE" variant="azerty" />
+            <cond language="syl-Latn" variant="azerty" />
+            <cond language="szl-PL" variant="azerty" />
+            <cond language="ta-Latn" variant="azerty" />
+            <cond language="tdx-MG" variant="azerty" />
+            <cond language="te-Latn-IN" variant="azerty" />
+            <cond language="tem-SL" variant="azerty" />
+            <cond language="teo-UG" variant="azerty" />
+            <cond language="tet-TL" variant="azerty" />
+            <cond language="tiv-NG" variant="azerty" />
+            <cond language="tk-TM" variant="azerty" />
+            <cond language="tkl-TK" variant="azerty" />
+            <cond language="tl-PH" variant="azerty" />
+            <cond language="tll-CD" variant="azerty" />
+            <cond language="tly-AZ" variant="azerty" />
+            <cond language="tn-BW" variant="azerty" />
+            <cond language="tn-ZA" variant="azerty" />
+            <cond language="to-TO" variant="azerty" />
+            <cond language="tpi-PG" variant="azerty" />
+            <cond language="tr-CY" variant="azerty" />
+            <cond language="tr-TR" variant="azerty" />
+            <cond language="trf-TT" variant="azerty" />
+            <cond language="trp-Latn-IN" variant="azerty" />
+            <cond language="ts" variant="azerty" />
+            <cond language="tsc-MZ" variant="azerty" />
+            <cond language="tsg-PH" variant="azerty" />
+            <cond language="ttj-UG" variant="azerty" />
+            <cond language="tum-MW" variant="azerty" />
+            <cond language="tuv-KE" variant="azerty" />
+            <cond language="tvl-TV" variant="azerty" />
+            <cond language="twd-NL" variant="azerty" />
+            <cond language="ty-PF" variant="azerty" />
+            <cond language="tyz-VN" variant="azerty" />
+            <cond language="umb-AO" variant="azerty" />
+            <cond language="unr-Latn" variant="azerty" />
+            <cond language="ur-Latn" variant="azerty" />
+            <cond language="uz-Latn-UZ" variant="azerty" />
+            <cond language="ve-ZA" variant="azerty" />
+            <cond language="vec-IT" variant="azerty" />
+            <cond language="vel-NL" variant="azerty" />
+            <cond language="vep-RU" variant="azerty" />
+            <cond language="vi-VN" variant="azerty" />
+            <cond language="vkt-ID" variant="azerty" />
+            <cond language="vls-BE" variant="azerty" />
+            <cond language="vmf-DE" variant="azerty" />
+            <cond language="vmw-MZ" variant="azerty" />
+            <cond language="vro-EE" variant="azerty" />
+            <cond language="wa-BE" variant="azerty" />
+            <cond language="wal-ET" variant="azerty" />
+            <cond language="war-PH" variant="azerty" />
+            <cond language="wes-CM" variant="azerty" />
+            <cond language="wo" variant="azerty" />
+            <cond language="xh" variant="azerty" />
+            <cond language="xmm-ID" variant="azerty" />
+            <cond language="xog-UG" variant="azerty" />
+            <cond language="xon-GH" variant="azerty" />
+            <cond language="yaf-CD" variant="azerty" />
+            <cond language="yao-MW" variant="azerty" />
+            <cond language="ymm-SO" variant="azerty" />
+            <cond language="yo" variant="azerty" />
+            <cond language="yua-MX" variant="azerty" />
+            <cond language="za-CN" variant="azerty" />
+            <cond language="zea-NL" variant="azerty" />
+            <cond language="zne-CD" variant="azerty" />
+            <cond language="zu-ZA" variant="azerty" />
+            <cond language="zyb-CN" variant="azerty" />
+            <cond language="zyj-CN" variant="azerty" />
+            <cond language="zz" variant="azerty" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170aec" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="fr-FR" variant="bepo" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170aea" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="fr-002" variant="handwriting" />
+            <cond language="fr-CA" variant="handwriting" />
+            <cond language="fr-CA" variant="pcqwerty" />
+            <cond language="fr-CH" variant="pcqwerty" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170aeb" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="ga" variant="pcqwerty" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170aed" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="aa-ET" variant="qwertz" />
+            <cond language="abr-GH" variant="qwertz" />
+            <cond language="abs-ID" variant="qwertz" />
+            <cond language="ace-ID" variant="qwertz" />
+            <cond language="acf-LC" variant="qwertz" />
+            <cond language="ach-UG" variant="qwertz" />
+            <cond language="act-NL" variant="qwertz" />
+            <cond language="ada-GH" variant="qwertz" />
+            <cond language="af-ZA" variant="qwertz" />
+            <cond language="ajg-BJ" variant="qwertz" />
+            <cond language="ak-GH" variant="qwertz" />
+            <cond language="ak-GH-x-akuapem" variant="qwertz" />
+            <cond language="ak-GH-x-asante" variant="qwertz" />
+            <cond language="alz-CD" variant="qwertz" />
+            <cond language="ami-TW" variant="qwertz" />
+            <cond language="an-ES" variant="qwertz" />
+            <cond language="anw-NG" variant="qwertz" />
+            <cond language="arn-CL" variant="qwertz" />
+            <cond language="as-Latn-IN" variant="qwertz" />
+            <cond language="ast-ES" variant="qwertz" />
+            <cond language="ay-BO" variant="qwertz" />
+            <cond language="ay-PE" variant="qwertz" />
+            <cond language="az-AZ" variant="qwertz" />
+            <cond language="bah-BS" variant="qwertz" />
+            <cond language="ban-ID" variant="qwertz" />
+            <cond language="bar-AT" variant="qwertz" />
+            <cond language="bas-CM" variant="qwertz" />
+            <cond language="bbc-ID" variant="qwertz" />
+            <cond language="bbj-CM" variant="qwertz" />
+            <cond language="bci-CI" variant="qwertz" />
+            <cond language="bcl-PH" variant="qwertz" />
+            <cond language="bcq-ET" variant="qwertz" />
+            <cond language="bem-ZM" variant="qwertz" />
+            <cond language="ber-Latn" variant="qwertz" />
+            <cond language="bew-ID" variant="qwertz" />
+            <cond language="bgx-TR" variant="qwertz" />
+            <cond language="bgz-ID" variant="qwertz" />
+            <cond language="bi-VU" variant="qwertz" />
+            <cond language="bin-NG" variant="qwertz" />
+            <cond language="bjn-ID" variant="qwertz" />
+            <cond language="blt-Latn" variant="qwertz" />
+            <cond language="bm-ML" variant="qwertz" />
+            <cond language="bmm-MG" variant="qwertz" />
+            <cond language="bn-Latn" variant="qwertz" />
+            <cond language="bom-NG" variant="qwertz" />
+            <cond language="bpr-PH" variant="qwertz" />
+            <cond language="br-FR" variant="qwertz" />
+            <cond language="brh-PK" variant="qwertz" />
+            <cond language="brx-Latn-IN" variant="qwertz" />
+            <cond language="bs-BA" variant="qwertz" />
+            <cond language="bss-CM" variant="qwertz" />
+            <cond language="btm-ID" variant="qwertz" />
+            <cond language="bto-PH" variant="qwertz" />
+            <cond language="bts-ID" variant="qwertz" />
+            <cond language="btx-ID" variant="qwertz" />
+            <cond language="btz-ID" variant="qwertz" />
+            <cond language="bud-TG" variant="qwertz" />
+            <cond language="bug-ID" variant="qwertz" />
+            <cond language="bum-CM" variant="qwertz" />
+            <cond language="bxg-CD" variant="qwertz" />
+            <cond language="bxk-KE" variant="qwertz" />
+            <cond language="bzc-MG" variant="qwertz" />
+            <cond language="ca" variant="qwertz" />
+            <cond language="cat-x-val" variant="qwertz" />
+            <cond language="cbk-PH" variant="qwertz" />
+            <cond language="cce-MZ" variant="qwertz" />
+            <cond language="cdo-CN" variant="qwertz" />
+            <cond language="ceb-PH" variant="qwertz" />
+            <cond language="cgg-UG" variant="qwertz" />
+            <cond language="ch-GU" variant="qwertz" />
+            <cond language="cho-US" variant="qwertz" />
+            <cond language="chw-MZ" variant="qwertz" />
+            <cond language="cja-Latn" variant="qwertz" />
+            <cond language="cjk-AO" variant="qwertz" />
+            <cond language="cjk-CD" variant="qwertz" />
+            <cond language="cjm-Latn" variant="qwertz" />
+            <cond language="cnh-MM" variant="qwertz" />
+            <cond language="cnr-Latn-ME" variant="qwertz" />
+            <cond language="co" variant="qwertz" />
+            <cond language="cps-PH" variant="qwertz" />
+            <cond language="cr-Latn-CA" variant="qwertz" />
+            <cond language="crh-Latn" variant="qwertz" />
+            <cond language="crs-SC" variant="qwertz" />
+            <cond language="cs-CZ" variant="qwertz" />
+            <cond language="csb-PL" variant="qwertz" />
+            <cond language="cy-GB" variant="qwertz" />
+            <cond language="cyo-PH" variant="qwertz" />
+            <cond language="da-DK" variant="qwertz" />
+            <cond language="dag-GH" variant="qwertz" />
+            <cond language="de-AT" variant="german" />
+            <cond language="de-AT" variant="handwriting" />
+            <cond language="de-AT" variant="qwertz" />
+            <cond language="de-BE" variant="german" />
+            <cond language="de-BE" variant="handwriting" />
+            <cond language="de-BE" variant="qwertz" />
+            <cond language="de-CH" variant="qwertz" />
+            <cond language="de-DE" variant="de_neo2" />
+            <cond language="de-DE" variant="german" />
+            <cond language="de-DE" variant="handwriting" />
+            <cond language="de-DE" variant="qwertz" />
+            <cond language="de-LU" variant="german" />
+            <cond language="de-LU" variant="handwriting" />
+            <cond language="de-LU" variant="qwertz" />
+            <cond language="dga-GH" variant="qwertz" />
+            <cond language="din" variant="qwertz" />
+            <cond language="diq-TR" variant="qwertz" />
+            <cond language="dje-NE" variant="qwertz" />
+            <cond language="dnj-CI" variant="qwertz" />
+            <cond language="doi-Latn" variant="qwertz" />
+            <cond language="drs-ET" variant="qwertz" />
+            <cond language="drt-NL" variant="qwertz" />
+            <cond language="dsb-DE" variant="qwertz" />
+            <cond language="dtp-MY" variant="qwertz" />
+            <cond language="dyu-CI" variant="qwertz" />
+            <cond language="dzg-TD" variant="qwertz" />
+            <cond language="ee" variant="qwertz" />
+            <cond language="efi-NG" variant="qwertz" />
+            <cond language="egl-IT" variant="qwertz" />
+            <cond language="en-AU" variant="qwertz" />
+            <cond language="en-CA" variant="qwertz" />
+            <cond language="en-GB" variant="qwertz" />
+            <cond language="en-IN" variant="qwertz" />
+            <cond language="en-KE" variant="qwertz" />
+            <cond language="en-NG" variant="qwertz" />
+            <cond language="en-PH" variant="qwertz" />
+            <cond language="en-US" variant="qwertz" />
+            <cond language="en-ZA" variant="qwertz" />
+            <cond language="eo" variant="qwertz" />
+            <cond language="es-419" variant="qwertz" />
+            <cond language="es-AR" variant="qwertz" />
+            <cond language="es-ES" variant="qwertz" />
+            <cond language="es-MX" variant="qwertz" />
+            <cond language="es-US" variant="qwertz" />
+            <cond language="et-EE" variant="qwertz" />
+            <cond language="eu-ES" variant="qwertz" />
+            <cond language="ewo-CM" variant="qwertz" />
+            <cond language="ext-ES" variant="qwertz" />
+            <cond language="fan-GQ" variant="qwertz" />
+            <cond language="fat-GH" variant="qwertz" />
+            <cond language="ff-Latn" variant="qwertz" />
+            <cond language="fi-FI" variant="qwertz" />
+            <cond language="fj-FJ" variant="qwertz" />
+            <cond language="fo-FO" variant="qwertz" />
+            <cond language="fon-BJ" variant="qwertz" />
+            <cond language="fr-002" variant="qwertz" />
+            <cond language="fr-BE" variant="qwertz" />
+            <cond language="fr-CA" variant="qwertz" />
+            <cond language="fr-CH" variant="qwertz" />
+            <cond language="fr-FR" variant="qwertz" />
+            <cond language="fub-CM" variant="qwertz" />
+            <cond language="fuc-SN" variant="qwertz" />
+            <cond language="fuh-NE" variant="qwertz" />
+            <cond language="fur-IT" variant="qwertz" />
+            <cond language="fuv-NG" variant="qwertz" />
+            <cond language="fy-NL" variant="qwertz" />
+            <cond language="ga" variant="qwertz" />
+            <cond language="gag-MD" variant="qwertz" />
+            <cond language="gax-ET" variant="qwertz" />
+            <cond language="gay-ID" variant="qwertz" />
+            <cond language="gbo-LR" variant="qwertz" />
+            <cond language="gcf-GP" variant="qwertz" />
+            <cond language="gcr-GF" variant="qwertz" />
+            <cond language="gd-GB" variant="qwertz" />
+            <cond language="gil-KI" variant="qwertz" />
+            <cond language="gl-ES" variant="qwertz" />
+            <cond language="gmv-ET" variant="qwertz" />
+            <cond language="gn" variant="qwertz" />
+            <cond language="gog-TZ" variant="qwertz" />
+            <cond language="gor-ID" variant="qwertz" />
+            <cond language="gos-NL" variant="qwertz" />
+            <cond language="gpe-GH" variant="qwertz" />
+            <cond language="gqr-TD" variant="qwertz" />
+            <cond language="grt-Latn" variant="qwertz" />
+            <cond language="gsw-CH" variant="qwertz" />
+            <cond language="gu-Latn-IN" variant="qwertz" />
+            <cond language="guc-CO" variant="qwertz" />
+            <cond language="gur-GH" variant="qwertz" />
+            <cond language="gux-BF" variant="qwertz" />
+            <cond language="guz-KE" variant="qwertz" />
+            <cond language="gv" variant="qwertz" />
+            <cond language="gvl-TD" variant="qwertz" />
+            <cond language="gyn-GY" variant="qwertz" />
+            <cond language="ha-GH" variant="qwertz" />
+            <cond language="ha-NG" variant="qwertz" />
+            <cond language="hae-ET" variant="qwertz" />
+            <cond language="hak-CN" variant="qwertz" />
+            <cond language="haq-TZ" variant="qwertz" />
+            <cond language="haw" variant="qwertz" />
+            <cond language="hay-TZ" variant="qwertz" />
+            <cond language="hdy-Latn-ET" variant="qwertz" />
+            <cond language="hea-CN" variant="qwertz" />
+            <cond language="heh-TZ" variant="qwertz" />
+            <cond language="hi-Latn-IN" variant="qwertz" />
+            <cond language="hif-Latn-FJ" variant="qwertz" />
+            <cond language="hil-PH" variant="qwertz" />
+            <cond language="hmn" variant="qwertz" />
+            <cond language="hni-CN" variant="qwertz" />
+            <cond language="ho-PG" variant="qwertz" />
+            <cond language="hr-HR" variant="qwertz" />
+            <cond language="hrx-BR" variant="qwertz" />
+            <cond language="hsb-DE" variant="qwertz" />
+            <cond language="ht-HT" variant="qwertz" />
+            <cond language="hu-HU" variant="qwertz" />
+            <cond language="hvn-ID" variant="qwertz" />
+            <cond language="hwc-US" variant="qwertz" />
+            <cond language="ia" variant="qwertz" />
+            <cond language="iba-MY" variant="qwertz" />
+            <cond language="ibb-NG" variant="qwertz" />
+            <cond language="ig-NG" variant="qwertz" />
+            <cond language="igb-NG" variant="qwertz" />
+            <cond language="igl-NG" variant="qwertz" />
+            <cond language="ii-Latn-CN" variant="qwertz" />
+            <cond language="ijc-NG" variant="qwertz" />
+            <cond language="ilo-PH" variant="qwertz" />
+            <cond language="in-ID" variant="qwertz" />
+            <cond language="is-IS" variant="qwertz" />
+            <cond language="iso-NG" variant="qwertz" />
+            <cond language="it-CH" variant="qwertz" />
+            <cond language="it-IT" variant="qwertz" />
+            <cond language="itv-PH" variant="qwertz" />
+            <cond language="iu-Latn-CA" variant="qwertz" />
+            <cond language="ium-CN" variant="qwertz" />
+            <cond language="jam-JM" variant="qwertz" />
+            <cond language="jax-ID" variant="qwertz" />
+            <cond language="jbo" variant="qwertz" />
+            <cond language="jv-ID-x-bms" variant="qwertz" />
+            <cond language="jv-Latn-ID" variant="qwertz" />
+            <cond language="kaa-UZ" variant="qwertz" />
+            <cond language="kac-MM" variant="qwertz" />
+            <cond language="kam-KE" variant="qwertz" />
+            <cond language="kao-ML" variant="qwertz" />
+            <cond language="kbp-TG" variant="qwertz" />
+            <cond language="kbr-ET" variant="qwertz" />
+            <cond language="kde-TZ" variant="qwertz" />
+            <cond language="kea-CV" variant="qwertz" />
+            <cond language="kek-GT" variant="qwertz" />
+            <cond language="kg-AO" variant="qwertz" />
+            <cond language="kge-ID" variant="qwertz" />
+            <cond language="kha-IN" variant="qwertz" />
+            <cond language="ki-KE" variant="qwertz" />
+            <cond language="kiu-TR" variant="qwertz" />
+            <cond language="kj" variant="qwertz" />
+            <cond language="kk-Latn-KZ" variant="qwertz" />
+            <cond language="kl-GL" variant="qwertz" />
+            <cond language="kmb-AO" variant="qwertz" />
+            <cond language="kmz-Latn-IR" variant="qwertz" />
+            <cond language="kn-Latn-IN" variant="qwertz" />
+            <cond language="kne-PH" variant="qwertz" />
+            <cond language="kng-CD" variant="qwertz" />
+            <cond language="kok-Latn-IN" variant="qwertz" />
+            <cond language="koo-UG" variant="qwertz" />
+            <cond language="kr-NG" variant="qwertz" />
+            <cond language="kri-SL" variant="qwertz" />
+            <cond language="krj-PH" variant="qwertz" />
+            <cond language="krl-RU" variant="qwertz" />
+            <cond language="ks-Latn" variant="qwertz" />
+            <cond language="ksh-DE" variant="qwertz" />
+            <cond language="ktb-Latn-ET" variant="qwertz" />
+            <cond language="ktu-CD" variant="qwertz" />
+            <cond language="ku" variant="qwertz" />
+            <cond language="kw-GB" variant="qwertz" />
+            <cond language="la" variant="qwertz" />
+            <cond language="lad-BA" variant="qwertz" />
+            <cond language="lad-IL" variant="qwertz" />
+            <cond language="laj-UG" variant="qwertz" />
+            <cond language="las-TG" variant="qwertz" />
+            <cond language="lb-LU" variant="qwertz" />
+            <cond language="led-CD" variant="qwertz" />
+            <cond language="lew-ID" variant="qwertz" />
+            <cond language="lg-UG" variant="qwertz" />
+            <cond language="lgg-UG" variant="qwertz" />
+            <cond language="lhu-CN" variant="qwertz" />
+            <cond language="li-NL" variant="qwertz" />
+            <cond language="lij-IT" variant="qwertz" />
+            <cond language="liv-LV" variant="qwertz" />
+            <cond language="ljp-ID" variant="qwertz" />
+            <cond language="lkt-US" variant="qwertz" />
+            <cond language="lld-IT" variant="qwertz" />
+            <cond language="lmo-IT" variant="qwertz" />
+            <cond language="ln-AO" variant="qwertz" />
+            <cond language="ln-CD" variant="qwertz" />
+            <cond language="lon-MW" variant="qwertz" />
+            <cond language="lt-LT" variant="qwertz" />
+            <cond language="ltg-LV" variant="qwertz" />
+            <cond language="lu-CD" variant="qwertz" />
+            <cond language="lua-CD" variant="qwertz" />
+            <cond language="luo-KE" variant="qwertz" />
+            <cond language="lus-IN" variant="qwertz" />
+            <cond language="lv-LV" variant="qwertz" />
+            <cond language="mad-ID" variant="qwertz" />
+            <cond language="mai-Latn" variant="qwertz" />
+            <cond language="mak-ID" variant="qwertz" />
+            <cond language="mas-KE" variant="qwertz" />
+            <cond language="max-ID" variant="qwertz" />
+            <cond language="mcn-TD" variant="qwertz" />
+            <cond language="mde-Latn" variant="qwertz" />
+            <cond language="mdh-PH" variant="qwertz" />
+            <cond language="mdr-ID" variant="qwertz" />
+            <cond language="mel-MY" variant="qwertz" />
+            <cond language="men-SL" variant="qwertz" />
+            <cond language="meo-MY" variant="qwertz" />
+            <cond language="mer-KE" variant="qwertz" />
+            <cond language="mfb-ID" variant="qwertz" />
+            <cond language="mfp-ID" variant="qwertz" />
+            <cond language="mfq-TG" variant="qwertz" />
+            <cond language="mg-MG" variant="qwertz" />
+            <cond language="mgh-MZ" variant="qwertz" />
+            <cond language="mhy-ID" variant="qwertz" />
+            <cond language="mi-NZ" variant="qwertz" />
+            <cond language="min-ID" variant="qwertz" />
+            <cond language="mkw-CD" variant="qwertz" />
+            <cond language="ml-Latn-IN" variant="qwertz" />
+            <cond language="mmr-CN" variant="qwertz" />
+            <cond language="mnb-ID" variant="qwertz" />
+            <cond language="mni-Latn-IN" variant="qwertz" />
+            <cond language="mnk-Latn" variant="qwertz" />
+            <cond language="mnp-CN" variant="qwertz" />
+            <cond language="mog-ID" variant="qwertz" />
+            <cond language="mos-BF" variant="qwertz" />
+            <cond language="mpg-TD" variant="qwertz" />
+            <cond language="mqj-ID" variant="qwertz" />
+            <cond language="mqy-ID" variant="qwertz" />
+            <cond language="mr-Latn-IN" variant="qwertz" />
+            <cond language="mrw-PH" variant="qwertz" />
+            <cond language="ms-BN" variant="qwertz" />
+            <cond language="ms-MY" variant="qwertz" />
+            <cond language="ms-SG" variant="qwertz" />
+            <cond language="msi-MY" variant="qwertz" />
+            <cond language="mt-MT" variant="qwertz" />
+            <cond language="mtq-VN" variant="qwertz" />
+            <cond language="mua-TD" variant="qwertz" />
+            <cond language="mui-ID" variant="qwertz" />
+            <cond language="mvp-ID" variant="qwertz" />
+            <cond language="mwm-TD" variant="qwertz" />
+            <cond language="mww-CN" variant="qwertz" />
+            <cond language="myx-UG" variant="qwertz" />
+            <cond language="na-NR" variant="qwertz" />
+            <cond language="nah-MX" variant="qwertz" />
+            <cond language="nan-Latn" variant="qwertz" />
+            <cond language="nan-x-tl" variant="qwertz" />
+            <cond language="nap-IT" variant="qwertz" />
+            <cond language="nb-NO" variant="qwertz" />
+            <cond language="ndc-ZW" variant="qwertz" />
+            <cond language="nde-ZW" variant="qwertz" />
+            <cond language="nds-DE" variant="qwertz" />
+            <cond language="ne-Latn" variant="qwertz" />
+            <cond language="ng-NA" variant="qwertz" />
+            <cond language="nga-CD" variant="qwertz" />
+            <cond language="ngl-MZ" variant="qwertz" />
+            <cond language="nia-ID" variant="qwertz" />
+            <cond language="nij-ID" variant="qwertz" />
+            <cond language="niq-KE" variant="qwertz" />
+            <cond language="niu-NU" variant="qwertz" />
+            <cond language="nl-BE" variant="qwertz" />
+            <cond language="nl-NL" variant="qwertz" />
+            <cond language="nn-NO" variant="qwertz" />
+            <cond language="nnb-CD" variant="qwertz" />
+            <cond language="nr-ZA" variant="qwertz" />
+            <cond language="nrf-FR" variant="qwertz" />
+            <cond language="nrf-FR-x-gallo" variant="qwertz" />
+            <cond language="nrf-GG" variant="qwertz" />
+            <cond language="nrf-JE" variant="qwertz" />
+            <cond language="nso-ZA" variant="qwertz" />
+            <cond language="nup-NG" variant="qwertz" />
+            <cond language="nut-VN" variant="qwertz" />
+            <cond language="nv-US" variant="qwertz" />
+            <cond language="ny" variant="qwertz" />
+            <cond language="nyf-KE" variant="qwertz" />
+            <cond language="nym-TZ" variant="qwertz" />
+            <cond language="nyn-UG" variant="qwertz" />
+            <cond language="nyo-UG" variant="qwertz" />
+            <cond language="nyy-TZ" variant="qwertz" />
+            <cond language="oc-FR" variant="qwertz" />
+            <cond language="oj-Latn" variant="qwertz" />
+            <cond language="olo-RU" variant="qwertz" />
+            <cond language="om" variant="qwertz" />
+            <cond language="or-Latn-IN" variant="qwertz" />
+            <cond language="pa-Latn" variant="qwertz" />
+            <cond language="pag-PH" variant="qwertz" />
+            <cond language="pam-PH" variant="qwertz" />
+            <cond language="pap" variant="qwertz" />
+            <cond language="pap-AW" variant="qwertz" />
+            <cond language="pcc-CN" variant="qwertz" />
+            <cond language="pcd-BE" variant="qwertz" />
+            <cond language="pcm-NG" variant="qwertz" />
+            <cond language="pdc-US" variant="qwertz" />
+            <cond language="pfl-DE" variant="qwertz" />
+            <cond language="pko-KE" variant="qwertz" />
+            <cond language="pl-PL" variant="qwertz" />
+            <cond language="plt-MG" variant="qwertz" />
+            <cond language="pmf-ID" variant="qwertz" />
+            <cond language="pms-IT" variant="qwertz" />
+            <cond language="pmy-ID" variant="qwertz" />
+            <cond language="pov-GW" variant="qwertz" />
+            <cond language="prk-MM" variant="qwertz" />
+            <cond language="pse-ID" variant="qwertz" />
+            <cond language="pt-002" variant="qwertz" />
+            <cond language="pt-AO" variant="qwertz" />
+            <cond language="pt-BR" variant="qwertz" />
+            <cond language="pt-MO" variant="qwertz" />
+            <cond language="pt-PT" variant="qwertz" />
+            <cond language="pua-MX" variant="qwertz" />
+            <cond language="qaa-x-alsatian" variant="qwertz" />
+            <cond language="qu-PE" variant="qwertz" />
+            <cond language="quc-GT" variant="qwertz" />
+            <cond language="qug-EC" variant="qwertz" />
+            <cond language="quh-BO" variant="qwertz" />
+            <cond language="quy-PE" variant="qwertz" />
+            <cond language="quz-PE" variant="qwertz" />
+            <cond language="rcf-RE" variant="qwertz" />
+            <cond language="rhg-Latn-MM" variant="qwertz" />
+            <cond language="rim-TZ" variant="qwertz" />
+            <cond language="rm-CH" variant="qwertz" />
+            <cond language="rmy-AL" variant="qwertz" />
+            <cond language="rmy-RO" variant="qwertz" />
+            <cond language="rn-BI" variant="qwertz" />
+            <cond language="ro-MD" variant="qwertz" />
+            <cond language="ro-RO" variant="qwertz" />
+            <cond language="rw-RW" variant="qwertz" />
+            <cond language="sa-Latn-IN" variant="qwertz" />
+            <cond language="sas-ID" variant="qwertz" />
+            <cond language="sat-Latn" variant="qwertz" />
+            <cond language="sba-TD" variant="qwertz" />
+            <cond language="sc-IT" variant="qwertz" />
+            <cond language="scn-IT" variant="qwertz" />
+            <cond language="sco-GB" variant="qwertz" />
+            <cond language="sd-Latn" variant="qwertz" />
+            <cond language="sda-ID" variant="qwertz" />
+            <cond language="sdc-IT" variant="qwertz" />
+            <cond language="se-NO" variant="qwertz" />
+            <cond language="sef-CI" variant="qwertz" />
+            <cond language="seh-MZ" variant="qwertz" />
+            <cond language="sg-CF" variant="qwertz" />
+            <cond language="sgc-KE" variant="qwertz" />
+            <cond language="sgs-LT" variant="qwertz" />
+            <cond language="sid-ET" variant="qwertz" />
+            <cond language="sk-SK" variant="qwertz" />
+            <cond language="skg-MG" variant="qwertz" />
+            <cond language="sl-SI" variant="qwertz" />
+            <cond language="sm" variant="qwertz" />
+            <cond language="sn" variant="qwertz" />
+            <cond language="snk-ML" variant="qwertz" />
+            <cond language="so" variant="qwertz" />
+            <cond language="sop-CD" variant="qwertz" />
+            <cond language="spp-ML" variant="qwertz" />
+            <cond language="sq-x-gheg" variant="qwertz" />
+            <cond language="sq-x-standard" variant="qwertz" />
+            <cond language="sq-x-tosk" variant="qwertz" />
+            <cond language="sr-Latn-RS" variant="qwertz" />
+            <cond language="srn-SR" variant="qwertz" />
+            <cond language="srr-SN" variant="qwertz" />
+            <cond language="ss-SZ" variant="qwertz" />
+            <cond language="ss-ZA" variant="qwertz" />
+            <cond language="st" variant="qwertz" />
+            <cond language="st-LS" variant="qwertz" />
+            <cond language="stv-Latn-ET" variant="qwertz" />
+            <cond language="su-Latn-ID" variant="qwertz" />
+            <cond language="suk-TZ" variant="qwertz" />
+            <cond language="sv-FI" variant="qwertz" />
+            <cond language="sv-SE" variant="qwertz" />
+            <cond language="sw" variant="qwertz" />
+            <cond language="sxu-DE" variant="qwertz" />
+            <cond language="syl-Latn" variant="qwertz" />
+            <cond language="szl-PL" variant="qwertz" />
+            <cond language="ta-Latn" variant="qwertz" />
+            <cond language="tdx-MG" variant="qwertz" />
+            <cond language="te-Latn-IN" variant="qwertz" />
+            <cond language="tem-SL" variant="qwertz" />
+            <cond language="teo-UG" variant="qwertz" />
+            <cond language="tet-TL" variant="qwertz" />
+            <cond language="tiv-NG" variant="qwertz" />
+            <cond language="tk-TM" variant="qwertz" />
+            <cond language="tkl-TK" variant="qwertz" />
+            <cond language="tl-PH" variant="qwertz" />
+            <cond language="tll-CD" variant="qwertz" />
+            <cond language="tly-AZ" variant="qwertz" />
+            <cond language="tn-BW" variant="qwertz" />
+            <cond language="tn-ZA" variant="qwertz" />
+            <cond language="to-TO" variant="qwertz" />
+            <cond language="tpi-PG" variant="qwertz" />
+            <cond language="tr-CY" variant="qwertz" />
+            <cond language="tr-TR" variant="qwertz" />
+            <cond language="trf-TT" variant="qwertz" />
+            <cond language="trp-Latn-IN" variant="qwertz" />
+            <cond language="ts" variant="qwertz" />
+            <cond language="tsc-MZ" variant="qwertz" />
+            <cond language="tsg-PH" variant="qwertz" />
+            <cond language="ttj-UG" variant="qwertz" />
+            <cond language="tum-MW" variant="qwertz" />
+            <cond language="tuv-KE" variant="qwertz" />
+            <cond language="tvl-TV" variant="qwertz" />
+            <cond language="twd-NL" variant="qwertz" />
+            <cond language="ty-PF" variant="qwertz" />
+            <cond language="tyz-VN" variant="qwertz" />
+            <cond language="umb-AO" variant="qwertz" />
+            <cond language="unr-Latn" variant="qwertz" />
+            <cond language="ur-Latn" variant="qwertz" />
+            <cond language="uz-Latn-UZ" variant="qwertz" />
+            <cond language="ve-ZA" variant="qwertz" />
+            <cond language="vec-IT" variant="qwertz" />
+            <cond language="vel-NL" variant="qwertz" />
+            <cond language="vep-RU" variant="qwertz" />
+            <cond language="vi-VN" variant="qwertz" />
+            <cond language="vkt-ID" variant="qwertz" />
+            <cond language="vls-BE" variant="qwertz" />
+            <cond language="vmf-DE" variant="qwertz" />
+            <cond language="vmw-MZ" variant="qwertz" />
+            <cond language="vro-EE" variant="qwertz" />
+            <cond language="wa-BE" variant="qwertz" />
+            <cond language="wal-ET" variant="qwertz" />
+            <cond language="war-PH" variant="qwertz" />
+            <cond language="wes-CM" variant="qwertz" />
+            <cond language="wo" variant="qwertz" />
+            <cond language="xh" variant="qwertz" />
+            <cond language="xmm-ID" variant="qwertz" />
+            <cond language="xog-UG" variant="qwertz" />
+            <cond language="xon-GH" variant="qwertz" />
+            <cond language="yaf-CD" variant="qwertz" />
+            <cond language="yao-MW" variant="qwertz" />
+            <cond language="ymm-SO" variant="qwertz" />
+            <cond language="yo" variant="qwertz" />
+            <cond language="yua-MX" variant="qwertz" />
+            <cond language="za-CN" variant="qwertz" />
+            <cond language="zea-NL" variant="qwertz" />
+            <cond language="zne-CD" variant="qwertz" />
+            <cond language="zu-ZA" variant="qwertz" />
+            <cond language="zyb-CN" variant="qwertz" />
+            <cond language="zyj-CN" variant="qwertz" />
+            <cond language="zz" variant="qwertz" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170af1" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="gn" variant="pcqwerty" />
+            <cond language="gn" variant="spanish" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170af2" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="el-CY" />
+            <cond language="el-GR" variant="greek" />
+            <cond language="el-GR" variant="handwriting" />
+            <cond language="pnt-GR" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170af3" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="gu-IN" variant="gujarati" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170af4" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="ha-GH" variant="hausa" />
+            <cond language="ha-NG" variant="hausa" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170af5" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="haw" variant="hawaiian" />
+            <cond language="haw" variant="pcqwerty" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170af6" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="iw-IL" variant="handwriting" />
+            <cond language="iw-IL" variant="hebrew" />
+            <cond language="ji" variant="yiddish" />
+            <cond language="ydd-IL" variant="yiddish" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170af7" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="hi-IN" variant="handwriting" />
+            <cond language="hi-IN" variant="hindi" />
+            <cond language="hi-IN" variant="hindi_10key" />
+            <cond language="hi-IN" variant="hindi_compact" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170af8" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="hu-HU" variant="handwriting" />
+            <cond language="hu-HU" variant="hungarian" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170af9" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="hy-AM" variant="armenian_armenia_phonetic" />
+            <cond language="hy-AM" variant="handwriting" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170afa" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="is-IS" variant="handwriting" />
+            <cond language="is-IS" variant="icelandic" />
+            <cond language="is-IS" variant="pcqwerty" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170afb" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="ig-NG" variant="spanish" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170afc" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="it-CH" variant="handwriting" />
+            <cond language="it-CH" variant="pcqwerty" />
+            <cond language="it-CH" variant="swiss" />
+            <cond language="it-IT" variant="handwriting" />
+            <cond language="it-IT" variant="pcqwerty" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170afd" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="iu-Cans-CA" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170afe" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="iu-Latn-CA" variant="inuktitut_latin" />
+            <cond language="iu-Latn-CA" variant="pcqwerty" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170aff" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="ja-JP" variant="50keys" />
+            <cond language="ja-JP" variant="godan" />
+            <cond language="ja-JP" variant="japanese_12keys_toggleflick" />
+            <cond language="ja-JP" variant="japanese_qwerty" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b00" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="jv-Java-ID" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b01" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="ka-GE" variant="georgian_georgia" />
+            <cond language="ka-GE" variant="handwriting" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b02" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="ka-GE" variant="georgian_qwerty" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b03" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="kn-IN" variant="handwriting" />
+            <cond language="kn-IN" variant="kannada_india" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b04" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="kk-KZ" variant="handwriting" />
+            <cond language="kk-KZ" variant="kazakh" />
+            <cond language="kk-KZ" variant="kazakh_pc" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b05" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="khb-CN" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b06" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="kl-GL" variant="handwriting" />
+            <cond language="kl-GL" variant="nordic" />
+            <cond language="kl-GL" variant="pcqwerty" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b07" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="km-KH" variant="handwriting" />
+            <cond language="km-KH" variant="khmer_cambodia" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b09" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="km-KH" variant="khmer_cambodia_native" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b08" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="ku" variant="handwriting" />
+            <cond language="ku" variant="kurdish_latin" />
+            <cond language="ku" variant="pcqwerty" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b0a" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="ky-KG" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b0b" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="lv-LV" variant="handwriting" />
+            <cond language="lv-LV" variant="pcqwerty" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b0c" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="lis-Lisu" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b0d" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="lt-LT" variant="handwriting" />
+            <cond language="lt-LT" variant="pcqwerty" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b0e" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="lo-LA" variant="lao" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b0f" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="ml-IN" variant="handwriting" />
+            <cond language="ml-IN" variant="malayalam_india" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b10" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="mr-IN" variant="handwriting" />
+            <cond language="mr-IN" variant="marathi_india" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b11" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="mi-NZ" variant="maori" />
+            <cond language="mi-NZ" variant="pcqwerty" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b12" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="mk-MK" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b13" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="mn-MN" variant="handwriting" />
+            <cond language="mn-MN" variant="mongolian" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b14" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="mt-MT" variant="maltese" />
+            <cond language="mt-MT" variant="pcqwerty" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b15" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="my-MM" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b16" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="ne-IN" variant="handwriting" />
+            <cond language="ne-IN" variant="nepali_devanagari_dynamic" />
+            <cond language="ne-NP" variant="handwriting" />
+            <cond language="ne-NP" variant="nepali_nepal_dynamic" />
+            <cond language="ne-NP" variant="nepali_nepal_romanized" />
+            <cond language="ne-NP" variant="nepali_nepal_traditional" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b17" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="nl-NL" variant="handwriting" />
+            <cond language="nl-NL" variant="pcqwerty" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b18" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="nb-NO" variant="handwriting" />
+            <cond language="nb-NO" variant="nordic" />
+            <cond language="nb-NO" variant="pcqwerty" />
+            <cond language="nn-NO" variant="nordic" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b19" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="or-IN" variant="handwriting" />
+            <cond language="or-IN" variant="odia" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b1a" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="fa-IR" variant="handwriting" />
+            <cond language="fa-IR" variant="persian" />
+            <cond language="fay-IR" />
+            <cond language="hac-IR" />
+            <cond language="kmz-Arab-IR" />
+            <cond language="lrc-IR" />
+            <cond language="lrl-IR" />
+            <cond language="luz-IR" />
+            <cond language="prs-AF" />
+            <cond language="qxq-IR" />
+            <cond language="tks-IR" />
+            <cond language="tly-IR" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b1b" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="pl-PL" variant="handwriting" />
+            <cond language="pl-PL" variant="pcqwerty" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b1d" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="pt-PT" variant="dvorak_spanish" />
+            <cond language="pt-PT" variant="handwriting" />
+            <cond language="pt-PT" variant="pcqwerty" />
+            <cond language="pt-PT" variant="portuguese" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b1e" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="ps" variant="pashto" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b1f" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="pa-Guru" variant="handwriting" />
+            <cond language="pa-Guru" variant="punjabi_gurmukhi" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b20" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="ro-MD" variant="handwriting" />
+            <cond language="ro-MD" variant="pcqwerty" />
+            <cond language="ro-RO" variant="handwriting" />
+            <cond language="ro-RO" variant="pcqwerty" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b22" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="ady-RU" />
+            <cond language="av-RU" />
+            <cond language="bxr-RU" />
+            <cond language="ce-RU" />
+            <cond language="cu-RU" />
+            <cond language="cv-RU" />
+            <cond language="dar-RU" />
+            <cond language="dng-KG" />
+            <cond language="gag-Cyrl" />
+            <cond language="inh-RU" />
+            <cond language="kaa-Cyrl-UZ" />
+            <cond language="kbd-RU" />
+            <cond language="krc-RU" />
+            <cond language="kum-RU" />
+            <cond language="kv-RU" />
+            <cond language="lbe-RU" />
+            <cond language="lez-AZ" />
+            <cond language="lez-RU" />
+            <cond language="mdf-RU" />
+            <cond language="mhr-RU" />
+            <cond language="mrj-RU" />
+            <cond language="myv-RU" />
+            <cond language="os-RU" />
+            <cond language="ru-BY" />
+            <cond language="ru-KG" />
+            <cond language="ru-RU" />
+            <cond language="sty-RU" />
+            <cond language="tab-RU" />
+            <cond language="tly-RU" />
+            <cond language="udm-RU" />
+            <cond language="uum-GE" />
+            <cond language="xal-RU" />
+            <cond language="yrk-RU" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b24" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="sah-RU" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b25" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="sat-Olck" variant="santali_ol_chiki" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b26" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="se-NO" variant="asertt" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b28" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="se-NO" variant="northern_sami" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b27" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="cnr-Cyrl-ME" />
+            <cond language="sr-Cyrl-RS" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b29" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="cnr-Latn-ME" variant="pcqwerty" />
+            <cond language="cnr-Latn-ME" variant="serbian_qwertz" />
+            <cond language="sr-Latn-RS" variant="handwriting" />
+            <cond language="sr-Latn-RS" variant="pcqwerty" />
+            <cond language="sr-Latn-RS" variant="serbian_qwertz" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b2a" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="si-LK" variant="handwriting" />
+            <cond language="si-LK" variant="sinhala" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b2b" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="sk-SK" variant="handwriting" />
+            <cond language="sk-SK" variant="pcqwerty" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b2c" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="es-AR" variant="dvorak_spanish" />
+            <cond language="es-AR" variant="handwriting" />
+            <cond language="es-AR" variant="pcqwerty" />
+            <cond language="es-AR" variant="spanish" />
+            <cond language="es-ES" variant="dvorak_spanish" />
+            <cond language="es-ES" variant="handwriting" />
+            <cond language="es-ES" variant="pcqwerty" />
+            <cond language="es-ES" variant="spanish" />
+            <cond language="es-MX" variant="dvorak_spanish" />
+            <cond language="es-MX" variant="handwriting" />
+            <cond language="es-MX" variant="pcqwerty" />
+            <cond language="es-MX" variant="spanish" />
+            <cond language="es-US" variant="dvorak_spanish" />
+            <cond language="es-US" variant="handwriting" />
+            <cond language="es-US" variant="pcqwerty" />
+            <cond language="es-US" variant="spanish" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b2e" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="es-419" variant="dvorak_spanish" />
+            <cond language="es-419" variant="handwriting" />
+            <cond language="es-419" variant="pcqwerty" />
+            <cond language="es-419" variant="spanish" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b2d" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="sq-x-gheg" variant="albanian" />
+            <cond language="sq-x-gheg" variant="handwriting" />
+            <cond language="sq-x-standard" variant="albanian" />
+            <cond language="sq-x-standard" variant="handwriting" />
+            <cond language="sq-x-tosk" variant="albanian" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b2f" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="sv-FI" variant="handwriting" />
+            <cond language="sv-FI" variant="nordic" />
+            <cond language="sv-FI" variant="pcqwerty" />
+            <cond language="sv-FI" variant="svorak" />
+            <cond language="sv-SE" variant="handwriting" />
+            <cond language="sv-SE" variant="nordic" />
+            <cond language="sv-SE" variant="pcqwerty" />
+            <cond language="sv-SE" variant="svorak" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b30" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="fr-CH" variant="handwriting" />
+            <cond language="fr-CH" variant="swiss" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b31" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="de-CH" variant="handwriting" />
+            <cond language="de-CH" variant="pcqwerty" />
+            <cond language="de-CH" variant="swiss" />
+            <cond language="gsw-CH" variant="handwriting" />
+            <cond language="gsw-CH" variant="pcqwerty" />
+            <cond language="gsw-CH" variant="swiss" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b32" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="ta-IN" variant="handwriting" />
+            <cond language="ta-IN" variant="tamil" />
+            <cond language="ta-IN" variant="tamil_phonetic" />
+            <cond language="ta-LK" variant="handwriting" />
+            <cond language="ta-LK" variant="tamil" />
+            <cond language="ta-SG" variant="handwriting" />
+            <cond language="ta-SG" variant="tamil" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b33" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="te-IN" variant="handwriting" />
+            <cond language="te-IN" variant="telugu_india" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b34" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="tg" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b35" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="nod-Thai-TH" />
+            <cond language="sou-TH" />
+            <cond language="th-TH" variant="handwriting" />
+            <cond language="th-TH" variant="thai" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b37" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="tk-TM" variant="handwriting" />
+            <cond language="tk-TM" variant="turkmen" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b39" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="nso-ZA" variant="handwriting" />
+            <cond language="nso-ZA" variant="northern_sotho" />
+            <cond language="tn-BW" variant="handwriting" />
+            <cond language="tn-BW" variant="pcqwerty" />
+            <cond language="tn-BW" variant="tswana" />
+            <cond language="tn-ZA" variant="pcqwerty" />
+            <cond language="tn-ZA" variant="tswana" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b3a" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="tt-RU" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b3b" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="bgx-TR" variant="turkish_q" />
+            <cond language="crh-Latn" variant="turkish_q" />
+            <cond language="gag-MD" variant="turkish_q" />
+            <cond language="kiu-TR" variant="kirmanjki" />
+            <cond language="kiu-TR" variant="turkish_q" />
+            <cond language="kmz-Latn-IR" variant="turkish_q" />
+            <cond language="lad-BA" variant="turkish_q" />
+            <cond language="tr-CY" variant="handwriting" />
+            <cond language="tr-CY" variant="pcqwerty" />
+            <cond language="tr-CY" variant="turkish_q" />
+            <cond language="tr-TR" variant="handwriting" />
+            <cond language="tr-TR" variant="pcqwerty" />
+            <cond language="tr-TR" variant="turkish_q" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b3d" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="bgx-TR" variant="turkish_f" />
+            <cond language="crh-Latn" variant="turkish_f" />
+            <cond language="gag-MD" variant="turkish_f" />
+            <cond language="kiu-TR" variant="turkish_f" />
+            <cond language="tr-CY" variant="turkish_f" />
+            <cond language="tr-TR" variant="turkish_f" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b3c" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="ug-CN" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b3e" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="uk-UA" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b40" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="ur-IN" variant="handwriting" />
+            <cond language="ur-IN" variant="urdu_in" />
+            <cond language="ur-PK" variant="handwriting" />
+            <cond language="ur-PK" variant="urdu_pakistan" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b41" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="uz-Cyrl-UZ" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b42" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="vi-VN" variant="pcqwerty" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b43" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="wo" variant="wolof" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b44" />
+    </else_if>
+    <else_if>
+        <any_of>
+            <cond language="yo" variant="pcqwerty" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b45" />
+    </else_if>
+    <else>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170aef" />
+    </else>
+</framework>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.apps.inputmethod.libs.search.widget.VerticalScrollAnimatedImageSidebarHolderView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0112" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" app:APKTOOL_DUMMYVAL_0x7f040680="?APKTOOL_DUMMYVAL_0x7f040164" app:APKTOOL_DUMMYVAL_0x7f0406e0="true" app:APKTOOL_DUMMYVAL_0x7f04096f="@integer/APKTOOL_DUMMYVAL_0x7f0c0001" image_view_layout="@layout/APKTOOL_DUMMYVAL_0x7f0e07b0" supported_image_types="image/gif" />
+    <include android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e0660" />
+</FrameLayout>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0771" android:tag=".bg.expression-keyboard-background" android:background="?APKTOOL_DUMMYVAL_0x7f04011f" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginHorizontal="?APKTOOL_DUMMYVAL_0x7f040126"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:id="@id/APKTOOL_DUMMYVAL_0x7f0b076f" android:tag=".nav_back_key.accent.item-ripple.on-surface" android:contentDescription="@string/APKTOOL_DUMMYVAL_0x7f1403b0" style="@style/APKTOOL_DUMMYVAL_0x7f15023c">
+        <ImageView style="@style/APKTOOL_DUMMYVAL_0x7f15023a" />
+    </FrameLayout>
+    <TextView android:textSize="20.0dip" android:textColor="@color/APKTOOL_DUMMYVAL_0x7f060ac9" android:ellipsize="end" android:gravity="center" android:layout_gravity="center" android:tag=".label" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/APKTOOL_DUMMYVAL_0x7f140b5e" android:maxLines="1" android:layout_weight="1.0" app:APKTOOL_DUMMYVAL_0x7f040666="?APKTOOL_DUMMYVAL_0x7f04015e" />
+</LinearLayout>

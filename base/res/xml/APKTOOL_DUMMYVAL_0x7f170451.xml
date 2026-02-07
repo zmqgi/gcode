@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime announce_auto_selected_candidate="true" ascii_capable="true" auto_capital="true" class="com.google.android.apps.inputmethod.libs.latin5.LatinIme" display_app_completions="true" language="spp-ML" string_id="ime_supyire">
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170761" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f1706ff" main_def="@xml/APKTOOL_DUMMYVAL_0x7f1708b9" pk_language_tag="spp-Latn-ML" variant="supyire" variant_label="@string/APKTOOL_DUMMYVAL_0x7f141611" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170768" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f1706ff" pk_language_tag="spp-Latn-ML" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f17076b" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f1706ff" pk_language_tag="spp-Latn-ML" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f17075d" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f1706ff" pk_language_tag="spp-Latn-ML" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f17075f" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f1706ff" pk_language_tag="spp-Latn-ML" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f17075e" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f1706ff" pk_language_tag="spp-Latn-ML" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170767" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f1706ff" pk_language_tag="spp-Latn-ML" />
+    </ime>
+</framework>

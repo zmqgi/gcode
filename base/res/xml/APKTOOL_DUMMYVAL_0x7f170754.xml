@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class="com.google.android.apps.inputmethod.libs.search.gif.GifKeyboardTablet">
+        <view direction="locale" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e01e4" type="body">
+            <motion_event_handler class=".motioneventhandler.BasicMotionEventHandler" />
+            <softkeys href="@xml/APKTOOL_DUMMYVAL_0x7f170d3c" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170a9b" />
+            <softkeys href="@xml/APKTOOL_DUMMYVAL_0x7f170d38" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b62" />
+        </view>
+    </keyboard>
+</framework>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/APKTOOL_DUMMYVAL_0x7f170539" />
+    <keyboard>
+        <if device="tablet" device_size="large" keyboard_mode="normal">
+            <view layout="@layout/APKTOOL_DUMMYVAL_0x7f0e03f1" type="body" />
+        </if>
+        <else_if zhuyin_use_staggered_layout="true">
+            <if keyboard_mode="split">
+                <view layout="@layout/APKTOOL_DUMMYVAL_0x7f0e039e" type="body" />
+            </if>
+            <else>
+                <view layout="@layout/APKTOOL_DUMMYVAL_0x7f0e039d" type="body" />
+            </else>
+        </else_if>
+        <else_if keyboard_mode="split">
+            <if split_with_duplicate_keys="true">
+                <view layout="@layout/APKTOOL_DUMMYVAL_0x7f0e024d" type="body" />
+            </if>
+            <else>
+                <view layout="@layout/APKTOOL_DUMMYVAL_0x7f0e024e" type="body" />
+            </else>
+        </else_if>
+        <else>
+            <view layout="@layout/APKTOOL_DUMMYVAL_0x7f0e024c" type="body" />
+        </else>
+        <view override="motion_event_handler" type="body">
+            <motion_event_handler class=".motioneventhandler.SpatialModelMotionEventHandler" />
+            <motion_event_handler class="com.google.android.apps.inputmethod.libs.zhuyin.ZhuyinGestureHandler" preference_key="@string/APKTOOL_DUMMYVAL_0x7f14094b" reverse_preference="false" />
+            <motion_event_handler class="com.google.android.apps.inputmethod.libs.zhuyin.ZhuyinKeyboardLayoutHandler" preference_key="@string/APKTOOL_DUMMYVAL_0x7f14094b" reverse_preference="false" />
+            <motion_event_handler class=".inlinesuggestion.InlineSuggestionScrubSpaceMotionEventHandler" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170d01" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170cf9" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170a90" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b94" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170bac" />
+            <if device="tablet" device_size="large" keyboard_mode="normal">
+                <include href="@xml/APKTOOL_DUMMYVAL_0x7f170a89" />
+            </if>
+            <else_if zhuyin_use_staggered_layout="true">
+                <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b6b" />
+            </else_if>
+            <else>
+                <include href="@xml/APKTOOL_DUMMYVAL_0x7f170a8d" />
+                <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b66" />
+                <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b64" />
+            </else>
+        </view>
+    </keyboard>
+</framework>

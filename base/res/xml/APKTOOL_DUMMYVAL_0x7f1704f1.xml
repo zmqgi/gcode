@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime always_show_suggestions="true" announce_auto_selected_candidate="true" class="com.google.android.apps.inputmethod.libs.chinese.ime.AsyncChineseProcessorBasedIme" display_app_completions="true" indicator_label="倉" inline_composing="false" keyevent_interpreter="com.google.android.apps.inputmethod.libs.chinese.PositionBasedKeyEventInterpreter" language="zh-XE" language_specific_settings="@xml/APKTOOL_DUMMYVAL_0x7f171083" language_tag="zh-Hant-HK-t-i0-cangjie" string_id="ime_zh_hk_cangjie" use_ascii_password_keyboard="true">
+        <if physical_keyboard="qwerty">
+            <attrs language_specific_settings="@xml/APKTOOL_DUMMYVAL_0x7f171084" />
+        </if>
+        <if pref_enable_chinese_inline_composing_hk="true">
+            <attrs inline_composing="true" />
+        </if>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f17076c" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f170741" layout_settings="@xml/APKTOOL_DUMMYVAL_0x7f171082" main_def="@xml/APKTOOL_DUMMYVAL_0x7f17056b" pk_language_tag="en" pk_layout_type="qwerty" variant="cangjie" variant_label="@string/APKTOOL_DUMMYVAL_0x7f141473" variant_name_mandatory="true" />
+        <extra_values>
+            <item id="@id/APKTOOL_DUMMYVAL_0x7f0b02dc" value="true" />
+            <item id="@id/APKTOOL_DUMMYVAL_0x7f0b02f3" value="@string/APKTOOL_DUMMYVAL_0x7f140666" />
+            <item id="@id/APKTOOL_DUMMYVAL_0x7f0b02ec" value="。" />
+            <item id="@id/APKTOOL_DUMMYVAL_0x7f0b02d3" value="@string/APKTOOL_DUMMYVAL_0x7f14093c" />
+            <item id="@id/APKTOOL_DUMMYVAL_0x7f0b02ce" value="cangjie_standard_standard" />
+            <item id="@id/APKTOOL_DUMMYVAL_0x7f0b02eb" value="hmm" />
+            <item id="@id/APKTOOL_DUMMYVAL_0x7f0b02c9" res="@xml/APKTOOL_DUMMYVAL_0x7f17056c" />
+        </extra_values>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170d0c" />
+    </ime>
+</framework>

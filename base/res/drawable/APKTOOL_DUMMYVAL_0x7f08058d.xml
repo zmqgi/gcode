@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-selector
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:state_checked="true" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0182" android:drawable="@drawable/APKTOOL_DUMMYVAL_0x7f08059b" />
+    <item android:id="@id/APKTOOL_DUMMYVAL_0x7f0b03c9" android:drawable="@drawable/APKTOOL_DUMMYVAL_0x7f08059f" app:APKTOOL_DUMMYVAL_0x7f040984="true" />
+    <item android:state_checked="false" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b2514" android:drawable="@android:color/transparent" />
+    <transition android:drawable="@drawable/APKTOOL_DUMMYVAL_0x7f08058f" android:toId="@id/APKTOOL_DUMMYVAL_0x7f0b2514" android:fromId="@id/APKTOOL_DUMMYVAL_0x7f0b0182" />
+    <transition android:drawable="@drawable/APKTOOL_DUMMYVAL_0x7f080592" android:toId="@id/APKTOOL_DUMMYVAL_0x7f0b0182" android:fromId="@id/APKTOOL_DUMMYVAL_0x7f0b2514" />
+    <transition android:drawable="@drawable/APKTOOL_DUMMYVAL_0x7f080591" android:toId="@id/APKTOOL_DUMMYVAL_0x7f0b2514" android:fromId="@id/APKTOOL_DUMMYVAL_0x7f0b03c9" />
+    <transition android:drawable="@drawable/APKTOOL_DUMMYVAL_0x7f080593" android:toId="@id/APKTOOL_DUMMYVAL_0x7f0b03c9" android:fromId="@id/APKTOOL_DUMMYVAL_0x7f0b2514" />
+    <transition android:drawable="@drawable/APKTOOL_DUMMYVAL_0x7f080590" android:toId="@id/APKTOOL_DUMMYVAL_0x7f0b0182" android:fromId="@id/APKTOOL_DUMMYVAL_0x7f0b03c9" />
+    <transition android:drawable="@drawable/APKTOOL_DUMMYVAL_0x7f08058e" android:toId="@id/APKTOOL_DUMMYVAL_0x7f0b03c9" android:fromId="@id/APKTOOL_DUMMYVAL_0x7f0b0182" />
+</animated-selector>

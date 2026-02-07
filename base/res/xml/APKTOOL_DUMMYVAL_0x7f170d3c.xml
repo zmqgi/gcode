@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey content_description="@string/APKTOOL_DUMMYVAL_0x7f14070f" disable_lift_to_tap="true" id="@id/APKTOOL_DUMMYVAL_0x7f0b0977" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e06b2">
+            <action data="prime" keycode="EXIT_EXPRESSION_VIA_ABC_BUTTON" type="PRESS" />
+            <label location="@id/APKTOOL_DUMMYVAL_0x7f0b05fa" value="@string/APKTOOL_DUMMYVAL_0x7f1405dd" />
+        </softkey>
+        <softkey alpha="@attr/APKTOOL_DUMMYVAL_0x7f040174" content_description="@string/APKTOOL_DUMMYVAL_0x7f1404ef" id="@id/APKTOOL_DUMMYVAL_0x7f0b0dfe" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e06b4" multi_touch="false">
+            <action keycode="DEL" repeatable="true" type="PRESS" />
+            <action keycode="DELETE_FINISH" type="UP" />
+            <icon location="@id/APKTOOL_DUMMYVAL_0x7f0b03a3" value="@drawable/APKTOOL_DUMMYVAL_0x7f08049b" />
+        </softkey>
+    </softkeys>
+</framework>

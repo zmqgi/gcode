@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/APKTOOL_DUMMYVAL_0x7f170537" />
+    <keyboard>
+        <view layout="@layout/APKTOOL_DUMMYVAL_0x7f0e023e" override="motion_event_handler" type="body">
+            <motion_event_handler class=".motioneventhandler.BasicMotionEventHandler" />
+            <motion_event_handler class=".libs.latin5.handler.LatinKeyboardLayoutHandler" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b55" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170a70" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170a5a" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170a6e" />
+        </view>
+    </keyboard>
+    <if enable_number_row="true">
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f1707af" />
+    </if>
+</framework>

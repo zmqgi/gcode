@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dynamic_keys>
+    <key>
+        <action state="0" type="PRESS">ऋ</action>
+        <action state="0" type="LONG_PRESS">ृ</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">्</action>
+        <action state="0" type="LONG_PRESS">ऽ</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">़</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ं</action>
+        <action state="0" type="LONG_PRESS">ँ</action>
+        <action state="0" type="LONG_PRESS">ः</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">अ</action>
+        <action state="0" type="LONG_PRESS">ॲ</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">आ</action>
+        <action state="0" type="LONG_PRESS">ा</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">इ</action>
+        <action state="0" type="LONG_PRESS">ि</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ई</action>
+        <action state="0" type="LONG_PRESS">ी</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">उ</action>
+        <action state="0" type="LONG_PRESS">ु</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ऊ</action>
+        <action state="0" type="LONG_PRESS">ू</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ए</action>
+        <action state="0" type="LONG_PRESS">े</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ऐ</action>
+        <action state="0" type="LONG_PRESS">ै</action>
+        <action state="0" type="LONG_PRESS">ऍ</action>
+        <action state="0" type="LONG_PRESS">ॅ</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ओ</action>
+        <action state="0" type="LONG_PRESS">ो</action>
+        <action state="0" type="LONG_PRESS">ऑ</action>
+        <action state="0" type="LONG_PRESS">ॉ</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">औ</action>
+        <action state="0" type="LONG_PRESS">ौ</action>
+    </key>
+</dynamic_keys>

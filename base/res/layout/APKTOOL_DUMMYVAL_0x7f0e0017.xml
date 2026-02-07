@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.ActionBarOverlayLayout android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0221" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <include layout="@layout/APKTOOL_DUMMYVAL_0x7f0e0014" />
+    <android.support.v7.widget.ActionBarContainer android:gravity="top" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b00d7" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentTop="true" android:touchscreenBlocksFocus="true" android:keyboardNavigationCluster="true" style="?APKTOOL_DUMMYVAL_0x7f040386">
+        <android.support.v7.widget.Toolbar android:id="@id/APKTOOL_DUMMYVAL_0x7f0b00d5" android:layout_width="fill_parent" android:layout_height="wrap_content" app:APKTOOL_DUMMYVAL_0x7f040868="@string/APKTOOL_DUMMYVAL_0x7f140009" style="?APKTOOL_DUMMYVAL_0x7f040a6e" />
+        <android.support.v7.widget.ActionBarContextView android:theme="?APKTOOL_DUMMYVAL_0x7f04039e" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b00de" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" style="?APKTOOL_DUMMYVAL_0x7f04039d" />
+    </android.support.v7.widget.ActionBarContainer>
+</android.support.v7.widget.ActionBarOverlayLayout>

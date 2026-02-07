@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b159c" view_id="@id/C10" />
+        <if device="tablet" device_size="large" keyboard_mode="normal">
+            <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1e7f" view_id="@id/D11" />
+            <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1577" view_id="@id/B08" />
+            <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b158a" view_id="@id/B09" />
+        </if>
+    </key_mapping>
+    <if device="tablet" device_size="large" keyboard_mode="normal">
+        <key_mapping state="INPUT_TYPE_EMAIL_ADDRESS,INPUT_TYPE_URI">
+            <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1577" view_id="@id/B08" />
+            <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b158a" view_id="@id/B09" />
+        </key_mapping>
+    </if>
+    <key_mapping state="MANUAL_SHIFT">
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b23a6" view_id="@id/D11" />
+    </key_mapping>
+</framework>

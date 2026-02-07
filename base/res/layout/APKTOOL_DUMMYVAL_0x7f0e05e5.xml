@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.apps.inputmethod.libs.japanese.keyboard.widget.MultiLabelPopupView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0715" android:layout_width="wrap_content" android:layout_height="wrap_content" android:alpha="0.0" app:APKTOOL_DUMMYVAL_0x7f0400b0="false" app:APKTOOL_DUMMYVAL_0x7f0402ab="?APKTOOL_DUMMYVAL_0x7f04025f" hide_animation="@animator/APKTOOL_DUMMYVAL_0x7f020036" show_animation="@animator/APKTOOL_DUMMYVAL_0x7f020062"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:id="@id/APKTOOL_DUMMYVAL_0x7f0b072b" style="@style/APKTOOL_DUMMYVAL_0x7f150494">
+        <FrameLayout style="@style/APKTOOL_DUMMYVAL_0x7f150487">
+            <TextView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0726" android:visibility="gone" android:layout_marginRight="?APKTOOL_DUMMYVAL_0x7f040231" style="@style/APKTOOL_DUMMYVAL_0x7f150491" />
+            <TextView android:textSize="?APKTOOL_DUMMYVAL_0x7f040329" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0727" android:visibility="gone" style="@style/APKTOOL_DUMMYVAL_0x7f150491" />
+            <TextView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0728" android:visibility="gone" android:layout_marginLeft="?APKTOOL_DUMMYVAL_0x7f040232" style="@style/APKTOOL_DUMMYVAL_0x7f150491" />
+        </FrameLayout>
+    </LinearLayout>
+</com.google.android.apps.inputmethod.libs.japanese.keyboard.widget.MultiLabelPopupView>

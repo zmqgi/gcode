@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/APKTOOL_DUMMYVAL_0x7f0b03a4" style="@style/APKTOOL_DUMMYVAL_0x7f15033c"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b05fa" style="@style/APKTOOL_DUMMYVAL_0x7f1503c3" />
+    <TextView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0603" android:layout_marginRight="?APKTOOL_DUMMYVAL_0x7f04023e" style="@style/APKTOOL_DUMMYVAL_0x7f1503c4" />
+    <TextView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0609" android:layout_marginBottom="?APKTOOL_DUMMYVAL_0x7f04023f" style="@style/APKTOOL_DUMMYVAL_0x7f1503c4" />
+    <TextView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0607" android:layout_marginLeft="?APKTOOL_DUMMYVAL_0x7f04023e" style="@style/APKTOOL_DUMMYVAL_0x7f1503c4" />
+    <TextView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b05fb" android:layout_marginTop="?APKTOOL_DUMMYVAL_0x7f04023f" style="@style/APKTOOL_DUMMYVAL_0x7f1503c4" />
+</FrameLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Spinner android:id="@id/APKTOOL_DUMMYVAL_0x7f0b242a" android:visibility="invisible" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/APKTOOL_DUMMYVAL_0x7f0708ee" android:layout_marginStart="@dimen/APKTOOL_DUMMYVAL_0x7f0708ee" />
+    <LinearLayout android:gravity="center_vertical" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false" android:minHeight="@dimen/APKTOOL_DUMMYVAL_0x7f0708ee" android:filterTouchesWhenObscured="false" android:paddingVertical="@dimen/APKTOOL_DUMMYVAL_0x7f0708f7">
+        <include layout="@layout/APKTOOL_DUMMYVAL_0x7f0e067e" />
+        <include layout="@layout/APKTOOL_DUMMYVAL_0x7f0e0681" />
+        <LinearLayout android:gravity="end|center" android:orientation="vertical" android:id="@android:id/widget_frame" android:layout_width="wrap_content" android:layout_height="fill_parent" android:paddingStart="@dimen/APKTOOL_DUMMYVAL_0x7f0708f7" android:paddingEnd="0.0dip" />
+    </LinearLayout>
+</FrameLayout>

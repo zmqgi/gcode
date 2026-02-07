@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.widgets.checkable.CheckableLinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0710" android:background="@drawable/APKTOOL_DUMMYVAL_0x7f08030b" android:paddingLeft="?APKTOOL_DUMMYVAL_0x7f04058b" android:paddingRight="?APKTOOL_DUMMYVAL_0x7f04058b" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="72.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:duplicateParentState="true" android:layout_width="24.0dip" android:layout_height="24.0dip" android:src="@drawable/APKTOOL_DUMMYVAL_0x7f08045f" android:tint="@color/APKTOOL_DUMMYVAL_0x7f06017f" android:importantForAccessibility="no" android:layout_marginStart="?android:listPreferredItemPaddingStart" android:layout_marginEnd="?android:listPreferredItemPaddingEnd" />
+    <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="@dimen/APKTOOL_DUMMYVAL_0x7f070407" android:textColor="@color/APKTOOL_DUMMYVAL_0x7f06017f" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b070e" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <TextView android:textSize="@dimen/APKTOOL_DUMMYVAL_0x7f070408" android:textColor="@color/APKTOOL_DUMMYVAL_0x7f06017f" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b070f" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+</com.google.android.libraries.inputmethod.widgets.checkable.CheckableLinearLayout>

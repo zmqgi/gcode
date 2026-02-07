@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.embeddedphotopicker.EmbeddedPhotoPickerBottomSheetContainer android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <View android:id="@id/APKTOOL_DUMMYVAL_0x7f0b070d" android:focusable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:soundEffectsEnabled="false" android:importantForAccessibility="no" />
+    <com.google.android.libraries.inputmethod.embeddedphotopicker.EmbeddedPhotoPickerBottomSheet android:orientation="vertical" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b070b" android:layout_width="fill_parent" android:layout_height="fill_parent" app:APKTOOL_DUMMYVAL_0x7f040408="true" app:APKTOOL_DUMMYVAL_0x7f04040b="false" app:APKTOOL_DUMMYVAL_0x7f04040c="0.75" app:APKTOOL_DUMMYVAL_0x7f04040d="true" app:APKTOOL_DUMMYVAL_0x7f040410="220.0dip" app:APKTOOL_DUMMYVAL_0x7f040413="true" app:APKTOOL_DUMMYVAL_0x7f04071d="com.google.android.material.bottomsheet.BottomSheetBehavior" style="@style/APKTOOL_DUMMYVAL_0x7f150266">
+        <com.google.android.material.bottomsheet.BottomSheetDragHandleView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b070c" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/APKTOOL_DUMMYVAL_0x7f150f09" />
+        <com.google.android.libraries.inputmethod.embeddedphotopicker.EmbeddedPhotoPickerSurfaceView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b070a" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+    </com.google.android.libraries.inputmethod.embeddedphotopicker.EmbeddedPhotoPickerBottomSheet>
+</com.google.android.libraries.inputmethod.embeddedphotopicker.EmbeddedPhotoPickerBottomSheetContainer>

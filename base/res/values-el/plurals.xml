@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">Χρησιμοποιείτε συχνά τα %s; Μεταφέρθηκαν πλέον εδώ για εύκολη πρόσβαση.</item>
+        <item quantity="one">Χρησιμοποιείτε συχνά το %s; Μεταφέρθηκε πλέον εδώ για εύκολη πρόσβαση.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">Αντιστοιχίστηκαν %d πλήκτρα</item>
+        <item quantity="one">Αντιστοιχίστηκε %d πλήκτρο</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">Τα %s εγκαταστάθηκαν.</item>
+        <item quantity="one">Τα %s εγκαταστάθηκαν.</item>
+    </plurals>
+</resources>

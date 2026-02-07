@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dynamic_keys>
+    <key>
+        <action state="0" type="PRESS">z</action>
+        <action state="0" type="LONG_PRESS">z̆</action>
+        <action state="1" type="PRESS">Z</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ç</action>
+        <action state="0" type="LONG_PRESS">ç̆</action>
+        <action state="1" type="PRESS">Ç</action>
+        <action state="1" type="LONG_PRESS">Ç̆</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">k</action>
+        <action state="0" type="LONG_PRESS">k̆</action>
+        <action state="1" type="PRESS">K</action>
+        <action state="1" type="LONG_PRESS">K̆</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ʒ</action>
+        <action state="0" type="LONG_PRESS">ʒ̆</action>
+        <action state="1" type="PRESS">Ʒ</action>
+        <action state="1" type="LONG_PRESS">Ʒ̆</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">t</action>
+        <action state="0" type="LONG_PRESS">t̆</action>
+        <action state="1" type="PRESS">T</action>
+        <action state="1" type="LONG_PRESS">T̆</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">p</action>
+        <action state="0" type="LONG_PRESS">p̆</action>
+        <action state="1" type="PRESS">P</action>
+        <action state="1" type="LONG_PRESS">P̆</action>
+    </key>
+</dynamic_keys>

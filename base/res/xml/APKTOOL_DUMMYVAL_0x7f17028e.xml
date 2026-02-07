@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime announce_auto_selected_candidate="true" ascii_capable="true" auto_capital="true" class="com.google.android.apps.inputmethod.libs.latin5.LatinIme" display_app_completions="true" language="igl-NG" string_id="ime_igala">
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170761" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f170639" main_def="@xml/APKTOOL_DUMMYVAL_0x7f170844" pk_language_tag="igl-Latn-NG" variant="igala" variant_label="@string/APKTOOL_DUMMYVAL_0x7f1414fc" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170768" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f170639" pk_language_tag="igl-Latn-NG" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f17076b" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f170639" pk_language_tag="igl-Latn-NG" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f17075d" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f170639" pk_language_tag="igl-Latn-NG" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f17075f" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f170639" pk_language_tag="igl-Latn-NG" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f17075e" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f170639" pk_language_tag="igl-Latn-NG" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170767" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f170639" pk_language_tag="igl-Latn-NG" />
+    </ime>
+</framework>

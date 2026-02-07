@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkey_template content_description="$desc$" id="@id/APKTOOL_DUMMYVAL_0x7f0b21ad" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e0728" multi_touch="false" popup_timing="@string/APKTOOL_DUMMYVAL_0x7f140b13" slide_sensitivity="NORMAL">
+        <action data="$press_data$" intention="$press_intent=COMMIT$" keycode="ALPHABET" popup_label="$press_data$" type="PRESS" />
+        <action data="$long_press_data$" intention="$long_press_intention=COMMIT$" keycode="ALPHABET" merge_insertion_index="$merge_index=0$" popup_label="$long_press_data$" popup_layout="@attr/APKTOOL_DUMMYVAL_0x7f0402a3" type="LONG_PRESS" />
+        <label location="@id/APKTOOL_DUMMYVAL_0x7f0b05fa" value="$press_data$" />
+    </softkey_template>
+    <softkey_template content_description="$desc$" id="@id/APKTOOL_DUMMYVAL_0x7f0b2171" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e0729" multi_touch="false" popup_timing="@string/APKTOOL_DUMMYVAL_0x7f140b13" slide_sensitivity="NORMAL">
+        <action data="$press_data$" intention="$press_intent=COMMIT$" keycode="ALPHABET" popup_label="$press_data$" type="PRESS" />
+        <action data="$long_press_data$" intention="$long_press_intention=COMMIT$" keycode="ALPHABET" merge_insertion_index="$merge_index=0$" popup_label="$long_press_data$" popup_layout="@attr/APKTOOL_DUMMYVAL_0x7f040298" type="LONG_PRESS" />
+        <label location="@id/APKTOOL_DUMMYVAL_0x7f0b05fa" value="$press_data$" />
+        <label location="@id/APKTOOL_DUMMYVAL_0x7f0b0602" value="$hint_label$" />
+    </softkey_template>
+    <softkey_template content_description="$desc$" id="@id/APKTOOL_DUMMYVAL_0x7f0b21b2" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e0728" multi_touch="false" popup_timing="@string/APKTOOL_DUMMYVAL_0x7f140b13" slide_sensitivity="NORMAL">
+        <action data="$press_data$" intention="$press_intent=COMMIT$" keycode="ALPHABET" popup_label="$press_data$" type="PRESS" />
+        <label location="@id/APKTOOL_DUMMYVAL_0x7f0b05fa" value="$press_data$" />
+    </softkey_template>
+</framework>

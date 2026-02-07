@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:gravity="bottom|center|left" android:orientation="horizontal" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0740" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" />
+        <LinearLayout android:layout_gravity="bottom|center|right" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingEnd="?android:listPreferredItemPaddingEnd">
+            <TextView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0739" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <TextView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0738" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="?android:listPreferredItemPaddingStart" android:paddingEnd="?android:listPreferredItemPaddingEnd">
+        <RelativeLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0736" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentLeft="true" android:layout_alignParentBottom="true" />
+            <TextView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0735" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+            <TextView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0737" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" />
+        </RelativeLayout>
+        <SeekBar android:gravity="center" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0734" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </LinearLayout>
+</LinearLayout>

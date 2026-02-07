@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/APKTOOL_DUMMYVAL_0x7f170ba5" />
+    <key_mapping>
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1bad" view_id="@id/key_pos_move_cursor" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0dfc" view_id="@id/key_pos_del" />
+    </key_mapping>
+    <key_mapping state="COMPOSING">
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0cae" view_id="@id/key_pos_move_cursor" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0dfd" view_id="@id/key_pos_del" />
+    </key_mapping>
+</framework>

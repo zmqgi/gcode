@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.widgets.SoftKeyboardView style="@style/APKTOOL_DUMMYVAL_0x7f1502b6"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ViewSwitcher android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0393" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="horizontal" android:tag=".bg.expression-keyboard-background" android:background="@drawable/APKTOOL_DUMMYVAL_0x7f08020e" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginHorizontal="?APKTOOL_DUMMYVAL_0x7f040126">
+            <FrameLayout style="@style/APKTOOL_DUMMYVAL_0x7f150540">
+                <ImageView style="@style/APKTOOL_DUMMYVAL_0x7f15053d" />
+            </FrameLayout>
+            <androidx.coordinatorlayout.widget.CoordinatorLayout android:id="@id/APKTOOL_DUMMYVAL_0x7f0b05f4" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="100.0" android:overScrollMode="never" android:paddingHorizontal="?APKTOOL_DUMMYVAL_0x7f0401fe">
+                <com.google.android.apps.inputmethod.libs.expression.header.StartElementRecyclerView android:orientation="horizontal" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b05f5" android:layout_width="wrap_content" android:layout_height="fill_parent" android:overScrollMode="never" app:APKTOOL_DUMMYVAL_0x7f04071d="com.google.android.apps.inputmethod.libs.expression.header.StartElementScrollBehavior" />
+                <com.google.android.libraries.inputmethod.recyclerview.BindingRecyclerView android:gravity="center_vertical" android:layout_gravity="center_vertical" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b06ef" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="?APKTOOL_DUMMYVAL_0x7f0400ab" android:overScrollMode="never" android:paddingStart="6.0dip" android:paddingEnd="@dimen/APKTOOL_DUMMYVAL_0x7f0703cb" android:keyboardNavigationCluster="true" app:APKTOOL_DUMMYVAL_0x7f04071d="com.google.android.apps.inputmethod.libs.expression.header.MiddleElementScrollBehavior" />
+            </androidx.coordinatorlayout.widget.CoordinatorLayout>
+            <FrameLayout style="@style/APKTOOL_DUMMYVAL_0x7f15053f">
+                <ImageView style="@style/APKTOOL_DUMMYVAL_0x7f15053c" />
+            </FrameLayout>
+        </LinearLayout>
+        <ViewAnimator android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0392" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <include layout="@layout/APKTOOL_DUMMYVAL_0x7f0e075e" />
+            <include layout="@layout/APKTOOL_DUMMYVAL_0x7f0e01cb" />
+            <include layout="@layout/APKTOOL_DUMMYVAL_0x7f0e0652" />
+        </ViewAnimator>
+    </ViewSwitcher>
+</com.google.android.libraries.inputmethod.widgets.SoftKeyboardView>

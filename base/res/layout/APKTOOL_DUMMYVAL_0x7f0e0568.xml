@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" style="@style/APKTOOL_DUMMYVAL_0x7f15032c"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.libraries.inputmethod.keyboard.widget.FixedSizeSoftKeyViewsPage android:orientation="vertical" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b14e8" android:layout_width="?APKTOOL_DUMMYVAL_0x7f0400c8" android:layout_height="fill_parent" android:horizontalSpacing="0.0dip" android:verticalSpacing="0.0dip" android:layout_weight="181.0" app:APKTOOL_DUMMYVAL_0x7f04051e="3" app:APKTOOL_DUMMYVAL_0x7f0408fc="3" app:APKTOOL_DUMMYVAL_0x7f040954="@layout/APKTOOL_DUMMYVAL_0x7f0e057c" />
+    <FrameLayout android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="424.0">
+        <include layout="@layout/APKTOOL_DUMMYVAL_0x7f0e0565" />
+    </FrameLayout>
+    <com.google.android.libraries.inputmethod.keyboard.widget.FixedSizeSoftKeyViewsPage android:orientation="vertical" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b14e9" android:layout_width="?APKTOOL_DUMMYVAL_0x7f0400c9" android:layout_height="fill_parent" android:horizontalSpacing="0.0dip" android:verticalSpacing="0.0dip" android:layout_weight="116.0" app:APKTOOL_DUMMYVAL_0x7f04051e="2" app:APKTOOL_DUMMYVAL_0x7f0408fc="3" app:APKTOOL_DUMMYVAL_0x7f040954="@layout/APKTOOL_DUMMYVAL_0x7f0e057c" />
+    <LinearLayout android:weightSum="300.0" android:layout_weight="65.0" style="@style/APKTOOL_DUMMYVAL_0x7f150455">
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_del" android:layout_weight="100.0" style="@style/APKTOOL_DUMMYVAL_0x7f1506b5" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_ime_action" android:layout_weight="100.0" style="@style/APKTOOL_DUMMYVAL_0x7f1506c8" />
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_shift_right" android:layout_weight="100.0" style="@style/APKTOOL_DUMMYVAL_0x7f1506b5" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:orientation="vertical"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0411" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.google.android.apps.inputmethod.libs.jarvis.miscs.ColorfulScrollbarScrollView android:layout_gravity="center" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <FrameLayout android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0412" style="@style/APKTOOL_DUMMYVAL_0x7f150346">
+                    <ImageView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0180" android:src="@drawable/APKTOOL_DUMMYVAL_0x7f080372" style="@style/APKTOOL_DUMMYVAL_0x7f150345" />
+                    <ImageView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b069b" android:src="@drawable/quantum_gm_ic_cloud_off_vd_theme_24" style="@style/APKTOOL_DUMMYVAL_0x7f150345" />
+                    <ImageView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b07b5" android:src="@drawable/APKTOOL_DUMMYVAL_0x7f080620" style="@style/APKTOOL_DUMMYVAL_0x7f150345" />
+                    <ImageView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b03d0" android:src="@drawable/APKTOOL_DUMMYVAL_0x7f0803ba" style="@style/APKTOOL_DUMMYVAL_0x7f150345" />
+                    <ImageView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b03a2" android:src="@drawable/APKTOOL_DUMMYVAL_0x7f0803b6" style="@style/APKTOOL_DUMMYVAL_0x7f150345" />
+                </FrameLayout>
+                <TextView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0413" android:text="@string/APKTOOL_DUMMYVAL_0x7f1416d2" style="@style/APKTOOL_DUMMYVAL_0x7f150347" />
+                <LinearLayout android:gravity="center_horizontal" android:layout_gravity="center" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0416" android:tag=".item-ripple.no-background" android:background="@drawable/APKTOOL_DUMMYVAL_0x7f0802b2" android:focusable="true" android:visibility="gone" android:clickable="true" android:layout_width="wrap_content" android:layout_height="40.0dip" android:layout_marginTop="12.0dip">
+                    <ImageView android:src="@drawable/APKTOOL_DUMMYVAL_0x7f08061d" android:tint="?APKTOOL_DUMMYVAL_0x7f0404ef" android:importantForAccessibility="no" android:layout_marginStart="20.0dip" style="@style/APKTOOL_DUMMYVAL_0x7f150780" />
+                    <com.google.android.libraries.inputmethod.widgets.TransformationTextView android:tint="?APKTOOL_DUMMYVAL_0x7f0404ef" android:text="@string/APKTOOL_DUMMYVAL_0x7f140505" android:layout_marginStart="16.0dip" android:layout_marginEnd="20.0dip" style="@style/APKTOOL_DUMMYVAL_0x7f150783" />
+                </LinearLayout>
+            </LinearLayout>
+        </com.google.android.apps.inputmethod.libs.jarvis.miscs.ColorfulScrollbarScrollView>
+    </LinearLayout>
+</merge>

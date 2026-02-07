@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/APKTOOL_DUMMYVAL_0x7f140ba9" android:key="@string/APKTOOL_DUMMYVAL_0x7f140aae"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <androidx.preference.PreferenceCategory android:title="@string/APKTOOL_DUMMYVAL_0x7f140b89" android:key="@string/APKTOOL_DUMMYVAL_0x7f140b88">
+        <com.google.android.libraries.inputmethod.preferencewidgets.CustomTwoTargetSwitchPreference android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140b85" android:key="@string/APKTOOL_DUMMYVAL_0x7f140a5d" android:fragment="com.google.android.apps.inputmethod.latin.preference.AutoCorrectionSettingsFragment" />
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140b83" android:key="@string/APKTOOL_DUMMYVAL_0x7f14090a" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140b82" />
+    </androidx.preference.PreferenceCategory>
+    <androidx.preference.PreferenceCategory android:title="@string/APKTOOL_DUMMYVAL_0x7f140cd1" android:key="@string/APKTOOL_DUMMYVAL_0x7f140cd0">
+        <extra android:name="NON_INDEXABLE" android:value="true" />
+        <Preference android:persistent="false" android:title="@string/APKTOOL_DUMMYVAL_0x7f140ccb" android:key="@string/APKTOOL_DUMMYVAL_0x7f140ad2" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140cca">
+            <intent android:targetPackage="com.android.settings" android:action="android.intent.action.MAIN" android:targetClass="com.android.settings.Settings$SpellCheckersSettingsActivity" />
+        </Preference>
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140c60" android:key="@string/APKTOOL_DUMMYVAL_0x7f140955" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140c5f" android:shouldDisableView="true" />
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140d87" android:key="@string/APKTOOL_DUMMYVAL_0x7f14094d" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140d86" android:shouldDisableView="true" />
+    </androidx.preference.PreferenceCategory>
+    <androidx.preference.PreferenceCategory android:title="@string/APKTOOL_DUMMYVAL_0x7f140cd9" android:key="@string/APKTOOL_DUMMYVAL_0x7f140cd7">
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140bd5" android:key="@string/APKTOOL_DUMMYVAL_0x7f140951" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140bd4">
+            <extra android:name="hide_if_flag_is_false" android:value="enable_inline_suggestions_on_client_side=false" />
+        </SwitchPreferenceCompat>
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140b91" android:key="@string/APKTOOL_DUMMYVAL_0x7f14090f" />
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140cd6" android:key="@string/APKTOOL_DUMMYVAL_0x7f140acf" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140cd5" />
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140cc5" android:key="@string/APKTOOL_DUMMYVAL_0x7f140ad0" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140cc4" android:dependency="@string/APKTOOL_DUMMYVAL_0x7f140acf" />
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140c73" android:key="@string/APKTOOL_DUMMYVAL_0x7f140a75" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140c72" android:dependency="@string/APKTOOL_DUMMYVAL_0x7f140ad0" />
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140c1f" android:key="@string/APKTOOL_DUMMYVAL_0x7f1409b2" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140c1e" android:dependency="@string/APKTOOL_DUMMYVAL_0x7f140ad0" />
+        <Preference android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140be2" android:key="@string/APKTOOL_DUMMYVAL_0x7f14096b" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140be1">
+            <intent android:targetPackage="com.google.android.as" android:action="android.intent.action.MAIN" android:targetClass="com.google.android.apps.miphone.aiai.autofill.settings.keyboard.s.KeyboardSuggestionsSettingsActivity" />
+        </Preference>
+    </androidx.preference.PreferenceCategory>
+    <androidx.preference.PreferenceCategory android:title="@string/APKTOOL_DUMMYVAL_0x7f140cf7" android:key="@string/APKTOOL_DUMMYVAL_0x7f140cf6">
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140d89" android:key="@string/APKTOOL_DUMMYVAL_0x7f1409c1" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140d88" android:shouldDisableView="true" />
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140d8b" android:key="@string/APKTOOL_DUMMYVAL_0x7f140aa9" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140d8a" />
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140d8b" android:key="@string/APKTOOL_DUMMYVAL_0x7f140aaa" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140d8c" />
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f1416cf" android:key="@string/APKTOOL_DUMMYVAL_0x7f140afc" android:summary="@string/APKTOOL_DUMMYVAL_0x7f1416ce" />
+    </androidx.preference.PreferenceCategory>
+</PreferenceScreen>

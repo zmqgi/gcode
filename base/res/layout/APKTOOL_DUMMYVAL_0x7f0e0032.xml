@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_gravity="center_vertical" android:layout_width="56.0dip" android:layout_height="32.0dip" android:layout_marginEnd="8.0dip" android:layout_marginVertical="8.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:tag="?APKTOOL_DUMMYVAL_0x7f040129" android:background="@drawable/APKTOOL_DUMMYVAL_0x7f0801fb" android:layout_width="fill_parent" android:layout_height="fill_parent" android:importantForAccessibility="no" />
+    <com.google.android.apps.inputmethod.libs.expression.widget.AnimateOnVisibleAndSelectedImageView android:layout_gravity="center" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b016e" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="centerInside" style="@style/APKTOOL_DUMMYVAL_0x7f1506f6" />
+</FrameLayout>

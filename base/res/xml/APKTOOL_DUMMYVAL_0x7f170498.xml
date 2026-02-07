@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime announce_auto_selected_candidate="true" ascii_capable="true" auto_capital="true" class="com.google.android.apps.inputmethod.libs.latin5.LatinIme" display_app_completions="true" language="tr-CY" string_id="ime_turkish_cyprus">
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170761" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f17071c" main_def="@xml/APKTOOL_DUMMYVAL_0x7f17089b" support_a11y_keyboard="true" variant="turkish_q" variant_label="@string/APKTOOL_DUMMYVAL_0x7f141641" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170761" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f17071c" main_def="@xml/APKTOOL_DUMMYVAL_0x7f1708c6" support_a11y_keyboard="true" variant="turkish_f" variant_label="@string/APKTOOL_DUMMYVAL_0x7f141640" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170768" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f17071b" pk_layout_type="turkish_q" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f17076b" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f17071b" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f17075d" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f17071b" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f17075f" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f17071b" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f17075e" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f17071b" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170767" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f17071b" />
+    </ime>
+</framework>

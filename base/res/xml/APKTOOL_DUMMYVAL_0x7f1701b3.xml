@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime announce_auto_selected_candidate="true" ascii_capable="true" auto_capital="true" class="com.google.android.apps.inputmethod.libs.latin5.LatinIme" display_app_completions="true" language="cjk-AO" string_id="ime_chokwe">
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170768" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f1705da" pk_language_tag="cjk-Latn-AO" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170761" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f1705da" main_def="@xml/APKTOOL_DUMMYVAL_0x7f17089d" pk_language_tag="cjk-Latn-AO" variant="portuguese" variant_label="@string/APKTOOL_DUMMYVAL_0x7f1415d1" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f17076b" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f1705da" pk_language_tag="cjk-Latn-AO" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f17075d" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f1705da" pk_language_tag="cjk-Latn-AO" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f17075f" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f1705da" pk_language_tag="cjk-Latn-AO" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170761" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f1705da" main_def="@xml/APKTOOL_DUMMYVAL_0x7f1707eb" pk_language_tag="cjk-Latn-AO" pk_layout_type="dvorak" variant="dvorak_spanish" variant_label="@string/APKTOOL_DUMMYVAL_0x7f1414a5" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f17075e" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f1705da" pk_language_tag="cjk-Latn-AO" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170767" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f1705da" pk_language_tag="cjk-Latn-AO" />
+    </ime>
+</framework>

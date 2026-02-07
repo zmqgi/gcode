@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class=".latin.keyboard.LatinPasswordKeyboard" popup="@attr/APKTOOL_DUMMYVAL_0x7f04029c">
+        <view type="body">
+            <motion_event_handler class=".motioneventhandler.BasicMotionEventHandler" />
+            <motion_event_handler class=".motioneventhandler.ScrubDeleteMotionEventHandler" preference_key="@string/APKTOOL_DUMMYVAL_0x7f140962" reverse_preference="false" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170d01" />
+            <softkeys href="@xml/APKTOOL_DUMMYVAL_0x7f170d48" />
+            <softkeys href="@xml/APKTOOL_DUMMYVAL_0x7f170d50" />
+            <softkeys href="@xml/APKTOOL_DUMMYVAL_0x7f17106b" />
+            <softkeys href="@xml/APKTOOL_DUMMYVAL_0x7f17106c" />
+            <if device="tablet" device_size="large" keyboard_mode="normal">
+                <softkeys href="@xml/APKTOOL_DUMMYVAL_0x7f170d41" />
+            </if>
+            <else>
+                <softkeys href="@xml/APKTOOL_DUMMYVAL_0x7f170d40" />
+            </else>
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170ba5" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170bad" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b97" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170ba4" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170c71" />
+        </view>
+    </keyboard>
+</framework>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime announce_auto_selected_candidate="true" auto_capital="true" class="com.google.android.libraries.inputmethod.ime.password.PasswordIme" label="@string/APKTOOL_DUMMYVAL_0x7f140880" language="und-Latn-x-password-ascii" string_id="password_ascii">
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170766" main_def="@xml/APKTOOL_DUMMYVAL_0x7f17087a" no_header_main_def="@xml/APKTOOL_DUMMYVAL_0x7f17087c" variant="qwerty" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170766" main_def="@xml/APKTOOL_DUMMYVAL_0x7f17087d" no_header_main_def="@xml/APKTOOL_DUMMYVAL_0x7f17087f" variant="qwertz" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170766" main_def="@xml/APKTOOL_DUMMYVAL_0x7f170870" no_header_main_def="@xml/APKTOOL_DUMMYVAL_0x7f170872" variant="azerty" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170766" main_def="@xml/APKTOOL_DUMMYVAL_0x7f170876" no_header_main_def="@xml/APKTOOL_DUMMYVAL_0x7f170878" variant="dvorak" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170766" main_def="@xml/APKTOOL_DUMMYVAL_0x7f170873" no_header_main_def="@xml/APKTOOL_DUMMYVAL_0x7f170875" variant="colemak" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170766" main_def="@xml/APKTOOL_DUMMYVAL_0x7f17087d" no_header_main_def="@xml/APKTOOL_DUMMYVAL_0x7f17087f" variant="serbian_qwertz" variant_label="@string/APKTOOL_DUMMYVAL_0x7f1415f9" />
+        <include force_show_number_row="true" href="@xml/APKTOOL_DUMMYVAL_0x7f170766" main_def="@xml/APKTOOL_DUMMYVAL_0x7f170879" variant="pcqwerty" />
+        <keyboard_group variant="clariti">
+            <keyboard def="@xml/APKTOOL_DUMMYVAL_0x7f1705f9" type="prime">
+                <merge def="@xml/APKTOOL_DUMMYVAL_0x7f170596" />
+                <merge def="@xml/APKTOOL_DUMMYVAL_0x7f1706b9" />
+            </keyboard>
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f1709ae" />
+            <override_keyboard_xml_conditions>
+                <language value="en" />
+            </override_keyboard_xml_conditions>
+        </keyboard_group>
+    </ime>
+</framework>

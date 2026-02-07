@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/APKTOOL_DUMMYVAL_0x7f170538" />
+    <if>
+        <any_of>
+            <cond device="tablet" device_size="large" keyboard_mode="normal" />
+            <cond enable_pk_simulator="true" enable_pk_simulator_setting="true" />
+        </any_of>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f17070c" />
+    </if>
+    <keyboard>
+        <view direction="locale" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e0516" type="header" />
+        <view type="body">
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170ba2" />
+        </view>
+    </keyboard>
+</framework>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.apps.inputmethod.libs.proactivesuggestion.ProactiveSuggestionsClippableHolderView android:layout_gravity="center_horizontal" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0748" android:layout_width="wrap_content" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.libraries.inputmethod.widgets.CopyImageView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b074d" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginHorizontal="@dimen/APKTOOL_DUMMYVAL_0x7f07086b" app:APKTOOL_DUMMYVAL_0x7f040551="@id/APKTOOL_DUMMYVAL_0x7f0b01e2" />
+    <ImageView android:layout_gravity="center|left" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b074a" android:layout_height="?APKTOOL_DUMMYVAL_0x7f040062" android:contentDescription="@null" android:layout_marginEnd="@dimen/APKTOOL_DUMMYVAL_0x7f07086b" style="@style/APKTOOL_DUMMYVAL_0x7f15051b" />
+    <ImageView android:layout_gravity="center|right" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b074b" android:layout_height="?APKTOOL_DUMMYVAL_0x7f040062" android:contentDescription="@null" android:layout_marginStart="@dimen/APKTOOL_DUMMYVAL_0x7f07086b" style="@style/APKTOOL_DUMMYVAL_0x7f15051b" />
+    <HorizontalScrollView android:layout_gravity="center_horizontal" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b074c" android:scrollbars="none" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginHorizontal="@dimen/APKTOOL_DUMMYVAL_0x7f07086b">
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0749" android:background="@drawable/APKTOOL_DUMMYVAL_0x7f0805cf" android:layout_width="wrap_content" android:layout_height="fill_parent" />
+    </HorizontalScrollView>
+</com.google.android.apps.inputmethod.libs.proactivesuggestion.ProactiveSuggestionsClippableHolderView>

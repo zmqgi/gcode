@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime announce_auto_selected_candidate="true" ascii_capable="true" auto_capital="true" class="com.google.android.apps.inputmethod.libs.latin5.LatinIme" display_app_completions="true" language="en-US" string_id="ime_english_united_states" supports_inline_suggestion="true">
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170768" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f1705f9" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f17076b" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f1705f9" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f17075d" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f1705f9" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f17075f" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f1705f9" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f17075e" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f1705f9" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170767" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f1705f9" />
+        <if enable_pk_simulator="true" enable_pk_simulator_setting="true">
+            <include force_show_number_row="true" href="@xml/APKTOOL_DUMMYVAL_0x7f170761" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f1705f9" main_def="@xml/APKTOOL_DUMMYVAL_0x7f170937" non_prime_def="@xml/APKTOOL_DUMMYVAL_0x7f1700e3" support_a11y_keyboard="true" variant="us_intl" />
+        </if>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f1700df" />
+    </ime>
+</framework>

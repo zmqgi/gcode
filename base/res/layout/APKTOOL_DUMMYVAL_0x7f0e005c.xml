@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0190" style="@style/APKTOOL_DUMMYVAL_0x7f1501fc"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0199" style="@style/APKTOOL_DUMMYVAL_0x7f150203">
+        <FrameLayout android:id="@id/APKTOOL_DUMMYVAL_0x7f0b019c" style="@style/APKTOOL_DUMMYVAL_0x7f150208">
+            <ImageView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b019b" style="@style/APKTOOL_DUMMYVAL_0x7f150206" />
+        </FrameLayout>
+        <ImageView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b019a" style="@style/APKTOOL_DUMMYVAL_0x7f150204" />
+        <com.google.android.libraries.inputmethod.widgets.TransformationTextView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0191" style="@style/APKTOOL_DUMMYVAL_0x7f150202" />
+    </LinearLayout>
+    <FrameLayout android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0198" android:visibility="gone" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:foreground="?android:selectableItemBackground">
+        <androidx.constraintlayout.widget.ConstraintLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ImageView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0196" app:APKTOOL_DUMMYVAL_0x7f040727="APKTOOL_DUMMYVAL_0x7f0b06f8" app:APKTOOL_DUMMYVAL_0x7f04072d="APKTOOL_DUMMYVAL_0x7f0b06f8" app:APKTOOL_DUMMYVAL_0x7f040741="APKTOOL_DUMMYVAL_0x7f0b06f8" app:APKTOOL_DUMMYVAL_0x7f040745="APKTOOL_DUMMYVAL_0x7f0b06f8" style="@style/APKTOOL_DUMMYVAL_0x7f150200" />
+            <ImageView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0197" app:APKTOOL_DUMMYVAL_0x7f040727="APKTOOL_DUMMYVAL_0x7f0b06f8" app:APKTOOL_DUMMYVAL_0x7f04072c="1:1" app:APKTOOL_DUMMYVAL_0x7f04072d="APKTOOL_DUMMYVAL_0x7f0b06f8" app:APKTOOL_DUMMYVAL_0x7f040741="APKTOOL_DUMMYVAL_0x7f0b06f8" app:APKTOOL_DUMMYVAL_0x7f040745="APKTOOL_DUMMYVAL_0x7f0b06f8" style="@style/APKTOOL_DUMMYVAL_0x7f150201" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </FrameLayout>
+    <FrameLayout android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0193" style="@style/APKTOOL_DUMMYVAL_0x7f1501fd">
+        <ImageView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0194" android:tag=".icon.clipboard-item-selector" android:src="@drawable/APKTOOL_DUMMYVAL_0x7f08061b" style="@style/APKTOOL_DUMMYVAL_0x7f1501ff" />
+        <include layout="@layout/APKTOOL_DUMMYVAL_0x7f0e005b" />
+        <CheckBox android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0192" style="@style/APKTOOL_DUMMYVAL_0x7f1501fe" />
+    </FrameLayout>
+</FrameLayout>

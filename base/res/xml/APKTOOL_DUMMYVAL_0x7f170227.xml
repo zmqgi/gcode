@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime announce_auto_selected_candidate="true" auto_capital="false" class="com.google.android.apps.inputmethod.libs.latin5.LatinIme" display_app_completions="true" language="gbm-IN" string_id="ime_garhwali_dynamic" use_ascii_password_keyboard="true">
+        <include dynamic_layout="garhwali" href="@xml/APKTOOL_DUMMYVAL_0x7f170760" main_def="@xml/APKTOOL_DUMMYVAL_0x7f17074e" variant="garhwali" variant_label="@string/APKTOOL_DUMMYVAL_0x7f1414c1" />
+        <extra_values>
+            <item id="@id/APKTOOL_DUMMYVAL_0x7f0b02d0" value="। " />
+        </extra_values>
+    </ime>
+</framework>

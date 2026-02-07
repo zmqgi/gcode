@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:clipToPadding="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="@dimen/APKTOOL_DUMMYVAL_0x7f0703e0" android:paddingHorizontal="@dimen/APKTOOL_DUMMYVAL_0x7f0703df"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/APKTOOL_DUMMYVAL_0x7f0e066b" />
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/APKTOOL_DUMMYVAL_0x7f0703dc" android:minHeight="@dimen/APKTOOL_DUMMYVAL_0x7f0703d9" android:layout_below="@id/APKTOOL_DUMMYVAL_0x7f0b0625" android:layout_alignLeft="@id/APKTOOL_DUMMYVAL_0x7f0b0625" android:layout_alignRight="@id/APKTOOL_DUMMYVAL_0x7f0b0625" android:importantForAccessibility="noHideDescendants">
+        <ImageView android:gravity="center" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0629" android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:foreground="@drawable/APKTOOL_DUMMYVAL_0x7f080565" android:src="@drawable/APKTOOL_DUMMYVAL_0x7f080566" />
+        <ImageView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0626" android:layout_width="@dimen/APKTOOL_DUMMYVAL_0x7f0703db" android:layout_height="@dimen/APKTOOL_DUMMYVAL_0x7f0703db" android:src="@drawable/APKTOOL_DUMMYVAL_0x7f080567" android:tint="@color/APKTOOL_DUMMYVAL_0x7f0606bb" android:layout_centerVertical="true" android:layout_marginStart="@dimen/APKTOOL_DUMMYVAL_0x7f0703da" />
+        <TextView android:textSize="@dimen/APKTOOL_DUMMYVAL_0x7f0703dd" android:textColor="@color/APKTOOL_DUMMYVAL_0x7f0606bb" android:ellipsize="marquee" android:gravity="start" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0627" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginRight="12.0dip" android:singleLine="true" android:layout_centerVertical="true" android:layout_toEndOf="@id/APKTOOL_DUMMYVAL_0x7f0b0626" />
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/APKTOOL_DUMMYVAL_0x7f1709b9" />
+    <include href="@xml/APKTOOL_DUMMYVAL_0x7f1709b7" />
+    <include href="@xml/APKTOOL_DUMMYVAL_0x7f1709bb" />
+    <key_mapping state="SHUANGPIN_MS_ZIGUANG">
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b080f" view_id="@id/key_pos_9key_1" />
+    </key_mapping>
+    <key_mapping state="SHIFT">
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0815" view_id="@id/key_pos_9key_1" />
+    </key_mapping>
+</framework>

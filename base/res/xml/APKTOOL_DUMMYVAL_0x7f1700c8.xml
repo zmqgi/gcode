@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dynamic_keys>
+    <key>
+        <action state="0" type="PRESS">ඓ</action>
+        <action state="0" type="LONG_PRESS">ෛ</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ං</action>
+        <action state="0" type="LONG_PRESS">ඃ</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ඊ</action>
+        <action state="0" type="LONG_PRESS">ී</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ඖ</action>
+        <action state="0" type="LONG_PRESS">ෞ</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">්‍ය</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">්</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ඉ</action>
+        <action state="0" type="LONG_PRESS">ි</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ඍ</action>
+        <action state="0" type="LONG_PRESS">ෘ</action>
+        <action state="0" type="LONG_PRESS">ඎ</action>
+        <action state="0" type="LONG_PRESS">ෲ</action>
+        <action state="0" type="LONG_PRESS">ඏ</action>
+        <action state="0" type="LONG_PRESS">ෟ</action>
+        <action state="0" type="LONG_PRESS">ඐ</action>
+        <action state="0" type="LONG_PRESS">ෳ</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">්‍ර</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ඌ</action>
+        <action state="0" type="LONG_PRESS">ූ</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ආ</action>
+        <action state="0" type="LONG_PRESS">ා</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ඈ</action>
+        <action state="0" type="LONG_PRESS">ෑ</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">එ</action>
+        <action state="0" type="LONG_PRESS">ෙ</action>
+        <action state="0" type="LONG_PRESS">ඒ</action>
+        <action state="0" type="LONG_PRESS">ේ</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">උ</action>
+        <action state="0" type="LONG_PRESS">‌ු</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">අ</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ඇ</action>
+        <action state="0" type="LONG_PRESS">ැ</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ඔ</action>
+        <action state="0" type="LONG_PRESS">ො</action>
+        <action state="0" type="LONG_PRESS">ඕ</action>
+        <action state="0" type="LONG_PRESS">ෝ</action>
+    </key>
+</dynamic_keys>

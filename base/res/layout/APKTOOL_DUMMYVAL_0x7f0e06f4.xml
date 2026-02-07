@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout style="@style/APKTOOL_DUMMYVAL_0x7f150355"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0160" style="@style/APKTOOL_DUMMYVAL_0x7f150753" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.google.android.apps.inputmethod.libs.japanese.keyboard.widget.HorizontalCompressionTextView android:layout_gravity="center" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b05fa" android:layout_width="0.0dip" android:singleLine="true" android:layout_weight="1.0" app:APKTOOL_DUMMYVAL_0x7f040a2b="ja-JP" style="@style/APKTOOL_DUMMYVAL_0x7f1503a4" />
+        <TextView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b05fc" app:APKTOOL_DUMMYVAL_0x7f040a2b="ja-JP" style="@style/APKTOOL_DUMMYVAL_0x7f1503ea" />
+    </LinearLayout>
+</FrameLayout>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.widgets.SoftKeyboardView style="@style/APKTOOL_DUMMYVAL_0x7f1502f7"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.libraries.inputmethod.widgets.scaledkeyboard.ScaledKeyboardViewInner style="@style/APKTOOL_DUMMYVAL_0x7f1502fe">
+        <include layout="@layout/APKTOOL_DUMMYVAL_0x7f0e01ff" />
+        <include layout="@layout/APKTOOL_DUMMYVAL_0x7f0e020a" />
+        <include layout="@layout/APKTOOL_DUMMYVAL_0x7f0e0202" />
+        <LinearLayout app:APKTOOL_DUMMYVAL_0x7f040727="APKTOOL_DUMMYVAL_0x7f0b06f8" app:APKTOOL_DUMMYVAL_0x7f04072e="@id/key_pos_header_end_extra_key" app:APKTOOL_DUMMYVAL_0x7f040740="@id/key_pos_header_start_extra_key" app:APKTOOL_DUMMYVAL_0x7f040745="APKTOOL_DUMMYVAL_0x7f0b06f8" style="@style/APKTOOL_DUMMYVAL_0x7f1502ff">
+            <com.google.android.libraries.inputmethod.widgets.ManagedFrameLayout style="@style/APKTOOL_DUMMYVAL_0x7f150787">
+                <include layout="@layout/APKTOOL_DUMMYVAL_0x7f0e0200" />
+                <include layout="@layout/APKTOOL_DUMMYVAL_0x7f0e0659" />
+                <include layout="@layout/APKTOOL_DUMMYVAL_0x7f0e0205" />
+                <include layout="@layout/APKTOOL_DUMMYVAL_0x7f0e0642" />
+                <include layout="@layout/APKTOOL_DUMMYVAL_0x7f0e07b6" />
+                <include layout="@layout/APKTOOL_DUMMYVAL_0x7f0e0648" />
+            </com.google.android.libraries.inputmethod.widgets.ManagedFrameLayout>
+            <include layout="@layout/APKTOOL_DUMMYVAL_0x7f0e0209" />
+        </LinearLayout>
+        <include layout="@layout/APKTOOL_DUMMYVAL_0x7f0e0203" />
+        <include layout="@layout/APKTOOL_DUMMYVAL_0x7f0e0206" />
+        <include layout="@attr/APKTOOL_DUMMYVAL_0x7f04000b" />
+    </com.google.android.libraries.inputmethod.widgets.scaledkeyboard.ScaledKeyboardViewInner>
+</com.google.android.libraries.inputmethod.widgets.SoftKeyboardView>

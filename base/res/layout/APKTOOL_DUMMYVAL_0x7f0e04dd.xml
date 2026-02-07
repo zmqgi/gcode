@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.widgets.SoftKeyboardView style="@style/APKTOOL_DUMMYVAL_0x7f1501db">
+    <LinearLayout style="@style/APKTOOL_DUMMYVAL_0x7f1501e9">
+        <include layout="@layout/APKTOOL_DUMMYVAL_0x7f0e04de" />
+        <include layout="@layout/APKTOOL_DUMMYVAL_0x7f0e04c5" />
+    </LinearLayout>
+    <include layout="@layout/APKTOOL_DUMMYVAL_0x7f0e0187" />
+</com.google.android.libraries.inputmethod.widgets.SoftKeyboardView>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">%s সঘনাই ব্যৱহাৰ কৰে নেকি? সেইসমূহে এতিয়া সেইসমূহ এক্সেছ কৰাটো সহজ কৰি তুলিব।</item>
+        <item quantity="one">%s সঘনাই ব্যৱহাৰ কৰে নেকি? সেইসমূহে এতিয়া সেইসমূহ এক্সেছ কৰাটো সহজ কৰি তুলিব।</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">%d টা কী আৱন্টন কৰা হৈছে</item>
+        <item quantity="one">%d টা কী আৱন্টন কৰা হৈছে</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">%s এতিয়া ইনষ্টল কৰা হৈছে।</item>
+        <item quantity="one">%s এতিয়া ইনষ্টল কৰা হৈছে।</item>
+    </plurals>
+</resources>

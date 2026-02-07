@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard>
+        <view type="body">
+            <softkeys href="@xml/APKTOOL_DUMMYVAL_0x7f170d43" />
+            <if device="tablet" device_size="large" keyboard_mode="normal">
+                <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b8e" />
+            </if>
+            <else_if enable_number_row="true">
+                <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b70" />
+            </else_if>
+            <else>
+                <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b85" />
+            </else>
+        </view>
+    </keyboard>
+</framework>

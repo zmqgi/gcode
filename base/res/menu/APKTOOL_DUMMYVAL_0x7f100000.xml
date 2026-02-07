@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@drawable/APKTOOL_DUMMYVAL_0x7f0804f1" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b07a5" android:title="@string/APKTOOL_DUMMYVAL_0x7f140b4e" app:APKTOOL_DUMMYVAL_0x7f0403a4="android.support.v7.widget.SearchView" app:APKTOOL_DUMMYVAL_0x7f040933="APKTOOL_DUMMYVAL_0x7f0b010a|APKTOOL_DUMMYVAL_0x7f0b01c2" />
+</menu>

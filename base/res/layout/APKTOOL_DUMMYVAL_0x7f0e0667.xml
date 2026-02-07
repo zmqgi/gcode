@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:padding="?APKTOOL_DUMMYVAL_0x7f04058b" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.google.android.material.textview.MaterialTextView android:textAppearance="?APKTOOL_DUMMYVAL_0x7f0409e1" android:textColor="?APKTOOL_DUMMYVAL_0x7f0404e4" android:gravity="center" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b065d" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/APKTOOL_DUMMYVAL_0x7f140bad" />
+        <com.google.android.material.textview.MaterialTextView android:textAppearance="?APKTOOL_DUMMYVAL_0x7f0409e1" android:textColor="?APKTOOL_DUMMYVAL_0x7f0404e4" android:gravity="center" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0162" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="12.0dip" android:layout_marginBottom="12.0dip" />
+        <com.google.android.material.textfield.TextInputEditText android:gravity="center_horizontal" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b03d4" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/APKTOOL_DUMMYVAL_0x7f140223" android:inputType="number" android:importantForAutofill="no" />
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout style="@style/APKTOOL_DUMMYVAL_0x7f150355"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0160" style="@style/APKTOOL_DUMMYVAL_0x7f150753" />
+    <com.google.android.libraries.inputmethod.widgets.AutoCenterScaleTextView android:textStyle="bold" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b05fa" app:APKTOOL_DUMMYVAL_0x7f0408ff="APKTOOL_DUMMYVAL_0x7f0b0792" style="@style/APKTOOL_DUMMYVAL_0x7f1503a7" />
+    <TextView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b05fe" style="@style/APKTOOL_DUMMYVAL_0x7f1503ee" />
+    <TextView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b05fd" style="@style/APKTOOL_DUMMYVAL_0x7f1503eb" />
+</FrameLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="center" android:orientation="horizontal" android:paddingBottom="?APKTOOL_DUMMYVAL_0x7f04058b" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="11.0dip" android:paddingStart="?APKTOOL_DUMMYVAL_0x7f04058b" android:paddingEnd="?APKTOOL_DUMMYVAL_0x7f04058b"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:finsky="http://schemas.android.com/apk/res-auto">
+    <Button android:id="@id/APKTOOL_DUMMYVAL_0x7f0b01e9" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/APKTOOL_DUMMYVAL_0x7f14023a" android:layout_weight="0.5" style="?APKTOOL_DUMMYVAL_0x7f0407e1" />
+    <Button android:id="@id/APKTOOL_DUMMYVAL_0x7f0b01ea" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/APKTOOL_DUMMYVAL_0x7f14023b" android:layout_weight="0.5" finsky:APKTOOL_DUMMYVAL_0x7f0406ac="@drawable/APKTOOL_DUMMYVAL_0x7f08060c" finsky:APKTOOL_DUMMYVAL_0x7f0406b0="APKTOOL_DUMMYVAL_0x7f0b2494" finsky:APKTOOL_DUMMYVAL_0x7f0406b2="8.0dip" style="?APKTOOL_DUMMYVAL_0x7f0407e1" />
+</LinearLayout>

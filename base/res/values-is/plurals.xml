@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">Notarðu %s oft? Þau eru komin hingað til að það sé auðveldara að nálgast þau.</item>
+        <item quantity="one">Notarðu %s oft? Þau eru komin hingað til að það sé auðveldara að nálgast þau.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">%d lyklum úthlutað</item>
+        <item quantity="one">%d lykli úthlutað</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">Uppsetningu lokið fyrir: %s.</item>
+        <item quantity="one">Uppsetningu lokið fyrir: %s.</item>
+    </plurals>
+</resources>

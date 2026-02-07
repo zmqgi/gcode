@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/APKTOOL_DUMMYVAL_0x7f170a85" />
+    <key_mapping>
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1f5b" view_id="@id/A52" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1ce8" view_id="@id/A51" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1005" view_id="@id/A53" />
+    </key_mapping>
+    <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b9a" />
+    <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b9c" />
+    <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b9d" />
+    <include href="@xml/APKTOOL_DUMMYVAL_0x7f170a88" />
+    <include href="@xml/APKTOOL_DUMMYVAL_0x7f170a87" />
+</framework>

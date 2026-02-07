@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">ಆಗಾಗ್ಗೆ %s ಅನ್ನು ಬಳಸುವುದೇ? ಅವುಗಳನ್ನು ಸುಲಭವಾಗಿ ಆ್ಯಕ್ಸೆಸ್ ಮಾಡಲು ಅವರು ಈಗ ಇಲ್ಲಿದ್ದಾರೆ.</item>
+        <item quantity="one">ಆಗಾಗ್ಗೆ %s ಅನ್ನು ಬಳಸುವುದೇ? ಅವುಗಳನ್ನು ಸುಲಭವಾಗಿ ಆ್ಯಕ್ಸೆಸ್ ಮಾಡಲು ಅವರು ಈಗ ಇಲ್ಲಿದ್ದಾರೆ.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">%d ಕೀಗಳನ್ನು ನಿಯೋಜಿಸಲಾಗಿದೆ</item>
+        <item quantity="one">%d ಕೀಗಳನ್ನು ನಿಯೋಜಿಸಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">%s ಗಳನ್ನು ಇದೀಗ ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಲಾಗಿದೆ.</item>
+        <item quantity="one">%s ಗಳನ್ನು ಇದೀಗ ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಲಾಗಿದೆ.</item>
+    </plurals>
+</resources>

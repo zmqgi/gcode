@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dynamic_keys>
+    <key>
+        <action state="0" type="PRESS">ஒ</action>
+        <action state="0" type="LONG_PRESS">ொ</action>
+        <action state="0" type="LONG_PRESS">ௐ</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ஓ</action>
+        <action state="0" type="LONG_PRESS">ோ</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ஔ</action>
+        <action state="0" type="LONG_PRESS">ௌ</action>
+        <action state="0" type="LONG_PRESS">ௗ</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">எ</action>
+        <action state="0" type="LONG_PRESS">ெ</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ஏ</action>
+        <action state="0" type="LONG_PRESS">ே</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ஐ</action>
+        <action state="0" type="LONG_PRESS">ை</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ஈ</action>
+        <action state="0" type="LONG_PRESS">ீ</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">உ</action>
+        <action state="0" type="LONG_PRESS">ு</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ஊ</action>
+        <action state="0" type="LONG_PRESS">ூ</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">அ</action>
+        <action state="0" type="LONG_PRESS">்‌‌‌</action>
+        <action state="0" type="LONG_PRESS">ஂ</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ஆ</action>
+        <action state="0" type="LONG_PRESS">ா</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">இ</action>
+        <action state="0" type="LONG_PRESS">ி</action>
+    </key>
+</dynamic_keys>

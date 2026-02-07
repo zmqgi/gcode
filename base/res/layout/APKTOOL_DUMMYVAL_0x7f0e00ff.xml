@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.widgets.SoftKeyboardView android:tag=".keyboard-body-area" android:background="@color/APKTOOL_DUMMYVAL_0x7f060667" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="0.0dip" android:paddingEnd="0.0dip" app:APKTOOL_DUMMYVAL_0x7f0406bd="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:layout_gravity="bottom" android:orientation="vertical" android:tag=".divider.horizontal.for-fast-access-bar" android:background="@drawable/APKTOOL_DUMMYVAL_0x7f080322" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ViewStub android:id="@id/APKTOOL_DUMMYVAL_0x7f0b02fd" android:layout="@layout/APKTOOL_DUMMYVAL_0x7f0e00fa" android:layout_width="fill_parent" android:layout_height="@dimen/APKTOOL_DUMMYVAL_0x7f0701a4" />
+        <RelativeLayout android:id="@id/APKTOOL_DUMMYVAL_0x7f0b02ff" android:tag=".non-linear-scale" android:layout_width="fill_parent" android:layout_height="@dimen/APKTOOL_DUMMYVAL_0x7f07019e">
+            <com.google.android.libraries.inputmethod.recyclerview.BindingRecyclerView android:scrollbarStyle="outsideOverlay" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b02fb" android:scrollbars="none" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginStart="-3.0dip" android:layout_marginEnd="-7.0dip" />
+        </RelativeLayout>
+    </LinearLayout>
+</com.google.android.libraries.inputmethod.widgets.SoftKeyboardView>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/APKTOOL_DUMMYVAL_0x7f170d33" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/APKTOOL_DUMMYVAL_0x7f0b21ad">
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b0dae" press_data="е" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b0d58" press_data="Е" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b0da3" press_data="г" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b0d4d" press_data="Г" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b0da8" press_data="х" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b0d52" press_data="Х" />
+        </softkey_list>
+    </softkeys>
+</framework>

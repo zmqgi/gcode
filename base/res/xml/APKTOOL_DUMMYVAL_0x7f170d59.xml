@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey alpha="@attr/APKTOOL_DUMMYVAL_0x7f040174" content_description="@string/APKTOOL_DUMMYVAL_0x7f140d18" id="@id/APKTOOL_DUMMYVAL_0x7f0b2005" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e06b9" multi_touch="true">
+            <action action_on_down="true" data="SUB_CATEGORY_1" keycode="SWITCH_SUB_CATEGORY" type="PRESS" />
+            <icon location="@id/APKTOOL_DUMMYVAL_0x7f0b03a3" value="@null" />
+            <label location="@id/APKTOOL_DUMMYVAL_0x7f0b05fa" value="" />
+        </softkey>
+        <softkey alpha="@attr/APKTOOL_DUMMYVAL_0x7f040174" content_description="@string/APKTOOL_DUMMYVAL_0x7f140d1c" id="@id/APKTOOL_DUMMYVAL_0x7f0b1ba2" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e06b9" multi_touch="true">
+            <action action_on_down="true" data="NORMAL" keycode="SWITCH_SUB_CATEGORY" type="PRESS" />
+            <icon location="@id/APKTOOL_DUMMYVAL_0x7f0b03a3" value="@null" />
+            <label location="@id/APKTOOL_DUMMYVAL_0x7f0b05fa" value="" />
+        </softkey>
+        <softkey_template id="@id/APKTOOL_DUMMYVAL_0x7f0b21c0">
+            <label location="@id/APKTOOL_DUMMYVAL_0x7f0b05fa" value="$param_label$" />
+            <icon location="@id/APKTOOL_DUMMYVAL_0x7f0b03a3" value="" />
+        </softkey_template>
+        <softkey_template id="@id/APKTOOL_DUMMYVAL_0x7f0b21a4">
+            <label location="@id/APKTOOL_DUMMYVAL_0x7f0b05fa" value="$param_label$" />
+            <icon location="@id/APKTOOL_DUMMYVAL_0x7f0b03a3" value="" />
+        </softkey_template>
+        <softkey_list template_id="@id/APKTOOL_DUMMYVAL_0x7f0b21c0">
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b10f3" param_label="◌̥◌ʰ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b12a6" param_label="༼  ༽" />
+        </softkey_list>
+        <softkey_list template_id="@id/APKTOOL_DUMMYVAL_0x7f0b21a4">
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b107d" param_label="U+1E953U+1E952U+1E951U+061F" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b107f" param_label="٣٢١؟" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1081" param_label="123؟" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1083" param_label="᭗᭘᭙" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1085" param_label="꛷ꛦꛧꛨ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1088" param_label="\?১২৩" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b10cf" param_label="𑅃𑄷𑄸𑄹" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b10d0" param_label="\?꩑꩒꩓" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b10e2" param_label="\?፩፪፫" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b10e8" param_label="\?૧૨૩" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b10ea" param_label="\?੧੨੩" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b10ef" param_label="\?१२३" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b10f6" param_label="ꧏ꧐꧑" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b10f9" param_label="\?೧೨೩" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b10fb" param_label="\?꤁꤂꤃" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1101" param_label="\?᱁᱂᱃" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1103" param_label="᥅᥇᥈᥉" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1107" param_label="\?꯱꯲꯳" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b110b" param_label="\?၁၂၃" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b110d" param_label="\?႑႒႓" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b110f" param_label="？᧑᧒᧓" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1111" param_label="߃߂߁؟" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1113" param_label="\?୧୨୩" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1115" param_label="\?᱑᱒᱓" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1143" param_label="۳۲۱؟" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b114a" param_label="\?꣑꣒꣓" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b114d" param_label="\?᮱᮲᮳" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b12a5" param_label="༡༢༣" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b10f2" param_label="/ [ {" />
+        </softkey_list>
+    </softkeys>
+</framework>

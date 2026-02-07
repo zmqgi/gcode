@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.apps.inputmethod.libs.expression.emojiview.EmojiView android:textSize="@dimen/APKTOOL_DUMMYVAL_0x7f0709c8" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b05fa" android:layout_width="fill_parent" android:layout_height="fill_parent" app:APKTOOL_DUMMYVAL_0x7f04081c="@dimen/APKTOOL_DUMMYVAL_0x7f0709c9" style="@style/APKTOOL_DUMMYVAL_0x7f1503b1" xmlns:app="http://schemas.android.com/apk/res-auto" />
+    <include layout="@layout/APKTOOL_DUMMYVAL_0x7f0e07ad" />
+</merge>

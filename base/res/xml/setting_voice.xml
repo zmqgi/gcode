@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/APKTOOL_DUMMYVAL_0x7f140cf3" android:key="@string/APKTOOL_DUMMYVAL_0x7f140ac1"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.libraries.inputmethod.preferencewidgets.ColoredBackgroundSwitchPreference android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140be9" android:key="@string/APKTOOL_DUMMYVAL_0x7f140973" />
+    <com.google.android.libraries.inputmethod.preferencewidgets.LinkableSwitchPreference android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140bdc" android:key="@string/APKTOOL_DUMMYVAL_0x7f140958" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140850" android:dependency="@string/APKTOOL_DUMMYVAL_0x7f140973" />
+    <com.google.android.libraries.inputmethod.preferencewidgets.LinkableSwitchPreference android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140bc8" android:key="@string/APKTOOL_DUMMYVAL_0x7f140942" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140bef" android:dependency="@string/APKTOOL_DUMMYVAL_0x7f140973">
+        <extra android:name="hide_if_flag_is_false" android:value="enable_nga=false" />
+    </com.google.android.libraries.inputmethod.preferencewidgets.LinkableSwitchPreference>
+    <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140bc9" android:key="@string/APKTOOL_DUMMYVAL_0x7f140943" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140bea" android:dependency="@string/APKTOOL_DUMMYVAL_0x7f140942">
+        <extra android:name="hide_if_flag_is_false" android:value="enable_nga=false" />
+    </SwitchPreferenceCompat>
+    <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140bca" android:key="@string/APKTOOL_DUMMYVAL_0x7f140944" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140bec" android:dependency="@string/APKTOOL_DUMMYVAL_0x7f140942">
+        <extra android:name="hide_if_flag_is_false" android:value="enable_nga=false" />
+    </SwitchPreferenceCompat>
+    <Preference android:persistent="false" android:title="@string/APKTOOL_DUMMYVAL_0x7f140b7d" android:key="@string/APKTOOL_DUMMYVAL_0x7f140ac3" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140b7e" android:dependency="@string/APKTOOL_DUMMYVAL_0x7f140973">
+        <extra android:name="hide_if_flag_is_true" android:value="hide_offline_speech_recognition=false" />
+    </Preference>
+    <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140cb2" android:key="@string/APKTOOL_DUMMYVAL_0x7f140ac6" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140cb1">
+        <extra android:name="hide_if_flag_is_false" android:value="@string/APKTOOL_DUMMYVAL_0x7f140382" />
+        <extra android:name="toolbar_type" android:value="voice" />
+    </SwitchPreferenceCompat>
+    <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140bd3" android:key="@string/APKTOOL_DUMMYVAL_0x7f14094c" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140bd2" android:dependency="@string/APKTOOL_DUMMYVAL_0x7f140973">
+        <extra android:name="hide_if_flag_is_false" android:value="@string/APKTOOL_DUMMYVAL_0x7f14036a" />
+    </SwitchPreferenceCompat>
+</PreferenceScreen>

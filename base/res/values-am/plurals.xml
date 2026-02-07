@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">አብዛኛውን ጊዜ %s እየተጠቀሙ ነው? ለመድረስ ቀላል ለማድረግ አሁን እዚህ አሉ።</item>
+        <item quantity="one">አብዛኛውን ጊዜ %s እየተጠቀሙ ነው? ለመድረስ ቀላል ለማድረግ አሁን እዚህ አለ።</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">%d ቁልፎች ተመድበዋል</item>
+        <item quantity="one">%d ቁልፎች ተመድበዋል</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">%s አሁን ተጭነዋል።</item>
+        <item quantity="one">%s አሁን ተጭኗል።</item>
+    </plurals>
+</resources>

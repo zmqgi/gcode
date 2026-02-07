@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:tag=".keytop.for-modifier-key.for-modifier-active" style="@style/APKTOOL_DUMMYVAL_0x7f15035a"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.libraries.inputmethod.widgets.NonLinearScaleImageView android:tag=".background-icon.for-modifier-key.for-modifier-active.non-linear-scale" style="@style/APKTOOL_DUMMYVAL_0x7f15031b" />
+    <com.google.android.libraries.inputmethod.widgets.AutoCenterScaleTextView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b05fa" app:APKTOOL_DUMMYVAL_0x7f0408ff="APKTOOL_DUMMYVAL_0x7f0b0792" style="@style/APKTOOL_DUMMYVAL_0x7f1503bb" />
+</FrameLayout>

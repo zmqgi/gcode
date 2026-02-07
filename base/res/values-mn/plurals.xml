@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">%s-г тогтмол ашиглаж байна уу? Эдгээр нь одоо хандахад хялбар болгохоор энд байна.</item>
+        <item quantity="one">%s-г тогтмол ашиглаж байна уу? Энэ нь одоо хандахад хялбар болгохоор энд байна.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">%d товчлуур оноосон</item>
+        <item quantity="one">%d товчлуур оноосон</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">%s-г одоо суулгасан.</item>
+        <item quantity="one">%s-г одоо суулгасан.</item>
+    </plurals>
+</resources>

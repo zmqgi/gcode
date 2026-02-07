@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard>
+        <if enable_pk_simulator="true" enable_pk_simulator_setting="true">
+            <view layout="@layout/APKTOOL_DUMMYVAL_0x7f0e04c0" type="body" />
+        </if>
+        <else_if device="tablet" device_size="large" keyboard_mode="normal">
+            <view layout="@layout/APKTOOL_DUMMYVAL_0x7f0e0372" type="body" />
+        </else_if>
+        <else_if keyboard_mode="split">
+            <if split_with_duplicate_keys="true">
+                <view layout="@layout/APKTOOL_DUMMYVAL_0x7f0e037f" type="body" />
+            </if>
+            <else>
+                <view layout="@layout/APKTOOL_DUMMYVAL_0x7f0e0380" type="body" />
+            </else>
+        </else_if>
+        <else>
+            <view layout="@layout/APKTOOL_DUMMYVAL_0x7f0e037e" type="body" />
+        </else>
+        <view override="motion_event_handler" type="body">
+            <motion_event_handler class=".motioneventhandler.SpatialModelMotionEventHandler" />
+            <motion_event_handler class=".inlinesuggestion.InlineSuggestionScrubSpaceMotionEventHandler" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170d01" />
+            <if language="zh-CN">
+                <motion_event_handler class="com.google.android.apps.inputmethod.libs.pinyin.PinyinGestureHandler" preference_key="@string/APKTOOL_DUMMYVAL_0x7f14094b" reverse_preference="false" />
+                <motion_event_handler class="com.google.android.apps.inputmethod.libs.pinyin.PinyinKeyboardLayoutHandler" preference_key="@string/APKTOOL_DUMMYVAL_0x7f14094b" reverse_preference="false" />
+            </if>
+            <if language="zh-TW">
+                <motion_event_handler class="com.google.android.apps.inputmethod.libs.zhuyin.ZhuyinGestureHandler" preference_key="@string/APKTOOL_DUMMYVAL_0x7f14094b" reverse_preference="false" />
+                <motion_event_handler class="com.google.android.apps.inputmethod.libs.zhuyin.PinyinKeyboardLayoutHandler" preference_key="@string/APKTOOL_DUMMYVAL_0x7f14094b" reverse_preference="false" />
+            </if>
+            <if enable_pk_simulator="true" enable_pk_simulator_setting="true">
+                <softkeys href="@xml/APKTOOL_DUMMYVAL_0x7f17105f" />
+                <softkeys href="@xml/APKTOOL_DUMMYVAL_0x7f170f10" />
+                <softkeys href="@xml/APKTOOL_DUMMYVAL_0x7f170e32" />
+            </if>
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170c75" />
+            <if enable_pk_simulator="true" enable_pk_simulator_setting="true">
+                <include href="@xml/APKTOOL_DUMMYVAL_0x7f170aaf" />
+                <include href="@xml/APKTOOL_DUMMYVAL_0x7f170c5d" />
+                <include href="@xml/APKTOOL_DUMMYVAL_0x7f170c3c" />
+            </if>
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b6b" />
+        </view>
+    </keyboard>
+</framework>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.widgets.SoftKeyboardView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0354" style="@style/APKTOOL_DUMMYVAL_0x7f1501df"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.coordinatorlayout.widget.CoordinatorLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <FrameLayout android:tag=".bg.expression-keyboard-background" android:background="?APKTOOL_DUMMYVAL_0x7f040113" android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingHorizontal="?APKTOOL_DUMMYVAL_0x7f040115">
+            <LinearLayout android:layout_marginBottom="@dimen/APKTOOL_DUMMYVAL_0x7f07018c" app:APKTOOL_DUMMYVAL_0x7f04071d="@string/APKTOOL_DUMMYVAL_0x7f140b23" style="@style/APKTOOL_DUMMYVAL_0x7f1502b9">
+                <FrameLayout android:id="@id/animated_image_holder_view_container" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                    <com.google.android.apps.inputmethod.libs.search.widget.CategoryViewPager android:id="@id/expression_view_pager" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                    <ProgressBar android:layout_gravity="center" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0114" android:tag=".progress-bar" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:indeterminate="true" />
+                </FrameLayout>
+            </LinearLayout>
+        </FrameLayout>
+        <include layout="@layout/APKTOOL_DUMMYVAL_0x7f0e01d2" />
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+</com.google.android.libraries.inputmethod.widgets.SoftKeyboardView>

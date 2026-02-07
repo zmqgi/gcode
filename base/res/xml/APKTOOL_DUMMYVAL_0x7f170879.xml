@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class=".keyboard.impl.Keyboard" popup="@attr/APKTOOL_DUMMYVAL_0x7f04029c" />
+    <include href="@xml/APKTOOL_DUMMYVAL_0x7f170933" />
+    <if device="tablet" device_size="large" keyboard_mode="normal">
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170882" />
+    </if>
+    <else>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170881" />
+    </else>
+</framework>

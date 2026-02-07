@@ -1,0 +1,7 @@
+.class public interface abstract Lori;
+.super Ljava/lang/Object;
+.source "PG"
+
+# interfaces
+.implements Lnip;
+.implements Lnky;

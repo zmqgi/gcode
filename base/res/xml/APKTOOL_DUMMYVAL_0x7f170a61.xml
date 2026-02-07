@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <if split_keyboard_handedness_ja="right|left">
+        <key_mapping state="EMOJI_AVAILABLE">
+            <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b15b2" view_id="@id/key_pos_switch_to_symbol" />
+        </key_mapping>
+        <if expressions="policy_transparency">
+            <key_mapping>
+                <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1fb4" view_id="@id/key_pos_switch_to_smiley" />
+                <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b15b0" view_id="@id/key_pos_switch_to_emoticon" />
+            </key_mapping>
+        </if>
+        <else_if expressions="hidden">
+            <key_mapping>
+                <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0fc5" view_id="@id/key_pos_switch_to_smiley" />
+                <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0fc5" view_id="@id/key_pos_switch_to_emoticon" />
+                <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b15b4" view_id="@id/key_pos_switch_to_symbol" />
+            </key_mapping>
+        </else_if>
+        <else>
+            <key_mapping>
+                <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1fb3" view_id="@id/key_pos_switch_to_smiley" />
+                <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b15af" view_id="@id/key_pos_switch_to_emoticon" />
+            </key_mapping>
+            <key_mapping state="EMOJI_AVAILABLE">
+                <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1fb0" view_id="@id/key_pos_switch_to_smiley" />
+                <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b15ae" view_id="@id/key_pos_switch_to_emoticon" />
+            </key_mapping>
+        </else>
+    </if>
+</framework>

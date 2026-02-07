@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="dimen" name="APKTOOL_DUMMYVAL_0x7f07014a">0.4</item>
+    <dimen name="APKTOOL_DUMMYVAL_0x7f07032a">24.0dip</dimen>
+    <dimen name="APKTOOL_DUMMYVAL_0x7f07032b">0.0dip</dimen>
+    <dimen name="APKTOOL_DUMMYVAL_0x7f07032c">0.0dip</dimen>
+    <dimen name="APKTOOL_DUMMYVAL_0x7f07032d">8.0dip</dimen>
+</resources>

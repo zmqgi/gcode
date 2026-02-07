@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:gravity="center" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b254d" android:paddingTop="@dimen/APKTOOL_DUMMYVAL_0x7f070a4d" android:layout_width="@dimen/APKTOOL_DUMMYVAL_0x7f070a4c" android:layout_height="@dimen/APKTOOL_DUMMYVAL_0x7f070a4c"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/APKTOOL_DUMMYVAL_0x7f0b254e" android:contentDescription="@string/APKTOOL_DUMMYVAL_0x7f1401a5" android:layout_marginStart="4.0dip" android:layout_marginEnd="4.0dip" style="@style/APKTOOL_DUMMYVAL_0x7f15023c">
+        <ImageView android:src="@drawable/APKTOOL_DUMMYVAL_0x7f0805ed" style="@style/APKTOOL_DUMMYVAL_0x7f15023a" />
+    </FrameLayout>
+</FrameLayout>

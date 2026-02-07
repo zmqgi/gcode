@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b24b7" android:background="@color/APKTOOL_DUMMYVAL_0x7f060c5a" android:layout_width="fill_parent" android:layout_height="fill_parent" android:contentDescription="@string/APKTOOL_DUMMYVAL_0x7f141188"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <TextView android:layout_marginBottom="64.0dip" android:text="@string/APKTOOL_DUMMYVAL_0x7f141188" style="@style/APKTOOL_DUMMYVAL_0x7f150aae" />
+        <LinearLayout android:layout_gravity="bottom|center" android:orientation="horizontal" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b24ac" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <FrameLayout android:layout_width="0.0dip" android:layout_height="48.0dip" android:layout_weight="1.0">
+                <SeekBar android:theme="@android:style/ThemeOverlay.Material.Dark" android:layout_gravity="start|center" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b24ab" android:layout_width="fill_parent" android:layout_height="wrap_content" android:contentDescription="@string/APKTOOL_DUMMYVAL_0x7f141188" />
+            </FrameLayout>
+            <com.google.android.libraries.inputmethod.widgets.AutoCenterScaleTextView android:textSize="15.0sp" android:textColor="@android:color/white" android:gravity="end" android:layout_gravity="end|center" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b24ad" android:layout_width="38.0dip" android:layout_height="wrap_content" android:layout_marginEnd="12.0dip" app:APKTOOL_DUMMYVAL_0x7f0408ff="APKTOOL_DUMMYVAL_0x7f0b0792" />
+        </LinearLayout>
+    </FrameLayout>
+    <com.google.android.material.card.MaterialCardView android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" app:APKTOOL_DUMMYVAL_0x7f040453="@android:color/transparent" app:APKTOOL_DUMMYVAL_0x7f040992="0.0dip">
+        <ImageView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b24ae" android:layout_width="0.0dip" android:layout_height="0.0dip" android:scaleType="matrix" android:importantForAccessibility="no" />
+        <View android:layout_gravity="top" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b24b1" android:background="@android:color/black" android:layout_width="0.0dip" android:layout_height="0.0dip" />
+        <View android:layout_gravity="bottom" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b24af" android:background="@android:color/black" android:layout_width="0.0dip" android:layout_height="0.0dip" />
+        <ImageView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b24b0" android:layout_width="0.0dip" android:layout_height="0.0dip" android:scaleType="fitCenter" android:importantForAccessibility="no" />
+    </com.google.android.material.card.MaterialCardView>
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <Button android:id="@id/APKTOOL_DUMMYVAL_0x7f0b24b2" android:text="@string/APKTOOL_DUMMYVAL_0x7f1404f0" style="@style/APKTOOL_DUMMYVAL_0x7f150aac" />
+    </FrameLayout>
+</LinearLayout>

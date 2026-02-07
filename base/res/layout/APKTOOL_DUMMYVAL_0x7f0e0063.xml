@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fadeScrollbars="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b01b6" android:layout_marginTop="2.0dip" android:layout_marginBottom="4.0dip" android:layout_marginStart="?APKTOOL_DUMMYVAL_0x7f04007b" android:layout_marginEnd="?APKTOOL_DUMMYVAL_0x7f04007b" android:elevation="2.0dip" style="@style/APKTOOL_DUMMYVAL_0x7f150220">
+        <include layout="@layout/APKTOOL_DUMMYVAL_0x7f0e0067" />
+        <com.google.android.libraries.inputmethod.widgets.LinkableTextView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b01b7" android:tag="?APKTOOL_DUMMYVAL_0x7f040071" android:text="@string/APKTOOL_DUMMYVAL_0x7f140198" style="@style/APKTOOL_DUMMYVAL_0x7f15021c" />
+        <include layout="@attr/APKTOOL_DUMMYVAL_0x7f04006f" />
+    </LinearLayout>
+</ScrollView>

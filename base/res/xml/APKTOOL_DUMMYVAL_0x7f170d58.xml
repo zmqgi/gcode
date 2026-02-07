@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey content_description="@string/APKTOOL_DUMMYVAL_0x7f140d72" id="@id/APKTOOL_DUMMYVAL_0x7f0b1f5e" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e073e" long_press_delay="500">
+            <action data=" " keycode="SPACE" type="PRESS" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170d31" />
+            <label location="@id/APKTOOL_DUMMYVAL_0x7f0b05fa" value=" " />
+        </softkey>
+    </softkeys>
+</framework>

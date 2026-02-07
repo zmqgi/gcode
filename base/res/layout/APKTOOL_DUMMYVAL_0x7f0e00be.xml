@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:id="@id/APKTOOL_DUMMYVAL_0x7f0b033e" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.libraries.inputmethod.emoji.view.EmojiView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b033f" android:layout_width="@dimen/APKTOOL_DUMMYVAL_0x7f070163" android:layout_height="@dimen/APKTOOL_DUMMYVAL_0x7f070163" app:APKTOOL_DUMMYVAL_0x7f040727="APKTOOL_DUMMYVAL_0x7f0b06f8" app:APKTOOL_DUMMYVAL_0x7f040741="APKTOOL_DUMMYVAL_0x7f0b06f8" app:APKTOOL_DUMMYVAL_0x7f040745="APKTOOL_DUMMYVAL_0x7f0b06f8" />
+    <com.google.android.libraries.inputmethod.emoji.view.EmojiView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0340" android:layout_width="@dimen/APKTOOL_DUMMYVAL_0x7f070163" android:layout_height="@dimen/APKTOOL_DUMMYVAL_0x7f070163" app:APKTOOL_DUMMYVAL_0x7f040727="APKTOOL_DUMMYVAL_0x7f0b06f8" app:APKTOOL_DUMMYVAL_0x7f04072d="APKTOOL_DUMMYVAL_0x7f0b06f8" app:APKTOOL_DUMMYVAL_0x7f040745="APKTOOL_DUMMYVAL_0x7f0b06f8" />
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0709" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <EditText android:layout_gravity="fill_horizontal|center" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0708" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:layout_marginBottom="8.0dip" android:hint="@string/APKTOOL_DUMMYVAL_0x7f1408a1" android:maxLength="@integer/APKTOOL_DUMMYVAL_0x7f0c00d9" android:inputType="textNoSuggestions" android:imeOptions="actionNext|flagNoFullscreen" android:layout_marginStart="8.0dip" android:layout_marginEnd="8.0dip" android:importantForAutofill="no">
+            <requestFocus />
+        </EditText>
+        <TextView android:layout_gravity="start|center" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0707" android:focusable="true" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:text="@string/APKTOOL_DUMMYVAL_0x7f1408a0" android:layout_marginStart="10.0dip" style="?android:textAppearanceSmall" />
+        <EditText android:layout_gravity="fill_horizontal|center" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0706" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/APKTOOL_DUMMYVAL_0x7f14089f" android:maxLength="@integer/APKTOOL_DUMMYVAL_0x7f0c00d9" android:inputType="textNoSuggestions" android:imeOptions="actionDone|flagNoFullscreen" android:layout_marginStart="8.0dip" android:layout_marginEnd="8.0dip" android:importantForAutofill="no" />
+        <TextView android:layout_gravity="start|center" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0704" android:focusable="true" android:visibility="gone" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:text="@string/APKTOOL_DUMMYVAL_0x7f14089e" android:layout_marginStart="10.0dip" style="?android:textAppearanceSmall" />
+        <Spinner android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0705" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:contentDescription="@string/APKTOOL_DUMMYVAL_0x7f14089e" android:textAlignment="viewStart" />
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime announce_auto_selected_candidate="true" ascii_capable="true" auto_capital="true" class="com.google.android.apps.inputmethod.libs.latin5.LatinIme" display_app_completions="true" indicator_label="A" language="en-GB" string_id="ime_qwerty">
+        <if use_dummy_ime_in_alphabet="true">
+            <attrs class="com.google.android.libraries.inputmethod.ime.DummyIme" />
+        </if>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170761" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f170748" main_def="@xml/APKTOOL_DUMMYVAL_0x7f17088b" pk_language_tag="en-Latn-US" pk_layout_type="qwerty" variant="qwerty" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f17076b" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f170748" pk_language_tag="und-Latn" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f17075d" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f170748" pk_language_tag="und-Latn" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f17075f" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f170748" pk_language_tag="und-Latn" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f17075e" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f170748" pk_language_tag="und-Latn" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170767" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f170748" pk_language_tag="und-Latn" />
+        <extra_values>
+            <item id="@id/APKTOOL_DUMMYVAL_0x7f0b02cb" value="false" />
+            <item id="@id/APKTOOL_DUMMYVAL_0x7f0b02d5" value="false" />
+            <item id="@id/APKTOOL_DUMMYVAL_0x7f0b02f3" value="@string/APKTOOL_DUMMYVAL_0x7f140672" />
+        </extra_values>
+    </ime>
+</framework>

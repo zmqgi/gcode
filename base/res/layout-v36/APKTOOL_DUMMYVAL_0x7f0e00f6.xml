@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0630" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="1.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.coordinatorlayout.widget.CoordinatorLayout android:id="@id/APKTOOL_DUMMYVAL_0x7f0b01d9" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" android:filterTouchesWhenObscured="false">
+        <com.google.android.material.appbar.AppBarLayout android:theme="@style/APKTOOL_DUMMYVAL_0x7f150583" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b011e" android:background="@android:color/transparent" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:touchscreenBlocksFocus="false" android:outlineSpotShadowColor="@android:color/transparent" android:outlineAmbientShadowColor="@android:color/transparent" app:APKTOOL_DUMMYVAL_0x7f0405fc="false">
+            <com.google.android.material.appbar.CollapsingToolbarLayout android:id="@id/APKTOOL_DUMMYVAL_0x7f0b01c7" android:layout_width="fill_parent" android:layout_height="@dimen/APKTOOL_DUMMYVAL_0x7f07090a" app:APKTOOL_DUMMYVAL_0x7f040768="APKTOOL_DUMMYVAL_0x7f0b02a5|APKTOOL_DUMMYVAL_0x7f0b0796|APKTOOL_DUMMYVAL_0x7f0b0804" app:APKTOOL_DUMMYVAL_0x7f040804="2" app:APKTOOL_DUMMYVAL_0x7f040a6b="@id/APKTOOL_DUMMYVAL_0x7f0b00d5" style="@style/APKTOOL_DUMMYVAL_0x7f150565">
+                <com.google.android.material.appbar.MaterialToolbar android:theme="?android:actionBarTheme" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b00d5" android:layout_width="fill_parent" android:layout_height="?APKTOOL_DUMMYVAL_0x7f040384" android:nextFocusForward="@id/APKTOOL_DUMMYVAL_0x7f0b01d8" android:layout_marginStart="@dimen/APKTOOL_DUMMYVAL_0x7f0708e8" android:transitionName="shared_element_view" android:touchscreenBlocksFocus="false" app:APKTOOL_DUMMYVAL_0x7f04071e="APKTOOL_DUMMYVAL_0x7f0b0711">
+                    <include layout="@layout/APKTOOL_DUMMYVAL_0x7f0e0685" />
+                </com.google.android.material.appbar.MaterialToolbar>
+            </com.google.android.material.appbar.CollapsingToolbarLayout>
+        </com.google.android.material.appbar.AppBarLayout>
+        <com.google.android.material.progressindicator.LinearProgressIndicator android:layout_gravity="top" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0751" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:indeterminate="true" app:APKTOOL_DUMMYVAL_0x7f04071d="@string/APKTOOL_DUMMYVAL_0x7f140064" />
+        <FrameLayout android:id="@id/APKTOOL_DUMMYVAL_0x7f0b01d8" android:layout_width="fill_parent" android:layout_height="fill_parent" app:APKTOOL_DUMMYVAL_0x7f04071d="@string/APKTOOL_DUMMYVAL_0x7f140064" />
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+    <FrameLayout android:id="@id/APKTOOL_DUMMYVAL_0x7f0b014d" android:background="?APKTOOL_DUMMYVAL_0x7f04050b" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</LinearLayout>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0cb0" view_id="@id/key_pos_clipboard_back_to_prime" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0fc5" view_id="@id/key_pos_clipboard_batch_delete" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1d3d" view_id="@id/key_pos_clipboard_batch_pin" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0fc0" view_id="@id/key_pos_clipboard_edit_and_add" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1055" view_id="@id/key_pos_clipboard_back_to_default" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0979" view_id="@id/key_pos_clipboard_back_to_clipboard" />
+    </key_mapping>
+    <key_mapping state="SUB_CATEGORY_1">
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0cb1" view_id="@id/key_pos_clipboard_back_to_prime" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0a45" view_id="@id/key_pos_clipboard_batch_delete" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0a47" view_id="@id/key_pos_clipboard_batch_pin" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0a47" view_id="@id/key_pos_clipboard_batch_pin_no_optin" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b082b" view_id="@id/key_pos_clipboard_edit_and_add" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0979" view_id="@id/key_pos_clipboard_back_to_clipboard" />
+    </key_mapping>
+    <key_mapping state="SUB_CATEGORY_6">
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0cb1" view_id="@id/key_pos_clipboard_back_to_prime" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0a45" view_id="@id/key_pos_clipboard_batch_delete" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0a47" view_id="@id/key_pos_clipboard_batch_pin" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0a47" view_id="@id/key_pos_clipboard_batch_pin_no_optin" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b082e" view_id="@id/key_pos_clipboard_edit_and_add" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0979" view_id="@id/key_pos_clipboard_back_to_clipboard" />
+    </key_mapping>
+    <key_mapping state="SUB_CATEGORY_2">
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0cb1" view_id="@id/key_pos_clipboard_back_to_prime" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0a44" view_id="@id/key_pos_clipboard_batch_delete" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0a46" view_id="@id/key_pos_clipboard_batch_pin" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0a46" view_id="@id/key_pos_clipboard_batch_pin_no_optin" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b082d" view_id="@id/key_pos_clipboard_edit_and_add" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0979" view_id="@id/key_pos_clipboard_back_to_clipboard" />
+    </key_mapping>
+    <key_mapping state="SUB_CATEGORY_3">
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0cb1" view_id="@id/key_pos_clipboard_back_to_prime" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0a44" view_id="@id/key_pos_clipboard_batch_delete" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0a48" view_id="@id/key_pos_clipboard_batch_pin" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0a48" view_id="@id/key_pos_clipboard_batch_pin_no_optin" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b082d" view_id="@id/key_pos_clipboard_edit_and_add" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0979" view_id="@id/key_pos_clipboard_back_to_clipboard" />
+    </key_mapping>
+    <key_mapping state="SUB_CATEGORY_5">
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0fc5" view_id="@id/key_pos_clipboard_batch_delete" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1d3c" view_id="@id/key_pos_clipboard_batch_pin" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0fc1" view_id="@id/key_pos_clipboard_edit_and_add" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0979" view_id="@id/key_pos_clipboard_back_to_clipboard" />
+    </key_mapping>
+</framework>

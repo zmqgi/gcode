@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">Često upotrebljavate značajke %s? Sada su ovdje da biste im mogli lako pristupiti.</item>
+        <item quantity="one">Često upotrebljavate značajke %s? Sada su ovdje da biste im mogli lako pristupiti.</item>
+        <item quantity="few">Često upotrebljavate značajke %s? Sada su ovdje da biste im mogli lako pristupiti.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">Dodijeljeno je %d tipki</item>
+        <item quantity="one">Dodijeljena je %d tipka</item>
+        <item quantity="few">Dodijeljene su %d tipke</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">Instalirani su %s.</item>
+        <item quantity="one">Instalirani su %s.</item>
+        <item quantity="few">Instalirani su %s.</item>
+    </plurals>
+</resources>

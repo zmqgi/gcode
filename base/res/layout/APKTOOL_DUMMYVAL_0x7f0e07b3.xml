@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:scrollbarAlwaysDrawVerticalTrack="true" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fadeScrollbars="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:paddingLeft="?APKTOOL_DUMMYVAL_0x7f04058b" android:paddingTop="?APKTOOL_DUMMYVAL_0x7f04058b" android:paddingRight="?APKTOOL_DUMMYVAL_0x7f04058b" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:layout_gravity="center" android:layout_width="24.0dip" android:layout_height="24.0dip" android:src="@null" android:importantForAccessibility="no" />
+        <com.google.android.material.textview.MaterialTextView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b2542" android:text="@string/APKTOOL_DUMMYVAL_0x7f14167c" style="@style/APKTOOL_DUMMYVAL_0x7f150c62" />
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ImageView android:src="@drawable/APKTOOL_DUMMYVAL_0x7f0805db" android:importantForAccessibility="no" style="@style/APKTOOL_DUMMYVAL_0x7f150c5d" />
+            <LinearLayout style="@style/APKTOOL_DUMMYVAL_0x7f150c5f">
+                <com.google.android.material.textview.MaterialTextView android:text="@string/APKTOOL_DUMMYVAL_0x7f14167a" style="@style/APKTOOL_DUMMYVAL_0x7f150c60" />
+                <com.google.android.material.textview.MaterialTextView android:text="@string/APKTOOL_DUMMYVAL_0x7f141679" style="@style/APKTOOL_DUMMYVAL_0x7f150c5e" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ImageView android:src="@drawable/APKTOOL_DUMMYVAL_0x7f08061a" android:importantForAccessibility="no" style="@style/APKTOOL_DUMMYVAL_0x7f150c5d" />
+            <LinearLayout style="@style/APKTOOL_DUMMYVAL_0x7f150c5f">
+                <com.google.android.material.textview.MaterialTextView android:text="@string/APKTOOL_DUMMYVAL_0x7f141676" style="@style/APKTOOL_DUMMYVAL_0x7f150c60" />
+                <com.google.android.libraries.inputmethod.widgets.LinkableTextView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b2540" android:text="@string/APKTOOL_DUMMYVAL_0x7f141675" style="@style/APKTOOL_DUMMYVAL_0x7f150c5e" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ImageView android:src="@drawable/APKTOOL_DUMMYVAL_0x7f080626" android:importantForAccessibility="no" style="@style/APKTOOL_DUMMYVAL_0x7f150c5d" />
+            <LinearLayout style="@style/APKTOOL_DUMMYVAL_0x7f150c5f">
+                <com.google.android.material.textview.MaterialTextView android:text="@string/APKTOOL_DUMMYVAL_0x7f141678" style="@style/APKTOOL_DUMMYVAL_0x7f150c60" />
+                <com.google.android.libraries.inputmethod.widgets.LinkableTextView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b2541" android:text="@string/APKTOOL_DUMMYVAL_0x7f141677" style="@style/APKTOOL_DUMMYVAL_0x7f150c5e" />
+            </LinearLayout>
+        </LinearLayout>
+        <ImageView android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginTop="4.0dip" android:src="?APKTOOL_DUMMYVAL_0x7f040512" android:contentDescription="@string/APKTOOL_DUMMYVAL_0x7f14167b" />
+        <com.google.android.material.textview.MaterialTextView android:textSize="12.0sp" android:textColor="?android:textColorPrimary" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="18.0dip" android:text="@string/APKTOOL_DUMMYVAL_0x7f141674" />
+    </LinearLayout>
+</ScrollView>

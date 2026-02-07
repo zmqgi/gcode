@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1078" popup_timing="ON_TOUCH">
+            <action data="\n" keycode="PLAIN_TEXT" popup_icon="@drawable/APKTOOL_DUMMYVAL_0x7f08049f" popup_layout="@attr/APKTOOL_DUMMYVAL_0x7f040294" type="LONG_PRESS" />
+        </softkey>
+        <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b107b" popup_timing="ON_TOUCH">
+            <action data="send" keycode="IME_ACTION" popup_icon="@drawable/APKTOOL_DUMMYVAL_0x7f0804ad" popup_layout="@attr/APKTOOL_DUMMYVAL_0x7f040294" type="LONG_PRESS" />
+        </softkey>
+        <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b107a" popup_timing="ON_TOUCH">
+            <action data="previous" keycode="IME_ACTION" popup_icon="@drawable/APKTOOL_DUMMYVAL_0x7f0804ac" popup_layout="@attr/APKTOOL_DUMMYVAL_0x7f040294" type="LONG_PRESS" />
+        </softkey>
+        <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1079" popup_timing="ON_TOUCH">
+            <action data="next" keycode="IME_ACTION" popup_icon="@drawable/APKTOOL_DUMMYVAL_0x7f0804a8" popup_layout="@attr/APKTOOL_DUMMYVAL_0x7f040294" type="LONG_PRESS" />
+        </softkey>
+    </softkeys>
+</framework>

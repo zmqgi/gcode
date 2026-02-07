@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:keyboardNavigationCluster="true">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginStart="24.0dip" android:layout_marginEnd="42.0dip">
+            <TextView android:layout_gravity="start" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b2554" android:visibility="gone" style="@style/APKTOOL_DUMMYVAL_0x7f150c6c" />
+            <TextView android:layout_gravity="start" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b2560" android:visibility="gone" style="@style/APKTOOL_DUMMYVAL_0x7f150c6b" />
+            <com.google.android.material.appbar.CollapsingToolbarLayout android:layout_width="fill_parent" android:layout_height="wrap_content" app:APKTOOL_DUMMYVAL_0x7f040768="APKTOOL_DUMMYVAL_0x7f0b02a5|APKTOOL_DUMMYVAL_0x7f0b0796|APKTOOL_DUMMYVAL_0x7f0b0804" style="@style/APKTOOL_DUMMYVAL_0x7f150d20">
+                <android.support.v7.widget.Toolbar android:id="@id/APKTOOL_DUMMYVAL_0x7f0b2555" android:tag=".keyboard-body-area" android:background="@android:color/white" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="?APKTOOL_DUMMYVAL_0x7f040384" android:elevation="0.0dip" app:APKTOOL_DUMMYVAL_0x7f04053f="0.0dip" app:APKTOOL_DUMMYVAL_0x7f04071e="APKTOOL_DUMMYVAL_0x7f0b06f7">
+                    <HorizontalScrollView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b2556" android:scrollbars="none" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                        <LinearLayout android:orientation="horizontal" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b2557" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                    </HorizontalScrollView>
+                </android.support.v7.widget.Toolbar>
+            </com.google.android.material.appbar.CollapsingToolbarLayout>
+            <LinearLayout android:orientation="vertical" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b2551" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+            <TextView android:layout_gravity="start" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b254a" android:layout_marginTop="@dimen/APKTOOL_DUMMYVAL_0x7f070a4b" style="@style/APKTOOL_DUMMYVAL_0x7f150c68" />
+        </LinearLayout>
+    </ScrollView>
+    <include android:layout_gravity="end|center|top" android:layout_width="wrap_content" android:layout_height="wrap_content" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e07b8" />
+</FrameLayout>

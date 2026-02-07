@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" style="@style/APKTOOL_DUMMYVAL_0x7f150abe"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.material.card.MaterialCardView style="@style/APKTOOL_DUMMYVAL_0x7f150abd">
+        <ImageView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b24bf" style="@style/APKTOOL_DUMMYVAL_0x7f150abc" />
+    </com.google.android.material.card.MaterialCardView>
+</FrameLayout>

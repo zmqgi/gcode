@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="center" android:orientation="horizontal" android:tag=".expression-category-item-tablet" android:background="@drawable/APKTOOL_DUMMYVAL_0x7f08020c" android:layout_width="fill_parent" android:layout_height="36.0dip" style="@style/APKTOOL_DUMMYVAL_0x7f150298"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="start|center" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0280" android:scaleType="centerInside" style="@style/APKTOOL_DUMMYVAL_0x7f15079c" />
+    <TextView android:ellipsize="marquee" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0283" style="@style/APKTOOL_DUMMYVAL_0x7f15079d" />
+</LinearLayout>

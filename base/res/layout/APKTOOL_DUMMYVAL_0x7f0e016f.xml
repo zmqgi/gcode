@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:tag=".bg_writing_tools_item" android:background="@drawable/APKTOOL_DUMMYVAL_0x7f0802c9" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="1.0dip" android:layout_marginBottom="8.0dip" android:layout_marginStart="12.0dip" android:layout_marginEnd="12.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.apps.inputmethod.libs.jarvis.miscs.ColorfulScrollbarScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true">
+        <LinearLayout android:gravity="center|top" android:layout_gravity="center|top" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/APKTOOL_DUMMYVAL_0x7f1510cc">
+            <ImageView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b043f" android:layout_marginTop="50.0dip" android:layout_marginBottom="24.0dip" android:src="@drawable/APKTOOL_DUMMYVAL_0x7f080544" android:tint="?APKTOOL_DUMMYVAL_0x7f0404ef" style="@style/APKTOOL_DUMMYVAL_0x7f1510c8" />
+            <TextView android:textSize="16.0dip" android:text="@string/APKTOOL_DUMMYVAL_0x7f1416f1" style="@style/APKTOOL_DUMMYVAL_0x7f150350" />
+            <TextView android:textSize="14.0dip" android:layout_marginTop="16.0dip" android:text="@string/APKTOOL_DUMMYVAL_0x7f1416f0" style="@style/APKTOOL_DUMMYVAL_0x7f150350" />
+        </LinearLayout>
+    </com.google.android.apps.inputmethod.libs.jarvis.miscs.ColorfulScrollbarScrollView>
+</FrameLayout>

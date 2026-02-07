@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/APKTOOL_DUMMYVAL_0x7f170d33" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/APKTOOL_DUMMYVAL_0x7f0b218f">
+            <softkey hint_label="1" id="@id/APKTOOL_DUMMYVAL_0x7f0b21d5" long_press_data="1" press_data="ޑ" />
+            <softkey hint_label="ޣ" id="@id/APKTOOL_DUMMYVAL_0x7f0b21d0" long_press_data="ޣ,2" press_data="ޢ" />
+            <softkey hint_label="3" id="@id/APKTOOL_DUMMYVAL_0x7f0b21ce" long_press_data="3" press_data="ޭ" />
+            <softkey hint_label="4" id="@id/APKTOOL_DUMMYVAL_0x7f0b21dc" long_press_data="4" press_data="ޙ" />
+            <softkey hint_label="5" id="@id/APKTOOL_DUMMYVAL_0x7f0b21eb" long_press_data="5" press_data="ޓ" />
+            <softkey hint_label="6" id="@id/APKTOOL_DUMMYVAL_0x7f0b21df" long_press_data="6" press_data="ޚ" />
+            <softkey hint_label="7" id="@id/APKTOOL_DUMMYVAL_0x7f0b21f8" long_press_data="7" press_data="ޫ" />
+            <softkey hint_label="8" id="@id/APKTOOL_DUMMYVAL_0x7f0b21cd" long_press_data="8" press_data="ީ" />
+            <softkey hint_label="9" id="@id/APKTOOL_DUMMYVAL_0x7f0b21f6" long_press_data="9" press_data="ޯ" />
+            <softkey hint_label="0" id="@id/APKTOOL_DUMMYVAL_0x7f0b21e4" long_press_data="0" press_data="ޕ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b21f9" press_data="ް" />
+            <softkey hint_label="ޤ" id="@id/APKTOOL_DUMMYVAL_0x7f0b21d1" long_press_data="ޤ" press_data="އ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b21cc" press_data="ެ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b21e6" press_data="ރ" />
+            <softkey hint_label="ޠ" id="@id/APKTOOL_DUMMYVAL_0x7f0b21ec" long_press_data="ޠ" press_data="ތ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b21f2" press_data="ޔ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b21fa" press_data="ު" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b21cf" press_data="ި" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b21f7" press_data="ޮ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b21e1" press_data="ޅ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b21ca" press_data="ާ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b21cb" press_data="ަ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b21e8" press_data="ސ" />
+            <softkey hint_label="ޛ" id="@id/APKTOOL_DUMMYVAL_0x7f0b21d6" long_press_data="ޛ" press_data="ދ" />
+            <softkey hint_label="ﷲ" id="@id/APKTOOL_DUMMYVAL_0x7f0b21d7" long_press_data="ﷲ" press_data="ފ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b21d8" press_data="ގ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b21db" press_data="ހ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b21dd" press_data="ޖ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b21de" press_data="ކ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b21e0" press_data="ލ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b21ea" press_data="ޝ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b21e9" press_data="ށ" />
+            <softkey hint_label="ޜ" id="@id/APKTOOL_DUMMYVAL_0x7f0b21f4" long_press_data="ޜ,ޡ" press_data="ޒ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b21ef" press_data="ޘ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b21d3" press_data="ޗ" />
+            <softkey hint_label="ޥ" id="@id/APKTOOL_DUMMYVAL_0x7f0b21f0" long_press_data="ޥ" press_data="ވ" />
+            <softkey hint_label="ޞ" id="@id/APKTOOL_DUMMYVAL_0x7f0b21d2" long_press_data="ޞ" press_data="ބ" />
+            <softkey hint_label="ޏ" id="@id/APKTOOL_DUMMYVAL_0x7f0b21e3" long_press_data="ޏ,ޱ" press_data="ނ" />
+            <softkey hint_label="ޟ" id="@id/APKTOOL_DUMMYVAL_0x7f0b21e2" long_press_data="ޟ" press_data="މ" />
+        </softkey_list>
+    </softkeys>
+</framework>

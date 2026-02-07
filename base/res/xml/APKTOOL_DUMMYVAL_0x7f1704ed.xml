@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime always_show_suggestions="true" announce_auto_selected_candidate="true" class="com.google.android.apps.inputmethod.libs.chinese.ime.AsyncChineseProcessorBasedIme" display_app_completions="true" indicator_label="拼" inline_composing="false" language="zh-CN" language_specific_settings="@xml/APKTOOL_DUMMYVAL_0x7f17107f" string_id="ime_zh_cn_clariti" use_ascii_password_keyboard="true">
+        <if physical_keyboard="qwerty">
+            <attrs language_specific_settings="@xml/APKTOOL_DUMMYVAL_0x7f171080" />
+        </if>
+        <if pref_enable_chinese_inline_composing_cn="true">
+            <attrs inline_composing="true" />
+        </if>
+        <keyboard_group pk_language_tag="en" pk_layout_type="qwerty" supports_split_mode="true" variant="clariti" variant_label="@string/APKTOOL_DUMMYVAL_0x7f141486" variant_name_mandatory="true">
+            <layout_specific_settings resource_id="@xml/APKTOOL_DUMMYVAL_0x7f171081" />
+            <keyboard def="@xml/APKTOOL_DUMMYVAL_0x7f170743" type="prime">
+                <merge def="@xml/APKTOOL_DUMMYVAL_0x7f170539" />
+                <merge def="@xml/APKTOOL_DUMMYVAL_0x7f1709a6" />
+                <merge def="@xml/APKTOOL_DUMMYVAL_0x7f17074a" />
+            </keyboard>
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f1709ae" />
+        </keyboard_group>
+        <extra_values>
+            <item id="@id/APKTOOL_DUMMYVAL_0x7f0b02ec" value="。" />
+            <item id="@id/APKTOOL_DUMMYVAL_0x7f0b02d3" value="@string/APKTOOL_DUMMYVAL_0x7f14093c" />
+            <item id="@id/APKTOOL_DUMMYVAL_0x7f0b02dc" value="true" />
+            <item id="@id/APKTOOL_DUMMYVAL_0x7f0b02eb" value="hmm" />
+            <item id="@id/APKTOOL_DUMMYVAL_0x7f0b02c9" res="@xml/APKTOOL_DUMMYVAL_0x7f17056c" />
+        </extra_values>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170d0b" />
+    </ime>
+</framework>

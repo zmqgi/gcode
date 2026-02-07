@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/APKTOOL_DUMMYVAL_0x7f0b03a4" style="@style/APKTOOL_DUMMYVAL_0x7f15033c"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.libraries.inputmethod.widgets.NonLinearScaleImageView android:visibility="visible" android:src="@drawable/APKTOOL_DUMMYVAL_0x7f0804ba" style="@style/APKTOOL_DUMMYVAL_0x7f150316" />
+</FrameLayout>

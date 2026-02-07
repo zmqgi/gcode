@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b063a" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:typeface="monospace" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b063b" android:paddingLeft="@dimen/APKTOOL_DUMMYVAL_0x7f070425" android:paddingTop="@dimen/APKTOOL_DUMMYVAL_0x7f070426" android:paddingRight="@dimen/APKTOOL_DUMMYVAL_0x7f070425" android:paddingBottom="@dimen/APKTOOL_DUMMYVAL_0x7f070426" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/APKTOOL_DUMMYVAL_0x7f070425" android:paddingEnd="@dimen/APKTOOL_DUMMYVAL_0x7f070425" />
+</ScrollView>

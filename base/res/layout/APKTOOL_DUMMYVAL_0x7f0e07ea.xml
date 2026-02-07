@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.companionwidget.tooltip.WidgetTooltipView style="@style/APKTOOL_DUMMYVAL_0x7f1510bc"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout style="@style/APKTOOL_DUMMYVAL_0x7f1510bd">
+        <androidx.constraintlayout.widget.ConstraintLayout android:id="@id/APKTOOL_DUMMYVAL_0x7f0b2587" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:importantForAccessibility="yes" android:paddingVertical="@dimen/APKTOOL_DUMMYVAL_0x7f070a86">
+            <ImageView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b03a3" app:APKTOOL_DUMMYVAL_0x7f040741="APKTOOL_DUMMYVAL_0x7f0b06f8" app:APKTOOL_DUMMYVAL_0x7f040745="APKTOOL_DUMMYVAL_0x7f0b06f8" style="@style/APKTOOL_DUMMYVAL_0x7f1510b5" />
+            <TextView app:APKTOOL_DUMMYVAL_0x7f040721="true" app:APKTOOL_DUMMYVAL_0x7f04072d="APKTOOL_DUMMYVAL_0x7f0b06f8" app:APKTOOL_DUMMYVAL_0x7f040740="@id/APKTOOL_DUMMYVAL_0x7f0b03a3" app:APKTOOL_DUMMYVAL_0x7f040745="APKTOOL_DUMMYVAL_0x7f0b06f8" app:APKTOOL_DUMMYVAL_0x7f04075a="0.0dip" style="@style/APKTOOL_DUMMYVAL_0x7f1510b6" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+        <LinearLayout style="@style/APKTOOL_DUMMYVAL_0x7f1510b4">
+            <include layout="@layout/APKTOOL_DUMMYVAL_0x7f0e07e1" />
+        </LinearLayout>
+    </LinearLayout>
+</com.google.android.libraries.inputmethod.companionwidget.tooltip.WidgetTooltipView>

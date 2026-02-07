@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <if pref_enable_flick_symbols="true">
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170d35" />
+    </if>
+    <else>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170d34" />
+    </else>
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/APKTOOL_DUMMYVAL_0x7f0b219d">
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b11c2" long_press_data="1" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b11e2" long_press_data="2" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b11da" long_press_data="3" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b11b2" long_press_data="4" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b11aa" long_press_data="5" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b11d2" long_press_data="6" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b11ca" long_press_data="7" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b11a2" long_press_data="8" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b11ba" long_press_data="9" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b11ea" long_press_data="0" />
+        </softkey_list>
+    </softkeys>
+</framework>

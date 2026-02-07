@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class="com.google.android.apps.inputmethod.libs.search.emoji.standard.EmojiPickerKeyboard" initial_states="LOCK_KEYBOARD+SUB_CATEGORY_2" persistent_states="@string/APKTOOL_DUMMYVAL_0x7f140d68" persistent_states_pref_key="@string/APKTOOL_DUMMYVAL_0x7f140d69" recent_key_layout="@layout/APKTOOL_DUMMYVAL_0x7f0e0703" recent_key_popup_layout="@layout/APKTOOL_DUMMYVAL_0x7f0e05f4" recent_key_type="smiley" remember_recent_key="ALL_ACTIONS">
+        <view direction="locale" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e01c7" scalable="false" type="header" />
+        <view direction="locale" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e050d" type="body">
+            <motion_event_handler class=".motioneventhandler.BasicMotionEventHandler" />
+            <softkeys href="@xml/APKTOOL_DUMMYVAL_0x7f170d38" />
+            <softkeys href="@xml/APKTOOL_DUMMYVAL_0x7f170d3c" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170a9b" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b62" />
+        </view>
+    </keyboard>
+</framework>

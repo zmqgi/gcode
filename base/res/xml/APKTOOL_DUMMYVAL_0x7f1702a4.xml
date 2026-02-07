@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime always_show_suggestions="true" class="com.google.android.apps.inputmethod.libs.mozc.ime.SimpleJapaneseIme" display_app_completions="false" inline_composing="true" language="@string/APKTOOL_DUMMYVAL_0x7f140524" language_specific_settings="@xml/setting_japanese_language_specific" string_id="@string/APKTOOL_DUMMYVAL_0x7f140db8" unacceptable_meta_keys="" use_ascii_password_keyboard="true">
+        <if physical_keyboard="qwerty|12key">
+            <attrs language_specific_settings="@xml/setting_japanese_language_specific_with_pk" />
+        </if>
+        <if japanese_pk_kana_input="true">
+            <attrs keyevent_interpreter="com.google.android.apps.inputmethod.libs.mozc.ime.JapaneseKanaKeyEventInterpreter" />
+        </if>
+        <keyboard_group pk_language_tag="ja-Latn-JP" pk_layout_type="extended" variant="godan">
+            <layout_specific_settings resource_id="@xml/setting_japanese_softwarekeyboard" />
+            <if japanese_landscape_qwerty="true" orientation="landscape">
+                <attrs variant_label="@string/APKTOOL_DUMMYVAL_0x7f140b0a" />
+                <include href="@xml/APKTOOL_DUMMYVAL_0x7f1702a8" />
+            </if>
+            <else>
+                <include href="@xml/APKTOOL_DUMMYVAL_0x7f170003" />
+                <keyboard def="@xml/APKTOOL_DUMMYVAL_0x7f17078f" type="prime" />
+                <if japanese_use_tri_state_mode="true">
+                    <keyboard def="@xml/APKTOOL_DUMMYVAL_0x7f170790" type="alphabet">
+                        <extra_values>
+                            <item id="@id/APKTOOL_DUMMYVAL_0x7f0b02e6" value="QWERTY_ALPHABET" />
+                        </extra_values>
+                    </keyboard>
+                    <keyboard def="@xml/APKTOOL_DUMMYVAL_0x7f170792" type="tri_state_digit" />
+                </if>
+            </else>
+            <if device="tablet" device_size="large" keyboard_mode="normal">
+                <keyboard def="@xml/APKTOOL_DUMMYVAL_0x7f170865" type="digit" />
+            </if>
+            <else>
+                <keyboard def="@xml/APKTOOL_DUMMYVAL_0x7f170864" type="digit" />
+            </else>
+            <keyboard def="@xml/APKTOOL_DUMMYVAL_0x7f17091c" type="symbol" />
+        </keyboard_group>
+        <extra_values>
+            <if japanese_landscape_qwerty="true" orientation="landscape">
+                <include href="@xml/APKTOOL_DUMMYVAL_0x7f1702a7" />
+            </if>
+            <else>
+                <item id="@id/APKTOOL_DUMMYVAL_0x7f0b02ed" value="GODAN_KANA" />
+                <item id="@id/APKTOOL_DUMMYVAL_0x7f0b02db" value="HARDWARE_QWERTY_KANA" />
+                <item id="@id/APKTOOL_DUMMYVAL_0x7f0b02c9" res="@xml/APKTOOL_DUMMYVAL_0x7f17078e" />
+                <item id="@id/APKTOOL_DUMMYVAL_0x7f0b02f8" value="true" />
+                <item id="@id/APKTOOL_DUMMYVAL_0x7f0b02e1" res="@array/APKTOOL_DUMMYVAL_0x7f0300ab" />
+            </else>
+        </extra_values>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f1700e1" />
+    </ime>
+</framework>

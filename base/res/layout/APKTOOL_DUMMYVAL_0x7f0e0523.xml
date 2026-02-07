@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView style="@style/APKTOOL_DUMMYVAL_0x7f1502fc"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout style="@style/APKTOOL_DUMMYVAL_0x7f150548">
+        <com.google.android.apps.inputmethod.libs.search.widget.SearchCandidateListHolderView app:APKTOOL_DUMMYVAL_0x7f04044f="@layout/APKTOOL_DUMMYVAL_0x7f0e0737" app:APKTOOL_DUMMYVAL_0x7f040450="?APKTOOL_DUMMYVAL_0x7f0402b4" style="@style/APKTOOL_DUMMYVAL_0x7f150544" />
+        <ImageView android:tag=".search-candidate-divider" android:layout_width="fill_parent" android:layout_height="1.0dip" android:src="@drawable/APKTOOL_DUMMYVAL_0x7f08064b" android:importantForAccessibility="no" />
+        <include layout="@layout/APKTOOL_DUMMYVAL_0x7f0e065c" />
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

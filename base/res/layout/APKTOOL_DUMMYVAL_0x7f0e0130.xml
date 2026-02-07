@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="center_horizontal" android:orientation="vertical" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0355" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="20.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b035d" android:paddingStart="@dimen/APKTOOL_DUMMYVAL_0x7f07090b" android:paddingEnd="@dimen/APKTOOL_DUMMYVAL_0x7f07090b" style="@style/APKTOOL_DUMMYVAL_0x7f150634" />
+    <android.support.v7.widget.RecyclerView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0359" android:paddingStart="@dimen/APKTOOL_DUMMYVAL_0x7f07090c" android:paddingEnd="@dimen/APKTOOL_DUMMYVAL_0x7f07090c" style="@style/APKTOOL_DUMMYVAL_0x7f150631" />
+    <ImageView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b035d" android:paddingStart="@dimen/APKTOOL_DUMMYVAL_0x7f07090b" android:paddingEnd="@dimen/APKTOOL_DUMMYVAL_0x7f07090b" style="@style/APKTOOL_DUMMYVAL_0x7f150634" />
+    <com.google.android.libraries.inputmethod.widgets.LinkableTextView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b035c" android:layout_marginTop="14.0dip" android:text="@string/APKTOOL_DUMMYVAL_0x7f140418" android:paddingStart="@dimen/APKTOOL_DUMMYVAL_0x7f07090b" style="@style/APKTOOL_DUMMYVAL_0x7f15051e" />
+    <Button android:layout_gravity="center_horizontal" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b035b" android:layout_width="wrap_content" android:layout_height="50.0dip" android:layout_marginTop="30.0dip" android:text="@string/APKTOOL_DUMMYVAL_0x7f1404f0" android:textAllCaps="true" />
+</LinearLayout>

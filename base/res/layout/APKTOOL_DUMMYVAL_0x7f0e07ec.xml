@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b2598" android:paddingTop="?APKTOOL_DUMMYVAL_0x7f040368" android:paddingBottom="?APKTOOL_DUMMYVAL_0x7f040367" android:visibility="gone" android:layout_width="0.0dip" android:layout_height="fill_parent" app:APKTOOL_DUMMYVAL_0x7f040727="APKTOOL_DUMMYVAL_0x7f0b06f8" app:APKTOOL_DUMMYVAL_0x7f04072e="@id/APKTOOL_DUMMYVAL_0x7f0b0382" app:APKTOOL_DUMMYVAL_0x7f040740="@id/APKTOOL_DUMMYVAL_0x7f0b0383" app:APKTOOL_DUMMYVAL_0x7f040745="APKTOOL_DUMMYVAL_0x7f0b06f8"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:gravity="center" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b03a3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="8.0dip" android:importantForAccessibility="no">
+        <ImageView android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="66.0dip" android:src="@drawable/APKTOOL_DUMMYVAL_0x7f0801f7" android:scaleType="centerInside" android:tint="?APKTOOL_DUMMYVAL_0x7f040515" />
+        <ImageView android:layout_gravity="center" android:layout_width="24.0dip" android:layout_height="24.0dip" android:src="@drawable/APKTOOL_DUMMYVAL_0x7f080544" android:tint="?APKTOOL_DUMMYVAL_0x7f0404e8" />
+    </FrameLayout>
+    <com.google.android.apps.inputmethod.libs.jarvis.miscs.ColorfulScrollbarScrollView android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginStart="34.0dip" android:layout_marginEnd="34.0dip">
+            <TextView android:textSize="22.0dip" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b24db" android:text="@string/APKTOOL_DUMMYVAL_0x7f1416cd" style="@style/APKTOOL_DUMMYVAL_0x7f150350" />
+            <TextView android:textSize="14.0dip" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b022a" android:layout_marginTop="12.0dip" android:text="@string/APKTOOL_DUMMYVAL_0x7f1416cc" style="@style/APKTOOL_DUMMYVAL_0x7f150350" />
+        </LinearLayout>
+    </com.google.android.apps.inputmethod.libs.jarvis.miscs.ColorfulScrollbarScrollView>
+    <LinearLayout android:gravity="center_horizontal" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b2597" android:tag=".item-ripple.on-surface.jarvis-keyboard-bottom-button" android:background="@drawable/APKTOOL_DUMMYVAL_0x7f080213" android:layout_width="fill_parent" android:layout_height="50.0dip" android:layout_marginTop="12.0dip" android:layout_marginStart="34.0dip" android:layout_marginEnd="34.0dip">
+        <com.google.android.libraries.inputmethod.widgets.TransformationTextView android:tag=".jarvis-keyboard-bottom-button-text" android:text="@string/APKTOOL_DUMMYVAL_0x7f1404ec" android:layout_marginStart="16.0dip" android:layout_marginEnd="20.0dip" style="@style/APKTOOL_DUMMYVAL_0x7f150783" />
+    </LinearLayout>
+</LinearLayout>

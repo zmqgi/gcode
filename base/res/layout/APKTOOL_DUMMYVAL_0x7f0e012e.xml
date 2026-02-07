@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="@style/APKTOOL_DUMMYVAL_0x7f1502eb"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0356" android:background="@drawable/APKTOOL_DUMMYVAL_0x7f0801fe" style="@style/APKTOOL_DUMMYVAL_0x7f150630">
+        <ImageView android:layout_gravity="center|top" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0358" android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/APKTOOL_DUMMYVAL_0x7f080522" android:adjustViewBounds="true" />
+        <TextView android:layout_gravity="start" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0357" android:text="@string/APKTOOL_DUMMYVAL_0x7f14041a" style="@style/APKTOOL_DUMMYVAL_0x7f15051f" />
+        <ImageView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b035f" android:layout_marginTop="16.0dip" style="@style/APKTOOL_DUMMYVAL_0x7f150634" />
+        <android.support.v7.widget.RecyclerView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0359" style="@style/APKTOOL_DUMMYVAL_0x7f150631" />
+        <ImageView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b035e" style="@style/APKTOOL_DUMMYVAL_0x7f150634" />
+        <com.google.android.libraries.inputmethod.widgets.LinkableTextView android:layout_gravity="start" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b035c" android:layout_marginTop="14.0dip" android:text="@string/APKTOOL_DUMMYVAL_0x7f140418" style="@style/APKTOOL_DUMMYVAL_0x7f15051f" />
+        <LinearLayout android:gravity="bottom" android:layout_gravity="end" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="30.0dip" android:layout_marginBottom="22.0dip">
+            <Button android:id="@id/APKTOOL_DUMMYVAL_0x7f0b035a" android:layout_width="wrap_content" android:layout_height="50.0dip" android:text="@string/APKTOOL_DUMMYVAL_0x7f1404ea" android:layout_marginEnd="20.0dip" style="?APKTOOL_DUMMYVAL_0x7f0407c4" />
+            <Button android:id="@id/APKTOOL_DUMMYVAL_0x7f0b035b" android:layout_width="wrap_content" android:layout_height="50.0dip" android:text="@string/APKTOOL_DUMMYVAL_0x7f1404ec" android:layout_marginEnd="15.0dip" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

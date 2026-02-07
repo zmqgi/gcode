@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class=".latin.keyboard.LatinJapanesePrimeKeyboard" popup="@attr/APKTOOL_DUMMYVAL_0x7f04029c">
+        <view direction="locale" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e022a" scalable="false" type="header">
+            <softkeys href="@xml/APKTOOL_DUMMYVAL_0x7f170d5e" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170bc4" />
+        </view>
+        <if device="tablet" device_size="large" keyboard_mode="normal">
+            <view layout="@layout/APKTOOL_DUMMYVAL_0x7f0e0226" type="body" />
+        </if>
+        <else>
+            <view layout="@layout/APKTOOL_DUMMYVAL_0x7f0e0227" type="body" />
+        </else>
+        <view type="body">
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170d02" />
+            <softkeys href="@xml/APKTOOL_DUMMYVAL_0x7f170e8d" />
+            <softkeys href="@xml/APKTOOL_DUMMYVAL_0x7f170d48" />
+            <softkeys href="@xml/APKTOOL_DUMMYVAL_0x7f170e8c" />
+            <softkeys href="@xml/APKTOOL_DUMMYVAL_0x7f170d39" />
+            <softkeys href="@xml/APKTOOL_DUMMYVAL_0x7f17104c" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170aae" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170a68" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170a52" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b99" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b67" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b68" />
+        </view>
+    </keyboard>
+</framework>

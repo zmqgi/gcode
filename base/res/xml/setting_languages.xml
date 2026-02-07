@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/APKTOOL_DUMMYVAL_0x7f140c4e" android:key="@string/APKTOOL_DUMMYVAL_0x7f140ab5"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <androidx.preference.PreferenceCategory android:title="@string/APKTOOL_DUMMYVAL_0x7f140c4c" android:key="@string/APKTOOL_DUMMYVAL_0x7f1416f6">
+        <extra android:name="DO_NOT_HIDE_EMPTY_GROUP" android:value="true" />
+    </androidx.preference.PreferenceCategory>
+</PreferenceScreen>

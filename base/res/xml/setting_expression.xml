@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/APKTOOL_DUMMYVAL_0x7f140bf0" android:key="@string/APKTOOL_DUMMYVAL_0x7f140ab1"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.preference.PreferenceCategory android:title="@string/APKTOOL_DUMMYVAL_0x7f140c58" android:key="@string/APKTOOL_DUMMYVAL_0x7f140c57">
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140bd1" android:key="@string/APKTOOL_DUMMYVAL_0x7f140947" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140bcf">
+            <extra android:name="hide_if_flag_is_false" android:value="enable_fast_access_bar=true" />
+        </SwitchPreferenceCompat>
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140cc2" android:key="@string/APKTOOL_DUMMYVAL_0x7f140ace" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140cbf" />
+    </androidx.preference.PreferenceCategory>
+    <androidx.preference.PreferenceCategory android:title="@string/APKTOOL_DUMMYVAL_0x7f140cd9" android:key="@string/APKTOOL_DUMMYVAL_0x7f140cd8">
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140bc6" android:key="@string/APKTOOL_DUMMYVAL_0x7f140941" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140bc4" />
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140bbc" android:key="@string/APKTOOL_DUMMYVAL_0x7f14093b" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140bbf" />
+        <androidx.preference.PreferenceCategory android:title="@string/APKTOOL_DUMMYVAL_0x7f140cda" android:key="@string/APKTOOL_DUMMYVAL_0x7f140bf2">
+            <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140ba5" android:key="@string/APKTOOL_DUMMYVAL_0x7f14093f" />
+            <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140ba7" android:key="@string/APKTOOL_DUMMYVAL_0x7f14096f" />
+        </androidx.preference.PreferenceCategory>
+    </androidx.preference.PreferenceCategory>
+    <androidx.preference.PreferenceCategory android:title="@string/APKTOOL_DUMMYVAL_0x7f140308" android:key="@string/APKTOOL_DUMMYVAL_0x7f140bb4">
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140bc3" android:key="@string/APKTOOL_DUMMYVAL_0x7f140940" />
+    </androidx.preference.PreferenceCategory>
+</PreferenceScreen>

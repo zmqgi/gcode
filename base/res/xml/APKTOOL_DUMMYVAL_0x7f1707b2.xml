@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/APKTOOL_DUMMYVAL_0x7f170537" />
+    <keyboard>
+        <if device="tablet" device_size="large" keyboard_mode="normal">
+            <view layout="@layout/APKTOOL_DUMMYVAL_0x7f0e048a" type="body" />
+        </if>
+        <else_if keyboard_mode="split">
+            <if split_with_duplicate_keys="true">
+                <view layout="@layout/APKTOOL_DUMMYVAL_0x7f0e0485" type="body" />
+            </if>
+            <else>
+                <view layout="@layout/APKTOOL_DUMMYVAL_0x7f0e0486" type="body" />
+            </else>
+        </else_if>
+        <else>
+            <view layout="@layout/APKTOOL_DUMMYVAL_0x7f0e0484" type="body" />
+        </else>
+        <view override="motion_event_handler" type="body">
+            <if enable_korean_composition_mode="true">
+                <motion_event_handler class=".libs.latin5.handler.LatinMotionEventHandler" />
+                <if enable_preemptive_decode="true">
+                    <motion_event_handler class=".libs.latin5.handler.LatinPreemptiveDecodeHandler" />
+                </if>
+                <motion_event_handler class=".libs.latin5.handler.LatinGestureMotionEventHandler" preference_key="@string/APKTOOL_DUMMYVAL_0x7f14094b" reverse_preference="false" />
+                <motion_event_handler class=".motioneventhandler.ScrubDeleteMotionEventHandler" preference_key="@string/APKTOOL_DUMMYVAL_0x7f140962" reverse_preference="false" />
+                <motion_event_handler class=".inlinesuggestion.InlineSuggestionScrubSpaceMotionEventHandler" />
+                <include href="@xml/APKTOOL_DUMMYVAL_0x7f170d01" />
+                <motion_event_handler class=".libs.latin5.handler.LatinKeyboardLayoutHandler" />
+                <softkeys href="@xml/APKTOOL_DUMMYVAL_0x7f170ec1" />
+            </if>
+            <else>
+                <motion_event_handler class=".motioneventhandler.SpatialModelMotionEventHandler" />
+                <motion_event_handler class=".libs.korean.KoreanGestureMotionEventHandler" preference_key="@string/APKTOOL_DUMMYVAL_0x7f14094b" reverse_preference="false" />
+                <motion_event_handler class=".libs.korean.KoreanKeyboardLayoutHandler" preference_key="@string/APKTOOL_DUMMYVAL_0x7f14094b" reverse_preference="false" />
+                <motion_event_handler class=".inlinesuggestion.InlineSuggestionScrubSpaceMotionEventHandler" />
+                <include href="@xml/APKTOOL_DUMMYVAL_0x7f170d01" />
+                <softkeys href="@xml/APKTOOL_DUMMYVAL_0x7f170ec0" />
+            </else>
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170bf1" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b6a" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170ba2" />
+        </view>
+    </keyboard>
+    <include href="@xml/APKTOOL_DUMMYVAL_0x7f1706ef" />
+    <if enable_number_row="true">
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170819" />
+    </if>
+</framework>

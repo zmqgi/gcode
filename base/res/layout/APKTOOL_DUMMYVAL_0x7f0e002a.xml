@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:id="@id/APKTOOL_DUMMYVAL_0x7f0b009e" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginBottom="?APKTOOL_DUMMYVAL_0x7f040020"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.libraries.inputmethod.accesspoint.widget.AccessPointCustomizeHintView android:visibility="gone" app:APKTOOL_DUMMYVAL_0x7f04072d="APKTOOL_DUMMYVAL_0x7f0b06f8" app:APKTOOL_DUMMYVAL_0x7f040741="APKTOOL_DUMMYVAL_0x7f0b06f8" app:APKTOOL_DUMMYVAL_0x7f040745="APKTOOL_DUMMYVAL_0x7f0b06f8" style="@style/APKTOOL_DUMMYVAL_0x7f150250">
+        <TextView style="@style/APKTOOL_DUMMYVAL_0x7f15024f" />
+    </com.google.android.libraries.inputmethod.accesspoint.widget.AccessPointCustomizeHintView>
+    <FrameLayout android:id="@id/APKTOOL_DUMMYVAL_0x7f0b009b" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="?APKTOOL_DUMMYVAL_0x7f04001c" android:paddingHorizontal="?APKTOOL_DUMMYVAL_0x7f04001d" app:APKTOOL_DUMMYVAL_0x7f040727="APKTOOL_DUMMYVAL_0x7f0b06f8" app:APKTOOL_DUMMYVAL_0x7f04072d="APKTOOL_DUMMYVAL_0x7f0b06f8" app:APKTOOL_DUMMYVAL_0x7f040741="APKTOOL_DUMMYVAL_0x7f0b06f8">
+        <com.google.android.libraries.inputmethod.widgets.PageIndicatorView android:layout_gravity="center" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b009c" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" page_indicator_image="@layout/APKTOOL_DUMMYVAL_0x7f0e0028" />
+        <FrameLayout android:layout_gravity="end|center" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b009a" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginEnd="@dimen/APKTOOL_DUMMYVAL_0x7f07005a">
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0099" android:layout_width="wrap_content" android:layout_height="fill_parent" />
+        </FrameLayout>
+    </FrameLayout>
+    <com.google.android.libraries.inputmethod.accesspoint.widget.AccessPointsPanelViewPager android:id="@id/APKTOOL_DUMMYVAL_0x7f0b009d" android:layout_height="0.0dip" android:layout_marginTop="?APKTOOL_DUMMYVAL_0x7f04001f" android:layout_marginBottom="?APKTOOL_DUMMYVAL_0x7f04001e" app:APKTOOL_DUMMYVAL_0x7f040728="@id/APKTOOL_DUMMYVAL_0x7f0b009b" app:APKTOOL_DUMMYVAL_0x7f04072d="APKTOOL_DUMMYVAL_0x7f0b06f8" app:APKTOOL_DUMMYVAL_0x7f040741="APKTOOL_DUMMYVAL_0x7f0b06f8" app:APKTOOL_DUMMYVAL_0x7f040745="APKTOOL_DUMMYVAL_0x7f0b06f8" app:APKTOOL_DUMMYVAL_0x7f040756="8.0dip" style="@style/APKTOOL_DUMMYVAL_0x7f15000c" />
+</androidx.constraintlayout.widget.ConstraintLayout>

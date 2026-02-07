@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.popup.MaterialRectangularPopupView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0715" android:contentDescription="@null" app:APKTOOL_DUMMYVAL_0x7f0400b0="?APKTOOL_DUMMYVAL_0x7f0402a0" app:APKTOOL_DUMMYVAL_0x7f0402ab="?APKTOOL_DUMMYVAL_0x7f040263" app:APKTOOL_DUMMYVAL_0x7f040302="?APKTOOL_DUMMYVAL_0x7f0402ac" app:APKTOOL_DUMMYVAL_0x7f040303="?APKTOOL_DUMMYVAL_0x7f0402ad" balanced_placement="true" image_view="@layout/APKTOOL_DUMMYVAL_0x7f0e0605" max_item_per_row="5" style="@style/APKTOOL_DUMMYVAL_0x7f150495" text_view="@layout/APKTOOL_DUMMYVAL_0x7f0e0613"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0722" android:importantForAccessibility="no" style="@style/APKTOOL_DUMMYVAL_0x7f150498" />
+    <FrameLayout android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0720" style="@style/APKTOOL_DUMMYVAL_0x7f150497">
+        <LinearLayout android:id="@id/APKTOOL_DUMMYVAL_0x7f0b071f" style="@style/APKTOOL_DUMMYVAL_0x7f150496" />
+    </FrameLayout>
+</com.google.android.libraries.inputmethod.popup.MaterialRectangularPopupView>

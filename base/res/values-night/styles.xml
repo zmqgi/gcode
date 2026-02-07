@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.AppCompat.DayNight" parent="@style/APKTOOL_DUMMYVAL_0x7f150999" />
+    <style name="Theme.AppCompat.DayNight.DarkActionBar" parent="@style/APKTOOL_DUMMYVAL_0x7f150999" />
+    <style name="Theme.AppCompat.DayNight.Dialog" parent="@style/Theme.AppCompat.Dialog" />
+    <style name="Theme.AppCompat.DayNight.Dialog.Alert" parent="@style/Theme.AppCompat.Dialog.Alert" />
+    <style name="Theme.AppCompat.DayNight.Dialog.MinWidth" parent="@style/Theme.AppCompat.Dialog.MinWidth" />
+    <style name="Theme.AppCompat.DayNight.DialogWhenLarge" parent="@style/Theme.AppCompat.DialogWhenLarge" />
+    <style name="Theme.AppCompat.DayNight.NoActionBar" parent="@style/Theme.AppCompat.NoActionBar" />
+    <style name="APKTOOL_DUMMYVAL_0x7f1509f6" parent="@style/APKTOOL_DUMMYVAL_0x7f1509ee" />
+    <style name="APKTOOL_DUMMYVAL_0x7f1509f7" parent="@style/APKTOOL_DUMMYVAL_0x7f1509ef" />
+    <style name="APKTOOL_DUMMYVAL_0x7f1509fc" parent="@style/APKTOOL_DUMMYVAL_0x7f1509f4" />
+    <style name="APKTOOL_DUMMYVAL_0x7f150a0f" parent="@style/APKTOOL_DUMMYVAL_0x7f150a07" />
+    <style name="APKTOOL_DUMMYVAL_0x7f150a43" parent="@style/APKTOOL_DUMMYVAL_0x7f150a41" />
+    <style name="APKTOOL_DUMMYVAL_0x7f150a68" parent="@style/APKTOOL_DUMMYVAL_0x7f150a64" />
+    <style name="APKTOOL_DUMMYVAL_0x7f150a76" parent="@style/APKTOOL_DUMMYVAL_0x7f150a91" />
+    <style name="APKTOOL_DUMMYVAL_0x7f150b35" parent="@style/APKTOOL_DUMMYVAL_0x7f150b34" />
+    <style name="APKTOOL_DUMMYVAL_0x7f150b5e" parent="@style/APKTOOL_DUMMYVAL_0x7f150b5d" />
+    <style name="APKTOOL_DUMMYVAL_0x7f150c50" parent="@style/APKTOOL_DUMMYVAL_0x7f150b42" />
+    <style name="APKTOOL_DUMMYVAL_0x7f150c53" parent="@style/APKTOOL_DUMMYVAL_0x7f150d8a" />
+</resources>

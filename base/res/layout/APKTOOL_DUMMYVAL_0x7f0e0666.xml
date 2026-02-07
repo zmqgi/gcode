@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingVertical="14.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="@style/APKTOOL_DUMMYVAL_0x7f1508c4" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b019f" android:tag=".label.clipboard-separator-item.v2" android:layout_width="0.0dip" android:layout_weight="100.0" style="@style/APKTOOL_DUMMYVAL_0x7f150209" />
+    <ImageView android:id="@id/key_pos_clipboard_edit" android:background="@drawable/APKTOOL_DUMMYVAL_0x7f080223" android:visibility="gone" android:src="@drawable/APKTOOL_DUMMYVAL_0x7f08038f" android:contentDescription="@string/APKTOOL_DUMMYVAL_0x7f140184" style="@style/APKTOOL_DUMMYVAL_0x7f150211" />
+</LinearLayout>

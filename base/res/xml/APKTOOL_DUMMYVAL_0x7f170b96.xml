@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1003" view_id="@id/key_pos_ime_action" />
+    </key_mapping>
+    <include href="@xml/APKTOOL_DUMMYVAL_0x7f170ba0" />
+    <key_mapping state="INPUT_TYPE_EMAIL_ADDRESS">
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1003" view_id="@id/key_pos_ime_action" />
+    </key_mapping>
+    <key_mapping state="IME_ACTION_GO">
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0823" view_id="@id/key_pos_ime_action" />
+    </key_mapping>
+    <key_mapping state="IME_ACTION_SEARCH">
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0828" view_id="@id/key_pos_ime_action" />
+    </key_mapping>
+    <key_mapping state="IME_ACTION_SEND">
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0829" view_id="@id/key_pos_ime_action" />
+    </key_mapping>
+    <key_mapping state="IME_ACTION_NEXT">
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0826" view_id="@id/key_pos_ime_action" />
+    </key_mapping>
+    <key_mapping state="IME_ACTION_PREVIOUS">
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0827" view_id="@id/key_pos_ime_action" />
+    </key_mapping>
+    <key_mapping state="IME_ACTION_DONE">
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0822" view_id="@id/key_pos_ime_action" />
+    </key_mapping>
+    <if language="zh">
+        <key_mapping state="COMPOSING">
+            <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1003" view_id="@id/key_pos_ime_action" />
+        </key_mapping>
+    </if>
+</framework>

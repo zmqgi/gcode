@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">Հաճա՞խ եք օգտվում «%s» գործառույթներից։ Այժմ դրանք այստեղ են, որպեսզի դյուրին լինի դրանցից օգտվելը։</item>
+        <item quantity="one">Հաճա՞խ եք օգտվում «%s» գործառույթից։ Այժմ այն այստեղ է, որպեսզի դյուրին լինի դրանից օգտվելը։</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">%d նշանակված ստեղն</item>
+        <item quantity="one">%d նշանակված ստեղն</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">%s լեզուներն այժմ տեղադրված են։</item>
+        <item quantity="one">%s լեզուն այժմ տեղադրված է։</item>
+    </plurals>
+</resources>

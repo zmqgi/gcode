@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">Maiz erabiltzen dituzu %s? Orain hemen duzu, errazago atzi ditzazun.</item>
+        <item quantity="one">Maiz erabiltzen duzu %s? Orain hemen duzu, errazago atzi dezazun.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">%d tekla esleitu dira</item>
+        <item quantity="one">%d tekla esleitu da</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">Instalatu dira %s.</item>
+        <item quantity="one">Instalatu da %s.</item>
+    </plurals>
+</resources>

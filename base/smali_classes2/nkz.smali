@@ -1,0 +1,11 @@
+.class public interface abstract Lnkz;
+.super Ljava/lang/Object;
+.source "PG"
+
+
+# virtual methods
+.method public abstract a(Landroid/content/Context;)Lnlj;
+.end method
+
+.method public abstract b(Lnlo;)Lnky;
+.end method

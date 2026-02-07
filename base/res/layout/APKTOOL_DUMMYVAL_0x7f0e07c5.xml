@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.libraries.inputmethod.widgets.AutoCenterScaleTextView android:textSize="?APKTOOL_DUMMYVAL_0x7f040353" android:layout_gravity="center" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b255a" android:paddingEnd="0.0dip" app:APKTOOL_DUMMYVAL_0x7f0408ff="APKTOOL_DUMMYVAL_0x7f0b0792" style="@style/APKTOOL_DUMMYVAL_0x7f1503b2" />
+</FrameLayout>

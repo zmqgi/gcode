@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <if device="tablet" device_size="large" keyboard_mode="normal">
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170cc1" />
+    </if>
+    <else>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170cbc" />
+    </else>
+    <include href="@xml/APKTOOL_DUMMYVAL_0x7f170ab5" />
+    <include href="@xml/APKTOOL_DUMMYVAL_0x7f170ab6" />
+</framework>

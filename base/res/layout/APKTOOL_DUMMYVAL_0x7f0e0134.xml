@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:id="@id/APKTOOL_DUMMYVAL_0x7f0b036e" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginEnd="@dimen/APKTOOL_DUMMYVAL_0x7f070980" app:APKTOOL_DUMMYVAL_0x7f040727="APKTOOL_DUMMYVAL_0x7f0b06f8" app:APKTOOL_DUMMYVAL_0x7f04072e="@id/APKTOOL_DUMMYVAL_0x7f0b036f" app:APKTOOL_DUMMYVAL_0x7f040741="APKTOOL_DUMMYVAL_0x7f0b06f8" app:APKTOOL_DUMMYVAL_0x7f040745="APKTOOL_DUMMYVAL_0x7f0b06f8">
+        <ImageView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b036d" android:tag=".clipboard-suggestion-paste-icon" android:importantForAccessibility="no" style="@style/APKTOOL_DUMMYVAL_0x7f150780" />
+        <ProgressBar android:id="@id/APKTOOL_DUMMYVAL_0x7f0b03ca" android:visibility="gone" android:importantForAccessibility="no" style="@style/APKTOOL_DUMMYVAL_0x7f150780" />
+    </FrameLayout>
+    <com.google.android.libraries.inputmethod.widgets.AutoCenterScaleTextView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b036f" android:layout_marginEnd="@dimen/APKTOOL_DUMMYVAL_0x7f070981" app:APKTOOL_DUMMYVAL_0x7f040727="APKTOOL_DUMMYVAL_0x7f0b06f8" app:APKTOOL_DUMMYVAL_0x7f04072d="APKTOOL_DUMMYVAL_0x7f0b06f8" app:APKTOOL_DUMMYVAL_0x7f040740="@id/APKTOOL_DUMMYVAL_0x7f0b036e" app:APKTOOL_DUMMYVAL_0x7f040745="APKTOOL_DUMMYVAL_0x7f0b06f8" app:APKTOOL_DUMMYVAL_0x7f0408ff="APKTOOL_DUMMYVAL_0x7f0b0792" style="@style/APKTOOL_DUMMYVAL_0x7f150783" />
+</merge>

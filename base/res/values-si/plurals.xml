@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">%s නිතර භාවිතා කරනවා ද? ප්‍රවේශ වීම පහසු කිරීම සඳහා ඒවා දැන් මෙහි ඇත.</item>
+        <item quantity="one">%s නිතර භාවිතා කරනවා ද? ප්‍රවේශ වීම පහසු කිරීම සඳහා ඒවා දැන් මෙහි ඇත.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">යතුරු %dක් පැවරුවා</item>
+        <item quantity="one">යතුරු %dක් පැවරුවා</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">%s දැන් ස්ථාපනය කර ඇත.</item>
+        <item quantity="one">%s දැන් ස්ථාපනය කර ඇත.</item>
+    </plurals>
+</resources>

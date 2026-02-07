@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/APKTOOL_DUMMYVAL_0x7f0b07bc" android:focusable="true" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="?APKTOOL_DUMMYVAL_0x7f040208" android:layout_marginStart="?APKTOOL_DUMMYVAL_0x7f04016a" android:layout_marginEnd="?APKTOOL_DUMMYVAL_0x7f04016a"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

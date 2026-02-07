@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dynamic_keys>
+    <key>
+        <action state="0" type="PRESS">ঋ</action>
+        <action state="0" type="LONG_PRESS">ৃ</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">অ</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">আ</action>
+        <action state="0" type="LONG_PRESS">া</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ই</action>
+        <action state="0" type="LONG_PRESS">ি</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ঈ</action>
+        <action state="0" type="LONG_PRESS">ী</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">উ</action>
+        <action state="0" type="LONG_PRESS">ু</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ঊ</action>
+        <action state="0" type="LONG_PRESS">ূ</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">এ</action>
+        <action state="0" type="LONG_PRESS">ে</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ঐ</action>
+        <action state="0" type="LONG_PRESS">ৈ</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ও</action>
+        <action state="0" type="LONG_PRESS">ো</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ঔ</action>
+        <action state="0" type="LONG_PRESS">ৌ</action>
+    </key>
+</dynamic_keys>

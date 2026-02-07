@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/APKTOOL_DUMMYVAL_0x7f170539" />
+    <include href="@xml/APKTOOL_DUMMYVAL_0x7f170892" />
+    <include href="@xml/APKTOOL_DUMMYVAL_0x7f170833" />
+    <keyboard>
+        <view override="motion_event_handler" type="body">
+            <motion_event_handler class=".motioneventhandler.SpatialModelMotionEventHandler" />
+            <motion_event_handler class=".inlinesuggestion.InlineSuggestionScrubSpaceMotionEventHandler" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170d01" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b94" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170ba7" />
+            <if enable_pk_simulator="true" enable_pk_simulator_setting="true">
+                <include href="@xml/APKTOOL_DUMMYVAL_0x7f170c1e" />
+            </if>
+        </view>
+    </keyboard>
+    <ifnot enable_pk_simulator="true" enable_pk_simulator_setting="true">
+        <if enable_number_row="true">
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170803" />
+        </if>
+    </ifnot>
+</framework>

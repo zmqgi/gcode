@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class="com.google.android.apps.inputmethod.libs.search.emoji.lite.LiteEmojiPickerKeyboard">
+        <view direction="locale" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e01c4" scalable="false" type="header" />
+        <view direction="locale" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e0509" type="body">
+            <motion_event_handler class=".motioneventhandler.BasicMotionEventHandler" />
+            <softkeys href="@xml/APKTOOL_DUMMYVAL_0x7f170d38" />
+            <softkeys href="@xml/APKTOOL_DUMMYVAL_0x7f170d3c" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170a9b" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b62" />
+        </view>
+    </keyboard>
+</framework>

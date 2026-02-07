@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/APKTOOL_DUMMYVAL_0x7f140bfb"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140c07" android:key="@string/APKTOOL_DUMMYVAL_0x7f140993" android:defaultValue="@bool/APKTOOL_DUMMYVAL_0x7f050080" />
+    <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140bfd" android:key="@string/APKTOOL_DUMMYVAL_0x7f140989" android:defaultValue="@bool/APKTOOL_DUMMYVAL_0x7f050076" />
+    <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140c05" android:key="@string/APKTOOL_DUMMYVAL_0x7f140991" android:defaultValue="@bool/APKTOOL_DUMMYVAL_0x7f05007e" />
+    <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140bfc" android:key="@string/APKTOOL_DUMMYVAL_0x7f140988" android:defaultValue="@bool/APKTOOL_DUMMYVAL_0x7f050075" />
+    <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140bfe" android:key="@string/APKTOOL_DUMMYVAL_0x7f14098a" android:defaultValue="@bool/APKTOOL_DUMMYVAL_0x7f050077" />
+    <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140c01" android:key="@string/APKTOOL_DUMMYVAL_0x7f14098d" android:defaultValue="@bool/APKTOOL_DUMMYVAL_0x7f05007a" />
+    <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140c03" android:key="@string/APKTOOL_DUMMYVAL_0x7f14098f" android:defaultValue="@bool/APKTOOL_DUMMYVAL_0x7f05007c" />
+    <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140bff" android:key="@string/APKTOOL_DUMMYVAL_0x7f14098b" android:defaultValue="@bool/APKTOOL_DUMMYVAL_0x7f050078" />
+    <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140c04" android:key="@string/APKTOOL_DUMMYVAL_0x7f140990" android:defaultValue="@bool/APKTOOL_DUMMYVAL_0x7f05007d" />
+    <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140c02" android:key="@string/APKTOOL_DUMMYVAL_0x7f14098e" android:defaultValue="@bool/APKTOOL_DUMMYVAL_0x7f05007b" />
+    <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140c00" android:key="@string/APKTOOL_DUMMYVAL_0x7f14098c" android:defaultValue="@bool/APKTOOL_DUMMYVAL_0x7f050079" />
+    <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140c06" android:key="@string/APKTOOL_DUMMYVAL_0x7f140992" android:defaultValue="@bool/APKTOOL_DUMMYVAL_0x7f05007f" />
+</PreferenceScreen>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout style="@style/APKTOOL_DUMMYVAL_0x7f150355"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0160" android:visibility="gone" style="@style/APKTOOL_DUMMYVAL_0x7f150753" />
+    <FrameLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/APKTOOL_DUMMYVAL_0x7f1501f2">
+        <com.google.android.libraries.inputmethod.emoji.view.EmojiView android:textSize="?APKTOOL_DUMMYVAL_0x7f04031f" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b05fa" android:tag=".non-linear-scale" android:layout_width="fill_parent" android:layout_height="fill_parent" app:APKTOOL_DUMMYVAL_0x7f04081c="?APKTOOL_DUMMYVAL_0x7f04026a" />
+    </FrameLayout>
+</FrameLayout>

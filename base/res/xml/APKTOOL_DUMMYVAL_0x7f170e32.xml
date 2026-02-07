@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/APKTOOL_DUMMYVAL_0x7f170d33" />
+    <softkeys>
+        <softkey_template content_description="$desc$" id="@id/APKTOOL_DUMMYVAL_0x7f0b2172" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e06be" multi_touch="false" popup_timing="@string/APKTOOL_DUMMYVAL_0x7f140b13" slide_sensitivity="NORMAL">
+            <action intention="COMMIT" keycode="$key_code$" popup_label="$label$" type="PRESS" />
+            <label location="@id/APKTOOL_DUMMYVAL_0x7f0b05fa" value="$label$" />
+        </softkey_template>
+        <softkey_list splitter=" " template_id="@id/APKTOOL_DUMMYVAL_0x7f0b2172">
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1008" key_code="ESCAPE" label="Esc" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1060" key_code="F1" label="F1" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1065" key_code="F2" label="F2" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1066" key_code="F3" label="F3" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1067" key_code="F4" label="F4" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1068" key_code="F5" label="F5" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1069" key_code="F6" label="F6" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b106a" key_code="F7" label="F7" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b106b" key_code="F8" label="F8" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b106c" key_code="F9" label="F9" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1061" key_code="F10" label="F10" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1062" key_code="F11" label="F11" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1063" key_code="F12" label="F12" />
+        </softkey_list>
+        <softkey_template content_description="$desc$" id="@id/APKTOOL_DUMMYVAL_0x7f0b2174" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e06cf" popup_timing="@string/APKTOOL_DUMMYVAL_0x7f140b13">
+            <action intention="COMMIT" keycode="$key_code$" type="PRESS" />
+            <icon location="@id/APKTOOL_DUMMYVAL_0x7f0b03a3" value="$icon$" />
+            <label location="@id/APKTOOL_DUMMYVAL_0x7f0b05fb" value="$label_bottom$" />
+        </softkey_template>
+        <softkey_list splitter=" " template_id="@id/APKTOOL_DUMMYVAL_0x7f0b2174">
+            <softkey icon="@attr/APKTOOL_DUMMYVAL_0x7f040176" id="@id/APKTOOL_DUMMYVAL_0x7f0b14f5" key_code="BACK" label_bottom="F1" />
+            <softkey icon="@attr/APKTOOL_DUMMYVAL_0x7f040184" id="@id/APKTOOL_DUMMYVAL_0x7f0b14fa" key_code="HOME" label_bottom="F2" />
+            <softkey icon="@attr/APKTOOL_DUMMYVAL_0x7f0401bd" id="@id/APKTOOL_DUMMYVAL_0x7f0b14fb" key_code="ALL_APPS" label_bottom="F3" />
+            <softkey icon="@attr/APKTOOL_DUMMYVAL_0x7f04017f" id="@id/APKTOOL_DUMMYVAL_0x7f0b14fc" key_code="FULLSCREEN" label_bottom="F4" />
+            <softkey icon="@attr/APKTOOL_DUMMYVAL_0x7f0401b1" id="@id/APKTOOL_DUMMYVAL_0x7f0b14fd" key_code="SCREENSHOT" label_bottom="F5" />
+            <softkey icon="@attr/APKTOOL_DUMMYVAL_0x7f04017b" id="@id/APKTOOL_DUMMYVAL_0x7f0b14fe" key_code="BRIGHTNESS_DOWN" label_bottom="F6" />
+            <softkey icon="@attr/APKTOOL_DUMMYVAL_0x7f04017a" id="@id/APKTOOL_DUMMYVAL_0x7f0b14ff" key_code="BRIGHTNESS_UP" label_bottom="F7" />
+            <softkey icon="@attr/APKTOOL_DUMMYVAL_0x7f040170" id="@id/APKTOOL_DUMMYVAL_0x7f0b1500" key_code="F8" label_bottom="F8" />
+            <softkey icon="@attr/APKTOOL_DUMMYVAL_0x7f0401a9" id="@id/APKTOOL_DUMMYVAL_0x7f0b1501" key_code="MEDIA_PLAY_PAUSE" label_bottom="F9" />
+            <softkey icon="@attr/APKTOOL_DUMMYVAL_0x7f0401ce" id="@id/APKTOOL_DUMMYVAL_0x7f0b14f6" key_code="VOLUME_MUTE" label_bottom="F10" />
+            <softkey icon="@attr/APKTOOL_DUMMYVAL_0x7f0401cd" id="@id/APKTOOL_DUMMYVAL_0x7f0b14f7" key_code="VOLUME_DOWN" label_bottom="F11" />
+            <softkey icon="@attr/APKTOOL_DUMMYVAL_0x7f0401cf" id="@id/APKTOOL_DUMMYVAL_0x7f0b14f8" key_code="VOLUME_UP" label_bottom="F12" />
+        </softkey_list>
+    </softkeys>
+</framework>

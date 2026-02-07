@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime announce_auto_selected_candidate="true" ascii_capable="true" auto_capital="true" class="com.google.android.apps.inputmethod.libs.latin5.LatinIme" display_app_completions="true" language="mnp-CN" string_id="ime_northern_min">
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170761" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f17068c" main_def="@xml/APKTOOL_DUMMYVAL_0x7f17085d" pk_language_tag="mnp-Latn-CN" variant="northern_min" variant_label="@string/APKTOOL_DUMMYVAL_0x7f1415aa" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170768" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f17068b" pk_language_tag="mnp-Latn-CN" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f17076b" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f17068b" pk_language_tag="mnp-Latn-CN" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f17075d" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f17068b" pk_language_tag="mnp-Latn-CN" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f17075f" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f17068b" pk_language_tag="mnp-Latn-CN" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f17075e" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f17068b" pk_language_tag="mnp-Latn-CN" />
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170767" lang_def="@xml/APKTOOL_DUMMYVAL_0x7f17068b" pk_language_tag="mnp-Latn-CN" />
+    </ime>
+</framework>

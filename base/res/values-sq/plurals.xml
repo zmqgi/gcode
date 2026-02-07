@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">I përdor shpesh %s? Tani janë këtu për ta bërë të lehtë qasjen.</item>
+        <item quantity="one">E përdor shpesh %s? Tani është këtu për ta bërë të lehtë qasjen.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">%d taste të caktuara</item>
+        <item quantity="one">%d tast i caktuar</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">%s janë instaluar tani.</item>
+        <item quantity="one">%s është instaluar tani.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout style="@style/APKTOOL_DUMMYVAL_0x7f1502e0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingVertical="6.0dip">
+        <androidx.cardview.widget.CardView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b01b4" android:layout_width="@dimen/APKTOOL_DUMMYVAL_0x7f0701be" android:layout_height="@dimen/APKTOOL_DUMMYVAL_0x7f0701be" android:layout_marginStart="6.0dip" app:APKTOOL_DUMMYVAL_0x7f040454="@dimen/APKTOOL_DUMMYVAL_0x7f0701bd" app:APKTOOL_DUMMYVAL_0x7f040455="0.0dip">
+            <ImageView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b01b3" android:layout_width="@dimen/APKTOOL_DUMMYVAL_0x7f0701be" android:layout_height="@dimen/APKTOOL_DUMMYVAL_0x7f0701be" android:scaleType="centerCrop" android:contentDescription="@string/APKTOOL_DUMMYVAL_0x7f1404e6" />
+        </androidx.cardview.widget.CardView>
+        <TextView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b01b5" android:text="@string/APKTOOL_DUMMYVAL_0x7f140189" style="@style/APKTOOL_DUMMYVAL_0x7f150784" />
+    </LinearLayout>
+</FrameLayout>

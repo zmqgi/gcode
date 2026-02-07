@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.widgets.SoftKeyboardView app:APKTOOL_DUMMYVAL_0x7f04074e="?APKTOOL_DUMMYVAL_0x7f0400ce" style="@style/APKTOOL_DUMMYVAL_0x7f1501df"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout style="@style/APKTOOL_DUMMYVAL_0x7f1502bb">
+        <include layout="@layout/APKTOOL_DUMMYVAL_0x7f0e01cf" />
+        <androidx.coordinatorlayout.widget.CoordinatorLayout android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/APKTOOL_DUMMYVAL_0x7f1502b9">
+            <androidx.constraintlayout.widget.ConstraintLayout android:orientation="horizontal" android:paddingTop="@dimen/APKTOOL_DUMMYVAL_0x7f070194" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <LinearLayout android:layout_gravity="start" android:orientation="vertical" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0176" android:layout_width="0.0dip" android:layout_height="0.0dip" app:APKTOOL_DUMMYVAL_0x7f040727="APKTOOL_DUMMYVAL_0x7f0b06f8" app:APKTOOL_DUMMYVAL_0x7f04072e="@id/APKTOOL_DUMMYVAL_0x7f0b037f" app:APKTOOL_DUMMYVAL_0x7f040738="APKTOOL_DUMMYVAL_0x7f0b2433" app:APKTOOL_DUMMYVAL_0x7f040741="APKTOOL_DUMMYVAL_0x7f0b06f8" app:APKTOOL_DUMMYVAL_0x7f040745="APKTOOL_DUMMYVAL_0x7f0b06f8" style="@style/APKTOOL_DUMMYVAL_0x7f150799">
+                    <include layout="@layout/APKTOOL_DUMMYVAL_0x7f0e0055" />
+                    <FrameLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="9.0">
+                        <android.support.v7.widget.RecyclerView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0170" android:layout_width="fill_parent" android:layout_height="fill_parent" android:nestedScrollingEnabled="false" />
+                        <com.google.android.libraries.inputmethod.recyclerview.BindingRecyclerView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b026e" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:nestedScrollingEnabled="false" />
+                    </FrameLayout>
+                </LinearLayout>
+                <androidx.constraintlayout.widget.Guideline android:orientation="vertical" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b037f" android:layout_width="wrap_content" android:layout_height="wrap_content" app:APKTOOL_DUMMYVAL_0x7f040731="@dimen/APKTOOL_DUMMYVAL_0x7f0709ac" />
+                <LinearLayout android:layout_gravity="right" android:orientation="horizontal" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b027e" android:layout_width="0.0dip" android:layout_height="0.0dip" android:baselineAligned="false" app:APKTOOL_DUMMYVAL_0x7f040727="APKTOOL_DUMMYVAL_0x7f0b06f8" app:APKTOOL_DUMMYVAL_0x7f04072d="APKTOOL_DUMMYVAL_0x7f0b06f8" app:APKTOOL_DUMMYVAL_0x7f040738="APKTOOL_DUMMYVAL_0x7f0b2433" app:APKTOOL_DUMMYVAL_0x7f040739="1.0" app:APKTOOL_DUMMYVAL_0x7f040740="@id/APKTOOL_DUMMYVAL_0x7f0b037f" app:APKTOOL_DUMMYVAL_0x7f040745="APKTOOL_DUMMYVAL_0x7f0b06f8">
+                    <LinearLayout android:layout_gravity="right" android:orientation="vertical" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b01dc" android:layout_width="?APKTOOL_DUMMYVAL_0x7f0400d2" android:layout_height="fill_parent" android:paddingHorizontal="16.0dip">
+                        <FrameLayout android:id="@id/APKTOOL_DUMMYVAL_0x7f0b027a" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+                        <FrameLayout android:id="@id/APKTOOL_DUMMYVAL_0x7f0b026d" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+                            <ViewSwitcher android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0760" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                                <RelativeLayout android:orientation="vertical" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b075f" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                                    <FrameLayout android:id="@id/APKTOOL_DUMMYVAL_0x7f0b06e6" android:layout_width="@dimen/APKTOOL_DUMMYVAL_0x7f07009e" android:layout_height="@dimen/APKTOOL_DUMMYVAL_0x7f07009e" android:layout_alignParentTop="true" android:layout_alignParentEnd="true">
+                                        <ImageView android:layout_gravity="end|center|top" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b06e5" android:tag=".content-suggestion-primary-color" android:layout_width="@dimen/APKTOOL_DUMMYVAL_0x7f070100" android:layout_height="@dimen/APKTOOL_DUMMYVAL_0x7f070100" android:layout_margin="8.0dip" android:scaleType="centerInside" android:importantForAccessibility="no" />
+                                    </FrameLayout>
+                                    <ImageView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b075e" android:tag=".content-suggestion-primary-color" android:layout_width="fill_parent" android:layout_height="250.0dip" android:scaleType="centerCrop" android:layout_centerInParent="true" android:alpha="0.4" android:importantForAccessibility="no" />
+                                    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0763" android:layout_width="280.0dip" android:layout_height="fill_parent" android:layout_centerInParent="true">
+                                        <ImageView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0764" android:tag=".content-suggestion-primary-color" android:layout_width="35.0dip" android:layout_height="35.0dip" android:layout_marginBottom="16.0dip" android:scaleType="centerInside" android:importantForAccessibility="no" />
+                                        <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                                            <com.google.android.libraries.inputmethod.widgets.WrapWidthTextView android:gravity="center" android:layout_gravity="center" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0765" android:maxLines="3" android:breakStrategy="balanced" style="@style/APKTOOL_DUMMYVAL_0x7f150521" />
+                                            <TextView android:gravity="center" android:layout_gravity="center" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0767" android:padding="8.0dip" android:visibility="gone" android:text="@string/APKTOOL_DUMMYVAL_0x7f140505" android:maxLines="1" style="@style/APKTOOL_DUMMYVAL_0x7f150522" />
+                                        </LinearLayout>
+                                    </LinearLayout>
+                                </RelativeLayout>
+                                <include layout="@layout/APKTOOL_DUMMYVAL_0x7f0e064c" />
+                            </ViewSwitcher>
+                            <com.google.android.libraries.inputmethod.recyclerview.BindingRecyclerView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0147" android:visibility="invisible" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                        </FrameLayout>
+                    </LinearLayout>
+                    <FrameLayout android:layout_gravity="center" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b028b" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" android:paddingEnd="16.0dip" android:layout_marginEnd="32.0dip">
+                        <com.google.android.libraries.inputmethod.emoji.picker.EmojiPickerBodyRecyclerView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b028a" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                        <com.google.android.libraries.inputmethod.emoji.picker.EmojiPickerBodyRecyclerView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b028c" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                        <FrameLayout android:id="@id/APKTOOL_DUMMYVAL_0x7f0b07bc" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                    </FrameLayout>
+                </LinearLayout>
+                <androidx.coordinatorlayout.widget.CoordinatorLayout android:layout_gravity="right" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b026f" android:visibility="gone" android:layout_width="0.0dip" android:layout_height="0.0dip" app:APKTOOL_DUMMYVAL_0x7f040727="APKTOOL_DUMMYVAL_0x7f0b06f8" app:APKTOOL_DUMMYVAL_0x7f04072d="APKTOOL_DUMMYVAL_0x7f0b06f8" app:APKTOOL_DUMMYVAL_0x7f040738="APKTOOL_DUMMYVAL_0x7f0b2433" app:APKTOOL_DUMMYVAL_0x7f040739="1.0" app:APKTOOL_DUMMYVAL_0x7f040740="@id/APKTOOL_DUMMYVAL_0x7f0b037f" app:APKTOOL_DUMMYVAL_0x7f040745="APKTOOL_DUMMYVAL_0x7f0b06f8">
+                    <com.google.android.libraries.inputmethod.contentsuggestion.browse.resource.CategoryViewPager android:id="@id/APKTOOL_DUMMYVAL_0x7f0b027b" android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingHorizontal="16.0dip" />
+                    <include layout="@layout/APKTOOL_DUMMYVAL_0x7f0e00b1" />
+                </androidx.coordinatorlayout.widget.CoordinatorLayout>
+            </androidx.constraintlayout.widget.ConstraintLayout>
+            <include layout="@layout/APKTOOL_DUMMYVAL_0x7f0e01ce" />
+        </androidx.coordinatorlayout.widget.CoordinatorLayout>
+    </LinearLayout>
+</com.google.android.libraries.inputmethod.widgets.SoftKeyboardView>

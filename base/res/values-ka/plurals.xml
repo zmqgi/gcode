@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">ხშირად იყენებთ %s-ებს? ისინი უკვე აქ არის წვდომის გასამარტივებლად.</item>
+        <item quantity="one">ხშირად იყენებთ %s-ს? ის უკვე აქ არის წვდომის გასამარტივებლად.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">%d კლავიშს მინიჭებული აქვს ფუნქცია</item>
+        <item quantity="one">%d კლავიშს მინიჭებული აქვს ფუნქცია</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">%s უკვე დაინსტალირდა.</item>
+        <item quantity="one">%s უკვე დაინსტალირდა.</item>
+    </plurals>
+</resources>

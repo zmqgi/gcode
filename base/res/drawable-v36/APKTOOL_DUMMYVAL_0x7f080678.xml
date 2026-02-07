@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple android:color="@color/APKTOOL_DUMMYVAL_0x7f060c18"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@android:id/background">
+        <layer-list android:paddingStart="0.0dip" android:paddingEnd="12.0dip" android:paddingMode="stack">
+            <item>
+                <shape>
+                    <corners android:radius="10.0dip" />
+                    <solid android:color="@color/APKTOOL_DUMMYVAL_0x7f060bf8" />
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+</ripple>

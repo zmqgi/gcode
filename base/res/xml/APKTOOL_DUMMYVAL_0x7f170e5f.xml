@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey_template content_description="$content_desc$" id="@id/APKTOOL_DUMMYVAL_0x7f0b215b" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e06c5" popup_timing="ON_TOUCH">
+            <action data="$press_data$" intention="DECODE" keycode="PLAIN_TEXT" popup_icon="$press_icon$" popup_label="$press_data$" popup_layout="$press_layout=@layout/popup_bubble_ja_label_large$" type="PRESS" />
+            <action content_description="$slideleft_desc$" data="$slideleft_data$" icon_background_level="@integer/APKTOOL_DUMMYVAL_0x7f0c0087" intention="DECODE" keycode="PLAIN_TEXT" popup_icon="$slideleft_icon$" popup_label="$slideleft_data$" popup_layout="$slideleft_layout=@layout/popup_bubble_ja_label_large$" type="SLIDE_LEFT" />
+            <action content_description="$slideup_desc$" data="$slideup_data$" icon_background_level="@integer/APKTOOL_DUMMYVAL_0x7f0c0089" intention="DECODE" keycode="PLAIN_TEXT" popup_icon="$slideup_icon$" popup_label="$slideup_data$" popup_layout="$slideup_layout=@layout/popup_bubble_ja_label_large$" type="SLIDE_UP">
+                <if ja_enable_popup_slideup_padding="true">
+                    <attrs popup_layout="$slideup_layout=@layout/popup_bubble_ja_label_large_slideup$" />
+                </if>
+            </action>
+            <action content_description="$slideright_desc$" data="$slideright_data$" icon_background_level="@integer/APKTOOL_DUMMYVAL_0x7f0c0088" intention="DECODE" keycode="PLAIN_TEXT" popup_icon="$slideright_icon$" popup_label="$slideright_data$" popup_layout="$slideright_layout=@layout/popup_bubble_ja_label_large$" type="SLIDE_RIGHT" />
+            <action content_description="$slidedown_desc$" data="$slidedown_data$" icon_background_level="@integer/APKTOOL_DUMMYVAL_0x7f0c0086" intention="DECODE" keycode="PLAIN_TEXT" popup_icon="$slidedown_icon$" popup_label="$slidedown_data$" popup_layout="$slidedown_layout=@layout/popup_bubble_ja_label_large$" type="SLIDE_DOWN" />
+            <label location="@id/APKTOOL_DUMMYVAL_0x7f0b05fa" value="$key_label$" />
+            <label location="@id/APKTOOL_DUMMYVAL_0x7f0b0609" value="$slideup_data$" />
+            <label location="@id/APKTOOL_DUMMYVAL_0x7f0b05fb" value="$slidedown_data$" />
+            <label location="@id/APKTOOL_DUMMYVAL_0x7f0b0603" value="$slideleft_data$" />
+            <label location="@id/APKTOOL_DUMMYVAL_0x7f0b0607" value="$slideright_data$" />
+        </softkey_template>
+        <softkey_template content_description="$content_desc$" id="@id/APKTOOL_DUMMYVAL_0x7f0b215a" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e06c5" popup_timing="ON_TOUCH">
+            <action data="$press_data$" intention="DECODE" keycode="PLAIN_TEXT" popup_icon="$press_icon$" popup_label="$press_data$" popup_layout="$press_layout=@layout/popup_bubble_ja_label_large$" type="PRESS" />
+            <action content_description="$slideleft_desc$" data="$slideleft_data$" icon_background_level="@integer/APKTOOL_DUMMYVAL_0x7f0c0087" intention="DECODE" keycode="PLAIN_TEXT" popup_icon="$slideleft_icon$" popup_label="$slideleft_data$" popup_layout="$slideleft_layout=@layout/popup_bubble_ja_label_large$" type="SLIDE_LEFT" />
+            <action content_description="$slideup_desc$" data="$slideup_data$" icon_background_level="@integer/APKTOOL_DUMMYVAL_0x7f0c0089" intention="DECODE" keycode="PLAIN_TEXT" popup_icon="$slideup_icon$" popup_label="$slideup_data$" popup_layout="$slideup_layout=@layout/popup_bubble_ja_label_large$" type="SLIDE_UP">
+                <if ja_enable_popup_slideup_padding="true">
+                    <attrs popup_layout="$slideup_layout=@layout/popup_bubble_ja_label_large_slideup$" />
+                </if>
+            </action>
+            <action content_description="$slideright_desc$" data="$slideright_data$" icon_background_level="@integer/APKTOOL_DUMMYVAL_0x7f0c0088" intention="DECODE" keycode="PLAIN_TEXT" popup_icon="$slideright_icon$" popup_label="$slideright_data$" popup_layout="$slideright_layout=@layout/popup_bubble_ja_label_large$" type="SLIDE_RIGHT" />
+            <action content_description="$slidedown_desc$" data="$slidedown_data$" icon_background_level="@integer/APKTOOL_DUMMYVAL_0x7f0c0086" intention="DECODE" keycode="PLAIN_TEXT" popup_icon="$slidedown_icon$" popup_label="$slidedown_data$" popup_layout="$slidedown_layout=@layout/popup_bubble_ja_label_large$" type="SLIDE_DOWN" />
+            <label location="@id/APKTOOL_DUMMYVAL_0x7f0b05fa" value="$key_label$" />
+            <label location="@id/APKTOOL_DUMMYVAL_0x7f0b0609" value="$slideup_data$" />
+            <label location="@id/APKTOOL_DUMMYVAL_0x7f0b05fb" value="$slidedown_data$" />
+            <label location="@id/APKTOOL_DUMMYVAL_0x7f0b0603" value="$slideleft_data$" />
+            <label location="@id/APKTOOL_DUMMYVAL_0x7f0b0607" value="$slideright_data$" />
+        </softkey_template>
+        <softkey_list splitter=" " template_id="@id/APKTOOL_DUMMYVAL_0x7f0b215b">
+            <softkey content_desc="अ आ इ ई उ" id="@id/APKTOOL_DUMMYVAL_0x7f0b0e10" key_label="अ" press_data="अ" slidedown_data="उ" slideleft_data="आ" slideright_data="ई" slideup_data="इ" />
+            <softkey content_desc="ऊ ए ऐ ओ औ" id="@id/APKTOOL_DUMMYVAL_0x7f0b0e11" key_label="ऊ" press_data="ऊ" slidedown_data="औ" slideleft_data="ए" slideright_data="ओ" slideup_data="ऐ" />
+            <softkey content_desc="् ं ऋ ऑ ँ" id="@id/APKTOOL_DUMMYVAL_0x7f0b0f0f" key_label="्" press_data="्" slidedown_data="ऋ" slideleft_data="ं" slideright_data="ऑ" slideup_data="ँ" />
+        </softkey_list>
+        <softkey_list splitter=" " template_id="@id/APKTOOL_DUMMYVAL_0x7f0b215a">
+            <softkey content_desc="कखगघङ" id="@id/APKTOOL_DUMMYVAL_0x7f0b0e66" key_label="क" press_data="क" slidedown_data="ङ" slideleft_data="ख" slideright_data="घ" slideup_data="ग" />
+            <softkey content_desc="चछजझञ" id="@id/APKTOOL_DUMMYVAL_0x7f0b0e22" key_label="च" press_data="च" slidedown_data="ञ" slideleft_data="छ" slideright_data="झ" slideup_data="ज" />
+            <softkey content_desc="टठडढण" id="@id/APKTOOL_DUMMYVAL_0x7f0b0ef2" key_label="ट" press_data="ट" slidedown_data="ण" slideleft_data="ठ" slideright_data="ढ" slideup_data="ड" />
+            <softkey content_desc="तथदधन" id="@id/APKTOOL_DUMMYVAL_0x7f0b0ee3" key_label="त" press_data="त" slidedown_data="न" slideleft_data="थ" slideright_data="ध" slideup_data="द" />
+            <softkey content_desc="पफबभम" id="@id/APKTOOL_DUMMYVAL_0x7f0b0e9f" key_label="प" press_data="प" slidedown_data="म" slideleft_data="फ" slideright_data="भ" slideup_data="ब" />
+            <softkey content_desc="यरलव" id="@id/APKTOOL_DUMMYVAL_0x7f0b0f04" key_label="य" press_data="य" slideleft_data="र" slideright_data="व" slideup_data="ल" />
+            <softkey content_desc="शषसह" id="@id/APKTOOL_DUMMYVAL_0x7f0b0edb" key_label="श" press_data="श" slideleft_data="ष" slideright_data="ह" slideup_data="स" />
+            <softkey content_desc="क्षत्रज्ञश्र" id="@id/APKTOOL_DUMMYVAL_0x7f0b0e6c" key_label="क्ष" press_data="क्ष" slideleft_data="त्र" slideright_data="श्र" slideup_data="ज्ञ" />
+            <softkey content_desc=",।?!" id="@id/APKTOOL_DUMMYVAL_0x7f0b0ce2" key_label="," press_data="," slideleft_data="।" slideright_data="!" slideup_data="\?" />
+        </softkey_list>
+        <softkey_template id="@id/APKTOOL_DUMMYVAL_0x7f0b215f" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e0699">
+            <action data="$press_data$" intention="COMMIT" keycode="PLAIN_TEXT" type="PRESS" />
+            <label location="@id/APKTOOL_DUMMYVAL_0x7f0b05fa" value="$press_data$" />
+        </softkey_template>
+        <softkey_list splitter=" " template_id="@id/APKTOOL_DUMMYVAL_0x7f0b215f">
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1e2e" press_data="." />
+        </softkey_list>
+    </softkeys>
+</framework>

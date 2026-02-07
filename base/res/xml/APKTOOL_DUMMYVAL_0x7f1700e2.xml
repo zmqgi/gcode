@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class="com.google.android.apps.inputmethod.libs.search.emoji.search.SearchKeyboardEmojiSpecializerM2" recent_key_layout="@layout/APKTOOL_DUMMYVAL_0x7f0e0705" recent_key_type="smiley" remember_recent_key="ALL_ACTIONS">
+        <view direction="locale" layout="@attr/APKTOOL_DUMMYVAL_0x7f0400d1" scalable="false" type="header">
+            <softkeys href="@xml/APKTOOL_DUMMYVAL_0x7f171074" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170ca4" />
+        </view>
+        <view id="@id/APKTOOL_DUMMYVAL_0x7f0b072c" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e0621" />
+    </keyboard>
+</framework>

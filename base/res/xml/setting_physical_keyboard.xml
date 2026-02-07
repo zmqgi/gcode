@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/APKTOOL_DUMMYVAL_0x7f140c7c" android:key="@string/APKTOOL_DUMMYVAL_0x7f140ab6"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <androidx.preference.PreferenceCategory android:title="@string/APKTOOL_DUMMYVAL_0x7f140c7f" android:key="@string/APKTOOL_DUMMYVAL_0x7f140c7e">
+        <Preference android:persistent="false" android:title="@string/APKTOOL_DUMMYVAL_0x7f140c4e" android:key="@string/APKTOOL_DUMMYVAL_0x7f140ab5" android:fragment="com.google.android.apps.inputmethod.libs.languageselection.preference.LanguageSettingFragment" />
+        <Preference android:persistent="false" android:title="@string/APKTOOL_DUMMYVAL_0x7f140cc9" android:key="@string/APKTOOL_DUMMYVAL_0x7f140ad1" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140cc8">
+            <intent android:targetPackage="com.android.settings" android:action="android.settings.HARD_KEYBOARD_SETTINGS" android:targetClass="com.android.settings.Settings$PhysicalKeyboardActivity" />
+        </Preference>
+    </androidx.preference.PreferenceCategory>
+    <androidx.preference.PreferenceCategory android:title="@string/APKTOOL_DUMMYVAL_0x7f140c83" android:key="@string/APKTOOL_DUMMYVAL_0x7f140c82">
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140b7f" android:key="@string/APKTOOL_DUMMYVAL_0x7f140a96" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140cdb" android:disableDependentsState="true" />
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140cbd" android:key="@string/APKTOOL_DUMMYVAL_0x7f140acd" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140cbc" android:dependency="@string/APKTOOL_DUMMYVAL_0x7f140a96" />
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140cb2" android:key="@string/APKTOOL_DUMMYVAL_0x7f140ac6" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140cb1" android:dependency="@string/APKTOOL_DUMMYVAL_0x7f140acd">
+            <extra android:name="toolbar_type" android:value="pk" />
+        </SwitchPreferenceCompat>
+    </androidx.preference.PreferenceCategory>
+    <androidx.preference.PreferenceCategory android:title="@string/APKTOOL_DUMMYVAL_0x7f140cd9" android:key="@string/APKTOOL_DUMMYVAL_0x7f140c80">
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f14035b" android:key="@string/APKTOOL_DUMMYVAL_0x7f14092f" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140359" />
+    </androidx.preference.PreferenceCategory>
+    <androidx.preference.PreferenceCategory android:title="@string/APKTOOL_DUMMYVAL_0x7f140b89" android:key="@string/APKTOOL_DUMMYVAL_0x7f140c7d">
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140c55" android:key="@string/APKTOOL_DUMMYVAL_0x7f140a63" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140c53" />
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140c52" android:key="@string/APKTOOL_DUMMYVAL_0x7f140a62" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140c50">
+            <extra android:name="hide_if_flag_is_false" android:value="@string/APKTOOL_DUMMYVAL_0x7f14035d" />
+        </SwitchPreferenceCompat>
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140c88" android:key="@string/APKTOOL_DUMMYVAL_0x7f140a97" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140c86" />
+    </androidx.preference.PreferenceCategory>
+</PreferenceScreen>

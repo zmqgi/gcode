@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector android:drawable="@drawable/APKTOOL_DUMMYVAL_0x7f080118"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <target android:name="_R_G_L_0_G_L_0_G_L_6_G_T_1" android:animation="@drawable/APKTOOL_DUMMYVAL_0x7f080119" />
+    <target android:name="_R_G_L_0_G_L_0_G_L_6_G_T_1" android:animation="@drawable/APKTOOL_DUMMYVAL_0x7f08011f" />
+    <target android:name="_R_G_L_0_G_L_0_G_L_6_G_T_1" android:animation="@drawable/APKTOOL_DUMMYVAL_0x7f080120" />
+    <target android:name="_R_G_L_0_G_L_0_G_L_5_G_T_1" android:animation="@drawable/APKTOOL_DUMMYVAL_0x7f080121" />
+    <target android:name="_R_G_L_0_G_L_0_G_L_5_G_T_1" android:animation="@drawable/APKTOOL_DUMMYVAL_0x7f080122" />
+    <target android:name="_R_G_L_0_G_L_0_G_L_4_G" android:animation="@drawable/APKTOOL_DUMMYVAL_0x7f080123" />
+    <target android:name="_R_G_L_0_G_L_0_G_L_3_G" android:animation="@drawable/APKTOOL_DUMMYVAL_0x7f080124" />
+    <target android:name="_R_G_L_0_G_L_0_G_L_3_G" android:animation="@drawable/APKTOOL_DUMMYVAL_0x7f080125" />
+    <target android:name="_R_G_L_0_G_L_0_G_L_2_G" android:animation="@drawable/APKTOOL_DUMMYVAL_0x7f080126" />
+    <target android:name="_R_G_L_0_G_L_0_G_L_2_G" android:animation="@drawable/APKTOOL_DUMMYVAL_0x7f08011a" />
+    <target android:name="_R_G_L_0_G_L_0_G_L_1_G_T_1" android:animation="@drawable/APKTOOL_DUMMYVAL_0x7f08011b" />
+    <target android:name="_R_G_L_0_G_L_0_G_L_0_G_T_1" android:animation="@drawable/APKTOOL_DUMMYVAL_0x7f08011c" />
+    <target android:name="_R_G_L_0_G_L_0_G_T_1" android:animation="@drawable/APKTOOL_DUMMYVAL_0x7f08011d" />
+    <target android:name="time_group" android:animation="@drawable/APKTOOL_DUMMYVAL_0x7f08011e" />
+</animated-vector>

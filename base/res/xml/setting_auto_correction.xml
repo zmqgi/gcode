@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/APKTOOL_DUMMYVAL_0x7f140b85" android:key="@string/APKTOOL_DUMMYVAL_0x7f140aac"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.libraries.inputmethod.preferencewidgets.ColoredBackgroundSwitchPreference android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140ce8" android:key="@string/APKTOOL_DUMMYVAL_0x7f140a5d" />
+    <com.android.settingslib.widget.RadioButtonPreference android:persistent="false" android:title="@string/APKTOOL_DUMMYVAL_0x7f140119" android:key="@string/APKTOOL_DUMMYVAL_0x7f14090b" android:dependency="@string/APKTOOL_DUMMYVAL_0x7f140a5d" app:APKTOOL_DUMMYVAL_0x7f040949="false">
+        <extra android:name="hide_if_flag_is_false" android:value="enable_llm_pc=false" />
+    </com.android.settingslib.widget.RadioButtonPreference>
+    <com.android.settingslib.widget.RadioButtonPreference android:persistent="false" android:title="@string/APKTOOL_DUMMYVAL_0x7f14011b" android:key="@string/APKTOOL_DUMMYVAL_0x7f14090c" android:dependency="@string/APKTOOL_DUMMYVAL_0x7f140a5d" app:APKTOOL_DUMMYVAL_0x7f040949="false">
+        <extra android:name="hide_if_flag_is_false" android:value="enable_llm_pc=false" />
+    </com.android.settingslib.widget.RadioButtonPreference>
+    <androidx.preference.PreferenceCategory android:title="@string/APKTOOL_DUMMYVAL_0x7f140b87" android:key="@string/APKTOOL_DUMMYVAL_0x7f140b86">
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140bb5" android:key="@string/APKTOOL_DUMMYVAL_0x7f140a5f" android:dependency="@string/APKTOOL_DUMMYVAL_0x7f140a5d" />
+    </androidx.preference.PreferenceCategory>
+</PreferenceScreen>

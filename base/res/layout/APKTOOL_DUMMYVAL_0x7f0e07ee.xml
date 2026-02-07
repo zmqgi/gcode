@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="horizontal" android:importantForAccessibility="no" style="@style/APKTOOL_DUMMYVAL_0x7f1510c0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.constraintlayout.widget.ConstraintLayout android:id="@id/APKTOOL_DUMMYVAL_0x7f0b259a" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:importantForAccessibility="no" app:APKTOOL_DUMMYVAL_0x7f04072d="APKTOOL_DUMMYVAL_0x7f0b06f8" app:APKTOOL_DUMMYVAL_0x7f040741="APKTOOL_DUMMYVAL_0x7f0b06f8">
+            <com.google.android.apps.inputmethod.libs.jarvis.miscs.ColorfulScrollbarScrollView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b079c" android:focusable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="51.0dip" android:importantForAccessibility="no">
+                <com.google.android.apps.inputmethod.libs.jarvis.miscs.StreamingTextView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b040c" android:focusable="false" android:importantForAccessibility="no" style="@style/APKTOOL_DUMMYVAL_0x7f1510c1" />
+            </com.google.android.apps.inputmethod.libs.jarvis.miscs.ColorfulScrollbarScrollView>
+            <Space android:id="@id/APKTOOL_DUMMYVAL_0x7f0b259b" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+        </LinearLayout>
+        <RelativeLayout android:orientation="horizontal" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b2595" android:layout_width="fill_parent" android:layout_height="fill_parent" android:importantForAccessibility="no" app:APKTOOL_DUMMYVAL_0x7f040727="APKTOOL_DUMMYVAL_0x7f0b06f8" app:APKTOOL_DUMMYVAL_0x7f04072d="APKTOOL_DUMMYVAL_0x7f0b06f8" app:APKTOOL_DUMMYVAL_0x7f040741="APKTOOL_DUMMYVAL_0x7f0b06f8">
+            <com.google.android.apps.inputmethod.libs.jarvis.miscs.CheckableImageView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0443" android:visibility="gone" android:src="@drawable/APKTOOL_DUMMYVAL_0x7f080555" android:layout_alignParentBottom="true" android:contentDescription="@string/APKTOOL_DUMMYVAL_0x7f1411b2" android:layout_marginStart="16.0dip" android:layout_alignParentStart="true" style="@style/APKTOOL_DUMMYVAL_0x7f1510ca" />
+            <com.google.android.apps.inputmethod.libs.jarvis.miscs.CheckableImageView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0442" android:visibility="gone" android:layout_toRightOf="@id/APKTOOL_DUMMYVAL_0x7f0b0443" android:layout_alignParentBottom="true" android:contentDescription="@string/APKTOOL_DUMMYVAL_0x7f1411b1" android:layout_marginStart="8.0dip" style="@style/APKTOOL_DUMMYVAL_0x7f1510ca" />
+            <LinearLayout android:orientation="horizontal" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b043b" android:focusable="true" android:clickable="true" android:layout_alignParentBottom="true" android:layout_alignParentEnd="true" style="@style/APKTOOL_DUMMYVAL_0x7f1510c2">
+                <ImageView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b03a3" android:tag=".writing-tools-replace-button-text.label" android:src="@drawable/APKTOOL_DUMMYVAL_0x7f080372" android:importantForAccessibility="no" android:layout_marginStart="0.0dip" android:layout_marginEnd="8.0dip" style="@style/APKTOOL_DUMMYVAL_0x7f150780" />
+                <com.google.android.libraries.inputmethod.widgets.AutoCenterScaleTextView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b05fa" android:tag=".writing-tools-replace-button-text.label" android:text="@string/APKTOOL_DUMMYVAL_0x7f1416db" app:APKTOOL_DUMMYVAL_0x7f0408ff="APKTOOL_DUMMYVAL_0x7f0b0792" style="@style/APKTOOL_DUMMYVAL_0x7f150783" />
+            </LinearLayout>
+        </RelativeLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+    <include layout="@layout/APKTOOL_DUMMYVAL_0x7f0e07ed" />
+    <TextView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b040d" android:tag=".jarvis-item-diff-color" android:layout_width="0.0dip" android:layout_height="0.0dip" app:APKTOOL_DUMMYVAL_0x7f040741="APKTOOL_DUMMYVAL_0x7f0b06f8" app:APKTOOL_DUMMYVAL_0x7f040745="APKTOOL_DUMMYVAL_0x7f0b06f8" />
+    <TextView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b2579" android:tag=".widget-jarvis-item-diff-color" android:layout_width="0.0dip" android:layout_height="0.0dip" app:APKTOOL_DUMMYVAL_0x7f040741="APKTOOL_DUMMYVAL_0x7f0b06f8" app:APKTOOL_DUMMYVAL_0x7f040745="APKTOOL_DUMMYVAL_0x7f0b06f8" />
+</FrameLayout>

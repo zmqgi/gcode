@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/APKTOOL_DUMMYVAL_0x7f170d33" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/APKTOOL_DUMMYVAL_0x7f0b21ad">
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b133c" long_press_data="~" press_data="`" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b0f62" long_press_data="!,¡,¹,½,⅓,¼,⅕,⅙,⅐,⅛,⅑,⅒" press_data="1" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b0f8e" long_press_data="\@,²,⅔,⅖" press_data="2" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b0f83" long_press_data="\#,³,¾,⅗,⅜" press_data="3" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b0f4c" long_press_data="$,⁴,⅘" press_data="4" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b0f41" long_press_data="%,⁵,⅚,⅝" press_data="5" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b0f78" long_press_data="^,⁶" press_data="6" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b0f6d" long_press_data="&amp;,⁷,⅞" press_data="7" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b0f36" long_press_data="*,⁸" press_data="8" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b0f57" long_press_data="(,⁹" press_data="9" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b0f99" long_press_data="),⁰,ⁿ,∅" press_data="0" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b14f3" long_press_data="_,–,—,·" press_data="-" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b0fad" long_press_data="¢,£,€,¥,₱,₹" press_data="$" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1e2c" long_press_data="‰" press_data="%" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b0972" long_press_data="†,‡,★" press_data="*" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1e4d" long_press_data="±,×,÷,√" press_data="+" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1a36" long_press_data="{" press_data="[" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1e9c" long_press_data="}" press_data="]" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1e7f" long_press_data="|" press_data="@string/APKTOOL_DUMMYVAL_0x7f1413fe" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1f59" long_press_data="\?,¿" press_data="/" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1e55" long_press_data="¿" press_data="\?" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1051" long_press_data="¡" press_data="!" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1ee9" long_press_data=":" press_data=";" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b12ad" long_press_data=">" press_data="." />
+        </softkey_list>
+        <softkey_list splitter=" " template_id="@id/APKTOOL_DUMMYVAL_0x7f0b21ad">
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1aeb" long_press_data="&lt;" press_data="," />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/APKTOOL_DUMMYVAL_0x7f0b21b2">
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b0ce7" press_data="\@" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b235d" press_data="~" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1d08" press_data="\#" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b0cad" press_data="^" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b0876" press_data="&amp;" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1a32" press_data="(" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1e97" press_data=")" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1aea" press_data="_" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1a28" press_data="{" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1e8e" press_data="}" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b23a6" press_data="|" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b0cb8" press_data=":" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/APKTOOL_DUMMYVAL_0x7f0b2171">
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1006" long_press_data="∞,≠,≈,+" press_data="=" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b0879" long_press_data="„,“,”,&quot;,‚,‘,’" press_data="'" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1e58" long_press_data="„,“,”,‚,‘,’" press_data="&quot;" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1aed" long_press_data="‹,≤,«" press_data="&lt;" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1374" long_press_data="›,≥,»" press_data=">" />
+        </softkey_list>
+    </softkeys>
+</framework>

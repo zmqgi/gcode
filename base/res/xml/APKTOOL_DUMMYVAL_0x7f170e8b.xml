@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey_list splitter=" ">
+            <softkey content_description="@string/APKTOOL_DUMMYVAL_0x7f14015b" id="@id/APKTOOL_DUMMYVAL_0x7f0b1a20" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e06b7" popup_timing="@string/APKTOOL_DUMMYVAL_0x7f140b13" slide_sensitivity="NORMAL">
+                <action keycode="DPAD_LEFT" repeatable="true" type="PRESS" />
+                <if>
+                    <action keycode="DPAD_LEFT" popup_icon="@attr/APKTOOL_DUMMYVAL_0x7f0401a5" repeatable="true" type="SLIDE_LEFT" />
+                    <action keycode="DPAD_UP" popup_icon="@null" repeatable="true" type="SLIDE_UP">
+                        <if ja_enable_popup_slideup_padding="true">
+                            <attrs popup_layout="@attr/APKTOOL_DUMMYVAL_0x7f04029d" />
+                        </if>
+                    </action>
+                    <action keycode="DPAD_RIGHT" popup_icon="@attr/APKTOOL_DUMMYVAL_0x7f0401a6" repeatable="true" type="SLIDE_RIGHT" />
+                    <action keycode="DPAD_DOWN" popup_icon="@null" repeatable="true" type="SLIDE_DOWN" />
+                </if>
+                <icon location="@id/APKTOOL_DUMMYVAL_0x7f0b03a3" value="@null" />
+            </softkey>
+            <softkey content_description="@string/APKTOOL_DUMMYVAL_0x7f14015d" id="@id/APKTOOL_DUMMYVAL_0x7f0b1e86" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e06b7" popup_timing="@string/APKTOOL_DUMMYVAL_0x7f140b13" slide_sensitivity="NORMAL">
+                <action keycode="DPAD_RIGHT" repeatable="true" type="PRESS" />
+                <if>
+                    <action keycode="DPAD_LEFT" popup_icon="@attr/APKTOOL_DUMMYVAL_0x7f0401a5" repeatable="true" type="SLIDE_LEFT" />
+                    <action keycode="DPAD_UP" popup_icon="@null" repeatable="true" type="SLIDE_UP">
+                        <if ja_enable_popup_slideup_padding="true">
+                            <attrs popup_layout="@attr/APKTOOL_DUMMYVAL_0x7f04029d" />
+                        </if>
+                    </action>
+                    <action keycode="DPAD_RIGHT" popup_icon="@attr/APKTOOL_DUMMYVAL_0x7f0401a6" repeatable="true" type="SLIDE_RIGHT" />
+                    <action keycode="DPAD_DOWN" popup_icon="@null" repeatable="true" type="SLIDE_DOWN" />
+                </if>
+                <icon location="@id/APKTOOL_DUMMYVAL_0x7f0b03a3" value="@null" />
+            </softkey>
+        </softkey_list>
+    </softkeys>
+</framework>

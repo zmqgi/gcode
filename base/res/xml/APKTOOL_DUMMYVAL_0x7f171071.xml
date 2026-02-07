@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey_template content_description="$desc$" id="@id/APKTOOL_DUMMYVAL_0x7f0b21ba" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e0706" multi_touch="false" slide_sensitivity="NORMAL">
+            <action data="$param_data$" keycode="PLAIN_TEXT" type="PRESS" />
+            <label location="@id/APKTOOL_DUMMYVAL_0x7f0b05fa" value="$param_data$" />
+        </softkey_template>
+        <softkey_list template_id="@id/APKTOOL_DUMMYVAL_0x7f0b21ba">
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1005" param_data="=" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b0875" param_data="am" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1e50" param_data="pm" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1e2b" param_data="%" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1a23" param_data="(" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1e89" param_data=")" />
+            <softkey desc="@string/APKTOOL_DUMMYVAL_0x7f140b3d" id="@id/APKTOOL_DUMMYVAL_0x7f0b1ea0" param_data="￥" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b0fa8" param_data="$" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1a76" param_data="&lt;" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1ba4" param_data=">" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1f6b" param_data="*" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1e51" param_data="\#" />
+        </softkey_list>
+        <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b0ce2" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e0706" multi_touch="false" slide_sensitivity="NORMAL">
+            <action data="," keycode="COMMA" type="PRESS" />
+            <label location="@id/APKTOOL_DUMMYVAL_0x7f0b05fa" value="," />
+        </softkey>
+        <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1e2e" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e0706" multi_touch="false" slide_sensitivity="NORMAL">
+            <action data="." keycode="PERIOD" type="PRESS" />
+            <label location="@id/APKTOOL_DUMMYVAL_0x7f0b05fa" value="." />
+        </softkey>
+    </softkeys>
+</framework>

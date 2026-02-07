@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="@style/APKTOOL_DUMMYVAL_0x7f1501ee"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_switch_to_symbol" android:layout_weight="@integer/APKTOOL_DUMMYVAL_0x7f0c0073" style="@style/APKTOOL_DUMMYVAL_0x7f1506d5" />
+    <LinearLayout android:weightSum="9.0" android:layout_weight="@integer/APKTOOL_DUMMYVAL_0x7f0c0074" style="@style/APKTOOL_DUMMYVAL_0x7f150352">
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/A02" android:layout_weight="1.0" style="@style/APKTOOL_DUMMYVAL_0x7f1506e1" />
+        <LinearLayout android:layout_weight="7.0" style="@style/APKTOOL_DUMMYVAL_0x7f150351">
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_switch_to_next_language" android:visibility="gone" android:layout_weight="1.0" style="@style/APKTOOL_DUMMYVAL_0x7f1506d4" />
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_space" android:visibility="gone" android:layout_weight="6.0" style="@style/APKTOOL_DUMMYVAL_0x7f1506e3" />
+            <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/A06" android:visibility="gone" android:layout_weight="6.0" style="@style/APKTOOL_DUMMYVAL_0x7f1506d4" />
+        </LinearLayout>
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/A08" android:layout_weight="1.0" style="@style/APKTOOL_DUMMYVAL_0x7f1506e1" />
+    </LinearLayout>
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_ime_action" android:layout_weight="@integer/APKTOOL_DUMMYVAL_0x7f0c0075" style="@style/APKTOOL_DUMMYVAL_0x7f1506dd" />
+</LinearLayout>

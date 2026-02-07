@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="horizontal" android:background="@drawable/APKTOOL_DUMMYVAL_0x7f0802a1" android:layout_width="@dimen/APKTOOL_DUMMYVAL_0x7f070873" android:layout_height="@dimen/APKTOOL_DUMMYVAL_0x7f070870" android:weightSum="1.0" android:paddingStart="@dimen/APKTOOL_DUMMYVAL_0x7f070871" android:paddingEnd="@dimen/APKTOOL_DUMMYVAL_0x7f070871" android:elevation="2.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:layout_gravity="center" android:tag=".chip-item-suggestion-text" android:layout_width="@dimen/APKTOOL_DUMMYVAL_0x7f070984" android:layout_height="@dimen/APKTOOL_DUMMYVAL_0x7f070984" android:src="@drawable/APKTOOL_DUMMYVAL_0x7f080408" android:layout_weight="0.0" />
+    <com.google.android.material.slider.Slider android:layout_width="0.0dip" android:layout_height="fill_parent" android:stepSize="1.0" android:layout_weight="1.0" android:valueFrom="0" android:valueTo="2" app:APKTOOL_DUMMYVAL_0x7f04070d="APKTOOL_DUMMYVAL_0x7f0b0378" app:APKTOOL_DUMMYVAL_0x7f040a40="30.0dip" app:APKTOOL_DUMMYVAL_0x7f040a4c="8.0dip" />
+    <ImageView android:layout_gravity="center" android:tag=".chip-item-suggestion-text" android:layout_width="@dimen/APKTOOL_DUMMYVAL_0x7f070984" android:layout_height="@dimen/APKTOOL_DUMMYVAL_0x7f070984" android:src="@drawable/APKTOOL_DUMMYVAL_0x7f08036c" android:layout_weight="0.0" />
+</LinearLayout>

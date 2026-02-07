@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.accesspoint.impl.AccessPointDragPopupView android:layout_width="wrap_content" android:layout_height="wrap_content" app:APKTOOL_DUMMYVAL_0x7f0405a5="@id/APKTOOL_DUMMYVAL_0x7f0b008e" app:APKTOOL_DUMMYVAL_0x7f040900="1.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:layout_gravity="center|left|top" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b008e" android:tag=".access-point-item-background.drag-handler" android:background="@drawable/APKTOOL_DUMMYVAL_0x7f0801e2" android:layout_width="?APKTOOL_DUMMYVAL_0x7f040019" android:layout_height="?APKTOOL_DUMMYVAL_0x7f040016">
+        <androidx.constraintlayout.widget.ConstraintLayout android:layout_gravity="center" android:tag="@null" android:background="@android:color/transparent" style="@style/APKTOOL_DUMMYVAL_0x7f150000">
+            <include layout="@layout/APKTOOL_DUMMYVAL_0x7f0e06a4" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </FrameLayout>
+</com.google.android.libraries.inputmethod.accesspoint.impl.AccessPointDragPopupView>

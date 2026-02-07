@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">%s 기능을 자주 사용하시나요? 이제 여기에서 쉽게 액세스할 수 있습니다.</item>
+        <item quantity="one">%s 기능을 자주 사용하시나요? 이제 여기에서 쉽게 액세스할 수 있습니다.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">키 %d개 할당됨</item>
+        <item quantity="one">키 %d개 할당됨</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">%s가 설치되었습니다.</item>
+        <item quantity="one">%s가 설치되었습니다.</item>
+    </plurals>
+</resources>

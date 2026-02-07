@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0fc5" view_id="@id/A06" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1f5c" view_id="@id/key_pos_space" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0dfc" view_id="@id/key_pos_del" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1fc0" view_id="@id/key_pos_switch_to_symbol" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1fc0" view_id="@id/key_pos_switch_to_symbol_right" />
+    </key_mapping>
+</framework>

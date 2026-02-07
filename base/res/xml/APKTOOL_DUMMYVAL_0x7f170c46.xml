@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1ba8" view_id="@id/B00" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1ba7" view_id="@id/B01" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1ef0" view_id="@id/key_pos_shift" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1ba6" view_id="@id/key_pos_morse_buffer" />
+    </key_mapping>
+    <key_mapping state="INPUT_TYPE_SHORT_MESSAGE+MANUAL_SHIFT">
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1004" view_id="@id/key_pos_ime_action" />
+    </key_mapping>
+    <key_mapping state="MORE_CANDIDATES_SHOWN">
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1baa" view_id="@id/key_pos_morse_hint_card" />
+    </key_mapping>
+    <key_mapping>
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1ba9" view_id="@id/key_pos_morse_hint_card" />
+    </key_mapping>
+    <merge_key_mapping>
+        <merge key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1108" view_id="@id/key_pos_ime_action" />
+        <merge key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1109" view_id="@id/key_pos_space" />
+    </merge_key_mapping>
+</framework>

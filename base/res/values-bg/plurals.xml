@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">Често ли използвате %s? Вече са налице, за да имате лесен достъп.</item>
+        <item quantity="one">Често ли използвате %s? Вече е налице, за да имате лесен достъп.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">%d зададени клавиша</item>
+        <item quantity="one">%d зададен клавиш</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">Вече инсталирахте %s.</item>
+        <item quantity="one">Вече инсталирахте %s.</item>
+    </plurals>
+</resources>

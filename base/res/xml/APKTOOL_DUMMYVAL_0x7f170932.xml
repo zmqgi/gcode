@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class=".latin.keyboard.LatinPasswordKeyboard" popup="@attr/APKTOOL_DUMMYVAL_0x7f04029c">
+        <if show_suggestion_strip="true">
+            <view default_show="true" direction="locale" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e0511" override="all" scalable="false" type="header" />
+        </if>
+        <else>
+            <view direction="locale" override="all" scalable="false" type="header" />
+        </else>
+    </keyboard>
+    <include href="@xml/APKTOOL_DUMMYVAL_0x7f170933" />
+    <if device="tablet" device_size="large" keyboard_mode="normal">
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f17070c" />
+    </if>
+</framework>

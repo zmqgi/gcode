@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.materialswitch.MaterialSwitch android:theme="@style/APKTOOL_DUMMYVAL_0x7f150a43" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b246b" android:filterTouchesWhenObscured="false" style="@style/APKTOOL_DUMMYVAL_0x7f15058e"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

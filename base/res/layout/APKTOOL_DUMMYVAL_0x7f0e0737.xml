@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="@dimen/APKTOOL_DUMMYVAL_0x7f0700a1"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_width="@dimen/APKTOOL_DUMMYVAL_0x7f0708be" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_marginStart="@dimen/APKTOOL_DUMMYVAL_0x7f0708bc" android:layout_marginEnd="@dimen/APKTOOL_DUMMYVAL_0x7f0708bb" android:layout_alignParentStart="true">
+        <ImageView android:layout_gravity="center" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b07ae" android:tag=".expression-query-candidate-icon" android:layout_width="@dimen/APKTOOL_DUMMYVAL_0x7f0708be" android:layout_height="wrap_content" android:importantForAccessibility="no" />
+    </FrameLayout>
+    <TextView android:textSize="@dimen/APKTOOL_DUMMYVAL_0x7f0708b6" android:textColor="@color/APKTOOL_DUMMYVAL_0x7f060b94" android:ellipsize="end" android:gravity="center_vertical" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0606" android:tag=".expression-query-candidate-text.expression-search-box-ripple.non-linear-scale" android:layout_width="fill_parent" android:layout_height="fill_parent" android:maxLines="1" android:paddingStart="@dimen/APKTOOL_DUMMYVAL_0x7f0708bd" android:paddingEnd="@dimen/APKTOOL_DUMMYVAL_0x7f07034b" android:fontFeatureSettings="calt off" style="@style/APKTOOL_DUMMYVAL_0x7f150c3f" />
+    <FrameLayout style="@style/APKTOOL_DUMMYVAL_0x7f150c3b">
+        <ImageView android:layout_gravity="center" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b07ab" android:tag=".expression-query-autofill-icon.expression-search-box-ripple" android:padding="@dimen/APKTOOL_DUMMYVAL_0x7f070349" android:layout_width="@dimen/APKTOOL_DUMMYVAL_0x7f07034a" android:layout_height="@dimen/APKTOOL_DUMMYVAL_0x7f07034a" android:src="@drawable/APKTOOL_DUMMYVAL_0x7f08064e" android:importantForAccessibility="no" style="@style/APKTOOL_DUMMYVAL_0x7f150c3f" />
+    </FrameLayout>
+</RelativeLayout>

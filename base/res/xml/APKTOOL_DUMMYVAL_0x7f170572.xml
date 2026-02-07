@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/APKTOOL_DUMMYVAL_0x7f170539" />
+    <include href="@xml/APKTOOL_DUMMYVAL_0x7f170892" />
+    <include href="@xml/APKTOOL_DUMMYVAL_0x7f170834" />
+    <include href="@xml/APKTOOL_DUMMYVAL_0x7f17074b" />
+    <if enable_pk_simulator="true" enable_pk_simulator_setting="true">
+        <keyboard>
+            <view type="body">
+                <include href="@xml/APKTOOL_DUMMYVAL_0x7f170c1f" />
+            </view>
+        </keyboard>
+    </if>
+    <else_if enable_number_row="true">
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170802" />
+    </else_if>
+    <include href="@xml/APKTOOL_DUMMYVAL_0x7f1708f3" />
+</framework>

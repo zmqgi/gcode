@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple android:color="@color/APKTOOL_DUMMYVAL_0x7f060c18"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@android:id/background">
+        <layer-list android:paddingStart="0.0dip" android:paddingEnd="24.0dip" android:paddingMode="stack">
+            <item android:top="8.0dip" android:bottom="8.0dip">
+                <shape>
+                    <corners android:radius="28.0dip" />
+                    <solid android:color="@color/APKTOOL_DUMMYVAL_0x7f060bf3" />
+                    <size android:height="@dimen/APKTOOL_DUMMYVAL_0x7f070903" />
+                </shape>
+            </item>
+            <item android:gravity="end|center" android:height="18.0dip" android:width="18.0dip" android:drawable="@drawable/APKTOOL_DUMMYVAL_0x7f080652" android:end="12.0dip" />
+        </layer-list>
+    </item>
+</ripple>

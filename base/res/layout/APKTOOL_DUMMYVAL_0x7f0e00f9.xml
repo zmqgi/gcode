@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:tag=".non-linear-scale" android:layout_width="@dimen/APKTOOL_DUMMYVAL_0x7f070199" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.libraries.inputmethod.emoji.view.EmojiView android:textSize="@dimen/APKTOOL_DUMMYVAL_0x7f0709c8" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b05fa" android:tag=".non-linear-scale" android:background="?android:selectableItemBackground" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginHorizontal="@dimen/APKTOOL_DUMMYVAL_0x7f070196" android:paddingHorizontal="@dimen/APKTOOL_DUMMYVAL_0x7f070198" android:paddingVertical="@dimen/APKTOOL_DUMMYVAL_0x7f070197" app:APKTOOL_DUMMYVAL_0x7f04081c="@dimen/APKTOOL_DUMMYVAL_0x7f0709c9" />
+    <ImageView android:layout_gravity="end|bottom|center" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b2529" android:tag=".label.emoji-inline-category" android:visibility="gone" android:layout_width="@dimen/APKTOOL_DUMMYVAL_0x7f07019c" android:layout_height="@dimen/APKTOOL_DUMMYVAL_0x7f07019c" android:layout_margin="@dimen/APKTOOL_DUMMYVAL_0x7f07019b" android:contentDescription="@null" />
+</FrameLayout>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">ໃຊ້ %s ເລື້ອຍໆບໍ? ຕອນນີ້ພວກມັນຢູ່ບ່ອນນີ້ເພື່ອໃຫ້ເຂົ້າເຖິງໄດ້ງ່າຍ.</item>
+        <item quantity="one">ໃຊ້ %s ເລື້ອຍໆບໍ? ຕອນນີ້ມັນຢູ່ບ່ອນນີ້ເພື່ອໃຫ້ເຂົ້າເຖິງໄດ້ງ່າຍ.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">ມອບໝາຍປຸ່ມ %d ແລ້ວ</item>
+        <item quantity="one">ມອບໝາຍປຸ່ມ %d ແລ້ວ</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">ຕອນນີ້ຕິດຕັ້ງ %s ແລ້ວ.</item>
+        <item quantity="one">ຕອນນີ້ຕິດຕັ້ງ %s ແລ້ວ.</item>
+    </plurals>
+</resources>

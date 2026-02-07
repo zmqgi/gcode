@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">%s をよくご利用ですか？ここから簡単にアクセスできるようになりました。</item>
+        <item quantity="one">%s をよくご利用ですか？ここから簡単にアクセスできるようになりました。</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">%d 個のキーが割り当てられています</item>
+        <item quantity="one">%d 個のキーが割り当てられています</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">%sがインストールされました。</item>
+        <item quantity="one">%sがインストールされました。</item>
+    </plurals>
+</resources>

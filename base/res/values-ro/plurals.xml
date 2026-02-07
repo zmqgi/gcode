@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">Folosești des %s? Acum sunt mai ușor de accesat.</item>
+        <item quantity="one">Folosești des %s? Acum este mai ușor de accesat.</item>
+        <item quantity="few">Folosești des %s? Acum sunt mai ușor de accesat.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">%d de taste atribuite</item>
+        <item quantity="one">%d tastă atribuită</item>
+        <item quantity="few">%d taste atribuite</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">%s s-au instalat.</item>
+        <item quantity="one">%s s-a instalat.</item>
+        <item quantity="few">%s s-au instalat.</item>
+    </plurals>
+</resources>

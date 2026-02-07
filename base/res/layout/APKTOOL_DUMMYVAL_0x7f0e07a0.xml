@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="?APKTOOL_DUMMYVAL_0x7f040343"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b2502" android:tag=".translate.queryholder" android:background="@drawable/APKTOOL_DUMMYVAL_0x7f0802bc" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/APKTOOL_DUMMYVAL_0x7f08069c" />
+    <com.google.android.libraries.inputmethod.widgets.EditTextOnKeyboard android:textColorHint="@color/APKTOOL_DUMMYVAL_0x7f060ac9" android:ellipsize="end" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b2503" android:tag=".translate-query.non-linear-scale" android:background="#00000000" android:minHeight="?APKTOOL_DUMMYVAL_0x7f040343" android:paddingStart="16.0dip" android:paddingEnd="16.0dip" app:APKTOOL_DUMMYVAL_0x7f040666="?APKTOOL_DUMMYVAL_0x7f04015c" style="@style/APKTOOL_DUMMYVAL_0x7f150c4d" />
+    <com.google.android.libraries.material.progress.MaterialProgressBar android:layout_gravity="end|center" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b2501" android:visibility="gone" android:layout_width="20.0dip" android:layout_height="20.0dip" android:layout_marginEnd="8.0dip" style="@style/APKTOOL_DUMMYVAL_0x7f150cea" />
+    <LinearLayout android:layout_gravity="center" android:orientation="horizontal" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b2506" android:background="#00000000" android:visibility="gone" android:layout_width="wrap_content" style="@style/APKTOOL_DUMMYVAL_0x7f150c4b">
+        <ImageView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b2504" android:background="@android:color/transparent" android:src="@drawable/quantum_gm_ic_cloud_off_vd_theme_24" android:tint="@color/APKTOOL_DUMMYVAL_0x7f060986" android:layout_marginStart="10.0dip" style="@style/APKTOOL_DUMMYVAL_0x7f150c42" />
+        <TextView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b2505" android:background="@android:color/transparent" style="@style/APKTOOL_DUMMYVAL_0x7f150c4c" />
+    </LinearLayout>
+</FrameLayout>

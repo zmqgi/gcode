@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <if>
+        <all_of>
+            <cond deprecate_long_press_space_for_ime_picker="false" />
+        </all_of>
+        <action action_on_down="true" data="space" keycode="SHOW_SYSTEM_IME_PICKER" type="LONG_PRESS" />
+    </if>
+</framework>

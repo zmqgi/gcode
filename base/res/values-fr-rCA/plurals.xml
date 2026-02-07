@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">"Utilisez-vous souvent les fonctionnalités %s? Pour faciliter l'accès, elles se trouvent maintenant ici."</item>
+        <item quantity="one">"Utilisez-vous souvent la fonctionnalité %s? Pour faciliter l'accès, elle se trouve maintenant ici."</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">%d touches attribuées</item>
+        <item quantity="one">%d touche attribuée</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">Les langues suivantes sont désormais installées : %s.</item>
+        <item quantity="one">La langue suivante est désormais installée : %s.</item>
+    </plurals>
+</resources>

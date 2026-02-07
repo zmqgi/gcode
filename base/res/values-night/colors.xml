@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="APKTOOL_DUMMYVAL_0x7f06010b">?APKTOOL_DUMMYVAL_0x7f04050e</color>
+    <color name="APKTOOL_DUMMYVAL_0x7f06010e">?APKTOOL_DUMMYVAL_0x7f04050e</color>
+    <color name="APKTOOL_DUMMYVAL_0x7f060be1">#ff003730</color>
+    <color name="APKTOOL_DUMMYVAL_0x7f060be2">#ffa1f1e2</color>
+    <color name="APKTOOL_DUMMYVAL_0x7f060be6">#ffcce8e2</color>
+    <color name="APKTOOL_DUMMYVAL_0x7f060be9">#ffe5e2e1</color>
+    <color name="APKTOOL_DUMMYVAL_0x7f060beb">#ffc7c7c7</color>
+    <color name="APKTOOL_DUMMYVAL_0x7f060bf0">#ff919191</color>
+    <color name="APKTOOL_DUMMYVAL_0x7f060bf1">#ff474747</color>
+    <color name="APKTOOL_DUMMYVAL_0x7f060bf2">#ff83d6c7</color>
+    <color name="APKTOOL_DUMMYVAL_0x7f060bf3">#ff005047</color>
+    <color name="APKTOOL_DUMMYVAL_0x7f060bf8">#ff334c47</color>
+    <color name="APKTOOL_DUMMYVAL_0x7f060bfb">#ff131313</color>
+    <color name="APKTOOL_DUMMYVAL_0x7f060bfc">#ff393939</color>
+    <color name="APKTOOL_DUMMYVAL_0x7f060bfd">#ff1f1f1f</color>
+    <color name="APKTOOL_DUMMYVAL_0x7f060bfe">#ff2a2a2a</color>
+    <color name="APKTOOL_DUMMYVAL_0x7f060bff">#ff343434</color>
+    <color name="APKTOOL_DUMMYVAL_0x7f060c00">#ff0e0e0e</color>
+    <color name="APKTOOL_DUMMYVAL_0x7f060c02">#ff131313</color>
+    <color name="APKTOOL_DUMMYVAL_0x7f060c04">#ff474747</color>
+    <color name="APKTOOL_DUMMYVAL_0x7f060c24">@android:color/black</color>
+    <color name="APKTOOL_DUMMYVAL_0x7f060c25">#82000000</color>
+</resources>

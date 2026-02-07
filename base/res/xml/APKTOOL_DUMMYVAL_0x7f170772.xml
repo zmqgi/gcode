@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard candidate_text_size_ratio="1.0" class="com.google.android.apps.inputmethod.latin.keyboard.LatinHandwritingPrimeKeyboard" popup="@attr/APKTOOL_DUMMYVAL_0x7f04029c" session_states="CAPS_LOCK">
+        <view direction="locale" scalable="false" type="header">
+            <if language="ja">
+                <attrs layout="@layout/APKTOOL_DUMMYVAL_0x7f0e0515" />
+            </if>
+            <else>
+                <attrs layout="@layout/APKTOOL_DUMMYVAL_0x7f0e0516" />
+            </else>
+            <softkeys href="@xml/APKTOOL_DUMMYVAL_0x7f170d5e" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170bc4" />
+        </view>
+        <if device="tablet" device_size="large" keyboard_mode="normal">
+            <view layout="@layout/APKTOOL_DUMMYVAL_0x7f0e01eb" type="body" />
+        </if>
+        <else>
+            <view layout="@layout/APKTOOL_DUMMYVAL_0x7f0e01ea" type="body" />
+        </else>
+        <view type="body">
+            <motion_event_handler class=".motioneventhandler.BasicMotionEventHandler" />
+            <motion_event_handler class=".libs.handwriting.keyboard.HandwritingMotionEventHandler" />
+            <motion_event_handler class=".inlinesuggestion.InlineSuggestionScrubSpaceMotionEventHandler" />
+            <softkeys href="@xml/APKTOOL_DUMMYVAL_0x7f170d48" />
+            <softkeys href="@xml/APKTOOL_DUMMYVAL_0x7f170d5d" />
+            <softkeys href="@xml/APKTOOL_DUMMYVAL_0x7f170d5c" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170ba1" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b95" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170bc2" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b98" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170a9a" />
+        </view>
+        <if device="tablet" device_size="large" keyboard_mode="normal">
+            <view id="@id/APKTOOL_DUMMYVAL_0x7f0b0350" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e01d9" type="body" />
+        </if>
+        <else>
+            <view id="@id/APKTOOL_DUMMYVAL_0x7f0b0350" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e01d9" type="body" />
+        </else>
+        <view id="@id/APKTOOL_DUMMYVAL_0x7f0b0350" type="body">
+            <motion_event_handler class=".motioneventhandler.BasicMotionEventHandler" />
+            <motion_event_handler class=".inlinesuggestion.InlineSuggestionScrubSpaceMotionEventHandler" />
+            <softkeys href="@xml/APKTOOL_DUMMYVAL_0x7f170d48" />
+            <softkeys href="@xml/APKTOOL_DUMMYVAL_0x7f170d5d" />
+            <softkeys href="@xml/APKTOOL_DUMMYVAL_0x7f171072" />
+            <softkeys href="@xml/APKTOOL_DUMMYVAL_0x7f170d5c" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170ba1" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b95" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b93" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170b98" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170a9a" />
+        </view>
+        <view id="@id/APKTOOL_DUMMYVAL_0x7f0b0351" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e01e0">
+            <motion_event_handler class=".libs.handwriting.keyboard.FullscreenHandwritingMotionEventHandler" />
+        </view>
+    </keyboard>
+</framework>

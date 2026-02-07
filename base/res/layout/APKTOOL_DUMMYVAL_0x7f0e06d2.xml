@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_gravity="center" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_gravity="center" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0663" android:tag=".background-icon.for-mic" android:background="@drawable/APKTOOL_DUMMYVAL_0x7f08021f" android:layout_width="?APKTOOL_DUMMYVAL_0x7f0400ab" android:layout_height="?APKTOOL_DUMMYVAL_0x7f0400ab" />
+    <FrameLayout android:id="@id/APKTOOL_DUMMYVAL_0x7f0b065e" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <View android:layout_gravity="center" android:tag=".item-ripple.on-surface" android:duplicateParentState="true" android:layout_width="?APKTOOL_DUMMYVAL_0x7f0400ab" android:layout_height="?APKTOOL_DUMMYVAL_0x7f0400ab" android:foreground="@drawable/APKTOOL_DUMMYVAL_0x7f080223" />
+    <com.google.android.libraries.inputmethod.widgets.NonLinearScaleImageView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b03a3" android:layout_width="?APKTOOL_DUMMYVAL_0x7f0400ab" android:layout_height="?APKTOOL_DUMMYVAL_0x7f0400ab" style="@style/APKTOOL_DUMMYVAL_0x7f15030d" />
+    <com.google.android.libraries.inputmethod.widgets.NonLinearScaleImageView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b03a8" android:tag=".icon.for-voice-animation-icon.non-linear-scale" android:visibility="gone" android:layout_width="?APKTOOL_DUMMYVAL_0x7f0400ab" android:layout_height="?APKTOOL_DUMMYVAL_0x7f0400ab" android:src="?APKTOOL_DUMMYVAL_0x7f0401a3" style="@style/APKTOOL_DUMMYVAL_0x7f15030d" />
+    <com.google.android.libraries.inputmethod.widgets.NonLinearScaleImageView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b03a9" android:tag=".icon.for-voice-ring-animation.non-linear-scale" android:visibility="gone" android:layout_width="?APKTOOL_DUMMYVAL_0x7f0400ab" android:layout_height="?APKTOOL_DUMMYVAL_0x7f0400ab" android:src="?APKTOOL_DUMMYVAL_0x7f0401a3" style="@style/APKTOOL_DUMMYVAL_0x7f15030d" />
+</FrameLayout>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="APKTOOL_DUMMYVAL_0x7f070002">48.0dip</dimen>
+    <dimen name="APKTOOL_DUMMYVAL_0x7f070181">40.0dip</dimen>
+    <dimen name="APKTOOL_DUMMYVAL_0x7f0701b2">20.0dip</dimen>
+    <dimen name="APKTOOL_DUMMYVAL_0x7f0701b3">50.0dip</dimen>
+    <dimen name="APKTOOL_DUMMYVAL_0x7f0701b6">42.0dip</dimen>
+    <dimen name="APKTOOL_DUMMYVAL_0x7f0701ba">26.0dip</dimen>
+    <dimen name="APKTOOL_DUMMYVAL_0x7f0701f5">64.0dip</dimen>
+    <dimen name="APKTOOL_DUMMYVAL_0x7f07033f">12.0dip</dimen>
+    <dimen name="APKTOOL_DUMMYVAL_0x7f070340">14.0dip</dimen>
+    <dimen name="APKTOOL_DUMMYVAL_0x7f070375">72.0dip</dimen>
+    <dimen name="APKTOOL_DUMMYVAL_0x7f070376">20.0dip</dimen>
+    <dimen name="APKTOOL_DUMMYVAL_0x7f070384">340.0dip</dimen>
+    <dimen name="APKTOOL_DUMMYVAL_0x7f070385">11.0dip</dimen>
+    <dimen name="APKTOOL_DUMMYVAL_0x7f070386">11.0dip</dimen>
+    <dimen name="APKTOOL_DUMMYVAL_0x7f070387">5.0dip</dimen>
+    <dimen name="APKTOOL_DUMMYVAL_0x7f0703d5">34.0dip</dimen>
+    <dimen name="APKTOOL_DUMMYVAL_0x7f0703d6">196.0dip</dimen>
+    <dimen name="APKTOOL_DUMMYVAL_0x7f0703d7">200.0dip</dimen>
+    <dimen name="APKTOOL_DUMMYVAL_0x7f07075d">96.0dip</dimen>
+    <dimen name="APKTOOL_DUMMYVAL_0x7f0709ce">16.5dip</dimen>
+    <dimen name="APKTOOL_DUMMYVAL_0x7f0709fe">200.0dip</dimen>
+    <dimen name="APKTOOL_DUMMYVAL_0x7f070a2a">9.0dip</dimen>
+    <dimen name="APKTOOL_DUMMYVAL_0x7f070a2b">14.0dip</dimen>
+    <dimen name="APKTOOL_DUMMYVAL_0x7f070a45">85.0dip</dimen>
+    <dimen name="APKTOOL_DUMMYVAL_0x7f070a46">0.0dip</dimen>
+    <dimen name="APKTOOL_DUMMYVAL_0x7f070a47">0.0dip</dimen>
+    <dimen name="APKTOOL_DUMMYVAL_0x7f070a48">14.0dip</dimen>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <ime always_show_suggestions="true" announce_auto_selected_candidate="true" class="com.google.android.apps.inputmethod.libs.chinese.ime.AsyncChineseProcessorBasedIme" display_app_completions="true" indicator_label="注" inline_composing="false" keyevent_interpreter="com.google.android.apps.inputmethod.libs.chinese.PositionBasedKeyEventInterpreter" language="zh-XD" language_specific_settings="@xml/APKTOOL_DUMMYVAL_0x7f171088" language_tag="zh-Hant-TW-t-i0-bopomofo" string_id="ime_zh_tw_zhuyin" use_ascii_password_keyboard="true">
+        <if physical_keyboard="qwerty">
+            <attrs language_specific_settings="@xml/APKTOOL_DUMMYVAL_0x7f171089" />
+        </if>
+        <if pref_enable_chinese_inline_composing_tw="true">
+            <attrs inline_composing="true" />
+        </if>
+        <keyboard_group layout_theme="@style/APKTOOL_DUMMYVAL_0x7f150384" pk_language_tag="en" pk_layout_type="qwerty" supports_split_mode="true" variant="zhuyin" variant_label="@string/APKTOOL_DUMMYVAL_0x7f141664" variant_name_mandatory="true">
+            <layout_specific_settings resource_id="@xml/APKTOOL_DUMMYVAL_0x7f17108a" />
+            <keyboard def="@xml/APKTOOL_DUMMYVAL_0x7f170745" type="prime">
+                <merge def="@xml/APKTOOL_DUMMYVAL_0x7f170573" />
+            </keyboard>
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f1709b3" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170d09" />
+        </keyboard_group>
+        <extra_values>
+            <item id="@id/APKTOOL_DUMMYVAL_0x7f0b02dc" value="true" />
+            <item id="@id/APKTOOL_DUMMYVAL_0x7f0b02ee" value="false" />
+            <item id="@id/APKTOOL_DUMMYVAL_0x7f0b02f3" value="@string/APKTOOL_DUMMYVAL_0x7f140676" />
+            <item id="@id/APKTOOL_DUMMYVAL_0x7f0b02ec" value="。" />
+            <item id="@id/APKTOOL_DUMMYVAL_0x7f0b02d3" value="@string/APKTOOL_DUMMYVAL_0x7f14093c" />
+            <item id="@id/APKTOOL_DUMMYVAL_0x7f0b02eb" value="hmm" />
+            <item id="@id/APKTOOL_DUMMYVAL_0x7f0b02c9" res="@xml/APKTOOL_DUMMYVAL_0x7f1709a7" />
+        </extra_values>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170d10" />
+    </ime>
+</framework>

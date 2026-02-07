@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:layout_width="?APKTOOL_DUMMYVAL_0x7f040062" android:minWidth="?APKTOOL_DUMMYVAL_0x7f040062" android:contentDescription="@string/APKTOOL_DUMMYVAL_0x7f14004a" style="@style/APKTOOL_DUMMYVAL_0x7f150785"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:importantForAccessibility="no" style="@style/APKTOOL_DUMMYVAL_0x7f15075e" />
+</androidx.constraintlayout.widget.ConstraintLayout>

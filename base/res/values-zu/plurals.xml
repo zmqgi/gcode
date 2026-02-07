@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">Usebenzisa i-%s njalo? Manje sezilapha ukuze uzenze zifinyeleleke kalula.</item>
+        <item quantity="one">Usebenzisa i-%s njalo? Manje sezilapha ukuze uzenze zifinyeleleke kalula.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">%d okhiye abanikeziwe</item>
+        <item quantity="one">%d okhiye abanikeziwe</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">Ama-%s manje afakiwe.</item>
+        <item quantity="one">Ama-%s manje afakiwe.</item>
+    </plurals>
+</resources>

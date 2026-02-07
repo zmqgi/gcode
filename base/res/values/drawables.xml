@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="APKTOOL_DUMMYVAL_0x7f08049f">@drawable/APKTOOL_DUMMYVAL_0x7f0803c6</item>
+    <item type="drawable" name="APKTOOL_DUMMYVAL_0x7f0804a4">@drawable/APKTOOL_DUMMYVAL_0x7f080374</item>
+    <item type="drawable" name="APKTOOL_DUMMYVAL_0x7f0804a8">@drawable/APKTOOL_DUMMYVAL_0x7f0803c8</item>
+    <item type="drawable" name="APKTOOL_DUMMYVAL_0x7f0804ac">@drawable/APKTOOL_DUMMYVAL_0x7f0803c7</item>
+    <item type="drawable" name="APKTOOL_DUMMYVAL_0x7f0804ad">@drawable/APKTOOL_DUMMYVAL_0x7f0803fd</item>
+    <item type="drawable" name="APKTOOL_DUMMYVAL_0x7f0804f1">@drawable/APKTOOL_DUMMYVAL_0x7f0803fb</item>
+</resources>

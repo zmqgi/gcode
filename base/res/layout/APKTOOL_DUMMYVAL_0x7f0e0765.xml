@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.recyclerview.BindingRecyclerView android:scrollbarThumbVertical="@drawable/APKTOOL_DUMMYVAL_0x7f080649" android:scrollbarTrackVertical="@null" android:scrollbarStyle="outsideOverlay" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b244c" android:paddingTop="2.0dip" android:scrollbars="vertical" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingStart="@dimen/APKTOOL_DUMMYVAL_0x7f0703cb" android:paddingEnd="@dimen/APKTOOL_DUMMYVAL_0x7f0703cb"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

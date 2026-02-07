@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dynamic_keys>
+    <key>
+        <action state="0" type="PRESS">´</action>
+        <action state="0" type="LONG_PRESS">U+1E944</action>
+        <action state="0" type="LONG_PRESS">U+1E945</action>
+        <action state="0" type="LONG_PRESS">U+1E946</action>
+        <action state="0" type="LONG_PRESS">U+1E947</action>
+        <action state="0" type="LONG_PRESS">U+1E948</action>
+        <action state="0" type="LONG_PRESS">U+1E949</action>
+        <action state="0" type="LONG_PRESS">U+1E94A</action>
+    </key>
+</dynamic_keys>

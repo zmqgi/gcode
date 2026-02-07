@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/APKTOOL_DUMMYVAL_0x7f140ba4" android:key="@string/APKTOOL_DUMMYVAL_0x7f140aad"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140bb7" android:key="@string/APKTOOL_DUMMYVAL_0x7f140930" />
+    <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140bcc" android:key="@string/APKTOOL_DUMMYVAL_0x7f140946">
+        <extra android:name="hide_if_flag_is_false" android:value="enable_clipboard_entity_extraction=false" />
+    </SwitchPreferenceCompat>
+    <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140bdd" android:key="@string/APKTOOL_DUMMYVAL_0x7f14095f" />
+</PreferenceScreen>

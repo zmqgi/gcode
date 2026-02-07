@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/APKTOOL_DUMMYVAL_0x7f170537" />
+    <keyboard>
+        <if keyboard_mode="split">
+            <view layout="@layout/APKTOOL_DUMMYVAL_0x7f0e04ce" type="body" />
+        </if>
+        <else_if device="foldable|tablet" keyboard_mode="normal">
+            <view layout="@layout/APKTOOL_DUMMYVAL_0x7f0e04cf" type="body" />
+        </else_if>
+        <else>
+            <view layout="@layout/APKTOOL_DUMMYVAL_0x7f0e04cd" type="body" />
+        </else>
+        <view type="body">
+            <softkeys href="@xml/APKTOOL_DUMMYVAL_0x7f17106d" />
+            <softkeys href="@xml/APKTOOL_DUMMYVAL_0x7f17105f" />
+            <softkeys href="@xml/APKTOOL_DUMMYVAL_0x7f171060" />
+            <if device="foldable|tablet" keyboard_mode="normal|split">
+                <include href="@xml/APKTOOL_DUMMYVAL_0x7f170aaa" />
+            </if>
+            <else_if device="phone" keyboard_mode="split">
+                <include href="@xml/APKTOOL_DUMMYVAL_0x7f170aaa" />
+            </else_if>
+            <else>
+                <include href="@xml/APKTOOL_DUMMYVAL_0x7f170aa9" />
+            </else>
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170ba1" />
+            <include href="@xml/APKTOOL_DUMMYVAL_0x7f170ba6" />
+        </view>
+    </keyboard>
+</framework>

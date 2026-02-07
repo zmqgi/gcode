@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">क्या आपने %s का अक्सर इस्तेमाल किया है? अब इन्हें यहां से आसानी से ऐक्सेस किया जा सकता है.</item>
+        <item quantity="one">क्या आपने %s का अक्सर इस्तेमाल किया है? अब इसे यहां से आसानी से ऐक्सेस किया जा सकता है.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">%d कुंजियां असाइन की गईं</item>
+        <item quantity="one">%d कुंजियां असाइन की गईं</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">अब %s इंस्टॉल हो गए हैं.</item>
+        <item quantity="one">अब %s इंस्टॉल हो गया है.</item>
+    </plurals>
+</resources>

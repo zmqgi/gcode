@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/APKTOOL_DUMMYVAL_0x7f170fdf" />
+    <softkeys>
+        <softkey content_description="@string/APKTOOL_DUMMYVAL_0x7f1404fc" id="@id/APKTOOL_DUMMYVAL_0x7f0b1f76">
+            <action data="RECENTS" keycode="UNKNOWN" type="PRESS" />
+        </softkey>
+        <softkey content_description="@string/APKTOOL_DUMMYVAL_0x7f1410cc" id="@id/APKTOOL_DUMMYVAL_0x7f0b1f75">
+            <action data="GENERAL" keycode="UNKNOWN" type="PRESS" />
+        </softkey>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170fdb" />
+        <softkey content_description="@string/APKTOOL_DUMMYVAL_0x7f1410cb" id="@id/APKTOOL_DUMMYVAL_0x7f0b1f75">
+            <action data="BRACKETS" keycode="UNKNOWN" type="PRESS" />
+        </softkey>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170fd8" />
+        <softkey content_description="@string/APKTOOL_DUMMYVAL_0x7f1410c6" id="@id/APKTOOL_DUMMYVAL_0x7f0b1f75">
+            <action data="ARROWS" keycode="UNKNOWN" type="PRESS" />
+        </softkey>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170fd7" />
+        <softkey content_description="@string/APKTOOL_DUMMYVAL_0x7f1410cd" id="@id/APKTOOL_DUMMYVAL_0x7f0b1f75">
+            <action data="MATHEMATICS" keycode="UNKNOWN" type="PRESS" />
+        </softkey>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170fdc" />
+        <softkey content_description="@string/APKTOOL_DUMMYVAL_0x7f1410ce" id="@id/APKTOOL_DUMMYVAL_0x7f0b1f75">
+            <action data="NUMBERS" keycode="UNKNOWN" type="PRESS" />
+        </softkey>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170fdd" />
+        <softkey content_description="@string/APKTOOL_DUMMYVAL_0x7f1410cf" id="@id/APKTOOL_DUMMYVAL_0x7f0b1f75">
+            <action data="SHAPES" keycode="UNKNOWN" type="PRESS" />
+        </softkey>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170fde" />
+        <softkey content_description="@string/APKTOOL_DUMMYVAL_0x7f1410c7" id="@id/APKTOOL_DUMMYVAL_0x7f0b1f75">
+            <action data="FULL_WIDTH" keycode="UNKNOWN" type="PRESS" />
+        </softkey>
+        <include href="@xml/APKTOOL_DUMMYVAL_0x7f170fda" />
+    </softkeys>
+</framework>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="end|bottom|center" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b2528" android:tag=".label.emoji-inline-category" android:visibility="gone" android:layout_width="@dimen/APKTOOL_DUMMYVAL_0x7f070a33" android:layout_height="@dimen/APKTOOL_DUMMYVAL_0x7f070a32" android:contentDescription="@null" />
+</merge>

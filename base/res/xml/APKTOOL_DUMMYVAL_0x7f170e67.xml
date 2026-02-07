@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/APKTOOL_DUMMYVAL_0x7f170d33" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/APKTOOL_DUMMYVAL_0x7f0b21ae">
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1d49" press_data="ଅ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1d4a" long_press_data="ା" press_data="ଆ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1d6b" long_press_data="ି" press_data="ଇ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1d6c" long_press_data="ୀ" press_data="ଈ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1dd4" long_press_data="ୁ" press_data="ଉ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1dd5" long_press_data="ୂ" press_data="ଊ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1dd9" long_press_data="ୃ" press_data="ଋ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1d63" long_press_data="େ" press_data="ଏ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1d4b" long_press_data="ୈ,ୖ" press_data="ଐ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1d97" long_press_data="ୋ,ଔ,ୌ,ୗ" press_data="ଓ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1de4" press_data="୍" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/APKTOOL_DUMMYVAL_0x7f0b2189">
+            <softkey hint_label="କ୍ତ" id="@id/APKTOOL_DUMMYVAL_0x7f0b1d71" long_press_data="କ୍ତ,କ୍ଯ,କ୍ଷ" long_press_label="କ୍ତ,କ୍ଯ,କ୍ଷ" press_data="କ" press_label="କ" />
+            <softkey hint_label="ଗ୍ର" id="@id/APKTOOL_DUMMYVAL_0x7f0b1d64" long_press_data="ଗ୍ର" long_press_label="ଗ୍ର" press_data="ଗ" press_label="ଗ" />
+            <softkey hint_label="ଚ୍ଛ" id="@id/APKTOOL_DUMMYVAL_0x7f0b1d53" long_press_data="ଚ୍ଛ" long_press_label="ଚ୍ଛ" press_data="ଚ" press_label="ଚ" />
+            <softkey hint_label="ଟ୍ଟ" id="@id/APKTOOL_DUMMYVAL_0x7f0b1dd0" long_press_data="ଟ୍ଟ" long_press_label="ଟ୍ଟ" press_data="ଟ" press_label="ଟ" />
+            <softkey hint_label="ଢ" id="@id/APKTOOL_DUMMYVAL_0x7f0b1d5e" long_press_data="ଢ" long_press_label="ଢ" press_data="ଡ" press_label="ଡ" />
+            <softkey hint_label="ତ୍ମ" id="@id/APKTOOL_DUMMYVAL_0x7f0b1dc7" long_press_data="ତ୍ମ,ତ୍ର,ତ୍ଯ,ତ୍ତ" long_press_label="ତ୍ମ,ତ୍ର,ତ୍ଯ,ତ୍ତ" press_data="ତ" press_label="ତ" />
+            <softkey hint_label="ଦ୍ଵ" id="@id/APKTOOL_DUMMYVAL_0x7f0b1d57" long_press_data="ଦ୍ଵ,ଦ୍ର" long_press_label="ଦ୍ଵ,ଦ୍ର" press_data="ଦ" press_label="ଦ" />
+            <softkey hint_label="ନ୍ତ" id="@id/APKTOOL_DUMMYVAL_0x7f0b1d84" long_press_data="ନ୍ତ,ନ୍ଦ,ନ୍ଯ,ଣ,ଣ୍ଡ" long_press_label="ନ୍ତ,ନ୍ଦ,ନ୍ଯ,ଣ,ଣ୍ଡ" press_data="ନ" press_label="ନ" />
+            <softkey hint_label="ପ୍ର" id="@id/APKTOOL_DUMMYVAL_0x7f0b1d98" long_press_data="ପ୍ର,ପ୍ପ,ପ୍ତ" long_press_label="ପ୍ର,ପ୍ପ,ପ୍ତ" press_data="ପ" press_label="ପ" />
+            <softkey hint_label="ବ୍ର" id="@id/APKTOOL_DUMMYVAL_0x7f0b1d4d" long_press_data="ବ୍ର,ବ୍ବ" long_press_label="ବ୍ର,ବ୍ବ" press_data="ବ" press_label="ବ" />
+            <softkey hint_label="ର୍ମ" id="@id/APKTOOL_DUMMYVAL_0x7f0b1d9c" long_press_data="ର୍ମ" long_press_label="ର୍ମ" press_data="ର" press_label="ର" />
+            <softkey hint_label="ର୍ଲ୍ଲ" id="@id/APKTOOL_DUMMYVAL_0x7f0b1d78" long_press_data="ର୍ଲ୍ଲ,ଲ୍ଦ" long_press_label="ର୍ଲ୍ଲ,ଲ୍ଦ" press_data="ଲ" press_label="ଲ" />
+            <softkey hint_label="ସ୍ତ" id="@id/APKTOOL_DUMMYVAL_0x7f0b1db2" long_press_data="ସ୍ତ,ସ୍ର,ସ୍ତ୍ର,ସ୍ଟ,ସ୍କ,ଶ,ଷ,ଟ" long_press_label="ସ୍ତ,ସ୍ର,ସ୍ତ୍ର,ସ୍ଟ,ସ୍କ,ଶ,ଷ,ଟ" press_data="ସ" press_label="ସ" />
+            <softkey hint_label="ୱ" id="@id/APKTOOL_DUMMYVAL_0x7f0b1ddc" long_press_data="ୱ" long_press_label="ୱ" press_data="ଯ" press_label="ଯ" />
+            <softkey hint_label="ଁ" id="@id/APKTOOL_DUMMYVAL_0x7f0b1de0" long_press_data="଼,ଃ,ଁ" long_press_label="଼,ଃ,ଁ" press_data="ଂ" press_label="ଂ" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/APKTOOL_DUMMYVAL_0x7f0b21b2">
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1d76" press_data="ଖ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1d67" press_data="ଘ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1d56" press_data="ଛ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1d6d" press_data="ଜ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1d70" press_data="ଝ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1dd3" press_data="ଠ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1dcf" press_data="ଥ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1d61" press_data="ଧ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1d9b" press_data="ଫ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1dd6" press_data="ଵ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1d52" press_data="ଭ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1d7d" press_data="ମ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1d68" press_data="ହ" />
+        </softkey_list>
+    </softkeys>
+</framework>

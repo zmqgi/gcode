@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">Bruger du ofte %s? De findes nu her, så du nemt kan få adgang.</item>
+        <item quantity="one">Bruger du ofte %s? Den findes nu her, så du nemt kan få adgang.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">%d nøgler er tildelt</item>
+        <item quantity="one">%d nøgle er tildelt</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">%s er nu installeret.</item>
+        <item quantity="one">%s er nu installeret.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/APKTOOL_DUMMYVAL_0x7f140c8c" android:key="@string/APKTOOL_DUMMYVAL_0x7f140ab8"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:custom="http://schemas.android.com/apk/res-auto">
+    <androidx.preference.PreferenceCategory android:title="@string/APKTOOL_DUMMYVAL_0x7f140c42" android:key="@string/APKTOOL_DUMMYVAL_0x7f140c41">
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140bd8" android:key="@string/APKTOOL_DUMMYVAL_0x7f140956" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140bdb" android:disableDependentsState="true" />
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140bd9" android:key="@string/APKTOOL_DUMMYVAL_0x7f140957" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140bda" android:dependency="@string/APKTOOL_DUMMYVAL_0x7f140956" />
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140cb5" android:key="@string/APKTOOL_DUMMYVAL_0x7f140ac7" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140cb3" android:disableDependentsState="true" />
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140cb8" android:key="@string/APKTOOL_DUMMYVAL_0x7f140aca" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140cb6" />
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140caf" android:key="@string/APKTOOL_DUMMYVAL_0x7f140ac5" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140cb0" />
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140cbb" android:key="@string/APKTOOL_DUMMYVAL_0x7f140acc" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140cb0" />
+    </androidx.preference.PreferenceCategory>
+    <androidx.preference.PreferenceCategory android:title="@string/APKTOOL_DUMMYVAL_0x7f140b81" android:key="@string/APKTOOL_DUMMYVAL_0x7f140b80">
+        <com.google.android.libraries.inputmethod.preferencewidgets.list.ListBooleanPreference android:persistent="true" android:entries="@array/APKTOOL_DUMMYVAL_0x7f030035" android:title="@string/APKTOOL_DUMMYVAL_0x7f140ce9" android:key="@string/APKTOOL_DUMMYVAL_0x7f140af0" android:summary="%s" android:dialogTitle="@string/APKTOOL_DUMMYVAL_0x7f140ce9" android:entryValues="@array/APKTOOL_DUMMYVAL_0x7f030046" />
+        <com.google.android.apps.inputmethod.libs.preferencewidgets.SeekBarListWithDefaultButtonPreference android:persistent="true" android:entries="@array/APKTOOL_DUMMYVAL_0x7f03002b" android:title="@string/APKTOOL_DUMMYVAL_0x7f140c3c" android:key="@string/APKTOOL_DUMMYVAL_0x7f1409de" android:entryValues="@array/APKTOOL_DUMMYVAL_0x7f03003c" />
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140b8e" android:key="@string/APKTOOL_DUMMYVAL_0x7f140936" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140b8d" />
+    </androidx.preference.PreferenceCategory>
+    <androidx.preference.PreferenceCategory android:title="@string/APKTOOL_DUMMYVAL_0x7f140c58" android:key="@string/APKTOOL_DUMMYVAL_0x7f140c56">
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140cd6" android:key="@string/APKTOOL_DUMMYVAL_0x7f140acf" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140cd5" />
+        <com.google.android.libraries.inputmethod.preferencewidgets.list.ListPreference android:entries="@array/APKTOOL_DUMMYVAL_0x7f030032" android:title="@string/APKTOOL_DUMMYVAL_0x7f140c74" android:key="@string/APKTOOL_DUMMYVAL_0x7f140a82" android:summary="%s" android:dialogTitle="@string/APKTOOL_DUMMYVAL_0x7f140c74" android:entryValues="@array/APKTOOL_DUMMYVAL_0x7f030042" />
+        <com.google.android.libraries.inputmethod.preferencewidgets.list.ListPreference android:entries="@array/APKTOOL_DUMMYVAL_0x7f030032" android:title="@string/APKTOOL_DUMMYVAL_0x7f140c74" android:key="@string/APKTOOL_DUMMYVAL_0x7f140986" android:summary="%s" android:dialogTitle="@string/APKTOOL_DUMMYVAL_0x7f140c74" android:entryValues="@array/APKTOOL_DUMMYVAL_0x7f030042" />
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140cd4" android:key="@string/APKTOOL_DUMMYVAL_0x7f140ae0" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140cd3" />
+    </androidx.preference.PreferenceCategory>
+    <androidx.preference.PreferenceCategory android:title="@string/APKTOOL_DUMMYVAL_0x7f140cac" android:key="@string/APKTOOL_DUMMYVAL_0x7f140cab">
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140bb2" android:key="@string/APKTOOL_DUMMYVAL_0x7f14093c" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140bb1" />
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140b8c" android:key="@string/APKTOOL_DUMMYVAL_0x7f140935" />
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140c9f" android:key="@string/APKTOOL_DUMMYVAL_0x7f140aa5" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140c9e">
+            <extra android:name="hide_if_flag_is_false" android:value="@string/APKTOOL_DUMMYVAL_0x7f140b26" />
+        </SwitchPreferenceCompat>
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140c5d" android:key="@string/APKTOOL_DUMMYVAL_0x7f140964">
+            <extra android:name="hide_if_flag_is_false" android:value="@string/APKTOOL_DUMMYVAL_0x7f140379" />
+        </SwitchPreferenceCompat>
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140c5e" android:key="@string/APKTOOL_DUMMYVAL_0x7f140965">
+            <extra android:name="hide_if_flag_is_true" android:value="enable_pk_simulator=false" />
+        </SwitchPreferenceCompat>
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140bfa" android:key="@string/APKTOOL_DUMMYVAL_0x7f140948" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140bf9" android:dependency="@string/APKTOOL_DUMMYVAL_0x7f140964" />
+        <com.google.android.apps.inputmethod.libs.preferencewidgets.SeekBarListPreference android:persistent="true" android:entries="@array/APKTOOL_DUMMYVAL_0x7f030030" android:title="@string/APKTOOL_DUMMYVAL_0x7f140c40" android:key="@string/APKTOOL_DUMMYVAL_0x7f140a3f" android:entryValues="@array/APKTOOL_DUMMYVAL_0x7f030040" seek_bar_text_left="@string/APKTOOL_DUMMYVAL_0x7f140c3e" seek_bar_text_right="@string/APKTOOL_DUMMYVAL_0x7f140c3f" />
+    </androidx.preference.PreferenceCategory>
+    <androidx.preference.PreferenceCategory android:title="@string/APKTOOL_DUMMYVAL_0x7f140c3b" android:key="@string/APKTOOL_DUMMYVAL_0x7f140c3a">
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140cce" android:key="@string/APKTOOL_DUMMYVAL_0x7f14096d" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140ccd" />
+        <com.google.android.apps.inputmethod.libs.preferencewidgets.VolumePreference android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140ccf" android:key="@string/APKTOOL_DUMMYVAL_0x7f140ad5" android:dependency="@string/APKTOOL_DUMMYVAL_0x7f14096d" />
+        <com.google.android.libraries.inputmethod.settings.widget.gear.GearPreference android:persistent="false" android:title="@string/APKTOOL_DUMMYVAL_0x7f140c1c" android:key="@string/APKTOOL_DUMMYVAL_0x7f140ae4" />
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140cee" android:key="@string/APKTOOL_DUMMYVAL_0x7f140971" />
+        <com.google.android.apps.inputmethod.libs.preferencewidgets.VibrationDurationPreference android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140cef" android:key="@string/APKTOOL_DUMMYVAL_0x7f140af4" android:dependency="@string/APKTOOL_DUMMYVAL_0x7f140971" />
+        <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140c8b" android:key="@string/APKTOOL_DUMMYVAL_0x7f14095a" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140c8a" />
+        <com.google.android.apps.inputmethod.libs.preferencewidgets.LongPressDelayPreference android:persistent="true" android:max="@integer/APKTOOL_DUMMYVAL_0x7f0c00f1" android:title="@string/APKTOOL_DUMMYVAL_0x7f140c35" android:key="@string/APKTOOL_DUMMYVAL_0x7f1409c2" />
+        <com.google.android.apps.inputmethod.libs.preferencewidgets.LongPressDelayPreference android:persistent="true" android:max="@integer/APKTOOL_DUMMYVAL_0x7f0c00f2" android:title="@string/APKTOOL_DUMMYVAL_0x7f140c36" android:key="@string/APKTOOL_DUMMYVAL_0x7f1409c3" custom:APKTOOL_DUMMYVAL_0x7f04081e="@integer/APKTOOL_DUMMYVAL_0x7f0c00f3" custom:APKTOOL_DUMMYVAL_0x7f040aa8="@integer/APKTOOL_DUMMYVAL_0x7f0c00f4" />
+    </androidx.preference.PreferenceCategory>
+    <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140cba" android:key="@string/APKTOOL_DUMMYVAL_0x7f140acb" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140cb9" />
+</PreferenceScreen>

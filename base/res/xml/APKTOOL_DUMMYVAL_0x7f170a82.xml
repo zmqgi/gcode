@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <key_mapping>
+        <if japanese_use_tri_state_mode="true">
+            <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b15b6" view_id="@id/key_pos_switch_hiragana_alphabet" />
+            <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b15b6" view_id="@id/key_pos_switch_to_symbol_right" />
+        </if>
+        <else>
+            <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1fbc" view_id="@id/key_pos_switch_hiragana_alphabet" />
+            <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1fbc" view_id="@id/key_pos_switch_to_symbol_right" />
+        </else>
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b15b4" view_id="@id/key_pos_switch_to_symbol" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0ce2" view_id="@id/A02" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1f60" view_id="@id/key_pos_space" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1e2e" view_id="@id/A08" />
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b159e" view_id="@id/key_pos_qwerty_globe" />
+    </key_mapping>
+    <if japanese_use_tri_state_mode="true">
+        <key_mapping state="EMOJI_AVAILABLE">
+            <if expressions="policy_transparency">
+                <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1fb4" view_id="@id/key_pos_switch_to_symbol" />
+            </if>
+            <else_if expressions="hidden">
+                <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0fc5" view_id="@id/key_pos_switch_to_smiley" />
+            </else_if>
+            <else>
+                <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1fb0" view_id="@id/key_pos_switch_to_symbol" />
+            </else>
+        </key_mapping>
+    </if>
+    <if device="tablet" device_size="large" keyboard_mode="normal">
+        <key_mapping state="INPUT_TYPE_URI,INPUT_TYPE_EMAIL_ADDRESS">
+            <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0aac" view_id="@id/key_pos_switch_to_symbol" />
+        </key_mapping>
+    </if>
+    <key_mapping state="INPUT_TYPE_URI">
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b1f54" view_id="@id/A02" />
+    </key_mapping>
+    <key_mapping state="INPUT_TYPE_EMAIL_ADDRESS">
+        <mapping key_id="@id/APKTOOL_DUMMYVAL_0x7f0b0975" view_id="@id/A02" />
+    </key_mapping>
+</framework>

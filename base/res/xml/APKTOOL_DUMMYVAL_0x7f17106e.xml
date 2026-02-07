@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <softkeys>
+        <softkey_template id="@id/APKTOOL_DUMMYVAL_0x7f0b216e" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e06c1" popup_timing="ON_TOUCH">
+            <action data="$param_data$" intention="COMMIT" keycode="PLAIN_TEXT" type="PRESS" />
+            <label location="@id/APKTOOL_DUMMYVAL_0x7f0b05fa" value="$param_data$" />
+        </softkey_template>
+        <softkey_list template_id="@id/APKTOOL_DUMMYVAL_0x7f0b216e">
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1e4a" param_data="+" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1b80" param_data="-" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1f6b" param_data="*" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1f54" param_data="/" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1a32" param_data="(" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1e97" param_data=")" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1a27" param_data="{" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1e8d" param_data="}" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1f69" param_data="√" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1f56" param_data="π" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b0fa6" param_data="÷" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1bae" param_data="×" />
+        </softkey_list>
+    </softkeys>
+</framework>

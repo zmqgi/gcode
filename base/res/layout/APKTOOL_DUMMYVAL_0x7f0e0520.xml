@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.inputview.KeyboardSideFrame android:layout_gravity="bottom|center|right" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b05ef" style="@style/APKTOOL_DUMMYVAL_0x7f150397"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:gravity="center_horizontal" android:layout_gravity="center" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:layout_gravity="center|top" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b02a7" android:src="?APKTOOL_DUMMYVAL_0x7f0401d0" android:layout_alignParentTop="true" android:contentDescription="@string/APKTOOL_DUMMYVAL_0x7f1403ad" style="@style/APKTOOL_DUMMYVAL_0x7f150396" />
+        <ImageView android:layout_gravity="center" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b246c" android:src="?APKTOOL_DUMMYVAL_0x7f040183" android:layout_centerVertical="true" android:contentDescription="@string/APKTOOL_DUMMYVAL_0x7f140b30" style="@style/APKTOOL_DUMMYVAL_0x7f150396" />
+        <ImageView android:layout_gravity="bottom|center" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b025f" android:src="?APKTOOL_DUMMYVAL_0x7f0401ac" android:layout_alignParentBottom="true" android:contentDescription="@string/APKTOOL_DUMMYVAL_0x7f1402c9" style="@style/APKTOOL_DUMMYVAL_0x7f150396" />
+    </RelativeLayout>
+</com.google.android.libraries.inputmethod.inputview.KeyboardSideFrame>

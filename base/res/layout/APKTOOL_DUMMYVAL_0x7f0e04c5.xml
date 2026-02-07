@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="@style/APKTOOL_DUMMYVAL_0x7f1501ee"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="114.0">
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_shift" android:layout_weight="38.0" style="@style/APKTOOL_DUMMYVAL_0x7f1506d5">
+            <LinearLayout android:orientation="vertical" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="800.0">
+                <FrameLayout android:id="@id/host" android:paddingTop="?APKTOOL_DUMMYVAL_0x7f04026f" android:visibility="invisible" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="600.0" />
+                <ImageView android:src="@drawable/APKTOOL_DUMMYVAL_0x7f08028d" android:layout_weight="200.0" style="@style/APKTOOL_DUMMYVAL_0x7f1504a9" />
+            </LinearLayout>
+        </com.google.android.libraries.inputmethod.widgets.SoftKeyView>
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_morse_hint_card" android:visibility="gone" android:layout_weight="38.0" style="@style/APKTOOL_DUMMYVAL_0x7f1506d5">
+            <LinearLayout android:orientation="vertical" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="800.0">
+                <FrameLayout android:id="@id/host" android:paddingTop="?APKTOOL_DUMMYVAL_0x7f04026f" android:visibility="invisible" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="600.0" />
+                <ImageView android:src="@drawable/APKTOOL_DUMMYVAL_0x7f08028b" android:layout_weight="200.0" style="@style/APKTOOL_DUMMYVAL_0x7f1504a9" />
+            </LinearLayout>
+        </com.google.android.libraries.inputmethod.widgets.SoftKeyView>
+        <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_switch_to_next_language" android:visibility="gone" android:layout_weight="38.0" android:foregroundGravity="center|right|top|clip_horizontal|clip_vertical" app:APKTOOL_DUMMYVAL_0x7f0403b8="true" style="@style/APKTOOL_DUMMYVAL_0x7f1506d5" xmlns:app="http://schemas.android.com/apk/res-auto">
+            <LinearLayout android:gravity="top" android:orientation="vertical" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="800.0">
+                <FrameLayout android:id="@id/host" android:visibility="invisible" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="?APKTOOL_DUMMYVAL_0x7f040276" />
+            </LinearLayout>
+        </com.google.android.libraries.inputmethod.widgets.SoftKeyView>
+    </LinearLayout>
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_space" android:layout_weight="126.0" style="@style/APKTOOL_DUMMYVAL_0x7f1506e5">
+        <LinearLayout android:orientation="vertical" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="800.0">
+            <FrameLayout android:id="@id/host" android:paddingTop="?APKTOOL_DUMMYVAL_0x7f04026f" android:visibility="invisible" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="600.0" />
+            <ImageView android:src="@drawable/APKTOOL_DUMMYVAL_0x7f08028e" android:layout_weight="200.0" style="@style/APKTOOL_DUMMYVAL_0x7f1504a9" />
+        </LinearLayout>
+    </com.google.android.libraries.inputmethod.widgets.SoftKeyView>
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_del" android:layout_weight="57.0" style="@style/APKTOOL_DUMMYVAL_0x7f1506d5">
+        <LinearLayout android:orientation="vertical" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="800.0">
+            <FrameLayout android:id="@id/host" android:paddingTop="?APKTOOL_DUMMYVAL_0x7f04026f" android:visibility="invisible" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="600.0" />
+            <ImageView android:src="@drawable/APKTOOL_DUMMYVAL_0x7f080287" android:layout_weight="200.0" style="@style/APKTOOL_DUMMYVAL_0x7f1504a9" />
+        </LinearLayout>
+    </com.google.android.libraries.inputmethod.widgets.SoftKeyView>
+    <com.google.android.libraries.inputmethod.widgets.SoftKeyView android:id="@id/key_pos_ime_action" android:layout_weight="57.0" style="@style/APKTOOL_DUMMYVAL_0x7f1506df" />
+</LinearLayout>

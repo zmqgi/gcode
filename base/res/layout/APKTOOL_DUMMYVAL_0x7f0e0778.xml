@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:background="@color/APKTOOL_DUMMYVAL_0x7f060c58" android:layout_width="fill_parent" android:layout_height="fill_parent" android:contentDescription="@string/APKTOOL_DUMMYVAL_0x7f141189"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b24b3" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="matrix" android:importantForAccessibility="no" />
+    <LinearLayout android:orientation="vertical" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b24b6" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <FrameLayout android:layout_width="fill_parent" style="@style/APKTOOL_DUMMYVAL_0x7f150aad">
+            <TextView android:layout_marginBottom="48.0dip" android:text="@string/APKTOOL_DUMMYVAL_0x7f141189" style="@style/APKTOOL_DUMMYVAL_0x7f150aae" />
+        </FrameLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <View android:layout_height="fill_parent" style="@style/APKTOOL_DUMMYVAL_0x7f150aad" />
+            <View android:id="@id/APKTOOL_DUMMYVAL_0x7f0b24b5" android:background="@drawable/APKTOOL_DUMMYVAL_0x7f0802b9" android:layout_width="0.0dip" android:layout_height="0.0dip" />
+            <View android:layout_height="fill_parent" style="@style/APKTOOL_DUMMYVAL_0x7f150aad" />
+        </LinearLayout>
+        <FrameLayout android:layout_width="fill_parent" style="@style/APKTOOL_DUMMYVAL_0x7f150aad">
+            <Button android:id="@id/APKTOOL_DUMMYVAL_0x7f0b24b4" android:text="@string/APKTOOL_DUMMYVAL_0x7f1404f2" style="@style/APKTOOL_DUMMYVAL_0x7f150aac" />
+        </FrameLayout>
+    </LinearLayout>
+</FrameLayout>

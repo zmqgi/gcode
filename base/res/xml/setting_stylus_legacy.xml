@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/APKTOOL_DUMMYVAL_0x7f1416c9" android:key="@string/APKTOOL_DUMMYVAL_0x7f140abd"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140bde" android:key="@string/APKTOOL_DUMMYVAL_0x7f140960" android:disableDependentsState="false" />
+    <com.google.android.libraries.inputmethod.stylus.education.StylusEducationPreference />
+    <com.google.android.libraries.inputmethod.preferencewidgets.slider.EntryListSliderPreference android:persistent="true" android:entries="@array/APKTOOL_DUMMYVAL_0x7f03002d" android:title="@string/APKTOOL_DUMMYVAL_0x7f140c1a" android:key="@string/APKTOOL_DUMMYVAL_0x7f140aa8" android:dependency="@string/APKTOOL_DUMMYVAL_0x7f140960" android:entryValues="@array/APKTOOL_DUMMYVAL_0x7f030045" />
+    <com.google.android.libraries.inputmethod.preferencewidgets.slider.EntryListSliderPreference android:persistent="true" android:entries="@array/APKTOOL_DUMMYVAL_0x7f03002c" android:title="@string/APKTOOL_DUMMYVAL_0x7f140c17" android:key="@string/APKTOOL_DUMMYVAL_0x7f140aa7" android:dependency="@string/APKTOOL_DUMMYVAL_0x7f140960" android:entryValues="@array/APKTOOL_DUMMYVAL_0x7f030044" />
+    <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140b7f" android:key="@string/APKTOOL_DUMMYVAL_0x7f14092d" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140cdc" android:dependency="@string/APKTOOL_DUMMYVAL_0x7f140960" android:disableDependentsState="true" />
+    <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140cb2" android:key="@string/APKTOOL_DUMMYVAL_0x7f140ac6" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140cb1" android:dependency="@string/APKTOOL_DUMMYVAL_0x7f14092d">
+        <extra android:name="toolbar_type" android:value="stylus" />
+    </SwitchPreferenceCompat>
+    <SwitchPreferenceCompat android:persistent="true" android:title="@string/APKTOOL_DUMMYVAL_0x7f140be0" android:key="@string/APKTOOL_DUMMYVAL_0x7f140961" android:summary="@string/APKTOOL_DUMMYVAL_0x7f140bdf" android:dependency="@string/APKTOOL_DUMMYVAL_0x7f140960" android:disableDependentsState="true" />
+</PreferenceScreen>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">Da li često koristite %s? Sada su tu radi lakšeg pristupa.</item>
+        <item quantity="one">Da li često koristite %s? Sada su tu radi lakšeg pristupa.</item>
+        <item quantity="few">Da li često koristite %s? Sada su tu radi lakšeg pristupa.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">%d dodeljenih tastera</item>
+        <item quantity="one">%d dodeljeni taster</item>
+        <item quantity="few">%d dodeljena tastera</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">Jezici %s su instalirani.</item>
+        <item quantity="one">Jezici %s su instalirani.</item>
+        <item quantity="few">Jezici %s su instalirani.</item>
+    </plurals>
+</resources>

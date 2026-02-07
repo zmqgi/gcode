@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <keyboard class=".keyboard.impl.Keyboard">
+        <view direction="locale" id="@id/APKTOOL_DUMMYVAL_0x7f0b071c" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e0610" type="widget">
+            <motion_event_handler class=".companionwidget.WidgetDragToMoveMotionEventHandler" />
+            <motion_event_handler class=".motioneventhandler.BasicMotionEventHandler" />
+        </view>
+        <view direction="locale" id="@id/APKTOOL_DUMMYVAL_0x7f0b071e" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e0612" type="widget">
+            <motion_event_handler class=".companionwidget.WidgetDragToMoveMotionEventHandler" />
+            <motion_event_handler class=".motioneventhandler.BasicMotionEventHandler" />
+        </view>
+        <view direction="locale" id="@id/APKTOOL_DUMMYVAL_0x7f0b0716" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e060a" type="widget">
+            <motion_event_handler class=".companionwidget.WidgetDragToMoveMotionEventHandler" />
+            <motion_event_handler class=".motioneventhandler.BasicMotionEventHandler" />
+        </view>
+        <view direction="locale" id="@id/APKTOOL_DUMMYVAL_0x7f0b0719" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e060d" type="widget">
+            <motion_event_handler class=".companionwidget.WidgetDragToMoveMotionEventHandler" />
+            <motion_event_handler class=".motioneventhandler.BasicMotionEventHandler" />
+        </view>
+        <view direction="locale" id="@id/APKTOOL_DUMMYVAL_0x7f0b0717" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e060c" type="widget">
+            <motion_event_handler class=".companionwidget.WidgetDragToMoveMotionEventHandler" />
+            <motion_event_handler class=".motioneventhandler.BasicMotionEventHandler" />
+        </view>
+        <view direction="locale" id="@id/APKTOOL_DUMMYVAL_0x7f0b071a" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e060e" type="widget">
+            <motion_event_handler class=".companionwidget.WidgetDragToMoveMotionEventHandler" />
+            <motion_event_handler class=".motioneventhandler.BasicMotionEventHandler" />
+        </view>
+        <view id="@id/APKTOOL_DUMMYVAL_0x7f0b0718" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e060f" type="widget">
+            <motion_event_handler class=".companionwidget.WidgetDragToMoveMotionEventHandler" />
+            <motion_event_handler class=".motioneventhandler.BasicMotionEventHandler" />
+        </view>
+        <view id="@id/APKTOOL_DUMMYVAL_0x7f0b071b" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e060f" type="widget">
+            <motion_event_handler class=".companionwidget.WidgetDragToMoveMotionEventHandler" />
+            <motion_event_handler class=".motioneventhandler.BasicMotionEventHandler" />
+        </view>
+        <view id="@id/APKTOOL_DUMMYVAL_0x7f0b071d" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e060f" type="widget">
+            <motion_event_handler class=".companionwidget.WidgetDragToMoveMotionEventHandler" />
+            <motion_event_handler class=".motioneventhandler.BasicMotionEventHandler" />
+        </view>
+    </keyboard>
+</framework>

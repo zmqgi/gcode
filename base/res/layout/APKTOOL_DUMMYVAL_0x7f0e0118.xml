@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0333" android:clipChildren="false" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/APKTOOL_DUMMYVAL_0x7f0b05bf" android:clipChildren="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layoutDirection="ltr">
+        <com.google.android.libraries.inputmethod.widgets.KeyboardHolder android:layout_gravity="center_horizontal" android:orientation="vertical" android:id="@id/keyboard_holder" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layoutDirection="ltr">
+            <com.google.android.libraries.inputmethod.keyboard.impl.KeyboardViewHolder android:layoutDirection="ltr" style="@style/APKTOOL_DUMMYVAL_0x7f1502be" />
+            <com.google.android.libraries.inputmethod.keyboard.impl.KeyboardViewHolder android:layoutDirection="ltr" style="@style/APKTOOL_DUMMYVAL_0x7f150378" />
+            <com.google.android.libraries.inputmethod.keyboard.impl.KeyboardViewHolder android:paddingBottom="@dimen/APKTOOL_DUMMYVAL_0x7f0701cf" android:layoutDirection="ltr" style="@style/APKTOOL_DUMMYVAL_0x7f15035e" />
+        </com.google.android.libraries.inputmethod.widgets.KeyboardHolder>
+    </FrameLayout>
+</FrameLayout>

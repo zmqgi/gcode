@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/APKTOOL_DUMMYVAL_0x7f170d49" />
+    <softkeys>
+        <softkey content_description="@string/APKTOOL_DUMMYVAL_0x7f1411e0" disable_lift_to_tap="true" id="@id/APKTOOL_DUMMYVAL_0x7f0b2360" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e07a1">
+            <action data="source" keycode="SETUP_EXTENSION_OPTIONS" type="PRESS" />
+            <icon location="@id/APKTOOL_DUMMYVAL_0x7f0b03a3" value="@drawable/APKTOOL_DUMMYVAL_0x7f0805df" />
+        </softkey>
+        <softkey content_description="@string/APKTOOL_DUMMYVAL_0x7f1411e5" disable_lift_to_tap="true" id="@id/APKTOOL_DUMMYVAL_0x7f0b2363" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e07a1">
+            <action data="target" keycode="SETUP_EXTENSION_OPTIONS" type="PRESS" />
+            <icon location="@id/APKTOOL_DUMMYVAL_0x7f0b03a3" value="@drawable/APKTOOL_DUMMYVAL_0x7f0805df" />
+        </softkey>
+        <softkey disable_lift_to_tap="true" id="@id/APKTOOL_DUMMYVAL_0x7f0b2361" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e07a2">
+            <action data="source" keycode="SETUP_EXTENSION_OPTIONS" type="PRESS" />
+            <label location="@id/APKTOOL_DUMMYVAL_0x7f0b05fa" value="@string/APKTOOL_DUMMYVAL_0x7f1411d5" />
+        </softkey>
+        <softkey disable_lift_to_tap="true" id="@id/APKTOOL_DUMMYVAL_0x7f0b2364" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e07a2">
+            <action data="target" keycode="SETUP_EXTENSION_OPTIONS" type="PRESS" />
+            <label location="@id/APKTOOL_DUMMYVAL_0x7f0b05fa" value="English" />
+        </softkey>
+        <softkey_list template_id="@id/APKTOOL_DUMMYVAL_0x7f0b2163">
+            <softkey desc="@string/APKTOOL_DUMMYVAL_0x7f14048d" id="@id/APKTOOL_DUMMYVAL_0x7f0b235f" keycode="CLOSE_EXTENSION" param_icon="@drawable/APKTOOL_DUMMYVAL_0x7f080473" tooltip_text="@string/APKTOOL_DUMMYVAL_0x7f14048d" />
+        </softkey_list>
+        <softkey content_description="@string/APKTOOL_DUMMYVAL_0x7f1411e2" disable_lift_to_tap="true" id="@id/APKTOOL_DUMMYVAL_0x7f0b2362" layout="@layout/APKTOOL_DUMMYVAL_0x7f0e07a3" tooltip_text="@string/APKTOOL_DUMMYVAL_0x7f1411e3">
+            <action data="swap" keycode="SETUP_EXTENSION_OPTIONS" type="PRESS" />
+            <icon location="@id/APKTOOL_DUMMYVAL_0x7f0b03a3" value="@drawable/APKTOOL_DUMMYVAL_0x7f080531" />
+        </softkey>
+    </softkeys>
+</framework>

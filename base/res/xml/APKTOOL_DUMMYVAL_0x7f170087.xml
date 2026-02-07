@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dynamic_keys>
+    <key>
+        <action state="0" type="PRESS">अ</action>
+        <action state="0" type="SLIDE_UP">इ</action>
+        <action state="0" type="SLIDE_DOWN">उ</action>
+        <action state="0" type="SLIDE_LEFT">आ</action>
+        <action state="0" type="SLIDE_RIGHT">ई</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ऊ</action>
+        <action state="0" type="SLIDE_UP">ऐ</action>
+        <action state="0" type="SLIDE_DOWN">औ</action>
+        <action state="0" type="SLIDE_LEFT">ए</action>
+        <action state="0" type="SLIDE_RIGHT">ओ</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">्</action>
+        <action state="0" type="SLIDE_UP">ँ</action>
+        <action state="0" type="SLIDE_DOWN">ऋ</action>
+        <action state="0" type="SLIDE_LEFT">ं</action>
+        <action state="0" type="SLIDE_RIGHT">ऑ</action>
+    </key>
+</dynamic_keys>

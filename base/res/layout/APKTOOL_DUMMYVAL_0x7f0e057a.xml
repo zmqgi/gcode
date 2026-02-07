@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout style="@style/APKTOOL_DUMMYVAL_0x7f150356"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/APKTOOL_DUMMYVAL_0x7f1501f3">
+        <RelativeLayout android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0">
+            <com.google.android.libraries.inputmethod.widgets.AutoCenterScaleTextView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b05fa" android:layout_centerInParent="true" app:APKTOOL_DUMMYVAL_0x7f040822="0.7" app:APKTOOL_DUMMYVAL_0x7f0408ff="APKTOOL_DUMMYVAL_0x7f0b0791" style="@style/APKTOOL_DUMMYVAL_0x7f1503a8" />
+            <TextView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b05fe" android:layout_toRightOf="@id/APKTOOL_DUMMYVAL_0x7f0b05fa" style="@style/APKTOOL_DUMMYVAL_0x7f15109d" />
+        </RelativeLayout>
+        <TextView android:id="@id/APKTOOL_DUMMYVAL_0x7f0b05fc" android:visibility="gone" style="@style/APKTOOL_DUMMYVAL_0x7f1503ea" />
+    </LinearLayout>
+</FrameLayout>

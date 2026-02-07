@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/APKTOOL_DUMMYVAL_0x7f0b03af" android:focusable="true" android:visibility="gone" android:clipChildren="false" android:layout_width="@dimen/APKTOOL_DUMMYVAL_0x7f0708f4" android:layout_height="@dimen/APKTOOL_DUMMYVAL_0x7f0708f4">
+        <ImageView android:layout_gravity="center" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b03ae" android:background="?android:selectableItemBackgroundBorderless" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:adjustViewBounds="true" android:tint="?android:colorControlNormal" android:tintMode="src_in" />
+    </FrameLayout>
+    <com.google.android.material.slider.Slider android:theme="@style/APKTOOL_DUMMYVAL_0x7f150a68" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b07ee" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" style="@style/APKTOOL_DUMMYVAL_0x7f15058b" />
+    <FrameLayout android:id="@id/APKTOOL_DUMMYVAL_0x7f0b03a7" android:focusable="true" android:visibility="gone" android:clipChildren="false" android:layout_width="@dimen/APKTOOL_DUMMYVAL_0x7f0708f4" android:layout_height="@dimen/APKTOOL_DUMMYVAL_0x7f0708f4">
+        <ImageView android:layout_gravity="center" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b03a6" android:background="?android:selectableItemBackgroundBorderless" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:adjustViewBounds="true" android:tint="?android:colorControlNormal" android:tintMode="src_in" />
+    </FrameLayout>
+</LinearLayout>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dynamic_keys>
+    <key>
+        <action state="0" type="PRESS">ꢎ</action>
+        <action state="0" type="LONG_PRESS">ꣀ</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ꢏ</action>
+        <action state="0" type="LONG_PRESS">ꣁ</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ꢐ</action>
+        <action state="0" type="LONG_PRESS">ꣂ</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ꢑ</action>
+        <action state="0" type="LONG_PRESS">ꣃ</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ꢀ</action>
+        <action state="0" type="LONG_PRESS">ꢴ</action>
+        <action state="0" type="LONG_PRESS">ꢁ</action>
+        <action state="0" type="LONG_PRESS">ꣅ</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ꢂ</action>
+        <action state="0" type="LONG_PRESS">꣄</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ꢃ</action>
+        <action state="0" type="LONG_PRESS">ꢵ</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ꢄ</action>
+        <action state="0" type="LONG_PRESS">ꢶ</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ꢅ</action>
+        <action state="0" type="LONG_PRESS">ꢷ</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ꢆ</action>
+        <action state="0" type="LONG_PRESS">ꢸ</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ꢇ</action>
+        <action state="0" type="LONG_PRESS">ꢹ</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ꢈ</action>
+        <action state="0" type="LONG_PRESS">ꢺ</action>
+        <action state="0" type="LONG_PRESS">ꢉ</action>
+        <action state="0" type="LONG_PRESS">ꢻ</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ꢊ</action>
+        <action state="0" type="LONG_PRESS">ꢼ</action>
+        <action state="0" type="LONG_PRESS">ꢋ</action>
+        <action state="0" type="LONG_PRESS">ꢽ</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ꢌ</action>
+        <action state="0" type="LONG_PRESS">ꢾ</action>
+    </key>
+    <key>
+        <action state="0" type="PRESS">ꢍ</action>
+        <action state="0" type="LONG_PRESS">ꢿ</action>
+    </key>
+</dynamic_keys>

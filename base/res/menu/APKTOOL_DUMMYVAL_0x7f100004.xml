@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@drawable/APKTOOL_DUMMYVAL_0x7f0805dc" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b00d2" android:title="@string/APKTOOL_DUMMYVAL_0x7f1404e8" app:APKTOOL_DUMMYVAL_0x7f040933="APKTOOL_DUMMYVAL_0x7f0b010a" />
+    <item android:id="@id/APKTOOL_DUMMYVAL_0x7f0b00e7" android:title="@string/APKTOOL_DUMMYVAL_0x7f14089d" />
+    <item android:id="@id/APKTOOL_DUMMYVAL_0x7f0b00e3" android:title="@string/APKTOOL_DUMMYVAL_0x7f14089c" />
+</menu>

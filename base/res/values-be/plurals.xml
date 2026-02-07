@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120000">
+        <item quantity="other">Часта выкарыстоўваеце функцыі \"%s\"? Цяпер іх лёгка знайсці тут.</item>
+        <item quantity="one">Часта выкарыстоўваеце функцыі \"%s\"? Цяпер іх лёгка знайсці тут.</item>
+        <item quantity="few">Часта выкарыстоўваеце функцыі \"%s\"? Цяпер іх лёгка знайсці тут.</item>
+        <item quantity="many">Часта выкарыстоўваеце функцыі \"%s\"? Цяпер іх лёгка знайсці тут.</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120002">
+        <item quantity="other">%d клавішы прызначана</item>
+        <item quantity="one">%d клавіша прызначана</item>
+        <item quantity="few">%d клавішы прызначана</item>
+        <item quantity="many">%d клавіш прызначана</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f120004">
+        <item quantity="other">%s мовы ўсталяваны.</item>
+        <item quantity="one">%s мова ўсталявана.</item>
+        <item quantity="few">%s мовы ўсталяваны.</item>
+        <item quantity="many">%s моў усталяваны.</item>
+    </plurals>
+</resources>

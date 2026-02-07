@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<framework>
+    <include href="@xml/APKTOOL_DUMMYVAL_0x7f170d33" />
+    <softkeys>
+        <softkey_list splitter="," template_id="@id/APKTOOL_DUMMYVAL_0x7f0b21ab">
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1023" press_data="" press_label="" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b102a" press_data="" press_label="" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1028" press_data="" press_label="" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1024" press_data="" press_label="" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1026" press_data="" press_label="" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1029" long_press_data="" long_press_label="" press_data="" press_label="" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b103d" press_data="" press_label="" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b102f" press_data="" press_label="" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b103b" press_data="" press_label="" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1038" press_data="" press_label="" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b103a" press_data="" press_label="" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1039" press_data="" press_label="" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/APKTOOL_DUMMYVAL_0x7f0b21ad">
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1025" press_data="ህ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b102e" press_data="ል" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1027" press_data="ሕ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1030" press_data="ም" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1041" press_data="ሥ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b103c" press_data="ር" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b103e" press_data="ስ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b103f" press_data="ሽ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1009" long_press_data="፦,፨,፧,፠" press_data="፥" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1036" long_press_data="ቕ" press_data="ቅ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1018" press_data="ብ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1046" press_data="ቭ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1042" press_data="ት" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b101b" press_data="ች" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1048" press_data="ኅ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1031" press_data="ን" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1032" press_data="ኝ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1022" press_data="እ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1017" press_data="፤" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b102c" press_data="ክ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b102d" press_data="ኽ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1047" press_data="ው" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1034" press_data="ዕ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b104a" press_data="ዝ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b104b" press_data="ዥ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1049" press_data="ይ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b101e" long_press_data="ዽ" press_data="ድ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b102b" press_data="ጅ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b104d" long_press_data="፟,፝,፞" press_data="፡" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1020" long_press_data="ጝ" press_data="ግ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1043" press_data="ጥ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b101c" press_data="ጭ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1035" press_data="ጵ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1044" press_data="ጽ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1045" press_data="ፅ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b101f" press_data="ፍ" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1033" press_data="ፕ" />
+        </softkey_list>
+        <softkey_list splitter="," template_id="@id/APKTOOL_DUMMYVAL_0x7f0b21b2">
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1016" press_data="፦" />
+            <softkey id="@id/APKTOOL_DUMMYVAL_0x7f0b1e55" press_data="\?" />
+        </softkey_list>
+    </softkeys>
+</framework>

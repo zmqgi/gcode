@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.inputmethod.popup.RectangularPopupView android:gravity="center" android:id="@id/APKTOOL_DUMMYVAL_0x7f0b0715" android:background="@drawable/APKTOOL_DUMMYVAL_0x7f0802c0" android:layout_width="wrap_content" android:layout_height="wrap_content" hide_animation="@animator/APKTOOL_DUMMYVAL_0x7f020033" image_view="@layout/APKTOOL_DUMMYVAL_0x7f0e0607" show_animation="@animator/APKTOOL_DUMMYVAL_0x7f02005f"
+  xmlns:android="http://schemas.android.com/apk/res/android" />
