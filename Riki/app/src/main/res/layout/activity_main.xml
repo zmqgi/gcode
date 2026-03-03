@@ -12,32 +12,47 @@
         android:layout_height="match_parent"
         android:orientation="vertical"
         >
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/tl_head"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            tools:ignore="MissingConstraints" />
+        <View
+            android:layout_marginTop="5sp"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/black"
+            tools:ignore="MissingConstraints" />
+
+
         <TextView
-            android:paddingTop="300dp"
-            android:layout_gravity="center_horizontal"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Hello Riki!"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent" />
-        <EditText
+            android:id="@+id/text_hand_vision"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            tools:ignore="MissingConstraints">
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:textSize="25dp"
+            android:text="隔空手势"/>
 
-        </EditText>
-        <Button
-            android:paddingTop="15dp"
-            android:id="@+id/update_word"            android:layout_width="wrap_content"
+
+        <TextView
+            android:id="@+id/text_vision_test"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="更新词库"
-            >
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:textSize="25dp"
+            android:text="识别测试"/>
 
-        </Button>
+
+
+
+
 
     </LinearLayout>
+
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

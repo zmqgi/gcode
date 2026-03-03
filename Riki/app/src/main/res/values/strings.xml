@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Riki输入法</string>
+    <string name="app_name">Riki</string>
+    <string name="service_desc">手势识别</string>
 </resources>

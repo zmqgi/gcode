@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Riki输入法"
+rootProject.name = "Riki"
 include(":app")
  

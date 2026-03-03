@@ -1,9 +1,9 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Base.Theme.Riki输入法" parent="Theme.Material3.DayNight.NoActionBar">
+    <style name="Base.Theme.Riki" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
-    <style name="Theme.Riki输入法" parent="Base.Theme.Riki输入法" />
+    <style name="Theme.Riki" parent="Base.Theme.Riki" />
 </resources>
